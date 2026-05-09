@@ -1,0 +1,73 @@
+name: WNBA Injury Pulse
+
+# Polls the WNBA's official injury report PDFs every 15 minutes via the
+# Cloudflare Worker that fires `injury_pulse_tick` repository_dispatch events.
+# Manual triggers supported via workflow_dispatch.
+#
+# A schedule cron is included as a fallback in case the Worker pinger goes
+# offline. GH Actions cron is unreliable on its own, but provides a safety net.
+
+on:
+  repository_dispatch:
+    types: [injury_pulse_tick]
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: "Override slot (e.g. 2026-05-09_06_30PM). Empty = latest."
+        required: false
+        default: ""
+      dry_run:
+        description: "If 'true', skip writing outputs"
+        required: false
+        default: "false"
+  schedule:
+    # Fallback safety net — every 15 min is the max GH Actions allows
+    - cron: '*/15 * * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: wnba-injury-pulse
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: pip install requests pdfplumber
+
+      - name: Run injury poller
+        run: |
+          ARGS=""
+          if [ -n "${{ github.event.inputs.slot }}" ]; then
+            ARGS="$ARGS --slot ${{ github.event.inputs.slot }}"
+          fi
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            ARGS="$ARGS --dry-run"
+          fi
+          python scripts/poll_injuries.py $ARGS
+
+      - name: Commit state files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add INJURY_CHANGES.md \
+                  data/team_state.json data/changes_log.json \
+                  data/current_report.json data/injury_pulse_live.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No state changes to commit."
+          else
+            git commit -m "pulse: update injury state"
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+            git push
+          fi

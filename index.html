@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WNBA Injury Pulse · HoopsMatic</title>
+<meta name="description" content="Live tracking of the WNBA's official 15-minute injury report — surfaces only the changes (added, cleared, status flips, reason updates).">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #fafafa;
+    --bg-elev: #ffffff;
+    --bg-table-head: #f3f4f6;
+    --bg-row-out: #fef2f2;
+    --bg-row-questionable: #fef9c3;
+    --bg-row-probable: #ecfdf5;
+    --text: #111827;
+    --text-soft: #4b5563;
+    --muted: #6b7280;
+    --border: #e5e7eb;
+    --border-strong: #d1d5db;
+    --accent: #b45309;
+    --out: #dc2626;
+    --questionable: #ca8a04;
+    --probable: #047857;
+    --available: #6b7280;
+    --added: #b91c1c;
+    --cleared: #047857;
+    --status-change: #b45309;
+    --header-font: 'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, monospace;
+    --body-font: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--body-font);
+    font-size: 15px;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .container { max-width: 1080px; margin: 0 auto; padding: 28px 18px 64px; }
+
+  header { margin-bottom: 18px; }
+  .brand {
+    font-family: var(--header-font);
+    font-size: 0.62rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-weight: 600;
+  }
+  h1 {
+    font-family: var(--header-font);
+    font-size: 1.6rem;
+    font-weight: 700;
+    margin: 4px 0 4px;
+    letter-spacing: -0.01em;
+  }
+  .subtitle { color: var(--text-soft); font-size: 0.92rem; margin-bottom: 0; }
+  .subtitle code { font-family: var(--header-font); font-size: 0.85em; color: var(--text); }
+
+  .meta-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 8px;
+    color: var(--muted);
+    font-size: 0.78rem;
+    font-family: var(--header-font);
+    margin: 18px 0 14px;
+  }
+  .meta-controls { display: inline-flex; align-items: center; gap: 14px; }
+  .refreshing { display: inline-flex; align-items: center; gap: 6px; }
+  .spinner {
+    width: 10px; height: 10px;
+    border: 2px solid var(--border-strong);
+    border-top-color: var(--text);
+    border-radius: 50%;
+    animation: spin 0.7s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  .tabs { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 14px; }
+  .tab {
+    font-family: var(--header-font);
+    font-size: 0.62rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    padding: 9px 13px;
+    border: 1px solid var(--border);
+    border-radius: 7px;
+    background: var(--bg-elev);
+    cursor: pointer;
+    color: var(--muted);
+    transition: all 0.12s;
+    user-select: none;
+  }
+  .tab:hover { color: var(--text); border-color: var(--border-strong); }
+  .tab.active {
+    background: var(--text);
+    color: var(--bg-elev);
+    border-color: var(--text);
+  }
+  .tab-count {
+    display: inline-block;
+    background: var(--bg-table-head);
+    color: var(--muted);
+    padding: 1px 7px;
+    border-radius: 10px;
+    font-size: 0.62rem;
+    margin-left: 4px;
+    vertical-align: 1px;
+  }
+  .tab.active .tab-count { background: rgba(255,255,255,0.18); color: var(--bg-elev); }
+
+  /* ---- Current view ---- */
+  .teams-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 14px;
+  }
+  .team-card {
+    background: var(--bg-elev);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 14px 16px;
+  }
+  .team-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 10px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--border);
+  }
+  .team-name {
+    font-family: var(--header-font);
+    font-size: 0.84rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+  }
+  .team-meta {
+    font-family: var(--header-font);
+    font-size: 0.66rem;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+  .player-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 5px 0;
+    font-size: 0.9rem;
+    gap: 10px;
+  }
+  .player-name { font-weight: 500; }
+  .player-reason {
+    color: var(--muted);
+    font-size: 0.78rem;
+    flex: 1;
+    text-align: right;
+  }
+  .status-pill {
+    font-family: var(--header-font);
+    font-size: 0.62rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding: 2px 7px;
+    border-radius: 4px;
+    flex-shrink: 0;
+  }
+  .status-out { background: var(--out); color: white; }
+  .status-doubtful { background: var(--questionable); color: white; }
+  .status-questionable { background: var(--questionable); color: white; }
+  .status-probable { background: var(--probable); color: white; }
+  .status-available { background: var(--available); color: white; }
+  .empty-team { color: var(--muted); font-size: 0.85rem; padding: 4px 0; }
+
+  /* ---- Filter pills ---- */
+  .filter-group {
+    display: inline-flex;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    overflow: hidden;
+    background: var(--bg-elev);
+  }
+  .filter-pill {
+    background: transparent;
+    border: none;
+    color: var(--muted);
+    font-family: var(--header-font);
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding: 6px 12px;
+    cursor: pointer;
+    transition: background 0.12s, color 0.12s;
+  }
+  .filter-pill + .filter-pill { border-left: 1px solid var(--border); }
+  .filter-pill:hover:not(.active) { color: var(--text); }
+  .filter-pill.active { background: var(--text); color: var(--bg-elev); }
+  .filter-group.hidden { display: none; }
+
+  /* ---- Changes feed ---- */
+  .changes-list { display: flex; flex-direction: column; gap: 6px; }
+  .change-day { margin-bottom: 18px; }
+  .change-day:last-child { margin-bottom: 0; }
+  .change-day-header {
+    font-family: var(--header-font);
+    font-size: 0.68rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--muted);
+    font-weight: 600;
+    padding: 0 4px 8px;
+  }
+  .change-item {
+    background: var(--bg-elev);
+    border: 1px solid var(--border);
+    border-left-width: 3px;
+    border-radius: 6px;
+    padding: 9px 13px;
+    font-size: 0.9rem;
+    line-height: 1.4;
+  }
+  .change-item.added { border-left-color: var(--added); }
+  .change-item.cleared { border-left-color: var(--cleared); }
+  .change-item.status_change { border-left-color: var(--status-change); }
+  .change-item.reason_change { border-left-color: var(--muted); }
+  .change-ts {
+    color: var(--muted);
+    font-family: var(--header-font);
+    font-size: 0.7rem;
+    margin-bottom: 2px;
+  }
+  .change-text strong { font-weight: 600; color: var(--text); }
+  .change-tag {
+    display: inline-block;
+    font-family: var(--header-font);
+    font-size: 0.62rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding: 1px 6px;
+    border-radius: 3px;
+    margin-right: 6px;
+    vertical-align: 1px;
+  }
+  .change-tag.added { background: #fee2e2; color: #991b1b; }
+  .change-tag.cleared { background: #d1fae5; color: #065f46; }
+  .change-tag.status_change { background: #fef3c7; color: #92400e; }
+  .change-tag.reason_change { background: var(--bg-table-head); color: var(--muted); }
+
+  .empty-state {
+    padding: 40px 20px;
+    text-align: center;
+    color: var(--muted);
+    font-size: 0.92rem;
+    background: var(--bg-elev);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+  }
+  .error-state { color: var(--out); }
+
+  footer {
+    margin-top: 56px;
+    padding-top: 18px;
+    border-top: 1px solid var(--border);
+    color: var(--muted);
+    font-size: 0.78rem;
+    text-align: center;
+  }
+  footer a { color: var(--text-soft); text-decoration: none; }
+  footer a:hover { text-decoration: underline; }
+
+  /* Embed mode: hide chrome for use inside iframes (Presto, etc.) */
+  body.embed header,
+  body.embed footer { display: none; }
+  body.embed .container { padding: 12px; max-width: none; }
+
+  /* Log-only mode: show just the changes feed */
+  body.log-only .meta-row,
+  body.log-only .tabs,
+  body.log-only #current-wrap { display: none !important; }
+  body.log-only #changes-wrap { display: block !important; }
+
+  @media (max-width: 600px) {
+    .container { padding: 20px 12px 48px; }
+    h1 { font-size: 1.3rem; }
+    .teams-grid { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+<header>
+  <div class="brand">HoopsMatic / WNBA Injury Pulse</div>
+  <h1>WNBA Injury Pulse</h1>
+  <p class="subtitle">Live tracking of the WNBA's official <code>15-minute</code> injury report. Surfaces only the changes — adds, clears, status flips, reason updates.</p>
+</header>
+
+<div class="meta-row">
+  <span id="last-updated">Loading…</span>
+  <div class="meta-controls">
+    <span class="refreshing"><span class="spinner"></span> auto-refresh 60s</span>
+  </div>
+</div>
+
+<div class="tabs" id="tabs"></div>
+
+<div id="current-wrap">
+  <div class="meta-row" style="margin-top:0;margin-bottom:14px">
+    <span></span>
+    <div class="filter-group" id="filter-group">
+      <button class="filter-pill active" data-filter="all">All teams</button>
+      <button class="filter-pill" data-filter="with-listings">Only with listings</button>
+    </div>
+  </div>
+  <div class="teams-grid" id="teams-grid">
+    <div class="empty-state">Loading current state…</div>
+  </div>
+</div>
+
+<div id="changes-wrap" style="display:none">
+  <div class="changes-list" id="changes-list">
+    <div class="empty-state">Loading changes…</div>
+  </div>
+</div>
+
+<footer>
+  <a href="https://github.com/aderoa/wnba-injury-pulse" target="_blank" rel="noopener">github.com/aderoa/wnba-injury-pulse</a>
+  · auto-updated by GitHub Actions · official source: <code>ak-static.cms.nba.com</code>
+</footer>
+</div>
+
+<script>
+const TABS = ['CURRENT', 'CHANGES'];
+const TITLES = { CURRENT: 'Current state', CHANGES: 'Recent changes' };
+
+// URL params
+const params = new URLSearchParams(location.search);
+if (params.get('embed') === '1') document.body.classList.add('embed');
+const initialView = params.get('view');
+if (initialView === 'log') document.body.classList.add('log-only');
+
+let currentTab = (location.hash || '').replace('#', '').toUpperCase();
+if (initialView === 'log') currentTab = 'CHANGES';
+if (!TABS.includes(currentTab)) currentTab = 'CURRENT';
+let liveData = null;
+let currentFilter = 'all';
+
+function escapeHtml(s) {
+  const div = document.createElement('div');
+  div.textContent = String(s == null ? '' : s);
+  return div.innerHTML;
+}
+
+function renderTabs() {
+  const el = document.getElementById('tabs');
+  const changesCount = liveData && liveData.recent_changes ? liveData.recent_changes.length : 0;
+  el.innerHTML = TABS.map(t => {
+    let label = TITLES[t];
+    if (t === 'CHANGES' && changesCount > 0) {
+      label += ` <span class="tab-count">${changesCount}</span>`;
+    }
+    return `<div class="tab ${t === currentTab ? 'active' : ''}" data-tab="${t}">${label}</div>`;
+  }).join('');
+  el.querySelectorAll('.tab').forEach(t => {
+    t.addEventListener('click', () => {
+      currentTab = t.dataset.tab;
+      history.replaceState(null, '', '#' + currentTab);
+      renderTabs();
+      updateView();
+    });
+  });
+}
+
+function updateView() {
+  const isChanges = currentTab === 'CHANGES';
+  document.getElementById('current-wrap').style.display = isChanges ? 'none' : '';
+  document.getElementById('changes-wrap').style.display = isChanges ? '' : 'none';
+  if (isChanges) renderChanges();
+  else renderCurrent();
+}
+
+function renderCurrent() {
+  const el = document.getElementById('teams-grid');
+  if (!liveData || !liveData.teams) {
+    el.innerHTML = '<div class="empty-state">No data.</div>';
+    return;
+  }
+  let teams = liveData.teams.slice();
+  if (currentFilter === 'with-listings') {
+    teams = teams.filter(t => t.players && t.players.length > 0);
+  }
+  if (teams.length === 0) {
+    el.innerHTML = '<div class="empty-state">No teams to show.</div>';
+    return;
+  }
+  el.innerHTML = teams.map(t => {
+    const lastSubmitted = t.last_submitted_ts
+      ? new Date(t.last_submitted_ts).toLocaleString([], { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' })
+      : '—';
+    const playersHtml = (t.players && t.players.length)
+      ? t.players.map(p => `
+          <div class="player-row">
+            <span class="status-pill status-${(p.status || '').toLowerCase()}">${escapeHtml(p.status)}</span>
+            <span class="player-name">${escapeHtml(p.name)}</span>
+            <span class="player-reason">${escapeHtml(p.reason)}</span>
+          </div>`).join('')
+      : `<div class="empty-team">No players listed</div>`;
+    return `
+      <div class="team-card">
+        <div class="team-header">
+          <span class="team-name">${escapeHtml(t.team_abbr)} · ${escapeHtml(t.team_full || '')}</span>
+          <span class="team-meta" title="Last submitted update from this team">as of ${lastSubmitted}</span>
+        </div>
+        ${playersHtml}
+      </div>`;
+  }).join('');
+}
+
+const CHANGE_LABEL = {
+  added: 'Added',
+  cleared: 'Cleared',
+  status_change: 'Status',
+  reason_change: 'Reason',
+};
+
+function changeText(c) {
+  if (c.type === 'added') {
+    return `<strong>${escapeHtml(c.player)}</strong> (${escapeHtml(c.team_abbr)}) listed as <strong>${escapeHtml(c.status)}</strong>${c.reason ? ` — ${escapeHtml(c.reason)}` : ''}`;
+  }
+  if (c.type === 'cleared') {
+    return `<strong>${escapeHtml(c.player)}</strong> (${escapeHtml(c.team_abbr)}) <strong>cleared</strong> (was ${escapeHtml(c.previous_status || '?')})`;
+  }
+  if (c.type === 'status_change') {
+    return `<strong>${escapeHtml(c.player)}</strong> (${escapeHtml(c.team_abbr)}): <strong>${escapeHtml(c.from_status)}</strong> → <strong>${escapeHtml(c.to_status)}</strong>${c.reason ? ` — ${escapeHtml(c.reason)}` : ''}`;
+  }
+  if (c.type === 'reason_change') {
+    return `<strong>${escapeHtml(c.player)}</strong> (${escapeHtml(c.team_abbr)}, ${escapeHtml(c.status)}): reason updated`;
+  }
+  return JSON.stringify(c);
+}
+
+function renderChanges() {
+  const el = document.getElementById('changes-list');
+  const list = (liveData && liveData.recent_changes) || [];
+  if (list.length === 0) {
+    el.innerHTML = `<div class="empty-state">No changes yet — events will appear here as the league files updates.</div>`;
+    return;
+  }
+  // Group by date
+  const byDate = {};
+  list.forEach(c => {
+    const d = new Date(c.ts);
+    const key = d.toLocaleDateString([], { weekday: 'short', month: 'short', day: 'numeric' });
+    (byDate[key] = byDate[key] || []).push(c);
+  });
+  el.innerHTML = Object.entries(byDate).map(([date, items]) => `
+    <div class="change-day">
+      <div class="change-day-header">${date}</div>
+      ${items.map(c => {
+        const t = new Date(c.ts);
+        const tStr = t.toLocaleTimeString([], { hour: 'numeric', minute: '2-digit' });
+        return `<div class="change-item ${c.type}">
+          <div class="change-ts">${tStr} · <span class="change-tag ${c.type}">${CHANGE_LABEL[c.type] || c.type}</span></div>
+          <div class="change-text">${changeText(c)}</div>
+        </div>`;
+      }).join('')}
+    </div>
+  `).join('');
+}
+
+function renderTimestamp() {
+  const el = document.getElementById('last-updated');
+  if (!liveData) { el.textContent = '—'; return; }
+  const polled = new Date(liveData.polled_at_utc);
+  const reportTs = liveData.report_ts || '—';
+  el.textContent = `Last poll: ${polled.toLocaleString([], { hour: 'numeric', minute: '2-digit', second: '2-digit' })} · report ${reportTs}`;
+}
+
+async function fetchData() {
+  try {
+    const res = await fetch('data/injury_pulse_live.json?_=' + Date.now());
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    liveData = await res.json();
+    renderTabs();
+    updateView();
+    renderTimestamp();
+  } catch (e) {
+    console.error('Fetch failed:', e);
+    document.getElementById('last-updated').innerHTML =
+      `<span class="error-state">Failed to load: ${escapeHtml(e.message)}</span>`;
+  }
+}
+
+renderTabs();
+
+// Wire team filter pills
+document.querySelectorAll('.filter-pill').forEach(btn => {
+  btn.addEventListener('click', () => {
+    currentFilter = btn.dataset.filter;
+    document.querySelectorAll('.filter-pill').forEach(b => {
+      b.classList.toggle('active', b.dataset.filter === currentFilter);
+    });
+    renderCurrent();
+  });
+});
+
+fetchData();
+setInterval(fetchData, 60000);
+</script>
+</body>
+</html>
