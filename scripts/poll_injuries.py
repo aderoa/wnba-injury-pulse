@@ -69,6 +69,8 @@ TEAM_ABBR = {
 
 # Statuses we expect from the report. Order matters — earlier = more available.
 STATUS_ORDER = ["Available", "Probable", "Questionable", "Doubtful", "Out"]
+_STATUSES_RE = "|".join(re.escape(s) for s in STATUS_ORDER)
+_STATUS_PATTERN = re.compile(rf"\b({_STATUSES_RE})\b")
 
 # Reason categories (rough buckets used for filtering / display)
 REASON_CATEGORIES = {
@@ -79,6 +81,19 @@ REASON_CATEGORIES = {
 }
 
 USER_AGENT = "wnba-injury-pulse/1.0 (HoopsMatic)"
+
+# Pre-compiled patterns for line parsing
+_DATE_RE = re.compile(r"^(\d{2}/\d{2}/\d{4})\s+(.*)$")
+_TIME_RE = re.compile(r"^(\d{1,2}:\d{2}\s*\(ET\))\s+(.*)$")
+_MATCHUP_RE = re.compile(r"^([A-Z]{2,4}@[A-Z]{2,4})\s+(.*)$")
+# Player name is "Last, First" — the comma is the anchor. Allow hyphens, apostrophes,
+# accented chars, periods (for initials). Player runs from the comma-bearing token to
+# the next whitespace before the status keyword.
+_PLAYER_RE = re.compile(
+    r"^(?P<player>[\w\.\-\'\u00C0-\u017F]+(?:\s[\w\.\-\'\u00C0-\u017F]+)*,\s*"
+    r"[\w\.\-\'\u00C0-\u017F]+(?:\s[\w\.\-\'\u00C0-\u017F]+)*?)\s+"
+    rf"(?P<status>{_STATUSES_RE})(?:\s+(?P<reason>.*))?$"
+)
 
 
 # ---------- slot helpers ----------
@@ -143,134 +158,188 @@ def fetch_pdf(slot, allow_fallback=True, max_attempts=2):
 
 def parse_pdf(pdf_bytes):
     """
-    Extract structured rows from the injury report PDF.
+    Extract structured rows from the injury report PDF using line-based
+    text parsing. The PDF doesn't have visible table borders, so
+    pdfplumber.extract_tables() doesn't reliably detect them.
 
-    Returns:
-      report_meta: {report_ts (str from PDF header), pages: int}
-      teams: list of {team_full, team_abbr, game_date, game_time, matchup,
-                      submitted (bool), players: [{name_last_first,
-                      name_first_last, status, reason, reason_category}]}
+    Strategy:
+      1. Get all text lines from each page
+      2. Skip page headers and column headers
+      3. Each line falls into one of:
+         - "main line" — has a status keyword → starts a new player record
+         - "NOT YET SUBMITTED" line — team has no players reported yet
+         - "continuation line" — text without a status, appended to previous reason
+
+    Date / time / matchup / team are forward-filled because they only appear
+    on the first line of each grouping.
+
+    Returns: {report_ts, page_count, teams: [...]}
     """
     import pdfplumber
 
+    raw_lines = []
+    report_ts = None
+    page_count = 0
+
     with pdfplumber.open(io.BytesIO(pdf_bytes)) as pdf:
-        all_rows = []
-        report_ts = None
-        for page in pdf.pages:
-            # Capture report timestamp from first line of page text
-            text = page.extract_text() or ""
-            if report_ts is None:
-                m = re.search(r"Injury Report:\s*([\d/]+\s+[\d:]+\s*[AP]M)", text)
-                if m:
-                    report_ts = m.group(1)
-            # Extract tables
-            for table in page.extract_tables():
-                for row in table:
-                    all_rows.append(row)
         page_count = len(pdf.pages)
+        for page in pdf.pages:
+            text = page.extract_text() or ""
+            for line in text.split("\n"):
+                line = line.strip()
+                if not line:
+                    continue
+                if report_ts is None:
+                    m = re.search(r"Injury Report:\s*([\d/]+\s+[\d:]+\s*[AP]M)", line)
+                    if m:
+                        report_ts = m.group(1)
+                # Skip page chrome
+                if line.startswith("Injury Report:"):
+                    continue
+                if line.startswith("Page ") and " of " in line:
+                    continue
+                if line.startswith("Game Date "):
+                    continue
+                raw_lines.append(line)
 
-    # Filter out header rows ("Game Date | Game Time | ...") and any
-    # accidental page-header lines that bled into the table extraction.
-    rows = []
-    for row in all_rows:
-        if not row:
-            continue
-        # Header detection: first cell is "Game Date"
-        first = (row[0] or "").strip().lower() if row[0] else ""
-        if first.startswith("game date"):
-            continue
-        rows.append(row)
-
-    # Forward-fill blanks in the first 4 columns (Game Date, Time, Matchup, Team).
-    # The PDF only writes these on the first row of each grouping.
-    last = [None] * 4
-    filled = []
-    for row in rows:
-        # Pad row to at least 7 columns (some rows are shorter when player+status missing)
-        padded = list(row) + [None] * (7 - len(row))
-        new_row = list(padded[:7])
-        for i in range(4):
-            cell = (new_row[i] or "").strip() if new_row[i] else ""
-            if cell:
-                last[i] = cell
-            else:
-                new_row[i] = last[i]
-        filled.append(new_row)
-
-    # Group rows by team within each (game_date, game_time, matchup, team) tuple.
-    # Detect "NOT YET SUBMITTED" and treat as a non-update marker.
-    teams = []
-    seen_keys = set()
-    for row in filled:
-        game_date, game_time, matchup, team_full, player, status, reason = [
-            (c or "").strip() for c in row
-        ]
-        if not team_full:
-            continue
-        key = (game_date, game_time, matchup, team_full)
-
-        # NOT YET SUBMITTED rows: player column will contain that literal,
-        # status/reason will be empty.
-        if "NOT YET SUBMITTED" in (player or "").upper() or "NOT YET SUBMITTED" in (status or "").upper():
-            if key not in seen_keys:
-                teams.append({
-                    "team_full": team_full,
-                    "team_abbr": TEAM_ABBR.get(team_full, team_full[:3].upper()),
-                    "game_date": game_date,
-                    "game_time": game_time,
-                    "matchup": matchup,
-                    "submitted": False,
-                    "players": [],
-                })
-                seen_keys.add(key)
-            continue
-
-        # Skip rows that don't have a real player name. The forward-fill can
-        # leave team-only rows when the table is split across pages.
-        if not player or "," not in player:
-            continue
-
-        # Find or create the team entry for this key
-        entry = next((t for t in teams if (t["game_date"], t["game_time"], t["matchup"], t["team_full"]) == key), None)
-        if entry is None:
-            entry = {
-                "team_full": team_full,
-                "team_abbr": TEAM_ABBR.get(team_full, team_full[:3].upper()),
-                "game_date": game_date,
-                "game_time": game_time,
-                "matchup": matchup,
-                "submitted": True,
-                "players": [],
-            }
-            teams.append(entry)
-            seen_keys.add(key)
-
-        # Convert "Last, First" → "First Last"
-        if "," in player:
-            last_n, first_n = [p.strip() for p in player.split(",", 1)]
-            name_first_last = f"{first_n} {last_n}".strip()
-        else:
-            name_first_last = player.strip()
-
-        entry["players"].append({
-            "name_last_first": player,
-            "name": name_first_last,
-            "status": status or "Unknown",
-            "reason": reason or "",
-            "reason_category": categorize_reason(reason),
-        })
-
-    # Dedupe players within each team (a player may appear once per game-date
-    # row if their team has B2B, with same status). Keep the more restrictive
-    # status.
-    for t in teams:
-        t["players"] = dedupe_players(t["players"])
+    teams = _parse_lines_to_teams(raw_lines)
 
     return {
         "report_ts": report_ts,
         "page_count": page_count,
+        "raw_line_count": len(raw_lines),
         "teams": teams,
     }
+
+
+def _find_team_name_in(text):
+    """Return (team_full, remaining_text) if any known team name appears in text,
+    else (None, text). Matches the longest team name first to avoid prefix collisions."""
+    sorted_teams = sorted(TEAM_ABBR.keys(), key=len, reverse=True)
+    for full in sorted_teams:
+        idx = text.find(full)
+        if idx >= 0:
+            after = text[idx + len(full):].strip()
+            return full, after
+    return None, text
+
+
+def _strip_prefix_fields(line, cur):
+    """
+    Strip leading {date} {time} {matchup} {team} from a line, updating cur dict.
+    Returns the remaining text (which should be the player+status+reason portion).
+    """
+    rest = line
+    m = _DATE_RE.match(rest)
+    if m:
+        cur["date"] = m.group(1)
+        rest = m.group(2)
+    m = _TIME_RE.match(rest)
+    if m:
+        cur["time"] = m.group(1)
+        rest = m.group(2)
+    m = _MATCHUP_RE.match(rest)
+    if m:
+        cur["matchup"] = m.group(1)
+        rest = m.group(2)
+    team_full, after = _find_team_name_in(rest)
+    if team_full and rest.startswith(team_full):
+        cur["team_full"] = team_full
+        rest = after
+    return rest
+
+
+def _parse_lines_to_teams(lines):
+    """
+    Walk through cleaned lines and produce a list of team-game entries.
+    Handles forward-fill of date/time/matchup/team and reason wrapping.
+    """
+    teams = []
+    seen_keys = {}  # (date, matchup, team_full) -> team_entry index
+    cur = {"date": None, "time": None, "matchup": None, "team_full": None}
+    last_player = None  # for reason continuation
+
+    def get_or_make_team():
+        key = (cur["date"], cur["matchup"], cur["team_full"])
+        if key in seen_keys:
+            return teams[seen_keys[key]]
+        entry = {
+            "team_full": cur["team_full"],
+            "team_abbr": TEAM_ABBR.get(cur["team_full"], (cur["team_full"] or "")[:3].upper()),
+            "game_date": cur["date"],
+            "game_time": cur["time"],
+            "matchup": cur["matchup"],
+            "submitted": True,
+            "players": [],
+        }
+        teams.append(entry)
+        seen_keys[key] = len(teams) - 1
+        return entry
+
+    for line in lines:
+        # Detect NOT YET SUBMITTED first — different shape (no player row)
+        if "NOT YET SUBMITTED" in line:
+            # Strip prefix fields to update cur, ignore the rest
+            _strip_prefix_fields(line.replace("NOT YET SUBMITTED", "").strip(), cur)
+            if cur["team_full"]:
+                key = (cur["date"], cur["matchup"], cur["team_full"])
+                if key not in seen_keys:
+                    teams.append({
+                        "team_full": cur["team_full"],
+                        "team_abbr": TEAM_ABBR.get(cur["team_full"], cur["team_full"][:3].upper()),
+                        "game_date": cur["date"],
+                        "game_time": cur["time"],
+                        "matchup": cur["matchup"],
+                        "submitted": False,
+                        "players": [],
+                    })
+                    seen_keys[key] = len(teams) - 1
+            last_player = None
+            continue
+
+        # Strip leading prefix fields, updating cur
+        rest = _strip_prefix_fields(line, cur)
+
+        # Try to match player + status + reason in the rest
+        m = _PLAYER_RE.match(rest)
+        if m:
+            player_lf = m.group("player").strip()
+            status = m.group("status").strip()
+            reason = (m.group("reason") or "").strip()
+
+            if cur["team_full"] is None:
+                # Shouldn't happen with valid PDF — log and skip
+                last_player = None
+                continue
+
+            # Convert "Last, First" → "First Last"
+            if "," in player_lf:
+                last_n, first_n = [p.strip() for p in player_lf.split(",", 1)]
+                name = f"{first_n} {last_n}".strip()
+            else:
+                name = player_lf
+
+            entry = get_or_make_team()
+            player_record = {
+                "name_last_first": player_lf,
+                "name": name,
+                "status": status,
+                "reason": reason,
+                "reason_category": categorize_reason(reason),
+            }
+            entry["players"].append(player_record)
+            last_player = player_record
+        else:
+            # No status keyword in the remaining text → continuation of previous reason
+            if last_player is not None and rest:
+                last_player["reason"] = (last_player["reason"] + " " + rest).strip()
+                last_player["reason_category"] = categorize_reason(last_player["reason"])
+
+    # Dedupe within each team (B2B may list a player twice with same data)
+    for t in teams:
+        t["players"] = dedupe_players(t["players"])
+
+    return teams
 
 
 def categorize_reason(reason):
