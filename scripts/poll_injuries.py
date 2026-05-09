@@ -204,6 +204,16 @@ def parse_pdf(pdf_bytes):
 
     teams = _parse_lines_to_teams(raw_lines)
 
+    # Diagnostic — print the first 30 raw lines if parsing produced nothing.
+    # Lets us see exactly what pdfplumber returned in the workflow log so we
+    # can adjust the parser if the format differs from expectations.
+    if not teams:
+        print("WARNING: parse produced 0 teams. Dumping first 30 raw lines for debug:")
+        for i, line in enumerate(raw_lines[:30]):
+            print(f"  L{i:>3}: {line!r}")
+        if len(raw_lines) > 30:
+            print(f"  ...({len(raw_lines) - 30} more lines)")
+
     return {
         "report_ts": report_ts,
         "page_count": page_count,
