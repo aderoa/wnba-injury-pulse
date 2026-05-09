@@ -343,9 +343,10 @@ def _parse_lines_to_teams(lines):
         orphan_buffer = []
 
     for line in lines:
-        # NOT YET SUBMITTED — special team-only marker, no player
-        if "NOT YET SUBMITTED" in line:
-            stripped = re.sub(r"\s*NOT YET SUBMITTED\s*", " ", line).strip()
+        # NOT YET SUBMITTED — special team-only marker, no player. pdfplumber
+        # may return this with or without internal spaces.
+        if "NOTYETSUBMITTED" in line.replace(" ", ""):
+            stripped = re.sub(r"\s*NOT\s*YET\s*SUBMITTED\s*", " ", line).strip()
             _strip_prefix_fields(stripped, cur)
             if cur["team_full"]:
                 key = (cur["date"], cur["matchup"], cur["team_full"])
