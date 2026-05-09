@@ -67,6 +67,47 @@ TEAM_ABBR = {
     "Washington Mystics": "WAS",
 }
 
+
+def _build_team_variants():
+    """
+    Build (variant_text, canonical_full_name) pairs sorted by length descending.
+    pdfplumber's extract_text() on this PDF drops spaces inside multi-word names,
+    so we match against both "Phoenix Mercury" and "PhoenixMercury" forms.
+    """
+    variants = set()
+    for full in TEAM_ABBR.keys():
+        variants.add((full, full))
+        variants.add((full.replace(" ", ""), full))
+    return sorted(variants, key=lambda t: -len(t[0]))
+
+
+TEAM_VARIANTS = _build_team_variants()
+
+
+def normalize_extracted_text(s):
+    """
+    Add spaces back into text where pdfplumber's extraction dropped them.
+    Handles common patterns:
+      - camelCase → "camel Case"  (sW → 's W' inside "Coach'sDecision")
+      - "a-b" → "a - b"  (between letters)
+      - ",X" or ";X" → ", X" / "; X"  (after punctuation, before letter)
+      - "X(" → "X ("  (before opening paren)
+    Does NOT touch single-token compound names like "DiJonai" because they
+    aren't reasons. Player names are normalized separately (just the comma).
+    """
+    if not s:
+        return s
+    s = re.sub(r'([A-Za-z])-([A-Za-z])', r'\1 - \2', s)
+    s = re.sub(r'([,;])([A-Za-z])', r'\1 \2', s)
+    s = re.sub(r'([a-z])([A-Z])', r'\1 \2', s)
+    s = re.sub(r'([A-Za-z0-9])\(', r'\1 (', s)
+    return s
+
+
+def normalize_player_name_lf(name_lf):
+    """Insert a space after the comma if it's missing: 'Last,First' → 'Last, First'."""
+    return re.sub(r',(\S)', r', \1', name_lf or "")
+
 # Statuses we expect from the report. Order matters — earlier = more available.
 STATUS_ORDER = ["Available", "Probable", "Questionable", "Doubtful", "Out"]
 _STATUSES_RE = "|".join(re.escape(s) for s in STATUS_ORDER)
@@ -181,6 +222,8 @@ def parse_pdf(pdf_bytes):
     report_ts = None
     page_count = 0
 
+    page_header_re = re.compile(r'^Page\s*\d+\s*of\s*\d+$')
+
     with pdfplumber.open(io.BytesIO(pdf_bytes)) as pdf:
         page_count = len(pdf.pages)
         for page in pdf.pages:
@@ -193,12 +236,13 @@ def parse_pdf(pdf_bytes):
                     m = re.search(r"Injury Report:\s*([\d/]+\s+[\d:]+\s*[AP]M)", line)
                     if m:
                         report_ts = m.group(1)
-                # Skip page chrome
-                if line.startswith("Injury Report:"):
+                # Skip page chrome — both spaced and no-space forms (pdfplumber
+                # may strip whitespace in extracted text)
+                if line.startswith("Injury Report:") or line.startswith("InjuryReport:"):
                     continue
-                if line.startswith("Page ") and " of " in line:
+                if page_header_re.match(line):
                     continue
-                if line.startswith("Game Date "):
+                if line.startswith("Game Date") or line.startswith("GameDate"):
                     continue
                 raw_lines.append(line)
 
@@ -222,22 +266,13 @@ def parse_pdf(pdf_bytes):
     }
 
 
-def _find_team_name_in(text):
-    """Return (team_full, remaining_text) if any known team name appears in text,
-    else (None, text). Matches the longest team name first to avoid prefix collisions."""
-    sorted_teams = sorted(TEAM_ABBR.keys(), key=len, reverse=True)
-    for full in sorted_teams:
-        idx = text.find(full)
-        if idx >= 0:
-            after = text[idx + len(full):].strip()
-            return full, after
-    return None, text
-
-
 def _strip_prefix_fields(line, cur):
     """
     Strip leading {date} {time} {matchup} {team} from a line, updating cur dict.
     Returns the remaining text (which should be the player+status+reason portion).
+
+    Team matching uses TEAM_VARIANTS to handle both "Dallas Wings" and the
+    no-space "DallasWings" form pdfplumber returns when font spacing is tight.
     """
     rest = line
     m = _DATE_RE.match(rest)
@@ -252,10 +287,12 @@ def _strip_prefix_fields(line, cur):
     if m:
         cur["matchup"] = m.group(1)
         rest = m.group(2)
-    team_full, after = _find_team_name_in(rest)
-    if team_full and rest.startswith(team_full):
-        cur["team_full"] = team_full
-        rest = after
+    # Try to strip a team name (variant-aware) from the start
+    for variant, canonical in TEAM_VARIANTS:
+        if rest.startswith(variant):
+            cur["team_full"] = canonical
+            rest = rest[len(variant):].lstrip()
+            break
     return rest
 
 
@@ -263,11 +300,23 @@ def _parse_lines_to_teams(lines):
     """
     Walk through cleaned lines and produce a list of team-game entries.
     Handles forward-fill of date/time/matchup/team and reason wrapping.
+
+    Reason wrapping in this PDF is unusual: when a reason is too long to fit on
+    one line, pdfplumber returns the FIRST wrap line BEFORE the player's row
+    and the SECOND wrap line AFTER the player's row. We handle this by
+    buffering "orphan" lines (text without a status keyword) and routing them:
+
+      - If buffered before a player whose own line has NO inline reason →
+        the orphan(s) become that player's reason precursor.
+      - If buffered after a player whose own line HAS an inline reason →
+        flush them onto the LAST player as a reason continuation when the
+        next player line arrives.
     """
     teams = []
     seen_keys = {}  # (date, matchup, team_full) -> team_entry index
     cur = {"date": None, "time": None, "matchup": None, "team_full": None}
-    last_player = None  # for reason continuation
+    last_player = None
+    orphan_buffer = []  # raw text fragments awaiting assignment
 
     def get_or_make_team():
         key = (cur["date"], cur["matchup"], cur["team_full"])
@@ -286,11 +335,18 @@ def _parse_lines_to_teams(lines):
         seen_keys[key] = len(teams) - 1
         return entry
 
+    def flush_orphans_to_last():
+        """Append buffered orphans onto the last player's reason."""
+        nonlocal orphan_buffer
+        if orphan_buffer and last_player is not None:
+            last_player["reason"] = (last_player["reason"] + " " + " ".join(orphan_buffer)).strip()
+        orphan_buffer = []
+
     for line in lines:
-        # Detect NOT YET SUBMITTED first — different shape (no player row)
+        # NOT YET SUBMITTED — special team-only marker, no player
         if "NOT YET SUBMITTED" in line:
-            # Strip prefix fields to update cur, ignore the rest
-            _strip_prefix_fields(line.replace("NOT YET SUBMITTED", "").strip(), cur)
+            stripped = re.sub(r"\s*NOT YET SUBMITTED\s*", " ", line).strip()
+            _strip_prefix_fields(stripped, cur)
             if cur["team_full"]:
                 key = (cur["date"], cur["matchup"], cur["team_full"])
                 if key not in seen_keys:
@@ -304,25 +360,25 @@ def _parse_lines_to_teams(lines):
                         "players": [],
                     })
                     seen_keys[key] = len(teams) - 1
+            flush_orphans_to_last()
             last_player = None
             continue
 
-        # Strip leading prefix fields, updating cur
         rest = _strip_prefix_fields(line, cur)
-
-        # Try to match player + status + reason in the rest
         m = _PLAYER_RE.match(rest)
+
         if m:
             player_lf = m.group("player").strip()
             status = m.group("status").strip()
-            reason = (m.group("reason") or "").strip()
+            inline_reason = (m.group("reason") or "").strip()
 
             if cur["team_full"] is None:
-                # Shouldn't happen with valid PDF — log and skip
+                # Couldn't determine team; skip this line (and any orphans)
+                orphan_buffer = []
                 last_player = None
                 continue
 
-            # Convert "Last, First" → "First Last"
+            # Convert "Last, First" → "First Last" (after normalizing comma spacing)
             if "," in player_lf:
                 last_n, first_n = [p.strip() for p in player_lf.split(",", 1)]
                 name = f"{first_n} {last_n}".strip()
@@ -330,23 +386,42 @@ def _parse_lines_to_teams(lines):
                 name = player_lf
 
             entry = get_or_make_team()
-            player_record = {
-                "name_last_first": player_lf,
-                "name": name,
-                "status": status,
-                "reason": reason,
-                "reason_category": categorize_reason(reason),
-            }
+            if inline_reason:
+                # Inline reason present — orphans (if any) belong to LAST player as continuation
+                flush_orphans_to_last()
+                player_record = {
+                    "name_last_first": player_lf,
+                    "name": name,
+                    "status": status,
+                    "reason": inline_reason,
+                }
+            else:
+                # No inline reason — orphans (if any) are THIS player's reason precursor
+                player_record = {
+                    "name_last_first": player_lf,
+                    "name": name,
+                    "status": status,
+                    "reason": " ".join(orphan_buffer).strip() if orphan_buffer else "",
+                }
+                orphan_buffer = []
+
             entry["players"].append(player_record)
             last_player = player_record
         else:
-            # No status keyword in the remaining text → continuation of previous reason
-            if last_player is not None and rest:
-                last_player["reason"] = (last_player["reason"] + " " + rest).strip()
-                last_player["reason_category"] = categorize_reason(last_player["reason"])
+            # No status keyword — orphan reason fragment
+            if rest.strip():
+                orphan_buffer.append(rest.strip())
 
-    # Dedupe within each team (B2B may list a player twice with same data)
+    # End of input — flush any trailing orphans onto the last player
+    flush_orphans_to_last()
+
+    # Normalize player names + reasons for display, then categorize.
+    # Categorization uses normalized text so keyword matching works.
     for t in teams:
+        for p in t["players"]:
+            p["reason"] = normalize_extracted_text(p["reason"])
+            p["reason_category"] = categorize_reason(p["reason"])
+            p["name_last_first"] = normalize_player_name_lf(p["name_last_first"])
         t["players"] = dedupe_players(t["players"])
 
     return teams
