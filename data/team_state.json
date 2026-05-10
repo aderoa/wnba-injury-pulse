@@ -1,0 +1,440 @@
+{
+  "DAL": {
+    "team_full": "Dallas Wings",
+    "submitted": true,
+    "last_submitted_ts": "2026-05-10T00:03:14.870484+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-09_08_00PM.pdf",
+    "game_dates": [
+      "05/09/2026"
+    ],
+    "matchups": [
+      "DAL@IND"
+    ],
+    "players": [
+      {
+        "name_last_first": "James, Aziaha",
+        "name": "Aziaha James",
+        "status": "Available",
+        "reason": "Injury/Illness - Left Ankle; Sprain",
+        "reason_category": "injury"
+      },
+      {
+        "name_last_first": "Smith, Alanna",
+        "name": "Alanna Smith",
+        "status": "Available",
+        "reason": "Injury/Illness - Face; Nasal Fracture",
+        "reason_category": "injury"
+      },
+      {
+        "name_last_first": "Verona, Costanza",
+        "name": "Costanza Verona",
+        "status": "Out",
+        "reason": "Coach's Decision",
+        "reason_category": "rest_coach"
+      }
+    ]
+  },
+  "IND": {
+    "team_full": "Indiana Fever",
+    "submitted": true,
+    "last_submitted_ts": "2026-05-10T00:03:14.870484+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-09_08_00PM.pdf",
+    "game_dates": [
+      "05/09/2026"
+    ],
+    "matchups": [
+      "DAL@IND"
+    ],
+    "players": [
+      {
+        "name_last_first": "Billings, Monique",
+        "name": "Monique Billings",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Ankle; Right Ankle",
+        "reason_category": "injury"
+      },
+      {
+        "name_last_first": "Pissott, Justine",
+        "name": "Justine Pissott",
+        "status": "Out",
+        "reason": "Coach's Decision",
+        "reason_category": "rest_coach"
+      }
+    ]
+  },
+  "PHX": {
+    "team_full": "Phoenix Mercury",
+    "submitted": true,
+    "last_submitted_ts": "2026-05-10T00:03:14.870484+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-09_08_00PM.pdf",
+    "game_dates": [
+      "05/09/2026",
+      "05/10/2026"
+    ],
+    "matchups": [
+      "PHX@LVA",
+      "PHX@GSV"
+    ],
+    "players": [
+      {
+        "name_last_first": "Ciezki, Shay",
+        "name": "Shay Ciezki",
+        "status": "Out",
+        "reason": "Coach's Decision",
+        "reason_category": "rest_coach"
+      },
+      {
+        "name_last_first": "Suarez, Marta",
+        "name": "Marta Suarez",
+        "status": "Out",
+        "reason": "Coach's Decision",
+        "reason_category": "rest_coach"
+      },
+      {
+        "name_last_first": "Whitcomb, Sami",
+        "name": "Sami Whitcomb",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Knee; Arthroscopy",
+        "reason_category": "injury"
+      }
+    ]
+  },
+  "LVA": {
+    "team_full": "Las Vegas Aces",
+    "submitted": true,
+    "last_submitted_ts": "2026-05-10T00:03:14.870484+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-09_08_00PM.pdf",
+    "game_dates": [
+      "05/09/2026",
+      "05/10/2026"
+    ],
+    "matchups": [
+      "PHX@LVA",
+      "LVA@LAS"
+    ],
+    "players": [
+      {
+        "name_last_first": "Barker, Janiah",
+        "name": "Janiah Barker",
+        "status": "Out",
+        "reason": "Concussion Protocol",
+        "reason_category": "procedural"
+      },
+      {
+        "name_last_first": "Evans, Dana",
+        "name": "Dana Evans",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Leg; N/A",
+        "reason_category": "injury"
+      }
+    ]
+  },
+  "ATL": {
+    "team_full": "Atlanta Dream",
+    "submitted": true,
+    "last_submitted_ts": "2026-05-10T00:03:14.870484+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-09_08_00PM.pdf",
+    "game_dates": [
+      "05/09/2026"
+    ],
+    "matchups": [
+      "ATL@MIN"
+    ],
+    "players": [
+      {
+        "name_last_first": "Jones, Brionna",
+        "name": "Brionna Jones",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Knee; N/A",
+        "reason_category": "injury"
+      },
+      {
+        "name_last_first": "Nye, Aaliyah",
+        "name": "Aaliyah Nye",
+        "status": "Out",
+        "reason": "Not With Team",
+        "reason_category": "offcourt"
+      }
+    ]
+  },
+  "MIN": {
+    "team_full": "Minnesota Lynx",
+    "submitted": true,
+    "last_submitted_ts": "2026-05-10T00:03:14.870484+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-09_08_00PM.pdf",
+    "game_dates": [
+      "05/09/2026"
+    ],
+    "matchups": [
+      "ATL@MIN"
+    ],
+    "players": [
+      {
+        "name_last_first": "Collier, Napheesa",
+        "name": "Napheesa Collier",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Ankle; NA",
+        "reason_category": "injury"
+      },
+      {
+        "name_last_first": "Juhasz, Dorka",
+        "name": "Dorka Juhasz",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Foot; NA",
+        "reason_category": "injury"
+      },
+      {
+        "name_last_first": "King, Liatu",
+        "name": "Liatu King",
+        "status": "Out",
+        "reason": "Coach's Decision - NA",
+        "reason_category": "rest_coach"
+      }
+    ]
+  },
+  "CHI": {
+    "team_full": "Chicago Sky",
+    "submitted": true,
+    "last_submitted_ts": "2026-05-10T00:03:14.870484+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-09_08_00PM.pdf",
+    "game_dates": [
+      "05/09/2026"
+    ],
+    "matchups": [
+      "CHI@PDX"
+    ],
+    "players": [
+      {
+        "name_last_first": "Carrington, DiJonai",
+        "name": "DiJonai Carrington",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Foot; Left Foot",
+        "reason_category": "injury"
+      },
+      {
+        "name_last_first": "Cloud, Natasha",
+        "name": "Natasha Cloud",
+        "status": "Out",
+        "reason": "Injury/Illness - N/A; Illness",
+        "reason_category": "injury"
+      },
+      {
+        "name_last_first": "Stevens, Azura",
+        "name": "Azura Stevens",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Knee; Left Knee",
+        "reason_category": "injury"
+      },
+      {
+        "name_last_first": "Vandersloot, Courtney",
+        "name": "Courtney Vandersloot",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Knee; Right Knee",
+        "reason_category": "injury"
+      },
+      {
+        "name_last_first": "Westbeld, Maddy",
+        "name": "Maddy Westbeld",
+        "status": "Out",
+        "reason": "Returnto Competition Reconditioning",
+        "reason_category": "other"
+      }
+    ]
+  },
+  "PDX": {
+    "team_full": "Portland Fire",
+    "submitted": true,
+    "last_submitted_ts": "2026-05-10T00:03:14.870484+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-09_08_00PM.pdf",
+    "game_dates": [
+      "05/09/2026"
+    ],
+    "matchups": [
+      "CHI@PDX"
+    ],
+    "players": [
+      {
+        "name_last_first": "Samuelson, Karlie",
+        "name": "Karlie Samuelson",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Foot; Injury",
+        "reason_category": "injury"
+      },
+      {
+        "name_last_first": "Sutton, Sug",
+        "name": "Sug Sutton",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Knee; Injury",
+        "reason_category": "injury"
+      }
+    ]
+  },
+  "SEA": {
+    "team_full": "Seattle Storm",
+    "submitted": true,
+    "last_submitted_ts": "2026-05-10T00:03:14.870484+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-09_08_00PM.pdf",
+    "game_dates": [
+      "05/10/2026"
+    ],
+    "matchups": [
+      "SEA@CON"
+    ],
+    "players": [
+      {
+        "name_last_first": "Magbegor, Ezi",
+        "name": "Ezi Magbegor",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Foot; N/A",
+        "reason_category": "injury"
+      },
+      {
+        "name_last_first": "Mair, Taina",
+        "name": "Taina Mair",
+        "status": "Out",
+        "reason": "Coach's Decision",
+        "reason_category": "rest_coach"
+      },
+      {
+        "name_last_first": "Samuelson, KatieLou",
+        "name": "KatieLou Samuelson",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Knee; N/A",
+        "reason_category": "injury"
+      }
+    ]
+  },
+  "CON": {
+    "team_full": "Connecticut Sun",
+    "submitted": true,
+    "last_submitted_ts": "2026-05-10T00:03:14.870484+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-09_08_00PM.pdf",
+    "game_dates": [
+      "05/10/2026"
+    ],
+    "matchups": [
+      "SEA@CON"
+    ],
+    "players": [
+      {
+        "name_last_first": "Edwards, Aaliyah",
+        "name": "Aaliyah Edwards",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Thigh; Adductor",
+        "reason_category": "injury"
+      },
+      {
+        "name_last_first": "Peddy, Shey",
+        "name": "Shey Peddy",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Knee; OA",
+        "reason_category": "injury"
+      }
+    ]
+  },
+  "NYL": {
+    "team_full": "New York Liberty",
+    "submitted": true,
+    "last_submitted_ts": "2026-05-10T00:03:14.870484+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-09_08_00PM.pdf",
+    "game_dates": [
+      "05/10/2026"
+    ],
+    "matchups": [
+      "NYL@WAS"
+    ],
+    "players": [
+      {
+        "name_last_first": "Allen, Rebecca",
+        "name": "Rebecca Allen",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Leg; L.Leg",
+        "reason_category": "injury"
+      },
+      {
+        "name_last_first": "Fauthoux, Marine",
+        "name": "Marine Fauthoux",
+        "status": "Out",
+        "reason": "Injury/Illness - Leftknee; Rehabilitation",
+        "reason_category": "injury"
+      },
+      {
+        "name_last_first": "Ionescu, Sabrina",
+        "name": "Sabrina Ionescu",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Foot; NWT",
+        "reason_category": "injury"
+      },
+      {
+        "name_last_first": "Sabally, Satou",
+        "name": "Satou Sabally",
+        "status": "Out",
+        "reason": "Injury/Illness - Cyst; NWT",
+        "reason_category": "injury"
+      }
+    ]
+  },
+  "WAS": {
+    "team_full": "Washington Mystics",
+    "submitted": true,
+    "last_submitted_ts": "2026-05-10T00:03:14.870484+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-09_08_00PM.pdf",
+    "game_dates": [
+      "05/10/2026"
+    ],
+    "matchups": [
+      "NYL@WAS"
+    ],
+    "players": [
+      {
+        "name_last_first": "FlorezGetino, Alicia",
+        "name": "Alicia FlorezGetino",
+        "status": "Out",
+        "reason": "Personal Reasons",
+        "reason_category": "offcourt"
+      },
+      {
+        "name_last_first": "McMahon, Cotie",
+        "name": "Cotie McMahon",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Elbow; Sprain",
+        "reason_category": "injury"
+      },
+      {
+        "name_last_first": "Onyenwere, Michaela",
+        "name": "Michaela Onyenwere",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Knee; Injury Management",
+        "reason_category": "injury"
+      }
+    ]
+  },
+  "GSV": {
+    "team_full": "Golden State Valkyries",
+    "submitted": true,
+    "last_submitted_ts": "2026-05-10T00:03:14.870484+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-09_08_00PM.pdf",
+    "game_dates": [
+      "05/10/2026"
+    ],
+    "matchups": [
+      "PHX@GSV"
+    ],
+    "players": [
+      {
+        "name_last_first": "Hayes, Tiffany",
+        "name": "Tiffany Hayes",
+        "status": "Out",
+        "reason": "Injury/Illness - Leftpinky; Pinky",
+        "reason_category": "injury"
+      },
+      {
+        "name_last_first": "Zandalasini, Cecilia",
+        "name": "Cecilia Zandalasini",
+        "status": "Out",
+        "reason": "dislocation Injury/Illness - head; Concussion protocol",
+        "reason_category": "injury"
+      }
+    ]
+  }
+}
