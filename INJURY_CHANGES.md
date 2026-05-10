@@ -4,6 +4,15 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-05-10 20:00 UTC
+
+- **Dana Evans** (LVA, Out): reason updated (Injury/Illness - Left Leg; N/A → Injury/Illness - Leftleg; out)
+- **Janiah Barker** (LVA, Out): reason updated (Concussion Protocol → Injury/Illness - head; out)
+- **Shay Ciezki** (PHX) cleared (was Out)
+- **Marta Suarez** (PHX) cleared (was Out)
+- **Sami Whitcomb** (PHX, Out): reason updated (Injury/Illness - Left Knee; Arthroscopy → Injury/Illness - Left Knee;)
+- **Tiffany Hayes** (GSV, Out): reason updated (Injury/Illness - Leftpinky; Pinky → Arthroscopy Injury/Illness - Leftpinky; Pinky)
+
 ## 2026-05-10 16:30 UTC
 
 - **Ashlon Jackson** (CON) newly listed as **Out** — Coach's Decision

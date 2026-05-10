@@ -65,52 +65,33 @@
   "PHX": {
     "team_full": "Phoenix Mercury",
     "submitted": true,
-    "last_submitted_ts": "2026-05-10T03:45:23.592757+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-09_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-10T20:00:21.203870+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-10_04_00PM.pdf",
     "game_dates": [
-      "05/09/2026",
       "05/10/2026"
     ],
     "matchups": [
-      "PHX@LVA",
       "PHX@GSV"
     ],
     "players": [
       {
-        "name_last_first": "Ciezki, Shay",
-        "name": "Shay Ciezki",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
-      },
-      {
-        "name_last_first": "Suarez, Marta",
-        "name": "Marta Suarez",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
-      },
-      {
         "name_last_first": "Whitcomb, Sami",
         "name": "Sami Whitcomb",
         "status": "Out",
-        "reason": "Injury/Illness - Left Knee; Arthroscopy",
+        "reason": "Injury/Illness - Left Knee;",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-05-10T19:46:56.680317+00:00"
+    ]
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
     "submitted": true,
-    "last_submitted_ts": "2026-05-10T03:45:23.592757+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-09_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-10T20:00:21.203870+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-10_04_00PM.pdf",
     "game_dates": [
-      "05/09/2026",
       "05/10/2026"
     ],
     "matchups": [
-      "PHX@LVA",
       "LVA@LAS"
     ],
     "players": [
@@ -118,18 +99,17 @@
         "name_last_first": "Barker, Janiah",
         "name": "Janiah Barker",
         "status": "Out",
-        "reason": "Concussion Protocol",
-        "reason_category": "procedural"
+        "reason": "Injury/Illness - head; out",
+        "reason_category": "injury"
       },
       {
         "name_last_first": "Evans, Dana",
         "name": "Dana Evans",
         "status": "Out",
-        "reason": "Injury/Illness - Left Leg; N/A",
+        "reason": "Injury/Illness - Leftleg; out",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-05-10T19:46:56.680317+00:00"
+    ]
   },
   "ATL": {
     "team_full": "Atlanta Dream",
@@ -274,8 +254,8 @@
   "SEA": {
     "team_full": "Seattle Storm",
     "submitted": true,
-    "last_submitted_ts": "2026-05-10T19:46:56.680317+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-10_03_45PM.pdf",
+    "last_submitted_ts": "2026-05-10T20:00:21.203870+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-10_04_00PM.pdf",
     "game_dates": [
       "05/10/2026"
     ],
@@ -309,8 +289,8 @@
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-05-10T19:46:56.680317+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-10_03_45PM.pdf",
+    "last_submitted_ts": "2026-05-10T20:00:21.203870+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-10_04_00PM.pdf",
     "game_dates": [
       "05/10/2026"
     ],
@@ -344,8 +324,8 @@
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-05-10T19:46:56.680317+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-10_03_45PM.pdf",
+    "last_submitted_ts": "2026-05-10T20:00:21.203870+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-10_04_00PM.pdf",
     "game_dates": [
       "05/10/2026"
     ],
@@ -386,8 +366,8 @@
   "WAS": {
     "team_full": "Washington Mystics",
     "submitted": true,
-    "last_submitted_ts": "2026-05-10T19:46:56.680317+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-10_03_45PM.pdf",
+    "last_submitted_ts": "2026-05-10T20:00:21.203870+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-10_04_00PM.pdf",
     "game_dates": [
       "05/10/2026"
     ],
@@ -421,8 +401,8 @@
   "GSV": {
     "team_full": "Golden State Valkyries",
     "submitted": true,
-    "last_submitted_ts": "2026-05-10T19:46:56.680317+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-10_03_45PM.pdf",
+    "last_submitted_ts": "2026-05-10T20:00:21.203870+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-10_04_00PM.pdf",
     "game_dates": [
       "05/10/2026"
     ],
@@ -434,7 +414,7 @@
         "name_last_first": "Hayes, Tiffany",
         "name": "Tiffany Hayes",
         "status": "Out",
-        "reason": "Injury/Illness - Leftpinky; Pinky",
+        "reason": "Arthroscopy Injury/Illness - Leftpinky; Pinky",
         "reason_category": "injury"
       },
       {

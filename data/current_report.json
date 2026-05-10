@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/10/26 03:45 PM",
+  "report_ts": "05/10/26 04:00 PM",
   "page_count": 2,
-  "raw_line_count": 24,
+  "raw_line_count": 27,
   "teams": [
     {
       "team_full": "Seattle Storm",
@@ -140,8 +140,23 @@
       "game_date": "05/10/2026",
       "game_time": "06:00(ET)",
       "matchup": "LVA@LAS",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Barker, Janiah",
+          "name": "Janiah Barker",
+          "status": "Out",
+          "reason": "Injury/Illness - head; out",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Evans, Dana",
+          "name": "Dana Evans",
+          "status": "Out",
+          "reason": "Injury/Illness - Leftleg; out",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Phoenix Mercury",
@@ -149,8 +164,16 @@
       "game_date": "05/10/2026",
       "game_time": "08:30(ET)",
       "matchup": "PHX@GSV",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Whitcomb, Sami",
+          "name": "Sami Whitcomb",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee;",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Golden State Valkyries",
@@ -164,7 +187,7 @@
           "name_last_first": "Hayes, Tiffany",
           "name": "Tiffany Hayes",
           "status": "Out",
-          "reason": "Injury/Illness - Leftpinky; Pinky",
+          "reason": "Arthroscopy Injury/Illness - Leftpinky; Pinky",
           "reason_category": "injury"
         },
         {
@@ -177,7 +200,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-10_03_45PM.pdf",
-  "fetched_slot": "2026-05-10T15:45:00-04:00",
-  "polled_at_utc": "2026-05-10T19:46:56.680317+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-10_04_00PM.pdf",
+  "fetched_slot": "2026-05-10T16:00:00-04:00",
+  "polled_at_utc": "2026-05-10T20:00:21.203870+00:00"
 }
