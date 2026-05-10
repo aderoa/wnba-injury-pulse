@@ -322,5 +322,14 @@
     "status": "Out",
     "reason": "dislocation Injury/Illness - head; Concussion protocol",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-10T16:30:16.968153+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Ashlon Jackson",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "report_ts": "05/10/26 12:15 PM",
+  "report_ts": "05/10/26 12:30 PM",
   "page_count": 2,
   "raw_line_count": 24,
   "teams": [
@@ -48,6 +48,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Thigh; Adductor",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Jackson, Ashlon",
+          "name": "Ashlon Jackson",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         },
         {
           "name_last_first": "Peddy, Shey",
@@ -170,7 +177,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-10_12_15PM.pdf",
-  "fetched_slot": "2026-05-10T12:15:00-04:00",
-  "polled_at_utc": "2026-05-10T16:29:56.324101+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-10_12_30PM.pdf",
+  "fetched_slot": "2026-05-10T12:30:00-04:00",
+  "polled_at_utc": "2026-05-10T16:30:16.968153+00:00"
 }
