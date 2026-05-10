@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/10/26 07:15 PM",
+  "report_ts": "05/10/26 07:30 PM",
   "page_count": 2,
-  "raw_line_count": 30,
+  "raw_line_count": 32,
   "teams": [
     {
       "team_full": "Seattle Storm",
@@ -191,6 +191,20 @@
       "submitted": true,
       "players": [
         {
+          "name_last_first": "Ciezki, Shay",
+          "name": "Shay Ciezki",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Suarez, Marta",
+          "name": "Marta Suarez",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Whitcomb, Sami",
           "name": "Sami Whitcomb",
           "status": "Out",
@@ -224,7 +238,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-10_07_15PM.pdf",
-  "fetched_slot": "2026-05-10T19:15:00-04:00",
-  "polled_at_utc": "2026-05-10T23:15:19.922613+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-10_07_30PM.pdf",
+  "fetched_slot": "2026-05-10T19:30:00-04:00",
+  "polled_at_utc": "2026-05-10T23:30:18.910845+00:00"
 }
