@@ -387,5 +387,23 @@
     "from_reason": "Injury/Illness - Leftpinky; Pinky",
     "to_reason": "Arthroscopy Injury/Illness - Leftpinky; Pinky",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-10T21:00:19.397209+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Kate Martin",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-10T21:00:19.397209+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Laura Ziegler",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]

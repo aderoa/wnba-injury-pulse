@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/10/26 04:45 PM",
+  "report_ts": "05/10/26 05:00 PM",
   "page_count": 2,
-  "raw_line_count": 27,
+  "raw_line_count": 30,
   "teams": [
     {
       "team_full": "Seattle Storm",
@@ -159,6 +159,30 @@
       ]
     },
     {
+      "team_full": "Los Angeles Sparks",
+      "team_abbr": "LAS",
+      "game_date": "05/10/2026",
+      "game_time": "06:00(ET)",
+      "matchup": "LVA@LAS",
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Martin, Kate",
+          "name": "Kate Martin",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Ziegler, Laura",
+          "name": "Laura Ziegler",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        }
+      ]
+    },
+    {
       "team_full": "Phoenix Mercury",
       "team_abbr": "PHX",
       "game_date": "05/10/2026",
@@ -200,7 +224,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-10_04_45PM.pdf",
-  "fetched_slot": "2026-05-10T16:45:00-04:00",
-  "polled_at_utc": "2026-05-10T20:54:26.183621+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-10_05_00PM.pdf",
+  "fetched_slot": "2026-05-10T17:00:00-04:00",
+  "polled_at_utc": "2026-05-10T21:00:19.397209+00:00"
 }
