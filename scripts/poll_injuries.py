@@ -553,6 +553,7 @@ def load_json(path, default):
 
 
 def save_json(path, data):
+    path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(data, indent=2, default=str))
 
 
