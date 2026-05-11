@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/11/26 07:15 PM",
+  "report_ts": "05/11/26 07:30 PM",
   "page_count": 1,
-  "raw_line_count": 6,
+  "raw_line_count": 13,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -61,8 +61,37 @@
       "game_date": "05/12/2026",
       "game_time": "10:00(ET)",
       "matchup": "NYL@PDX",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Allen, Rebecca",
+          "name": "Rebecca Allen",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Leg; Leg",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Fauthoux, Marine",
+          "name": "Marine Fauthoux",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Rehabilitation",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Ionescu, Sabrina",
+          "name": "Sabrina Ionescu",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Foot; Foot",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sabally, Satou",
+          "name": "Satou Sabally",
+          "status": "Out",
+          "reason": "Injury/Illness - Cyst; Cyst",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Portland Fire",
@@ -70,11 +99,33 @@
       "game_date": "05/12/2026",
       "game_time": "10:00(ET)",
       "matchup": "NYL@PDX",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Samuelson, Karlie",
+          "name": "Karlie Samuelson",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Foot; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Smalls, Kamiah",
+          "name": "Kamiah Smalls",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Knee; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sutton, Sug",
+          "name": "Sug Sutton",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Knee; Injury",
+          "reason_category": "injury"
+        }
+      ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-11_07_15PM.pdf",
-  "fetched_slot": "2026-05-11T19:15:00-04:00",
-  "polled_at_utc": "2026-05-11T23:15:58.086316+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-11_07_30PM.pdf",
+  "fetched_slot": "2026-05-11T19:30:00-04:00",
+  "polled_at_utc": "2026-05-11T23:30:52.547719+00:00"
 }

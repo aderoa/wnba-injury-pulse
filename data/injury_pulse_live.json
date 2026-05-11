@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-05-11T23:15:58.086316+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-11_07_15PM.pdf",
-  "report_ts": "05/11/26 07:15 PM",
+  "polled_at_utc": "2026-05-11T23:30:52.547719+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-11_07_30PM.pdf",
+  "report_ts": "05/11/26 07:30 PM",
   "all_players": [
     {
       "name": "Aaliyah Edwards",
@@ -47,7 +47,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-05-11T23:15:58.086316+00:00"
+      "last_updated": "2026-05-11T23:30:52.547719+00:00"
     },
     {
       "name": "Cecilia Zandalasini",
@@ -137,7 +137,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Foot; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-05-10T03:45:23.592757+00:00"
+      "last_updated": "2026-05-11T23:30:52.547719+00:00"
     },
     {
       "name": "Kate Martin",
@@ -189,9 +189,9 @@
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
       "status": "Out",
-      "reason": "Injury/Illness - Leftknee; Rehabilitation",
+      "reason": "Injury/Illness - Left Knee; Rehabilitation",
       "reason_category": "injury",
-      "last_updated": "2026-05-11T03:45:27.911254+00:00"
+      "last_updated": "2026-05-11T23:30:52.547719+00:00"
     },
     {
       "name": "Marta Suarez",
@@ -243,18 +243,18 @@
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
       "status": "Out",
-      "reason": "Injury/Illness - Left Leg; L.Leg",
+      "reason": "Injury/Illness - Left Leg; Leg",
       "reason_category": "injury",
-      "last_updated": "2026-05-11T03:45:27.911254+00:00"
+      "last_updated": "2026-05-11T23:30:52.547719+00:00"
     },
     {
       "name": "Sabrina Ionescu",
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
       "status": "Out",
-      "reason": "Injury/Illness - Left Foot; NWT",
+      "reason": "Injury/Illness - Left Foot; Foot",
       "reason_category": "injury",
-      "last_updated": "2026-05-11T03:45:27.911254+00:00"
+      "last_updated": "2026-05-11T23:30:52.547719+00:00"
     },
     {
       "name": "Sami Whitcomb",
@@ -270,9 +270,9 @@
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
       "status": "Out",
-      "reason": "Injury/Illness - Cyst; NWT",
+      "reason": "Injury/Illness - Cyst; Cyst",
       "reason_category": "injury",
-      "last_updated": "2026-05-11T03:45:27.911254+00:00"
+      "last_updated": "2026-05-11T23:30:52.547719+00:00"
     },
     {
       "name": "Shay Ciezki",
@@ -293,15 +293,6 @@
       "last_updated": "2026-05-11T03:45:27.911254+00:00"
     },
     {
-      "name": "Sug Sutton",
-      "team_abbr": "PDX",
-      "team_full": "Portland Fire",
-      "status": "Out",
-      "reason": "Injury/Illness - Right Knee; Injury",
-      "reason_category": "injury",
-      "last_updated": "2026-05-10T03:45:23.592757+00:00"
-    },
-    {
       "name": "Taina Mair",
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
@@ -320,20 +311,38 @@
       "last_updated": "2026-05-11T03:45:27.911254+00:00"
     },
     {
+      "name": "Kamiah Smalls",
+      "team_abbr": "PDX",
+      "team_full": "Portland Fire",
+      "status": "Questionable",
+      "reason": "Injury/Illness - Left Knee; Injury",
+      "reason_category": "injury",
+      "last_updated": "2026-05-11T23:30:52.547719+00:00"
+    },
+    {
+      "name": "Sug Sutton",
+      "team_abbr": "PDX",
+      "team_full": "Portland Fire",
+      "status": "Questionable",
+      "reason": "Injury/Illness - Right Knee; Injury",
+      "reason_category": "injury",
+      "last_updated": "2026-05-11T23:30:52.547719+00:00"
+    },
+    {
       "name": "Azzi Fudd",
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
       "status": "Probable",
       "reason": "Injury/Illness - Rightknee; Right Knee",
       "reason_category": "injury",
-      "last_updated": "2026-05-11T23:15:58.086316+00:00"
+      "last_updated": "2026-05-11T23:30:52.547719+00:00"
     }
   ],
   "teams": [
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-05-11T23:15:58.086316+00:00",
+      "last_submitted_ts": "2026-05-11T23:30:52.547719+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "ATL@DAL"
@@ -429,7 +438,7 @@
     {
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
-      "last_submitted_ts": "2026-05-11T23:15:58.086316+00:00",
+      "last_submitted_ts": "2026-05-11T23:30:52.547719+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "ATL@DAL"
@@ -548,7 +557,7 @@
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
       "last_submitted_ts": "2026-05-10T03:45:23.592757+00:00",
-      "last_seen_pending_ts": "2026-05-11T23:15:58.086316+00:00",
+      "last_seen_pending_ts": "2026-05-11T23:30:52.547719+00:00",
       "matchups": [
         "ATL@MIN"
       ],
@@ -579,38 +588,38 @@
     {
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
-      "last_submitted_ts": "2026-05-11T03:45:27.911254+00:00",
-      "last_seen_pending_ts": "2026-05-11T23:15:58.086316+00:00",
+      "last_submitted_ts": "2026-05-11T23:30:52.547719+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "NYL@WAS"
+        "NYL@PDX"
       ],
       "players": [
         {
           "name_last_first": "Allen, Rebecca",
           "name": "Rebecca Allen",
           "status": "Out",
-          "reason": "Injury/Illness - Left Leg; L.Leg",
+          "reason": "Injury/Illness - Left Leg; Leg",
           "reason_category": "injury"
         },
         {
           "name_last_first": "Fauthoux, Marine",
           "name": "Marine Fauthoux",
           "status": "Out",
-          "reason": "Injury/Illness - Leftknee; Rehabilitation",
+          "reason": "Injury/Illness - Left Knee; Rehabilitation",
           "reason_category": "injury"
         },
         {
           "name_last_first": "Ionescu, Sabrina",
           "name": "Sabrina Ionescu",
           "status": "Out",
-          "reason": "Injury/Illness - Left Foot; NWT",
+          "reason": "Injury/Illness - Left Foot; Foot",
           "reason_category": "injury"
         },
         {
           "name_last_first": "Sabally, Satou",
           "name": "Satou Sabally",
           "status": "Out",
-          "reason": "Injury/Illness - Cyst; NWT",
+          "reason": "Injury/Illness - Cyst; Cyst",
           "reason_category": "injury"
         }
       ]
@@ -618,10 +627,10 @@
     {
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
-      "last_submitted_ts": "2026-05-10T03:45:23.592757+00:00",
-      "last_seen_pending_ts": "2026-05-11T23:15:58.086316+00:00",
+      "last_submitted_ts": "2026-05-11T23:30:52.547719+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "CHI@PDX"
+        "NYL@PDX"
       ],
       "players": [
         {
@@ -632,9 +641,16 @@
           "reason_category": "injury"
         },
         {
+          "name_last_first": "Smalls, Kamiah",
+          "name": "Kamiah Smalls",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Knee; Injury",
+          "reason_category": "injury"
+        },
+        {
           "name_last_first": "Sutton, Sug",
           "name": "Sug Sutton",
-          "status": "Out",
+          "status": "Questionable",
           "reason": "Injury/Illness - Right Knee; Injury",
           "reason_category": "injury"
         }
@@ -644,7 +660,7 @@
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
       "last_submitted_ts": "2026-05-11T03:45:27.911254+00:00",
-      "last_seen_pending_ts": "2026-05-11T23:15:58.086316+00:00",
+      "last_seen_pending_ts": "2026-05-11T23:30:52.547719+00:00",
       "matchups": [
         "PHX@GSV"
       ],
@@ -738,6 +754,65 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-05-11T23:30:52.547719+00:00",
+      "type": "status_change",
+      "team_abbr": "PDX",
+      "player": "Sug Sutton",
+      "from_status": "Out",
+      "to_status": "Questionable",
+      "reason": "Injury/Illness - Right Knee; Injury",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-05-11T23:30:52.547719+00:00",
+      "type": "added",
+      "team_abbr": "PDX",
+      "player": "Kamiah Smalls",
+      "status": "Questionable",
+      "reason": "Injury/Illness - Left Knee; Injury",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-05-11T23:30:52.547719+00:00",
+      "type": "reason_change",
+      "team_abbr": "NYL",
+      "player": "Satou Sabally",
+      "status": "Out",
+      "from_reason": "Injury/Illness - Cyst; NWT",
+      "to_reason": "Injury/Illness - Cyst; Cyst",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-05-11T23:30:52.547719+00:00",
+      "type": "reason_change",
+      "team_abbr": "NYL",
+      "player": "Rebecca Allen",
+      "status": "Out",
+      "from_reason": "Injury/Illness - Left Leg; L.Leg",
+      "to_reason": "Injury/Illness - Left Leg; Leg",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-05-11T23:30:52.547719+00:00",
+      "type": "reason_change",
+      "team_abbr": "NYL",
+      "player": "Marine Fauthoux",
+      "status": "Out",
+      "from_reason": "Injury/Illness - Leftknee; Rehabilitation",
+      "to_reason": "Injury/Illness - Left Knee; Rehabilitation",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-05-11T23:30:52.547719+00:00",
+      "type": "reason_change",
+      "team_abbr": "NYL",
+      "player": "Sabrina Ionescu",
+      "status": "Out",
+      "from_reason": "Injury/Illness - Left Foot; NWT",
+      "to_reason": "Injury/Illness - Left Foot; Foot",
+      "reason_category": "injury"
+    },
     {
       "ts": "2026-05-11T22:00:55.734716+00:00",
       "type": "cleared",
