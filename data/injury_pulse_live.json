@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-05-11T21:45:52.932209+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-11_05_45PM.pdf",
-  "report_ts": "05/11/26 05:45 PM",
+  "polled_at_utc": "2026-05-11T22:00:55.734716+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-11_06_00PM.pdf",
+  "report_ts": "05/11/26 06:00 PM",
   "all_players": [
     {
       "name": "Aaliyah Edwards",
@@ -12,15 +12,6 @@
       "reason": "Injury/Illness - Left Thigh; Adductor",
       "reason_category": "injury",
       "last_updated": "2026-05-11T03:45:27.911254+00:00"
-    },
-    {
-      "name": "Aaliyah Nye",
-      "team_abbr": "ATL",
-      "team_full": "Atlanta Dream",
-      "status": "Out",
-      "reason": "Not With Team",
-      "reason_category": "offcourt",
-      "last_updated": "2026-05-10T03:45:23.592757+00:00"
     },
     {
       "name": "Alicia FlorezGetino",
@@ -56,7 +47,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-05-10T03:45:23.592757+00:00"
+      "last_updated": "2026-05-11T22:00:55.734716+00:00"
     },
     {
       "name": "Cecilia Zandalasini",
@@ -66,15 +57,6 @@
       "reason": "dislocation Injury/Illness - head; Concussion protocol",
       "reason_category": "injury",
       "last_updated": "2026-05-11T03:45:27.911254+00:00"
-    },
-    {
-      "name": "Costanza Verona",
-      "team_abbr": "DAL",
-      "team_full": "Dallas Wings",
-      "status": "Out",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach",
-      "last_updated": "2026-05-10T03:45:23.592757+00:00"
     },
     {
       "name": "Cotie McMahon",
@@ -338,32 +320,23 @@
       "last_updated": "2026-05-11T03:45:27.911254+00:00"
     },
     {
-      "name": "Alanna Smith",
+      "name": "Azzi Fudd",
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
-      "status": "Available",
-      "reason": "Injury/Illness - Face; Nasal Fracture",
+      "status": "Probable",
+      "reason": "Injury/Illness - Rightknee; Right Knee",
       "reason_category": "injury",
-      "last_updated": "2026-05-10T03:45:23.592757+00:00"
-    },
-    {
-      "name": "Aziaha James",
-      "team_abbr": "DAL",
-      "team_full": "Dallas Wings",
-      "status": "Available",
-      "reason": "Injury/Illness - Left Ankle; Sprain",
-      "reason_category": "injury",
-      "last_updated": "2026-05-10T03:45:23.592757+00:00"
+      "last_updated": "2026-05-11T22:00:55.734716+00:00"
     }
   ],
   "teams": [
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-05-10T03:45:23.592757+00:00",
-      "last_seen_pending_ts": "2026-05-11T21:45:52.932209+00:00",
+      "last_submitted_ts": "2026-05-11T22:00:55.734716+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "ATL@MIN"
+        "ATL@DAL"
       ],
       "players": [
         {
@@ -372,13 +345,6 @@
           "status": "Out",
           "reason": "Injury/Illness - Right Knee; N/A",
           "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Nye, Aaliyah",
-          "name": "Aaliyah Nye",
-          "status": "Out",
-          "reason": "Not With Team",
-          "reason_category": "offcourt"
         }
       ]
     },
@@ -463,32 +429,18 @@
     {
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
-      "last_submitted_ts": "2026-05-10T03:45:23.592757+00:00",
-      "last_seen_pending_ts": "2026-05-11T21:45:52.932209+00:00",
+      "last_submitted_ts": "2026-05-11T22:00:55.734716+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "DAL@IND"
+        "ATL@DAL"
       ],
       "players": [
         {
-          "name_last_first": "James, Aziaha",
-          "name": "Aziaha James",
-          "status": "Available",
-          "reason": "Injury/Illness - Left Ankle; Sprain",
+          "name_last_first": "Fudd, Azzi",
+          "name": "Azzi Fudd",
+          "status": "Probable",
+          "reason": "Injury/Illness - Rightknee; Right Knee",
           "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Smith, Alanna",
-          "name": "Alanna Smith",
-          "status": "Available",
-          "reason": "Injury/Illness - Face; Nasal Fracture",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Verona, Costanza",
-          "name": "Costanza Verona",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
         }
       ]
     },
@@ -596,7 +548,7 @@
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
       "last_submitted_ts": "2026-05-10T03:45:23.592757+00:00",
-      "last_seen_pending_ts": "2026-05-11T21:45:52.932209+00:00",
+      "last_seen_pending_ts": "2026-05-11T22:00:55.734716+00:00",
       "matchups": [
         "ATL@MIN"
       ],
@@ -628,7 +580,7 @@
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
       "last_submitted_ts": "2026-05-11T03:45:27.911254+00:00",
-      "last_seen_pending_ts": "2026-05-11T21:45:52.932209+00:00",
+      "last_seen_pending_ts": "2026-05-11T22:00:55.734716+00:00",
       "matchups": [
         "NYL@WAS"
       ],
@@ -667,7 +619,7 @@
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
       "last_submitted_ts": "2026-05-10T03:45:23.592757+00:00",
-      "last_seen_pending_ts": "2026-05-11T21:45:52.932209+00:00",
+      "last_seen_pending_ts": "2026-05-11T22:00:55.734716+00:00",
       "matchups": [
         "CHI@PDX"
       ],
@@ -692,7 +644,7 @@
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
       "last_submitted_ts": "2026-05-11T03:45:27.911254+00:00",
-      "last_seen_pending_ts": "2026-05-11T21:45:52.932209+00:00",
+      "last_seen_pending_ts": "2026-05-11T22:00:55.734716+00:00",
       "matchups": [
         "PHX@GSV"
       ],
@@ -786,6 +738,47 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-05-11T22:00:55.734716+00:00",
+      "type": "cleared",
+      "team_abbr": "DAL",
+      "player": "Costanza Verona",
+      "previous_status": "Out",
+      "previous_reason": "Coach's Decision"
+    },
+    {
+      "ts": "2026-05-11T22:00:55.734716+00:00",
+      "type": "cleared",
+      "team_abbr": "DAL",
+      "player": "Alanna Smith",
+      "previous_status": "Available",
+      "previous_reason": "Injury/Illness - Face; Nasal Fracture"
+    },
+    {
+      "ts": "2026-05-11T22:00:55.734716+00:00",
+      "type": "cleared",
+      "team_abbr": "DAL",
+      "player": "Aziaha James",
+      "previous_status": "Available",
+      "previous_reason": "Injury/Illness - Left Ankle; Sprain"
+    },
+    {
+      "ts": "2026-05-11T22:00:55.734716+00:00",
+      "type": "added",
+      "team_abbr": "DAL",
+      "player": "Azzi Fudd",
+      "status": "Probable",
+      "reason": "Injury/Illness - Rightknee; Right Knee",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-05-11T22:00:55.734716+00:00",
+      "type": "cleared",
+      "team_abbr": "ATL",
+      "player": "Aaliyah Nye",
+      "previous_status": "Out",
+      "previous_reason": "Not With Team"
+    },
     {
       "ts": "2026-05-10T23:30:18.910845+00:00",
       "type": "added",

@@ -4,6 +4,14 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-05-11 22:00 UTC
+
+- **Aaliyah Nye** (ATL) cleared (was Out)
+- **Azzi Fudd** (DAL) newly listed as **Probable** — Injury/Illness - Rightknee; Right Knee
+- **Aziaha James** (DAL) cleared (was Available)
+- **Alanna Smith** (DAL) cleared (was Available)
+- **Costanza Verona** (DAL) cleared (was Out)
+
 ## 2026-05-10 23:30 UTC
 
 - **Shay Ciezki** (PHX) newly listed as **Out** — Coach's Decision

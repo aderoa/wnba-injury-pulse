@@ -423,5 +423,46 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-11T22:00:55.734716+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Aaliyah Nye",
+    "previous_status": "Out",
+    "previous_reason": "Not With Team"
+  },
+  {
+    "ts": "2026-05-11T22:00:55.734716+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Azzi Fudd",
+    "status": "Probable",
+    "reason": "Injury/Illness - Rightknee; Right Knee",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-11T22:00:55.734716+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Aziaha James",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Left Ankle; Sprain"
+  },
+  {
+    "ts": "2026-05-11T22:00:55.734716+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Alanna Smith",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Face; Nasal Fracture"
+  },
+  {
+    "ts": "2026-05-11T22:00:55.734716+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Costanza Verona",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]

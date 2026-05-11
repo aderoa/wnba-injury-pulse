@@ -1,5 +1,5 @@
 {
-  "report_ts": "05/11/26 05:45 PM",
+  "report_ts": "05/11/26 06:00 PM",
   "page_count": 1,
   "raw_line_count": 6,
   "teams": [
@@ -9,8 +9,16 @@
       "game_date": "05/12/2026",
       "game_time": "08:00(ET)",
       "matchup": "ATL@DAL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Jones, Brionna",
+          "name": "Brionna Jones",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; N/A",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Dallas Wings",
@@ -18,8 +26,16 @@
       "game_date": "05/12/2026",
       "game_time": "08:00(ET)",
       "matchup": "ATL@DAL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Fudd, Azzi",
+          "name": "Azzi Fudd",
+          "status": "Probable",
+          "reason": "Injury/Illness - Rightknee; Right Knee",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Minnesota Lynx",
@@ -58,7 +74,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-11_05_45PM.pdf",
-  "fetched_slot": "2026-05-11T17:45:00-04:00",
-  "polled_at_utc": "2026-05-11T21:45:52.932209+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-11_06_00PM.pdf",
+  "fetched_slot": "2026-05-11T18:00:00-04:00",
+  "polled_at_utc": "2026-05-11T22:00:55.734716+00:00"
 }
