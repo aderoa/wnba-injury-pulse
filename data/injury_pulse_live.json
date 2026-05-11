@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-05-11T13:30:33.797144+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-11_09_30AM.pdf",
-  "report_ts": "05/11/26 09:30 AM",
+  "polled_at_utc": "2026-05-11T13:45:25.593284+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-11_09_45AM.pdf",
+  "report_ts": "05/11/26 09:45 AM",
   "all_players": [
     {
       "name": "Aaliyah Edwards",
@@ -361,7 +361,7 @@
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
       "last_submitted_ts": "2026-05-10T03:45:23.592757+00:00",
-      "last_seen_pending_ts": "2026-05-11T13:30:33.797144+00:00",
+      "last_seen_pending_ts": "2026-05-11T13:45:25.593284+00:00",
       "matchups": [
         "ATL@MIN"
       ],
@@ -464,7 +464,7 @@
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
       "last_submitted_ts": "2026-05-10T03:45:23.592757+00:00",
-      "last_seen_pending_ts": "2026-05-11T13:30:33.797144+00:00",
+      "last_seen_pending_ts": "2026-05-11T13:45:25.593284+00:00",
       "matchups": [
         "DAL@IND"
       ],
@@ -596,7 +596,7 @@
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
       "last_submitted_ts": "2026-05-10T03:45:23.592757+00:00",
-      "last_seen_pending_ts": "2026-05-11T13:30:33.797144+00:00",
+      "last_seen_pending_ts": "2026-05-11T13:45:25.593284+00:00",
       "matchups": [
         "ATL@MIN"
       ],
@@ -628,7 +628,7 @@
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
       "last_submitted_ts": "2026-05-11T03:45:27.911254+00:00",
-      "last_seen_pending_ts": "2026-05-11T13:30:33.797144+00:00",
+      "last_seen_pending_ts": "2026-05-11T13:45:25.593284+00:00",
       "matchups": [
         "NYL@WAS"
       ],
@@ -667,7 +667,7 @@
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
       "last_submitted_ts": "2026-05-10T03:45:23.592757+00:00",
-      "last_seen_pending_ts": "2026-05-11T13:30:33.797144+00:00",
+      "last_seen_pending_ts": "2026-05-11T13:45:25.593284+00:00",
       "matchups": [
         "CHI@PDX"
       ],
@@ -692,7 +692,7 @@
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
       "last_submitted_ts": "2026-05-11T03:45:27.911254+00:00",
-      "last_seen_pending_ts": "2026-05-11T13:30:33.797144+00:00",
+      "last_seen_pending_ts": "2026-05-11T13:45:25.593284+00:00",
       "matchups": [
         "PHX@GSV"
       ],
