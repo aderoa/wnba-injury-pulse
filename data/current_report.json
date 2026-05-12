@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/12/26 04:45 PM",
+  "report_ts": "05/12/26 05:00 PM",
   "page_count": 2,
-  "raw_line_count": 26,
+  "raw_line_count": 29,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -153,8 +153,29 @@
       "game_date": "05/13/2026",
       "game_time": "07:00(ET)",
       "matchup": "SEA@TOR",
-      "submitted": false,
+      "submitted": true,
       "players": [
+        {
+          "name_last_first": "Magbegor, Ezi",
+          "name": "Ezi Magbegor",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Foot; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Mair, Taina",
+          "name": "Taina Mair",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Samuelson, KatieLou",
+          "name": "KatieLou Samuelson",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; Injury",
+          "reason_category": "injury"
+        },
         {
           "name_last_first": "TorontoTempo Fagbenle, Temi",
           "name": "Temi TorontoTempo Fagbenle",
@@ -177,8 +198,23 @@
       "game_date": "05/13/2026",
       "game_time": "08:00(ET)",
       "matchup": "LVA@CON",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Barker, Janiah",
+          "name": "Janiah Barker",
+          "status": "Out",
+          "reason": "Injury/Illness - Head; head",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Evans, Dana",
+          "name": "Dana Evans",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Leg; injury",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Connecticut Sun",
@@ -241,7 +277,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-12_04_45PM.pdf",
-  "fetched_slot": "2026-05-12T16:45:00-04:00",
-  "polled_at_utc": "2026-05-12T20:45:46.400765+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-12_05_00PM.pdf",
+  "fetched_slot": "2026-05-12T17:00:00-04:00",
+  "polled_at_utc": "2026-05-12T21:00:48.562149+00:00"
 }

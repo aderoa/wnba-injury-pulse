@@ -4,6 +4,15 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-05-12 21:00 UTC
+
+- **Temi TorontoTempo Fagbenle** (SEA) newly listed as **Questionable** — Injury/Illness - Right Shoulder; Injury
+- **Isabelle Harrison** (SEA) newly listed as **Out** — Injury/Illness - Right Hand; Injury
+- **Ezi Magbegor** (SEA, Out): reason updated (Injury/Illness - Right Foot; N/A → Injury/Illness - Right Foot; Injury)
+- **KatieLou Samuelson** (SEA, Out): reason updated (Injury/Illness - Right Knee; N/A → Injury/Illness - Right Knee; Injury)
+- **Janiah Barker** (LVA, Out): reason updated (Injury/Illness - head; out → Injury/Illness - Head; head)
+- **Dana Evans** (LVA, Out): reason updated (Injury/Illness - Leftleg; out → Injury/Illness - Left Leg; injury)
+
 ## 2026-05-12 20:45 UTC
 
 - **Ashlon Jackson** (CON) cleared (was Out)
