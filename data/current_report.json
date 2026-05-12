@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/12/26 04:30 PM",
+  "report_ts": "05/12/26 04:45 PM",
   "page_count": 2,
-  "raw_line_count": 25,
+  "raw_line_count": 26,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -186,8 +186,23 @@
       "game_date": "05/13/2026",
       "game_time": "08:00(ET)",
       "matchup": "LVA@CON",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Edwards, Aaliyah",
+          "name": "Aaliyah Edwards",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Thigh; Adductor",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Peddy, Shey",
+          "name": "Shey Peddy",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; OA",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Chicago Sky",
@@ -226,7 +241,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-12_04_30PM.pdf",
-  "fetched_slot": "2026-05-12T16:30:00-04:00",
-  "polled_at_utc": "2026-05-12T20:30:50.395119+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-12_04_45PM.pdf",
+  "fetched_slot": "2026-05-12T16:45:00-04:00",
+  "polled_at_utc": "2026-05-12T20:45:46.400765+00:00"
 }
