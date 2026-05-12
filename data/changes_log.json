@@ -523,5 +523,59 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Right Knee; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-12T00:00:57.660307+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Liatu King",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - NA"
+  },
+  {
+    "ts": "2026-05-12T00:00:57.660307+00:00",
+    "type": "reason_change",
+    "team_abbr": "MIN",
+    "player": "Dorka Juhasz",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Right Foot; NA",
+    "to_reason": "Injury/Illness - Right Foot; Right Foot",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-12T00:00:57.660307+00:00",
+    "type": "reason_change",
+    "team_abbr": "MIN",
+    "player": "Napheesa Collier",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Ankle; NA",
+    "to_reason": "Injury/Illness - Left Ankle; Left Ankle",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-12T00:00:57.660307+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Shay Ciezki",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-05-12T00:00:57.660307+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Marta Suarez",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-05-12T00:00:57.660307+00:00",
+    "type": "reason_change",
+    "team_abbr": "PHX",
+    "player": "Sami Whitcomb",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Knee;",
+    "to_reason": "Injury/Illness - Left Knee; Arthroscopy",
+    "reason_category": "injury"
   }
 ]

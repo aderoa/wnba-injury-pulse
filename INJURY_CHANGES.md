@@ -4,6 +4,15 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-05-12 00:00 UTC
+
+- **Liatu King** (MIN) cleared (was Out)
+- **Dorka Juhasz** (MIN, Out): reason updated (Injury/Illness - Right Foot; NA → Injury/Illness - Right Foot; Right Foot)
+- **Napheesa Collier** (MIN, Out): reason updated (Injury/Illness - Left Ankle; NA → Injury/Illness - Left Ankle; Left Ankle)
+- **Shay Ciezki** (PHX) cleared (was Out)
+- **Marta Suarez** (PHX) cleared (was Out)
+- **Sami Whitcomb** (PHX, Out): reason updated (Injury/Illness - Left Knee; → Injury/Illness - Left Knee; Arthroscopy)
+
 ## 2026-05-11 23:30 UTC
 
 - **Sabrina Ionescu** (NYL, Out): reason updated (Injury/Illness - Left Foot; NWT → Injury/Illness - Left Foot; Foot)
