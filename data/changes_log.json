@@ -653,5 +653,23 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Rightknee; Right Knee",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-12T22:45:41.378832+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Dulcy FankamMendjiadeu",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-12T22:45:41.378832+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Costanza Verona",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]

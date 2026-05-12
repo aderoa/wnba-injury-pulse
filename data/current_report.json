@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/12/26 06:30 PM",
+  "report_ts": "05/12/26 06:45 PM",
   "page_count": 2,
-  "raw_line_count": 29,
+  "raw_line_count": 31,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -29,11 +29,25 @@
       "submitted": true,
       "players": [
         {
+          "name_last_first": "FankamMendjiadeu, Dulcy",
+          "name": "Dulcy FankamMendjiadeu",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Fudd, Azzi",
           "name": "Azzi Fudd",
           "status": "Out",
           "reason": "Injury/Illness - Rightknee; Right Knee",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Verona, Costanza",
+          "name": "Costanza Verona",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -277,7 +291,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-12_06_30PM.pdf",
-  "fetched_slot": "2026-05-12T18:30:00-04:00",
-  "polled_at_utc": "2026-05-12T22:36:19.467148+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-12_06_45PM.pdf",
+  "fetched_slot": "2026-05-12T18:45:00-04:00",
+  "polled_at_utc": "2026-05-12T22:45:41.378832+00:00"
 }
