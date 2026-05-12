@@ -2,8 +2,8 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-05-12T03:45:50.283382+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-11_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-12T04:01:01.259671+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-12_12_00AM.pdf",
     "game_dates": [
       "05/12/2026"
     ],
@@ -46,13 +46,14 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-05-12T04:01:01.259671+00:00"
   },
   "PHX": {
     "team_full": "Phoenix Mercury",
     "submitted": true,
-    "last_submitted_ts": "2026-05-12T03:45:50.283382+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-11_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-12T04:01:01.259671+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-12_12_00AM.pdf",
     "game_dates": [
       "05/12/2026"
     ],
@@ -95,13 +96,14 @@
         "reason": "Injury/Illness - Leftleg; out",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-05-12T04:01:01.259671+00:00"
   },
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-05-12T03:45:50.283382+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-11_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-12T04:01:01.259671+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-12_12_00AM.pdf",
     "game_dates": [
       "05/12/2026"
     ],
@@ -121,8 +123,8 @@
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-05-12T03:45:50.283382+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-11_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-12T04:01:01.259671+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-12_12_00AM.pdf",
     "game_dates": [
       "05/12/2026"
     ],
@@ -193,13 +195,14 @@
         "reason": "Returnto Competition Reconditioning",
         "reason_category": "other"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-05-12T04:01:01.259671+00:00"
   },
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-05-12T03:45:50.283382+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-11_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-12T04:01:01.259671+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-12_12_00AM.pdf",
     "game_dates": [
       "05/12/2026"
     ],
@@ -263,7 +266,8 @@
         "reason": "Injury/Illness - Right Knee; N/A",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-05-12T04:01:01.259671+00:00"
   },
   "CON": {
     "team_full": "Connecticut Sun",
@@ -298,13 +302,14 @@
         "reason": "Injury/Illness - Left Knee; OA",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-05-12T04:01:01.259671+00:00"
   },
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-05-12T03:45:50.283382+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-11_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-12T04:01:01.259671+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-12_12_00AM.pdf",
     "game_dates": [
       "05/12/2026"
     ],
@@ -403,7 +408,8 @@
         "reason": "dislocation Injury/Illness - head; Concussion protocol",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-05-12T04:01:01.259671+00:00"
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",
@@ -431,6 +437,7 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-05-12T04:01:01.259671+00:00"
   }
 }

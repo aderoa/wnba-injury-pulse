@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/11/26 11:45 PM",
-  "page_count": 1,
-  "raw_line_count": 16,
+  "report_ts": "05/12/26 12:00 AM",
+  "page_count": 2,
+  "raw_line_count": 24,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -146,9 +146,72 @@
           "reason_category": "injury"
         }
       ]
+    },
+    {
+      "team_full": "Seattle Storm",
+      "team_abbr": "SEA",
+      "game_date": "05/13/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "SEA@TOR",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Las Vegas Aces",
+      "team_abbr": "LVA",
+      "game_date": "05/13/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "LVA@CON",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Connecticut Sun",
+      "team_abbr": "CON",
+      "game_date": "05/13/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "LVA@CON",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Chicago Sky",
+      "team_abbr": "CHI",
+      "game_date": "05/13/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "CHI@GSV",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Golden State Valkyries",
+      "team_abbr": "GSV",
+      "game_date": "05/13/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "CHI@GSV",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Indiana Fever",
+      "team_abbr": "IND",
+      "game_date": "05/13/2026",
+      "game_time": "10:30(ET)",
+      "matchup": "IND@LAS",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Los Angeles Sparks",
+      "team_abbr": "LAS",
+      "game_date": "05/13/2026",
+      "game_time": "10:30(ET)",
+      "matchup": "IND@LAS",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-11_11_45PM.pdf",
-  "fetched_slot": "2026-05-11T23:45:00-04:00",
-  "polled_at_utc": "2026-05-12T03:45:50.283382+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-12_12_00AM.pdf",
+  "fetched_slot": "2026-05-12T00:00:00-04:00",
+  "polled_at_utc": "2026-05-12T04:01:01.259671+00:00"
 }
