@@ -1,5 +1,5 @@
 {
-  "report_ts": "05/13/26 12:30 PM",
+  "report_ts": "05/13/26 12:45 PM",
   "page_count": 2,
   "raw_line_count": 24,
   "teams": [
@@ -35,7 +35,7 @@
         {
           "name_last_first": "TorontoTempo Fagbenle, Temi",
           "name": "Temi TorontoTempo Fagbenle",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Right Shoulder; Injury",
           "reason_category": "injury"
         },
@@ -226,7 +226,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-13_12_30PM.pdf",
-  "fetched_slot": "2026-05-13T12:30:00-04:00",
-  "polled_at_utc": "2026-05-13T16:30:20.960187+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-13_12_45PM.pdf",
+  "fetched_slot": "2026-05-13T12:45:00-04:00",
+  "polled_at_utc": "2026-05-13T16:45:18.263566+00:00"
 }

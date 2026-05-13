@@ -791,5 +791,15 @@
     "status": "Out",
     "reason": "Injury/Illness - Left Foot; Sprain",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-13T16:45:18.263566+00:00",
+    "type": "status_change",
+    "team_abbr": "SEA",
+    "player": "Temi TorontoTempo Fagbenle",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Shoulder; Injury",
+    "reason_category": "injury"
   }
 ]
