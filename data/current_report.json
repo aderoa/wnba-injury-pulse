@@ -1,194 +1,8 @@
 {
-  "report_ts": "05/12/26 11:45 PM",
+  "report_ts": "05/13/26 12:00 AM",
   "page_count": 2,
-  "raw_line_count": 41,
+  "raw_line_count": 23,
   "teams": [
-    {
-      "team_full": "Atlanta Dream",
-      "team_abbr": "ATL",
-      "game_date": "05/12/2026",
-      "game_time": "08:00(ET)",
-      "matchup": "ATL@DAL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Jones, Brionna",
-          "name": "Brionna Jones",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee; N/A",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Dallas Wings",
-      "team_abbr": "DAL",
-      "game_date": "05/12/2026",
-      "game_time": "08:00(ET)",
-      "matchup": "ATL@DAL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "FankamMendjiadeu, Dulcy",
-          "name": "Dulcy FankamMendjiadeu",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Fudd, Azzi",
-          "name": "Azzi Fudd",
-          "status": "Out",
-          "reason": "Injury/Illness - Rightknee; Right Knee",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Verona, Costanza",
-          "name": "Costanza Verona",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Minnesota Lynx",
-      "team_abbr": "MIN",
-      "game_date": "05/12/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "MIN@PHX",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Collier, Napheesa",
-          "name": "Napheesa Collier",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Ankle; Left Ankle",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Hof, Emese",
-          "name": "Emese Hof",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Juhasz, Dorka",
-          "name": "Dorka Juhasz",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Foot; Right Foot",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "King, Liatu",
-          "name": "Liatu King",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Phoenix Mercury",
-      "team_abbr": "PHX",
-      "game_date": "05/12/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "MIN@PHX",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Ciezki, Shay",
-          "name": "Shay Ciezki",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Suarez, Marta",
-          "name": "Marta Suarez",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Whitcomb, Sami",
-          "name": "Sami Whitcomb",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Knee; Arthroscopy",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "New York Liberty",
-      "team_abbr": "NYL",
-      "game_date": "05/12/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "NYL@PDX",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Allen, Rebecca",
-          "name": "Rebecca Allen",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Leg; Leg",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Fauthoux, Marine",
-          "name": "Marine Fauthoux",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Knee; Rehabilitation",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Ionescu, Sabrina",
-          "name": "Sabrina Ionescu",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Foot; Foot",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Sabally, Satou",
-          "name": "Satou Sabally",
-          "status": "Out",
-          "reason": "Injury/Illness - Cyst; Cyst",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Portland Fire",
-      "team_abbr": "PDX",
-      "game_date": "05/12/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "NYL@PDX",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Samuelson, Karlie",
-          "name": "Karlie Samuelson",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Foot; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Smalls, Kamiah",
-          "name": "Kamiah Smalls",
-          "status": "Available",
-          "reason": "-",
-          "reason_category": "other"
-        },
-        {
-          "name_last_first": "Sutton, Sug",
-          "name": "Sug Sutton",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee; Injury",
-          "reason_category": "injury"
-        }
-      ]
-    },
     {
       "team_full": "Seattle Storm",
       "team_abbr": "SEA",
@@ -367,9 +181,45 @@
           "reason_category": "injury"
         }
       ]
+    },
+    {
+      "team_full": "Minnesota Lynx",
+      "team_abbr": "MIN",
+      "game_date": "05/14/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "MIN@DAL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Dallas Wings",
+      "team_abbr": "DAL",
+      "game_date": "05/14/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "MIN@DAL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "New York Liberty",
+      "team_abbr": "NYL",
+      "game_date": "05/14/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "NYL@PDX",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Portland Fire",
+      "team_abbr": "PDX",
+      "game_date": "05/14/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "NYL@PDX",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-12_11_45PM.pdf",
-  "fetched_slot": "2026-05-12T23:45:00-04:00",
-  "polled_at_utc": "2026-05-13T03:45:20.430780+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-13_12_00AM.pdf",
+  "fetched_slot": "2026-05-13T00:00:00-04:00",
+  "polled_at_utc": "2026-05-13T04:00:23.795867+00:00"
 }
