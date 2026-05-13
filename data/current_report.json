@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/12/26 08:45 PM",
+  "report_ts": "05/12/26 09:00 PM",
   "page_count": 2,
-  "raw_line_count": 37,
+  "raw_line_count": 39,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -67,11 +67,25 @@
           "reason_category": "injury"
         },
         {
+          "name_last_first": "Hof, Emese",
+          "name": "Emese Hof",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Juhasz, Dorka",
           "name": "Dorka Juhasz",
           "status": "Out",
           "reason": "Injury/Illness - Right Foot; Right Foot",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "King, Liatu",
+          "name": "Liatu King",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -341,7 +355,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-12_08_45PM.pdf",
-  "fetched_slot": "2026-05-12T20:45:00-04:00",
-  "polled_at_utc": "2026-05-13T00:45:43.746352+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-12_09_00PM.pdf",
+  "fetched_slot": "2026-05-12T21:00:00-04:00",
+  "polled_at_utc": "2026-05-13T01:00:39.049276+00:00"
 }
