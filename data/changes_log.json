@@ -843,5 +843,15 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Right Knee; n/a",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-13T23:16:08.680867+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Rebecca Allen",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Leg; Leg",
+    "reason_category": "injury"
   }
 ]

@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/13/26 07:00 PM",
+  "report_ts": "05/13/26 07:15 PM",
   "page_count": 2,
-  "raw_line_count": 25,
+  "raw_line_count": 30,
   "teams": [
     {
       "team_full": "Seattle Storm",
@@ -236,8 +236,37 @@
       "game_date": "05/14/2026",
       "game_time": "10:00(ET)",
       "matchup": "NYL@PDX",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Allen, Rebecca",
+          "name": "Rebecca Allen",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Leg; Leg",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Fauthoux, Marine",
+          "name": "Marine Fauthoux",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Rehabilitation",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Ionescu, Sabrina",
+          "name": "Sabrina Ionescu",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Foot; Foot",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sabally, Satou",
+          "name": "Satou Sabally",
+          "status": "Out",
+          "reason": "Injury/Illness - Cyst; Cyst",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Portland Fire",
@@ -249,7 +278,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-13_07_00PM.pdf",
-  "fetched_slot": "2026-05-13T19:00:00-04:00",
-  "polled_at_utc": "2026-05-13T23:08:24.869192+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-13_07_15PM.pdf",
+  "fetched_slot": "2026-05-13T19:15:00-04:00",
+  "polled_at_utc": "2026-05-13T23:16:08.680867+00:00"
 }
