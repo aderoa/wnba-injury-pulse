@@ -4,6 +4,14 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-05-13 00:15 UTC
+
+- **Tiffany Hayes** (GSV, Out): reason updated (Arthroscopy Injury/Illness - Leftpinky; Pinky → Injury/Illness - Left Pinky; Dislocation)
+- **Cecilia Zandalasini** (GSV, Out): reason updated (dislocation Injury/Illness - head; Concussion protocol → Injury/Illness - Head; Concussions)
+- **Sania Feagin** (LAS) newly listed as **Out** — Injury/Illness - Left Leg; Left Leg
+- **Kate Martin** (LAS) cleared (was Out)
+- **Laura Ziegler** (LAS) cleared (was Out)
+
 ## 2026-05-13 00:00 UTC
 
 - **Kamiah Smalls** (PDX): **Questionable** → **Available** — -

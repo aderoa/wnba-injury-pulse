@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/12/26 08:00 PM",
+  "report_ts": "05/12/26 08:15 PM",
   "page_count": 2,
-  "raw_line_count": 36,
+  "raw_line_count": 37,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -305,8 +305,23 @@
       "game_date": "05/13/2026",
       "game_time": "10:00(ET)",
       "matchup": "CHI@GSV",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Hayes, Tiffany",
+          "name": "Tiffany Hayes",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Pinky; Dislocation",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Zandalasini, Cecilia",
+          "name": "Cecilia Zandalasini",
+          "status": "Out",
+          "reason": "Injury/Illness - Head; Concussions",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Los Angeles Sparks",
@@ -314,11 +329,19 @@
       "game_date": "05/13/2026",
       "game_time": "10:30(ET)",
       "matchup": "IND@LAS",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Feagin, Sania",
+          "name": "Sania Feagin",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Leg; Left Leg",
+          "reason_category": "injury"
+        }
+      ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-12_08_00PM.pdf",
-  "fetched_slot": "2026-05-12T20:00:00-04:00",
-  "polled_at_utc": "2026-05-13T00:00:59.500873+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-12_08_15PM.pdf",
+  "fetched_slot": "2026-05-12T20:15:00-04:00",
+  "polled_at_utc": "2026-05-13T00:15:39.343838+00:00"
 }

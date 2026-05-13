@@ -701,5 +701,50 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Right Knee; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-13T00:15:39.343838+00:00",
+    "type": "reason_change",
+    "team_abbr": "GSV",
+    "player": "Tiffany Hayes",
+    "status": "Out",
+    "from_reason": "Arthroscopy Injury/Illness - Leftpinky; Pinky",
+    "to_reason": "Injury/Illness - Left Pinky; Dislocation",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-13T00:15:39.343838+00:00",
+    "type": "reason_change",
+    "team_abbr": "GSV",
+    "player": "Cecilia Zandalasini",
+    "status": "Out",
+    "from_reason": "dislocation Injury/Illness - head; Concussion protocol",
+    "to_reason": "Injury/Illness - Head; Concussions",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-13T00:15:39.343838+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Sania Feagin",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Leg; Left Leg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-13T00:15:39.343838+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Kate Martin",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-05-13T00:15:39.343838+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Laura Ziegler",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]
