@@ -782,5 +782,14 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-13T15:45:31.570227+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Brittney Griner",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Foot; Sprain",
+    "reason_category": "injury"
   }
 ]

@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/13/26 11:30 AM",
+  "report_ts": "05/13/26 11:45 AM",
   "page_count": 2,
-  "raw_line_count": 23,
+  "raw_line_count": 24,
   "teams": [
     {
       "team_full": "Seattle Storm",
@@ -85,6 +85,13 @@
           "name": "Aaliyah Edwards",
           "status": "Out",
           "reason": "Injury/Illness - Left Thigh; Adductor",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Griner, Brittney",
+          "name": "Brittney Griner",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Foot; Sprain",
           "reason_category": "injury"
         },
         {
@@ -219,7 +226,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-13_11_30AM.pdf",
-  "fetched_slot": "2026-05-13T11:30:00-04:00",
-  "polled_at_utc": "2026-05-13T15:30:22.419021+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-13_11_45AM.pdf",
+  "fetched_slot": "2026-05-13T11:45:00-04:00",
+  "polled_at_utc": "2026-05-13T15:45:31.570227+00:00"
 }
