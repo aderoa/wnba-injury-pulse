@@ -681,5 +681,25 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - N/a; Illness",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-13T00:00:59.500873+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Kamiah Smalls",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-05-13T00:00:59.500873+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Sug Sutton",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Knee; Injury",
+    "reason_category": "injury"
   }
 ]

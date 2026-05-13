@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/12/26 07:45 PM",
+  "report_ts": "05/12/26 08:00 PM",
   "page_count": 2,
-  "raw_line_count": 37,
+  "raw_line_count": 36,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -148,14 +148,14 @@
         {
           "name_last_first": "Smalls, Kamiah",
           "name": "Kamiah Smalls",
-          "status": "Questionable",
-          "reason": "Injury/Illness - Left Knee; Injury",
-          "reason_category": "injury"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
         },
         {
           "name_last_first": "Sutton, Sug",
           "name": "Sug Sutton",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Right Knee; Injury",
           "reason_category": "injury"
         }
@@ -309,15 +309,6 @@
       "players": []
     },
     {
-      "team_full": "Indiana Fever",
-      "team_abbr": "IND",
-      "game_date": "05/13/2026",
-      "game_time": "10:30(ET)",
-      "matchup": "IND@LAS",
-      "submitted": false,
-      "players": []
-    },
-    {
       "team_full": "Los Angeles Sparks",
       "team_abbr": "LAS",
       "game_date": "05/13/2026",
@@ -327,7 +318,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-12_07_45PM.pdf",
-  "fetched_slot": "2026-05-12T19:45:00-04:00",
-  "polled_at_utc": "2026-05-12T23:45:46.837704+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-12_08_00PM.pdf",
+  "fetched_slot": "2026-05-12T20:00:00-04:00",
+  "polled_at_utc": "2026-05-13T00:00:59.500873+00:00"
 }
