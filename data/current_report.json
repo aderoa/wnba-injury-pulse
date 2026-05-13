@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/13/26 05:45 PM",
+  "report_ts": "05/13/26 06:00 PM",
   "page_count": 2,
-  "raw_line_count": 24,
+  "raw_line_count": 25,
   "teams": [
     {
       "team_full": "Seattle Storm",
@@ -195,8 +195,23 @@
       "game_date": "05/14/2026",
       "game_time": "08:00(ET)",
       "matchup": "MIN@DAL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Collier, Napheesa",
+          "name": "Napheesa Collier",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; Left Ankle",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Juhasz, Dorka",
+          "name": "Dorka Juhasz",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Foot; Right Foot",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Dallas Wings",
@@ -204,8 +219,16 @@
       "game_date": "05/14/2026",
       "game_time": "08:00(ET)",
       "matchup": "MIN@DAL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Fudd, Azzi",
+          "name": "Azzi Fudd",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Knee; n/a",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "New York Liberty",
@@ -226,7 +249,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-13_05_45PM.pdf",
-  "fetched_slot": "2026-05-13T17:45:00-04:00",
-  "polled_at_utc": "2026-05-13T21:54:00.639191+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-13_06_00PM.pdf",
+  "fetched_slot": "2026-05-13T18:00:00-04:00",
+  "polled_at_utc": "2026-05-13T22:01:16.046724+00:00"
 }

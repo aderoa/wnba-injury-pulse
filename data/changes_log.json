@@ -801,5 +801,47 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Right Shoulder; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-13T22:01:16.046724+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Emese Hof",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-05-13T22:01:16.046724+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Liatu King",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-05-13T22:01:16.046724+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Dulcy FankamMendjiadeu",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-05-13T22:01:16.046724+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Costanza Verona",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-05-13T22:01:16.046724+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Azzi Fudd",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Right Knee; n/a",
+    "reason_category": "injury"
   }
 ]
