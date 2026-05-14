@@ -1039,5 +1039,15 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-14T23:00:17.442533+00:00",
+    "type": "status_change",
+    "team_abbr": "MIN",
+    "player": "Nia Coffey",
+    "from_status": "Questionable",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Right Shoulder; Right Shoulder",
+    "reason_category": "injury"
   }
 ]

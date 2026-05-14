@@ -1,5 +1,5 @@
 {
-  "report_ts": "05/14/26 06:45 PM",
+  "report_ts": "05/14/26 07:00 PM",
   "page_count": 2,
   "raw_line_count": 25,
   "teams": [
@@ -14,7 +14,7 @@
         {
           "name_last_first": "Coffey, Nia",
           "name": "Nia Coffey",
-          "status": "Questionable",
+          "status": "Probable",
           "reason": "Injury/Illness - Right Shoulder; Right Shoulder",
           "reason_category": "injury"
         },
@@ -222,7 +222,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-14_06_45PM.pdf",
-  "fetched_slot": "2026-05-14T18:45:00-04:00",
-  "polled_at_utc": "2026-05-14T22:45:15.694445+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-14_07_00PM.pdf",
+  "fetched_slot": "2026-05-14T19:00:00-04:00",
+  "polled_at_utc": "2026-05-14T23:00:17.442533+00:00"
 }
