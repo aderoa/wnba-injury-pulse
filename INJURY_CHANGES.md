@@ -4,6 +4,13 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-05-14 21:00 UTC
+
+- **Dana Evans** (LVA, Out): reason updated (Injury/Illness - Left Leg; injury → Injury/Illness - Left Leg; leg)
+- **Alicia FlorezGetino** (WAS) cleared (was Out)
+- **Cotie McMahon** (WAS) cleared (was Out)
+- **Michaela Onyenwere** (WAS, Out): reason updated (Injury/Illness - Left Knee; Injury Management → Injury/Illness - Left Knee; Injury management)
+
 ## 2026-05-14 20:45 UTC
 
 - **Olivia Nelson-Ododa** (CON) newly listed as **Questionable** — Injury/Illness - Right Ankle; Sprain

@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/14/26 04:45 PM",
+  "report_ts": "05/14/26 05:00 PM",
   "page_count": 2,
-  "raw_line_count": 23,
+  "raw_line_count": 25,
   "teams": [
     {
       "team_full": "Minnesota Lynx",
@@ -126,8 +126,23 @@
       "game_date": "05/15/2026",
       "game_time": "07:30(ET)",
       "matchup": "LVA@CON",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Barker, Janiah",
+          "name": "Janiah Barker",
+          "status": "Out",
+          "reason": "Injury/Illness - Head; head",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Evans, Dana",
+          "name": "Dana Evans",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Leg; leg",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Connecticut Sun",
@@ -152,17 +167,16 @@
       "game_date": "05/15/2026",
       "game_time": "07:30(ET)",
       "matchup": "WAS@IND",
-      "submitted": false,
-      "players": []
-    },
-    {
-      "team_full": "Indiana Fever",
-      "team_abbr": "IND",
-      "game_date": "05/15/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "WAS@IND",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Onyenwere, Michaela",
+          "name": "Michaela Onyenwere",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Injury management",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Chicago Sky",
@@ -201,7 +215,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-14_04_45PM.pdf",
-  "fetched_slot": "2026-05-14T16:45:00-04:00",
-  "polled_at_utc": "2026-05-14T20:45:18.238932+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-14_05_00PM.pdf",
+  "fetched_slot": "2026-05-14T17:00:00-04:00",
+  "polled_at_utc": "2026-05-14T21:00:16.935426+00:00"
 }

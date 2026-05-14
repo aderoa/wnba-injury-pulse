@@ -984,5 +984,41 @@
     "player": "Shey Peddy",
     "previous_status": "Out",
     "previous_reason": "Injury/Illness - Left Knee; OA"
+  },
+  {
+    "ts": "2026-05-14T21:00:16.935426+00:00",
+    "type": "reason_change",
+    "team_abbr": "LVA",
+    "player": "Dana Evans",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Leg; injury",
+    "to_reason": "Injury/Illness - Left Leg; leg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-14T21:00:16.935426+00:00",
+    "type": "cleared",
+    "team_abbr": "WAS",
+    "player": "Alicia FlorezGetino",
+    "previous_status": "Out",
+    "previous_reason": "Personal Reasons"
+  },
+  {
+    "ts": "2026-05-14T21:00:16.935426+00:00",
+    "type": "cleared",
+    "team_abbr": "WAS",
+    "player": "Cotie McMahon",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Elbow; Sprain"
+  },
+  {
+    "ts": "2026-05-14T21:00:16.935426+00:00",
+    "type": "reason_change",
+    "team_abbr": "WAS",
+    "player": "Michaela Onyenwere",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Knee; Injury Management",
+    "to_reason": "Injury/Illness - Left Knee; Injury management",
+    "reason_category": "injury"
   }
 ]
