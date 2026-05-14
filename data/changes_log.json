@@ -1059,5 +1059,21 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Right Shoulder; Right Shoulder",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-14T23:45:15.155594+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Natasha Cloud",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - N/a; Illness"
+  },
+  {
+    "ts": "2026-05-14T23:45:15.155594+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Maddy Westbeld",
+    "previous_status": "Out",
+    "previous_reason": "Returnto Competition Reconditioning"
   }
 ]
