@@ -1020,5 +1020,15 @@
     "from_reason": "Injury/Illness - Left Knee; Injury Management",
     "to_reason": "Injury/Illness - Left Knee; Injury management",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-14T22:00:17.514398+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Azzi Fudd",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Knee; n/a",
+    "reason_category": "injury"
   }
 ]
