@@ -4,6 +4,14 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-05-14 20:45 UTC
+
+- **Olivia Nelson-Ododa** (CON) newly listed as **Questionable** — Injury/Illness - Right Ankle; Sprain
+- **Aaliyah Edwards** (CON) cleared (was Out)
+- **Brittney Griner** (CON) cleared (was Out)
+- **Ashlon Jackson** (CON) cleared (was Out)
+- **Shey Peddy** (CON) cleared (was Out)
+
 ## 2026-05-14 18:00 UTC
 
 - **Nia Coffey** (MIN) newly listed as **Questionable** — Injury/Illness - Right Shoulder; Right Shoulder

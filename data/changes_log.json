@@ -943,5 +943,46 @@
     "status": "Questionable",
     "reason": "Injury/Illness - Right Shoulder; Right Shoulder",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-14T20:45:18.238932+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Olivia Nelson-Ododa",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Right Ankle; Sprain",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-14T20:45:18.238932+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Aaliyah Edwards",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Thigh; Adductor"
+  },
+  {
+    "ts": "2026-05-14T20:45:18.238932+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Brittney Griner",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Foot; Sprain"
+  },
+  {
+    "ts": "2026-05-14T20:45:18.238932+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Ashlon Jackson",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-05-14T20:45:18.238932+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Shey Peddy",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Knee; OA"
   }
 ]
