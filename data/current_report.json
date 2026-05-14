@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/14/26 01:45 PM",
+  "report_ts": "05/14/26 02:00 PM",
   "page_count": 2,
-  "raw_line_count": 20,
+  "raw_line_count": 23,
   "teams": [
     {
       "team_full": "Minnesota Lynx",
@@ -11,6 +11,13 @@
       "matchup": "MIN@DAL",
       "submitted": true,
       "players": [
+        {
+          "name_last_first": "Coffey, Nia",
+          "name": "Nia Coffey",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Shoulder; Right Shoulder",
+          "reason_category": "injury"
+        },
         {
           "name_last_first": "Collier, Napheesa",
           "name": "Napheesa Collier",
@@ -186,7 +193,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-14_01_45PM.pdf",
-  "fetched_slot": "2026-05-14T13:45:00-04:00",
-  "polled_at_utc": "2026-05-14T17:45:16.029971+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-14_02_00PM.pdf",
+  "fetched_slot": "2026-05-14T14:00:00-04:00",
+  "polled_at_utc": "2026-05-14T18:00:18.187255+00:00"
 }
