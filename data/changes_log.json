@@ -907,5 +907,32 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-14T01:01:14.322853+00:00",
+    "type": "status_change",
+    "team_abbr": "CHI",
+    "player": "Natasha Cloud",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - N/a; Illness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-14T01:01:14.322853+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Bree Hall",
+    "status": "Out",
+    "reason": "Not With Team",
+    "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-05-14T01:01:14.322853+00:00",
+    "type": "cleared",
+    "team_abbr": "IND",
+    "player": "Monique Billings",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Right Ankle; Right Ankle"
   }
 ]

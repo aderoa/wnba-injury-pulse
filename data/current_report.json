@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/13/26 08:45 PM",
+  "report_ts": "05/13/26 09:00 PM",
   "page_count": 2,
-  "raw_line_count": 35,
+  "raw_line_count": 37,
   "teams": [
     {
       "team_full": "Seattle Storm",
@@ -128,7 +128,7 @@
         {
           "name_last_first": "Cloud, Natasha",
           "name": "Natasha Cloud",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - N/a; Illness",
           "reason_category": "injury"
         },
@@ -176,6 +176,30 @@
           "status": "Out",
           "reason": "Injury/Illness - Head; Concussions",
           "reason_category": "injury"
+        }
+      ]
+    },
+    {
+      "team_full": "Indiana Fever",
+      "team_abbr": "IND",
+      "game_date": "05/13/2026",
+      "game_time": "10:30(ET)",
+      "matchup": "IND@LAS",
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Hall, Bree",
+          "name": "Bree Hall",
+          "status": "Out",
+          "reason": "Not With Team",
+          "reason_category": "offcourt"
+        },
+        {
+          "name_last_first": "Pissott, Justine",
+          "name": "Justine Pissott",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -321,7 +345,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-13_08_45PM.pdf",
-  "fetched_slot": "2026-05-13T20:45:00-04:00",
-  "polled_at_utc": "2026-05-14T00:46:07.247592+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-13_09_00PM.pdf",
+  "fetched_slot": "2026-05-13T21:00:00-04:00",
+  "polled_at_utc": "2026-05-14T01:01:14.322853+00:00"
 }
