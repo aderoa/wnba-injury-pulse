@@ -1154,5 +1154,25 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Right Knee; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-15T01:31:12.174928+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Rebecca Allen",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Leg; Leg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-15T01:31:12.174928+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Carla Leite",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Ankle; Injury",
+    "reason_category": "injury"
   }
 ]

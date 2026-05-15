@@ -1,5 +1,5 @@
 {
-  "report_ts": "05/14/26 09:15 PM",
+  "report_ts": "05/14/26 09:30 PM",
   "page_count": 2,
   "raw_line_count": 33,
   "teams": [
@@ -69,7 +69,7 @@
         {
           "name_last_first": "Allen, Rebecca",
           "name": "Rebecca Allen",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Left Leg; Leg",
           "reason_category": "injury"
         },
@@ -107,7 +107,7 @@
         {
           "name_last_first": "Leite, Carla",
           "name": "Carla Leite",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Right Ankle; Injury",
           "reason_category": "injury"
         },
@@ -282,7 +282,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-14_09_15PM.pdf",
-  "fetched_slot": "2026-05-14T21:15:00-04:00",
-  "polled_at_utc": "2026-05-15T01:16:12.881753+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-14_09_30PM.pdf",
+  "fetched_slot": "2026-05-14T21:30:00-04:00",
+  "polled_at_utc": "2026-05-15T01:31:12.174928+00:00"
 }
