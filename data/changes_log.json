@@ -1183,5 +1183,24 @@
     "status": "Out",
     "reason": "Injury/Illness - Right Knee; Right Knee",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-15T20:30:21.125135+00:00",
+    "type": "added",
+    "team_abbr": "WAS",
+    "player": "Georgia Amoore",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Right Knee; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-15T20:30:21.125135+00:00",
+    "type": "reason_change",
+    "team_abbr": "WAS",
+    "player": "Michaela Onyenwere",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Knee; Injury management",
+    "to_reason": "Management Injury/Illness - Left Knee; Injury management",
+    "reason_category": "injury"
   }
 ]
