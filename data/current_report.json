@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/15/26 06:15 PM",
+  "report_ts": "05/15/26 06:30 PM",
   "page_count": 2,
-  "raw_line_count": 24,
+  "raw_line_count": 26,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -63,14 +63,28 @@
           "name_last_first": "Amoore, Georgia",
           "name": "Georgia Amoore",
           "status": "Questionable",
-          "reason": "Injury/Illness - Right Knee; Injury",
+          "reason": "Injury/Illness - Right Knee; Injury Management",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "FlorezGetino, Alicia",
+          "name": "Alicia FlorezGetino",
+          "status": "Out",
+          "reason": "Personal Reasons",
+          "reason_category": "offcourt"
+        },
+        {
+          "name_last_first": "Littlepage-Buggs, Darianna",
+          "name": "Darianna Littlepage-Buggs",
+          "status": "Out",
+          "reason": "Not With Team",
+          "reason_category": "offcourt"
         },
         {
           "name_last_first": "Onyenwere, Michaela",
           "name": "Michaela Onyenwere",
           "status": "Out",
-          "reason": "Management Injury/Illness - Left Knee; Injury management",
+          "reason": "Injury/Illness - Left Knee; Injury management",
           "reason_category": "injury"
         }
       ]
@@ -196,7 +210,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-15_06_15PM.pdf",
-  "fetched_slot": "2026-05-15T18:15:00-04:00",
-  "polled_at_utc": "2026-05-15T22:15:25.645124+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-15_06_30PM.pdf",
+  "fetched_slot": "2026-05-15T18:30:00-04:00",
+  "polled_at_utc": "2026-05-15T22:30:29.852120+00:00"
 }

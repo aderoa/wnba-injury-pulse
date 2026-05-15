@@ -1231,5 +1231,43 @@
     "from_reason": "Not With Team",
     "to_reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-15T22:30:29.852120+00:00",
+    "type": "added",
+    "team_abbr": "WAS",
+    "player": "Alicia FlorezGetino",
+    "status": "Out",
+    "reason": "Personal Reasons",
+    "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-05-15T22:30:29.852120+00:00",
+    "type": "added",
+    "team_abbr": "WAS",
+    "player": "Darianna Littlepage-Buggs",
+    "status": "Out",
+    "reason": "Not With Team",
+    "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-05-15T22:30:29.852120+00:00",
+    "type": "reason_change",
+    "team_abbr": "WAS",
+    "player": "Georgia Amoore",
+    "status": "Questionable",
+    "from_reason": "Injury/Illness - Right Knee; Injury",
+    "to_reason": "Injury/Illness - Right Knee; Injury Management",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-15T22:30:29.852120+00:00",
+    "type": "reason_change",
+    "team_abbr": "WAS",
+    "player": "Michaela Onyenwere",
+    "status": "Out",
+    "from_reason": "Management Injury/Illness - Left Knee; Injury management",
+    "to_reason": "Injury/Illness - Left Knee; Injury management",
+    "reason_category": "injury"
   }
 ]
