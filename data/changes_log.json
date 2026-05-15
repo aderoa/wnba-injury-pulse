@@ -1202,5 +1202,24 @@
     "from_reason": "Injury/Illness - Left Knee; Injury management",
     "to_reason": "Management Injury/Illness - Left Knee; Injury management",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-15T20:45:23.533093+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Brittney Griner",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Foot; Sprain",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-15T20:45:23.533093+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Olivia Nelson-Ododa",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Ankle; Sprain",
+    "reason_category": "injury"
   }
 ]
