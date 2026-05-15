@@ -1221,5 +1221,15 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Right Ankle; Sprain",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-15T22:15:25.645124+00:00",
+    "type": "reason_change",
+    "team_abbr": "IND",
+    "player": "Bree Hall",
+    "status": "Out",
+    "from_reason": "Not With Team",
+    "to_reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]

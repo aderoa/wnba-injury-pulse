@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/15/26 06:00 PM",
-  "page_count": 1,
-  "raw_line_count": 22,
+  "report_ts": "05/15/26 06:15 PM",
+  "page_count": 2,
+  "raw_line_count": 24,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -72,6 +72,30 @@
           "status": "Out",
           "reason": "Management Injury/Illness - Left Knee; Injury management",
           "reason_category": "injury"
+        }
+      ]
+    },
+    {
+      "team_full": "Indiana Fever",
+      "team_abbr": "IND",
+      "game_date": "05/15/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "WAS@IND",
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Hall, Bree",
+          "name": "Bree Hall",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Pissott, Justine",
+          "name": "Justine Pissott",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -172,7 +196,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-15_06_00PM.pdf",
-  "fetched_slot": "2026-05-15T18:00:00-04:00",
-  "polled_at_utc": "2026-05-15T22:11:52.560367+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-15_06_15PM.pdf",
+  "fetched_slot": "2026-05-15T18:15:00-04:00",
+  "polled_at_utc": "2026-05-15T22:15:25.645124+00:00"
 }
