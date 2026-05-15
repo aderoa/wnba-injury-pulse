@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/15/26 07:00 PM",
+  "report_ts": "05/15/26 07:15 PM",
   "page_count": 2,
-  "raw_line_count": 26,
+  "raw_line_count": 27,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -41,6 +41,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Foot; Sprain",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Jackson, Ashlon",
+          "name": "Ashlon Jackson",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         },
         {
           "name_last_first": "Nelson-Ododa, Olivia",
@@ -210,7 +217,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-15_07_00PM.pdf",
-  "fetched_slot": "2026-05-15T19:00:00-04:00",
-  "polled_at_utc": "2026-05-15T23:14:07.806009+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-15_07_15PM.pdf",
+  "fetched_slot": "2026-05-15T19:15:00-04:00",
+  "polled_at_utc": "2026-05-15T23:15:22.471143+00:00"
 }

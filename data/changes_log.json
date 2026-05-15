@@ -1269,5 +1269,14 @@
     "from_reason": "Management Injury/Illness - Left Knee; Injury management",
     "to_reason": "Injury/Illness - Left Knee; Injury management",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-15T23:15:22.471143+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Ashlon Jackson",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
