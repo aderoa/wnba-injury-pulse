@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/15/26 07:15 PM",
+  "report_ts": "05/15/26 07:30 PM",
   "page_count": 2,
-  "raw_line_count": 27,
+  "raw_line_count": 25,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -69,9 +69,9 @@
         {
           "name_last_first": "Amoore, Georgia",
           "name": "Georgia Amoore",
-          "status": "Questionable",
-          "reason": "Injury/Illness - Right Knee; Injury Management",
-          "reason_category": "injury"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
         },
         {
           "name_last_first": "FlorezGetino, Alicia",
@@ -217,7 +217,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-15_07_15PM.pdf",
-  "fetched_slot": "2026-05-15T19:15:00-04:00",
-  "polled_at_utc": "2026-05-15T23:15:22.471143+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-15_07_30PM.pdf",
+  "fetched_slot": "2026-05-15T19:30:00-04:00",
+  "polled_at_utc": "2026-05-15T23:30:21.592358+00:00"
 }
