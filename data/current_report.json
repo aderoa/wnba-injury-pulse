@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/14/26 07:45 PM",
+  "report_ts": "05/14/26 08:00 PM",
   "page_count": 2,
-  "raw_line_count": 27,
+  "raw_line_count": 33,
   "teams": [
     {
       "team_full": "Minnesota Lynx",
@@ -222,8 +222,16 @@
       "game_date": "05/15/2026",
       "game_time": "10:00(ET)",
       "matchup": "CHI@PHX",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Whitcomb, Sami",
+          "name": "Sami Whitcomb",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Arthroscopy",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Phoenix Mercury",
@@ -231,8 +239,23 @@
       "game_date": "05/15/2026",
       "game_time": "10:00(ET)",
       "matchup": "TOR@LAS",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "TorontoTempo Fagbenle, Temi",
+          "name": "Temi TorontoTempo Fagbenle",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Shoulder; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Harrison, Isabelle",
+          "name": "Isabelle Harrison",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Hand; Injury",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Los Angeles Sparks",
@@ -240,11 +263,26 @@
       "game_date": "05/15/2026",
       "game_time": "10:00(ET)",
       "matchup": "TOR@LAS",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Atkins, Ariel",
+          "name": "Ariel Atkins",
+          "status": "Out",
+          "reason": "Injury/Illness - Head; Concussion Protocol",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Feagin, Sania",
+          "name": "Sania Feagin",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Leg; NA",
+          "reason_category": "injury"
+        }
+      ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-14_07_45PM.pdf",
-  "fetched_slot": "2026-05-14T19:45:00-04:00",
-  "polled_at_utc": "2026-05-14T23:45:15.155594+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-14_08_00PM.pdf",
+  "fetched_slot": "2026-05-14T20:00:00-04:00",
+  "polled_at_utc": "2026-05-15T00:00:19.770232+00:00"
 }

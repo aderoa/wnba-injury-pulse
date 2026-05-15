@@ -1075,5 +1075,74 @@
     "player": "Maddy Westbeld",
     "previous_status": "Out",
     "previous_reason": "Returnto Competition Reconditioning"
+  },
+  {
+    "ts": "2026-05-15T00:00:19.770232+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Temi TorontoTempo Fagbenle",
+    "status": "Out",
+    "reason": "Injury/Illness - Right Shoulder; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-15T00:00:19.770232+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Isabelle Harrison",
+    "status": "Out",
+    "reason": "Injury/Illness - Right Hand; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-15T00:00:19.770232+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Shay Ciezki",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-05-15T00:00:19.770232+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Marta Suarez",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-05-15T00:00:19.770232+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Ariel Atkins",
+    "status": "Out",
+    "reason": "Injury/Illness - Head; Concussion Protocol",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-15T00:00:19.770232+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Kate Martin",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-05-15T00:00:19.770232+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Laura Ziegler",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-05-15T00:00:19.770232+00:00",
+    "type": "reason_change",
+    "team_abbr": "LAS",
+    "player": "Sania Feagin",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Leg; Left Leg",
+    "to_reason": "Injury/Illness - Left Leg; NA",
+    "reason_category": "injury"
   }
 ]

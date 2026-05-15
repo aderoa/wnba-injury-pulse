@@ -2,8 +2,8 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-05-14T23:45:15.155594+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-14_07_45PM.pdf",
+    "last_submitted_ts": "2026-05-15T00:00:19.770232+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-14_08_00PM.pdf",
     "game_dates": [
       "05/14/2026"
     ],
@@ -52,44 +52,44 @@
   "PHX": {
     "team_full": "Phoenix Mercury",
     "submitted": true,
-    "last_submitted_ts": "2026-05-13T03:45:20.430780+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-12_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-15T00:00:19.770232+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-14_08_00PM.pdf",
     "game_dates": [
-      "05/12/2026"
+      "05/15/2026"
     ],
     "matchups": [
-      "MIN@PHX"
+      "CHI@PHX",
+      "TOR@LAS"
     ],
     "players": [
-      {
-        "name_last_first": "Ciezki, Shay",
-        "name": "Shay Ciezki",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
-      },
-      {
-        "name_last_first": "Suarez, Marta",
-        "name": "Marta Suarez",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
-      },
       {
         "name_last_first": "Whitcomb, Sami",
         "name": "Sami Whitcomb",
         "status": "Out",
         "reason": "Injury/Illness - Left Knee; Arthroscopy",
         "reason_category": "injury"
+      },
+      {
+        "name_last_first": "TorontoTempo Fagbenle, Temi",
+        "name": "Temi TorontoTempo Fagbenle",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Shoulder; Injury",
+        "reason_category": "injury"
+      },
+      {
+        "name_last_first": "Harrison, Isabelle",
+        "name": "Isabelle Harrison",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Hand; Injury",
+        "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-05-14T23:45:15.155594+00:00"
+    ]
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
     "submitted": true,
-    "last_submitted_ts": "2026-05-14T23:45:15.155594+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-14_07_45PM.pdf",
+    "last_submitted_ts": "2026-05-15T00:00:19.770232+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-14_08_00PM.pdf",
     "game_dates": [
       "05/15/2026"
     ],
@@ -137,8 +137,8 @@
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-05-14T23:45:15.155594+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-14_07_45PM.pdf",
+    "last_submitted_ts": "2026-05-15T00:00:19.770232+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-14_08_00PM.pdf",
     "game_dates": [
       "05/14/2026"
     ],
@@ -179,8 +179,8 @@
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-05-14T23:45:15.155594+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-14_07_45PM.pdf",
+    "last_submitted_ts": "2026-05-15T00:00:19.770232+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-14_08_00PM.pdf",
     "game_dates": [
       "05/15/2026"
     ],
@@ -214,8 +214,8 @@
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-05-14T23:45:15.155594+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-14_07_45PM.pdf",
+    "last_submitted_ts": "2026-05-15T00:00:19.770232+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-14_08_00PM.pdf",
     "game_dates": [
       "05/14/2026"
     ],
@@ -298,8 +298,8 @@
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-05-14T23:45:15.155594+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-14_07_45PM.pdf",
+    "last_submitted_ts": "2026-05-15T00:00:19.770232+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-14_08_00PM.pdf",
     "game_dates": [
       "05/15/2026"
     ],
@@ -319,8 +319,8 @@
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-05-14T23:45:15.155594+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-14_07_45PM.pdf",
+    "last_submitted_ts": "2026-05-15T00:00:19.770232+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-14_08_00PM.pdf",
     "game_dates": [
       "05/14/2026"
     ],
@@ -361,8 +361,8 @@
   "WAS": {
     "team_full": "Washington Mystics",
     "submitted": true,
-    "last_submitted_ts": "2026-05-14T23:45:15.155594+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-14_07_45PM.pdf",
+    "last_submitted_ts": "2026-05-15T00:00:19.770232+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-14_08_00PM.pdf",
     "game_dates": [
       "05/15/2026"
     ],
@@ -410,37 +410,29 @@
   "LAS": {
     "team_full": "Los Angeles Sparks",
     "submitted": true,
-    "last_submitted_ts": "2026-05-14T03:46:10.856477+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-13_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-15T00:00:19.770232+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-14_08_00PM.pdf",
     "game_dates": [
-      "05/13/2026"
+      "05/15/2026"
     ],
     "matchups": [
-      "IND@LAS"
+      "TOR@LAS"
     ],
     "players": [
+      {
+        "name_last_first": "Atkins, Ariel",
+        "name": "Ariel Atkins",
+        "status": "Out",
+        "reason": "Injury/Illness - Head; Concussion Protocol",
+        "reason_category": "injury"
+      },
       {
         "name_last_first": "Feagin, Sania",
         "name": "Sania Feagin",
         "status": "Out",
-        "reason": "Injury/Illness - Left Leg; Left Leg",
+        "reason": "Injury/Illness - Left Leg; NA",
         "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Martin, Kate",
-        "name": "Kate Martin",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
-      },
-      {
-        "name_last_first": "Ziegler, Laura",
-        "name": "Laura Ziegler",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
       }
-    ],
-    "last_seen_pending_ts": "2026-05-14T23:45:15.155594+00:00"
+    ]
   }
 }

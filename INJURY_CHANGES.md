@@ -4,6 +4,17 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-05-15 00:00 UTC
+
+- **Temi TorontoTempo Fagbenle** (PHX) newly listed as **Out** — Injury/Illness - Right Shoulder; Injury
+- **Isabelle Harrison** (PHX) newly listed as **Out** — Injury/Illness - Right Hand; Injury
+- **Shay Ciezki** (PHX) cleared (was Out)
+- **Marta Suarez** (PHX) cleared (was Out)
+- **Ariel Atkins** (LAS) newly listed as **Out** — Injury/Illness - Head; Concussion Protocol
+- **Kate Martin** (LAS) cleared (was Out)
+- **Laura Ziegler** (LAS) cleared (was Out)
+- **Sania Feagin** (LAS, Out): reason updated (Injury/Illness - Left Leg; Left Leg → Injury/Illness - Left Leg; NA)
+
 ## 2026-05-14 23:45 UTC
 
 - **Natasha Cloud** (CHI) cleared (was Available)
