@@ -1,5 +1,5 @@
 {
-  "report_ts": "05/14/26 08:45 PM",
+  "report_ts": "05/14/26 09:00 PM",
   "page_count": 2,
   "raw_line_count": 33,
   "teams": [
@@ -121,7 +121,7 @@
         {
           "name_last_first": "Sutton, Sug",
           "name": "Sug Sutton",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Right Knee; Injury",
           "reason_category": "injury"
         }
@@ -282,7 +282,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-14_08_45PM.pdf",
-  "fetched_slot": "2026-05-14T20:45:00-04:00",
-  "polled_at_utc": "2026-05-15T00:45:14.321359+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-14_09_00PM.pdf",
+  "fetched_slot": "2026-05-14T21:00:00-04:00",
+  "polled_at_utc": "2026-05-15T01:00:21.748279+00:00"
 }

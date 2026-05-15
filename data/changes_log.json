@@ -1144,5 +1144,15 @@
     "from_reason": "Injury/Illness - Left Leg; Left Leg",
     "to_reason": "Injury/Illness - Left Leg; NA",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-15T01:00:21.748279+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Sug Sutton",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Knee; Injury",
+    "reason_category": "injury"
   }
 ]
