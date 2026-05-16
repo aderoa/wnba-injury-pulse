@@ -23,8 +23,8 @@
   "IND": {
     "team_full": "Indiana Fever",
     "submitted": true,
-    "last_submitted_ts": "2026-05-16T21:01:06.596458+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-16_05_00PM.pdf",
+    "last_submitted_ts": "2026-05-16T21:16:05.075792+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-16_05_15PM.pdf",
     "game_dates": [
       "05/17/2026"
     ],
@@ -101,37 +101,36 @@
   "LVA": {
     "team_full": "Las Vegas Aces",
     "submitted": true,
-    "last_submitted_ts": "2026-05-16T03:45:21.641126+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-15_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-16T21:16:05.075792+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-16_05_15PM.pdf",
     "game_dates": [
-      "05/15/2026"
+      "05/17/2026"
     ],
     "matchups": [
-      "LVA@CON"
+      "LVA@ATL"
     ],
     "players": [
       {
         "name_last_first": "Barker, Janiah",
         "name": "Janiah Barker",
         "status": "Out",
-        "reason": "Injury/Illness - Head; head",
+        "reason": "Injury/Illness - Head; concussion",
         "reason_category": "injury"
       },
       {
         "name_last_first": "Evans, Dana",
         "name": "Dana Evans",
         "status": "Out",
-        "reason": "Injury/Illness - Left Leg; leg",
+        "reason": "Injury/Illness - Left Leg; lower",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-05-16T21:01:06.596458+00:00"
+    ]
   },
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-05-16T21:01:06.596458+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-16_05_00PM.pdf",
+    "last_submitted_ts": "2026-05-16T21:16:05.075792+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-16_05_15PM.pdf",
     "game_dates": [
       "05/17/2026"
     ],
@@ -203,13 +202,13 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-05-16T21:01:06.596458+00:00"
+    "last_seen_pending_ts": "2026-05-16T21:16:05.075792+00:00"
   },
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-05-16T21:01:06.596458+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-16_05_00PM.pdf",
+    "last_submitted_ts": "2026-05-16T21:16:05.075792+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-16_05_15PM.pdf",
     "game_dates": [
       "05/17/2026"
     ],
@@ -285,8 +284,8 @@
   "SEA": {
     "team_full": "Seattle Storm",
     "submitted": true,
-    "last_submitted_ts": "2026-05-16T21:01:06.596458+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-16_05_00PM.pdf",
+    "last_submitted_ts": "2026-05-16T21:16:05.075792+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-16_05_15PM.pdf",
     "game_dates": [
       "05/17/2026"
     ],
@@ -512,6 +511,6 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-05-16T21:01:06.596458+00:00"
+    "last_seen_pending_ts": "2026-05-16T21:16:05.075792+00:00"
   }
 }

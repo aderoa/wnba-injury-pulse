@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/16/26 05:00 PM",
-  "page_count": 1,
-  "raw_line_count": 18,
+  "report_ts": "05/16/26 05:15 PM",
+  "page_count": 2,
+  "raw_line_count": 19,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -9,8 +9,23 @@
       "game_date": "05/17/2026",
       "game_time": "01:30(ET)",
       "matchup": "LVA@ATL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Barker, Janiah",
+          "name": "Janiah Barker",
+          "status": "Out",
+          "reason": "Injury/Illness - Head; concussion",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Evans, Dana",
+          "name": "Dana Evans",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Leg; lower",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Atlanta Dream",
@@ -164,7 +179,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-16_05_00PM.pdf",
-  "fetched_slot": "2026-05-16T17:00:00-04:00",
-  "polled_at_utc": "2026-05-16T21:01:06.596458+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-16_05_15PM.pdf",
+  "fetched_slot": "2026-05-16T17:15:00-04:00",
+  "polled_at_utc": "2026-05-16T21:16:05.075792+00:00"
 }
