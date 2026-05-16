@@ -1352,5 +1352,15 @@
     "status": "Questionable",
     "reason": "Injury/Illness - Eye; Eye",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-16T03:45:21.641126+00:00",
+    "type": "status_change",
+    "team_abbr": "CHI",
+    "player": "Skylar Diggins",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Eye; Eye",
+    "reason_category": "injury"
   }
 ]
