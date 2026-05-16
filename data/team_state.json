@@ -23,8 +23,8 @@
   "IND": {
     "team_full": "Indiana Fever",
     "submitted": true,
-    "last_submitted_ts": "2026-05-16T21:54:44.130190+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-16_05_45PM.pdf",
+    "last_submitted_ts": "2026-05-16T22:01:00.567289+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-16_06_00PM.pdf",
     "game_dates": [
       "05/17/2026"
     ],
@@ -101,8 +101,8 @@
   "LVA": {
     "team_full": "Las Vegas Aces",
     "submitted": true,
-    "last_submitted_ts": "2026-05-16T21:54:44.130190+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-16_05_45PM.pdf",
+    "last_submitted_ts": "2026-05-16T22:01:00.567289+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-16_06_00PM.pdf",
     "game_dates": [
       "05/17/2026"
     ],
@@ -129,8 +129,8 @@
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-05-16T21:54:44.130190+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-16_05_45PM.pdf",
+    "last_submitted_ts": "2026-05-16T22:01:00.567289+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-16_06_00PM.pdf",
     "game_dates": [
       "05/17/2026"
     ],
@@ -157,13 +157,14 @@
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-05-15T03:46:11.316640+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-14_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-16T22:01:00.567289+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-16_06_00PM.pdf",
     "game_dates": [
-      "05/14/2026"
+      "05/17/2026"
     ],
     "matchups": [
-      "MIN@DAL"
+      "CHI@MIN",
+      "TOR@LAS"
     ],
     "players": [
       {
@@ -174,25 +175,11 @@
         "reason_category": "injury"
       },
       {
-        "name_last_first": "Coffey, Nia",
-        "name": "Nia Coffey",
-        "status": "Available",
-        "reason": "Injury/Illness - Right Shoulder; Right Shoulder",
-        "reason_category": "injury"
-      },
-      {
         "name_last_first": "Collier, Napheesa",
         "name": "Napheesa Collier",
         "status": "Out",
         "reason": "Injury/Illness - Left Ankle; Left Ankle",
         "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Hof, Emese",
-        "name": "Emese Hof",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
       },
       {
         "name_last_first": "Juhasz, Dorka",
@@ -201,14 +188,13 @@
         "reason": "Injury/Illness - Right Foot; Right Foot",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-05-16T21:54:44.130190+00:00"
+    ]
   },
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-05-16T21:54:44.130190+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-16_05_45PM.pdf",
+    "last_submitted_ts": "2026-05-16T22:01:00.567289+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-16_06_00PM.pdf",
     "game_dates": [
       "05/17/2026"
     ],
@@ -284,8 +270,8 @@
   "SEA": {
     "team_full": "Seattle Storm",
     "submitted": true,
-    "last_submitted_ts": "2026-05-16T21:54:44.130190+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-16_05_45PM.pdf",
+    "last_submitted_ts": "2026-05-16T22:01:00.567289+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-16_06_00PM.pdf",
     "game_dates": [
       "05/17/2026"
     ],
@@ -511,6 +497,6 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-05-16T21:54:44.130190+00:00"
+    "last_seen_pending_ts": "2026-05-16T22:01:00.567289+00:00"
   }
 }

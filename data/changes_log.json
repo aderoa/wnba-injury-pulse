@@ -1468,5 +1468,21 @@
     "from_reason": "Injury/Illness - Left Leg; leg",
     "to_reason": "Injury/Illness - Left Leg; lower",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-16T22:01:00.567289+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Nia Coffey",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Right Shoulder; Right Shoulder"
+  },
+  {
+    "ts": "2026-05-16T22:01:00.567289+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Emese Hof",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]

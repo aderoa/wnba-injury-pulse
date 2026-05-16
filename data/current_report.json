@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/16/26 05:45 PM",
+  "report_ts": "05/16/26 06:00 PM",
   "page_count": 2,
-  "raw_line_count": 19,
+  "raw_line_count": 21,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -157,8 +157,30 @@
       "game_date": "05/17/2026",
       "game_time": "07:00(ET)",
       "matchup": "CHI@MIN",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Cechova, Emma",
+          "name": "Emma Cechova",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; Right Knee",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Collier, Napheesa",
+          "name": "Napheesa Collier",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; Left Ankle",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Juhasz, Dorka",
+          "name": "Dorka Juhasz",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Foot; Right Foot",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Minnesota Lynx",
@@ -179,7 +201,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-16_05_45PM.pdf",
-  "fetched_slot": "2026-05-16T17:45:00-04:00",
-  "polled_at_utc": "2026-05-16T21:54:44.130190+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-16_06_00PM.pdf",
+  "fetched_slot": "2026-05-16T18:00:00-04:00",
+  "polled_at_utc": "2026-05-16T22:01:00.567289+00:00"
 }
