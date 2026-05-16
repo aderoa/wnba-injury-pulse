@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-05-16T20:01:10.994085+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-16_04_00PM.pdf",
-  "report_ts": "05/16/26 04:00 PM",
+  "polled_at_utc": "2026-05-16T20:16:05.614282+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-16_04_15PM.pdf",
+  "report_ts": "05/16/26 04:15 PM",
   "all_players": [
     {
       "name": "Alicia FlorezGetino",
@@ -38,7 +38,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; Left Knee",
       "reason_category": "injury",
-      "last_updated": "2026-05-16T03:45:21.641126+00:00"
+      "last_updated": "2026-05-16T20:16:05.614282+00:00"
     },
     {
       "name": "Bree Hall",
@@ -92,7 +92,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; Right Knee",
       "reason_category": "injury",
-      "last_updated": "2026-05-16T03:45:21.641126+00:00"
+      "last_updated": "2026-05-16T20:16:05.614282+00:00"
     },
     {
       "name": "Dana Evans",
@@ -119,7 +119,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Foot; Left Foot",
       "reason_category": "injury",
-      "last_updated": "2026-05-16T03:45:21.641126+00:00"
+      "last_updated": "2026-05-16T20:16:05.614282+00:00"
     },
     {
       "name": "Dorka Juhasz",
@@ -215,15 +215,6 @@
       "name": "Laura Ziegler",
       "team_abbr": "LAS",
       "team_full": "Los Angeles Sparks",
-      "status": "Out",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach",
-      "last_updated": "2026-05-16T03:45:21.641126+00:00"
-    },
-    {
-      "name": "Maddy Westbeld",
-      "team_abbr": "CHI",
-      "team_full": "Chicago Sky",
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
@@ -329,15 +320,6 @@
       "last_updated": "2026-05-16T03:45:21.641126+00:00"
     },
     {
-      "name": "Skylar Diggins",
-      "team_abbr": "CHI",
-      "team_full": "Chicago Sky",
-      "status": "Out",
-      "reason": "Injury/Illness - Eye; Eye",
-      "reason_category": "injury",
-      "last_updated": "2026-05-16T03:45:21.641126+00:00"
-    },
-    {
       "name": "Taina Mair",
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
@@ -372,6 +354,15 @@
       "reason": "Injury/Illness - Left Pinky; Dislocation",
       "reason_category": "injury",
       "last_updated": "2026-05-14T03:46:10.856477+00:00"
+    },
+    {
+      "name": "Skylar Diggins",
+      "team_abbr": "CHI",
+      "team_full": "Chicago Sky",
+      "status": "Questionable",
+      "reason": "Injury/Illness - Eye; Eye",
+      "reason_category": "injury",
+      "last_updated": "2026-05-16T20:16:05.614282+00:00"
     },
     {
       "name": "Azzi Fudd",
@@ -424,7 +415,7 @@
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
       "last_submitted_ts": "2026-05-13T03:45:20.430780+00:00",
-      "last_seen_pending_ts": "2026-05-16T20:01:10.994085+00:00",
+      "last_seen_pending_ts": "2026-05-16T20:16:05.614282+00:00",
       "matchups": [
         "ATL@DAL"
       ],
@@ -441,10 +432,10 @@
     {
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
-      "last_submitted_ts": "2026-05-16T03:45:21.641126+00:00",
-      "last_seen_pending_ts": "2026-05-16T20:01:10.994085+00:00",
+      "last_submitted_ts": "2026-05-16T20:16:05.614282+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "CHI@PHX"
+        "CHI@MIN"
       ],
       "players": [
         {
@@ -457,7 +448,7 @@
         {
           "name_last_first": "Diggins, Skylar",
           "name": "Skylar Diggins",
-          "status": "Out",
+          "status": "Questionable",
           "reason": "Injury/Illness - Eye; Eye",
           "reason_category": "injury"
         },
@@ -474,13 +465,6 @@
           "status": "Out",
           "reason": "Injury/Illness - Right Knee; Right Knee",
           "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Westbeld, Maddy",
-          "name": "Maddy Westbeld",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
         }
       ]
     },
@@ -563,7 +547,7 @@
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
       "last_submitted_ts": "2026-05-16T03:45:21.641126+00:00",
-      "last_seen_pending_ts": "2026-05-16T20:01:10.994085+00:00",
+      "last_seen_pending_ts": "2026-05-16T20:16:05.614282+00:00",
       "matchups": [
         "WAS@IND"
       ],
@@ -588,7 +572,7 @@
       "team_abbr": "LAS",
       "team_full": "Los Angeles Sparks",
       "last_submitted_ts": "2026-05-16T03:45:21.641126+00:00",
-      "last_seen_pending_ts": "2026-05-16T20:01:10.994085+00:00",
+      "last_seen_pending_ts": "2026-05-16T20:16:05.614282+00:00",
       "matchups": [
         "TOR@LAS"
       ],
@@ -620,7 +604,7 @@
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
       "last_submitted_ts": "2026-05-16T03:45:21.641126+00:00",
-      "last_seen_pending_ts": "2026-05-16T20:01:10.994085+00:00",
+      "last_seen_pending_ts": "2026-05-16T20:16:05.614282+00:00",
       "matchups": [
         "LVA@CON"
       ],
@@ -645,7 +629,7 @@
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
       "last_submitted_ts": "2026-05-15T03:46:11.316640+00:00",
-      "last_seen_pending_ts": "2026-05-16T20:01:10.994085+00:00",
+      "last_seen_pending_ts": "2026-05-16T20:16:05.614282+00:00",
       "matchups": [
         "MIN@DAL"
       ],
@@ -816,7 +800,7 @@
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
       "last_submitted_ts": "2026-05-14T03:46:10.856477+00:00",
-      "last_seen_pending_ts": "2026-05-16T20:01:10.994085+00:00",
+      "last_seen_pending_ts": "2026-05-16T20:16:05.614282+00:00",
       "matchups": [
         "SEA@TOR"
       ],
@@ -899,6 +883,24 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-05-16T20:16:05.614282+00:00",
+      "type": "status_change",
+      "team_abbr": "CHI",
+      "player": "Skylar Diggins",
+      "from_status": "Out",
+      "to_status": "Questionable",
+      "reason": "Injury/Illness - Eye; Eye",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-05-16T20:16:05.614282+00:00",
+      "type": "cleared",
+      "team_abbr": "CHI",
+      "player": "Maddy Westbeld",
+      "previous_status": "Out",
+      "previous_reason": "Coach's Decision"
+    },
     {
       "ts": "2026-05-16T03:45:21.641126+00:00",
       "type": "status_change",

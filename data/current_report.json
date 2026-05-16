@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/16/26 04:00 PM",
+  "report_ts": "05/16/26 04:15 PM",
   "page_count": 1,
-  "raw_line_count": 8,
+  "raw_line_count": 11,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -45,8 +45,37 @@
       "game_date": "05/17/2026",
       "game_time": "07:00(ET)",
       "matchup": "CHI@MIN",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Carrington, DiJonai",
+          "name": "DiJonai Carrington",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Foot; Left Foot",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Diggins, Skylar",
+          "name": "Skylar Diggins",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Eye; Eye",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Stevens, Azura",
+          "name": "Azura Stevens",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Left Knee",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Vandersloot, Courtney",
+          "name": "Courtney Vandersloot",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; Right Knee",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Minnesota Lynx",
@@ -76,7 +105,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-16_04_00PM.pdf",
-  "fetched_slot": "2026-05-16T16:00:00-04:00",
-  "polled_at_utc": "2026-05-16T20:01:10.994085+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-16_04_15PM.pdf",
+  "fetched_slot": "2026-05-16T16:15:00-04:00",
+  "polled_at_utc": "2026-05-16T20:16:05.614282+00:00"
 }

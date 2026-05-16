@@ -4,6 +4,11 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-05-16 20:16 UTC
+
+- **Maddy Westbeld** (CHI) cleared (was Out)
+- **Skylar Diggins** (CHI): **Out** → **Questionable** — Injury/Illness - Eye; Eye
+
 ## 2026-05-16 03:45 UTC
 
 - **Skylar Diggins** (CHI): **Questionable** → **Out** — Injury/Illness - Eye; Eye
