@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-05-16T12:31:06.289669+00:00",
+  "polled_at_utc": "2026-05-16T12:38:06.013686+00:00",
   "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-16_08_30AM.pdf",
   "report_ts": "05/16/26 08:30 AM",
   "all_players": [
@@ -424,7 +424,7 @@
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
       "last_submitted_ts": "2026-05-13T03:45:20.430780+00:00",
-      "last_seen_pending_ts": "2026-05-16T12:31:06.289669+00:00",
+      "last_seen_pending_ts": "2026-05-16T12:38:06.013686+00:00",
       "matchups": [
         "ATL@DAL"
       ],
@@ -442,7 +442,7 @@
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
       "last_submitted_ts": "2026-05-16T03:45:21.641126+00:00",
-      "last_seen_pending_ts": "2026-05-16T12:31:06.289669+00:00",
+      "last_seen_pending_ts": "2026-05-16T12:38:06.013686+00:00",
       "matchups": [
         "CHI@PHX"
       ],
@@ -563,7 +563,7 @@
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
       "last_submitted_ts": "2026-05-16T03:45:21.641126+00:00",
-      "last_seen_pending_ts": "2026-05-16T12:31:06.289669+00:00",
+      "last_seen_pending_ts": "2026-05-16T12:38:06.013686+00:00",
       "matchups": [
         "WAS@IND"
       ],
@@ -588,7 +588,7 @@
       "team_abbr": "LAS",
       "team_full": "Los Angeles Sparks",
       "last_submitted_ts": "2026-05-16T03:45:21.641126+00:00",
-      "last_seen_pending_ts": "2026-05-16T12:31:06.289669+00:00",
+      "last_seen_pending_ts": "2026-05-16T12:38:06.013686+00:00",
       "matchups": [
         "TOR@LAS"
       ],
@@ -620,7 +620,7 @@
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
       "last_submitted_ts": "2026-05-16T03:45:21.641126+00:00",
-      "last_seen_pending_ts": "2026-05-16T12:31:06.289669+00:00",
+      "last_seen_pending_ts": "2026-05-16T12:38:06.013686+00:00",
       "matchups": [
         "LVA@CON"
       ],
@@ -645,7 +645,7 @@
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
       "last_submitted_ts": "2026-05-15T03:46:11.316640+00:00",
-      "last_seen_pending_ts": "2026-05-16T12:31:06.289669+00:00",
+      "last_seen_pending_ts": "2026-05-16T12:38:06.013686+00:00",
       "matchups": [
         "MIN@DAL"
       ],
@@ -816,7 +816,7 @@
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
       "last_submitted_ts": "2026-05-14T03:46:10.856477+00:00",
-      "last_seen_pending_ts": "2026-05-16T12:31:06.289669+00:00",
+      "last_seen_pending_ts": "2026-05-16T12:38:06.013686+00:00",
       "matchups": [
         "SEA@TOR"
       ],
