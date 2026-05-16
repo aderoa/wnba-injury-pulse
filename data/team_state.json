@@ -46,7 +46,8 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-05-16T04:00:24.632246+00:00"
   },
   "PHX": {
     "team_full": "Phoenix Mercury",
@@ -131,7 +132,8 @@
         "reason": "Injury/Illness - Left Leg; leg",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-05-16T04:00:24.632246+00:00"
   },
   "ATL": {
     "team_full": "Atlanta Dream",
@@ -152,7 +154,8 @@
         "reason": "Injury/Illness - Right Knee; N/A",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-05-16T04:00:24.632246+00:00"
   },
   "MIN": {
     "team_full": "Minnesota Lynx",
@@ -201,7 +204,8 @@
         "reason": "Injury/Illness - Right Foot; Right Foot",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-05-16T04:00:24.632246+00:00"
   },
   "CHI": {
     "team_full": "Chicago Sky",
@@ -250,7 +254,8 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-05-16T04:00:24.632246+00:00"
   },
   "PDX": {
     "team_full": "Portland Fire",
@@ -334,7 +339,8 @@
         "reason": "Injury/Illness - Right Hand; Injury",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-05-16T04:00:24.632246+00:00"
   },
   "CON": {
     "team_full": "Connecticut Sun",
@@ -516,6 +522,7 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-05-16T04:00:24.632246+00:00"
   }
 }

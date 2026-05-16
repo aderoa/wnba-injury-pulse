@@ -1,265 +1,82 @@
 {
-  "report_ts": "05/15/26 11:45 PM",
-  "page_count": 2,
-  "raw_line_count": 34,
+  "report_ts": "05/16/26 12:00 AM",
+  "page_count": 1,
+  "raw_line_count": 8,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
       "team_abbr": "LVA",
-      "game_date": "05/15/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "LVA@CON",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Barker, Janiah",
-          "name": "Janiah Barker",
-          "status": "Out",
-          "reason": "Injury/Illness - Head; head",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Evans, Dana",
-          "name": "Dana Evans",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Leg; leg",
-          "reason_category": "injury"
-        }
-      ]
+      "game_date": "05/17/2026",
+      "game_time": "01:30(ET)",
+      "matchup": "LVA@ATL",
+      "submitted": false,
+      "players": []
     },
     {
-      "team_full": "Connecticut Sun",
-      "team_abbr": "CON",
-      "game_date": "05/15/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "LVA@CON",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Griner, Brittney",
-          "name": "Brittney Griner",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Foot; Sprain",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Jackson, Ashlon",
-          "name": "Ashlon Jackson",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Nelson-Ododa, Olivia",
-          "name": "Olivia Nelson-Ododa",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Ankle; Sprain",
-          "reason_category": "injury"
-        }
-      ]
+      "team_full": "Atlanta Dream",
+      "team_abbr": "ATL",
+      "game_date": "05/17/2026",
+      "game_time": "01:30(ET)",
+      "matchup": "LVA@ATL",
+      "submitted": false,
+      "players": []
     },
     {
-      "team_full": "Washington Mystics",
-      "team_abbr": "WAS",
-      "game_date": "05/15/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "WAS@IND",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Amoore, Georgia",
-          "name": "Georgia Amoore",
-          "status": "Available",
-          "reason": "-",
-          "reason_category": "other"
-        },
-        {
-          "name_last_first": "FlorezGetino, Alicia",
-          "name": "Alicia FlorezGetino",
-          "status": "Out",
-          "reason": "Personal Reasons",
-          "reason_category": "offcourt"
-        },
-        {
-          "name_last_first": "Littlepage-Buggs, Darianna",
-          "name": "Darianna Littlepage-Buggs",
-          "status": "Out",
-          "reason": "Not With Team",
-          "reason_category": "offcourt"
-        },
-        {
-          "name_last_first": "Onyenwere, Michaela",
-          "name": "Michaela Onyenwere",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Knee; Injury management",
-          "reason_category": "injury"
-        }
-      ]
+      "team_full": "Seattle Storm",
+      "team_abbr": "SEA",
+      "game_date": "05/17/2026",
+      "game_time": "06:00(ET)",
+      "matchup": "SEA@IND",
+      "submitted": false,
+      "players": []
     },
     {
       "team_full": "Indiana Fever",
       "team_abbr": "IND",
-      "game_date": "05/15/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "WAS@IND",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Hall, Bree",
-          "name": "Bree Hall",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Pissott, Justine",
-          "name": "Justine Pissott",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
+      "game_date": "05/17/2026",
+      "game_time": "06:00(ET)",
+      "matchup": "SEA@IND",
+      "submitted": false,
+      "players": []
     },
     {
       "team_full": "Chicago Sky",
       "team_abbr": "CHI",
-      "game_date": "05/15/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "CHI@PHX",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Carrington, DiJonai",
-          "name": "DiJonai Carrington",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Foot; Left Foot",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Diggins, Skylar",
-          "name": "Skylar Diggins",
-          "status": "Out",
-          "reason": "Injury/Illness - Eye; Eye",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Stevens, Azura",
-          "name": "Azura Stevens",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Knee; Left Knee",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Vandersloot, Courtney",
-          "name": "Courtney Vandersloot",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee; Right Knee",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Westbeld, Maddy",
-          "name": "Maddy Westbeld",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
+      "game_date": "05/17/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "CHI@MIN",
+      "submitted": false,
+      "players": []
     },
     {
-      "team_full": "Phoenix Mercury",
-      "team_abbr": "PHX",
-      "game_date": "05/15/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "CHI@PHX",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Ciezki, Shay",
-          "name": "Shay Ciezki",
-          "status": "Out",
-          "reason": "Coach's Decision - Developmental",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Suarez, Marta",
-          "name": "Marta Suarez",
-          "status": "Out",
-          "reason": "Player Coach's Decision - Developmental",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Whitcomb, Sami",
-          "name": "Sami Whitcomb",
-          "status": "Out",
-          "reason": "Player Injury/Illness - Left Knee; Arthroscopy",
-          "reason_category": "injury"
-        }
-      ]
+      "team_full": "Minnesota Lynx",
+      "team_abbr": "MIN",
+      "game_date": "05/17/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "CHI@MIN",
+      "submitted": false,
+      "players": []
     },
     {
-      "team_full": "Phoenix Mercury",
-      "team_abbr": "PHX",
-      "game_date": "05/15/2026",
-      "game_time": "10:00(ET)",
+      "team_full": "Minnesota Lynx",
+      "team_abbr": "MIN",
+      "game_date": "05/17/2026",
+      "game_time": "07:00(ET)",
       "matchup": "TOR@LAS",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "TorontoTempo Fagbenle, Temi",
-          "name": "Temi TorontoTempo Fagbenle",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Shoulder; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Fasoula, Mariella",
-          "name": "Mariella Fasoula",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Harrison, Isabelle",
-          "name": "Isabelle Harrison",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Hand; Injury",
-          "reason_category": "injury"
-        }
-      ]
+      "submitted": false,
+      "players": []
     },
     {
       "team_full": "Los Angeles Sparks",
       "team_abbr": "LAS",
-      "game_date": "05/15/2026",
-      "game_time": "10:00(ET)",
+      "game_date": "05/17/2026",
+      "game_time": "07:00(ET)",
       "matchup": "TOR@LAS",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Atkins, Ariel",
-          "name": "Ariel Atkins",
-          "status": "Out",
-          "reason": "Injury/Illness - Head; Concussion Protocol",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Feagin, Sania",
-          "name": "Sania Feagin",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Leg; NA",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Ziegler, Laura",
-          "name": "Laura Ziegler",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-15_11_45PM.pdf",
-  "fetched_slot": "2026-05-15T23:45:00-04:00",
-  "polled_at_utc": "2026-05-16T03:45:21.641126+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-16_12_00AM.pdf",
+  "fetched_slot": "2026-05-16T00:00:00-04:00",
+  "polled_at_utc": "2026-05-16T04:00:24.632246+00:00"
 }
