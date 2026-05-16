@@ -4,6 +4,17 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-05-16 21:01 UTC
+
+- **Rhyne Howard** (ATL) newly listed as **Out** — Concussion Protocol
+- **Dominique Malonga** (SEA) newly listed as **Out** — Concussion Protocol
+- **Taylor Thierry** (SEA) newly listed as **Out** — Coach's Decision
+- **Temi TorontoTempo Fagbenle** (SEA) cleared (was Out)
+- **Isabelle Harrison** (SEA) cleared (was Out)
+- **Aliyah Boston** (IND) newly listed as **Questionable** — Injury/Illness - Rightlowerleg; right lowerleg
+- **Bree Hall** (IND) cleared (was Out)
+- **Justine Pissott** (IND) cleared (was Out)
+
 ## 2026-05-16 20:16 UTC
 
 - **Maddy Westbeld** (CHI) cleared (was Out)

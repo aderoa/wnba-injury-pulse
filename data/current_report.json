@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/16/26 04:45 PM",
+  "report_ts": "05/16/26 05:00 PM",
   "page_count": 1,
-  "raw_line_count": 11,
+  "raw_line_count": 18,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -18,8 +18,23 @@
       "game_date": "05/17/2026",
       "game_time": "01:30(ET)",
       "matchup": "LVA@ATL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Howard, Rhyne",
+          "name": "Rhyne Howard",
+          "status": "Out",
+          "reason": "Concussion Protocol",
+          "reason_category": "procedural"
+        },
+        {
+          "name_last_first": "Jones, Brionna",
+          "name": "Brionna Jones",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; N/A",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Seattle Storm",
@@ -27,8 +42,44 @@
       "game_date": "05/17/2026",
       "game_time": "06:00(ET)",
       "matchup": "SEA@IND",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Magbegor, Ezi",
+          "name": "Ezi Magbegor",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Foot; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Mair, Taina",
+          "name": "Taina Mair",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Malonga, Dominique",
+          "name": "Dominique Malonga",
+          "status": "Out",
+          "reason": "Concussion Protocol",
+          "reason_category": "procedural"
+        },
+        {
+          "name_last_first": "Samuelson, KatieLou",
+          "name": "KatieLou Samuelson",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Thierry, Taylor",
+          "name": "Taylor Thierry",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        }
+      ]
     },
     {
       "team_full": "Indiana Fever",
@@ -36,8 +87,16 @@
       "game_date": "05/17/2026",
       "game_time": "06:00(ET)",
       "matchup": "SEA@IND",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Boston, Aliyah",
+          "name": "Aliyah Boston",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Rightlowerleg; right lowerleg",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Chicago Sky",
@@ -105,7 +164,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-16_04_45PM.pdf",
-  "fetched_slot": "2026-05-16T16:45:00-04:00",
-  "polled_at_utc": "2026-05-16T20:55:05.687538+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-16_05_00PM.pdf",
+  "fetched_slot": "2026-05-16T17:00:00-04:00",
+  "polled_at_utc": "2026-05-16T21:01:06.596458+00:00"
 }

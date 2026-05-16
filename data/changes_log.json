@@ -1380,5 +1380,73 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Eye; Eye",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-16T21:01:06.596458+00:00",
+    "type": "added",
+    "team_abbr": "ATL",
+    "player": "Rhyne Howard",
+    "status": "Out",
+    "reason": "Concussion Protocol",
+    "reason_category": "procedural"
+  },
+  {
+    "ts": "2026-05-16T21:01:06.596458+00:00",
+    "type": "added",
+    "team_abbr": "SEA",
+    "player": "Dominique Malonga",
+    "status": "Out",
+    "reason": "Concussion Protocol",
+    "reason_category": "procedural"
+  },
+  {
+    "ts": "2026-05-16T21:01:06.596458+00:00",
+    "type": "added",
+    "team_abbr": "SEA",
+    "player": "Taylor Thierry",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-16T21:01:06.596458+00:00",
+    "type": "cleared",
+    "team_abbr": "SEA",
+    "player": "Temi TorontoTempo Fagbenle",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Right Shoulder; Injury"
+  },
+  {
+    "ts": "2026-05-16T21:01:06.596458+00:00",
+    "type": "cleared",
+    "team_abbr": "SEA",
+    "player": "Isabelle Harrison",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Right Hand; Injury"
+  },
+  {
+    "ts": "2026-05-16T21:01:06.596458+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Aliyah Boston",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Rightlowerleg; right lowerleg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-16T21:01:06.596458+00:00",
+    "type": "cleared",
+    "team_abbr": "IND",
+    "player": "Bree Hall",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-05-16T21:01:06.596458+00:00",
+    "type": "cleared",
+    "team_abbr": "IND",
+    "player": "Justine Pissott",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]
