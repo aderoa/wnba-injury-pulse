@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/15/26 09:00 PM",
+  "report_ts": "05/15/26 09:15 PM",
   "page_count": 2,
-  "raw_line_count": 26,
+  "raw_line_count": 33,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -167,10 +167,24 @@
       "submitted": true,
       "players": [
         {
+          "name_last_first": "Ciezki, Shay",
+          "name": "Shay Ciezki",
+          "status": "Out",
+          "reason": "Coach's Decision - Developmental",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Suarez, Marta",
+          "name": "Marta Suarez",
+          "status": "Out",
+          "reason": "Player Coach's Decision - Developmental",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Whitcomb, Sami",
           "name": "Sami Whitcomb",
           "status": "Out",
-          "reason": "Injury/Illness - Left Knee; Arthroscopy",
+          "reason": "Player Injury/Illness - Left Knee; Arthroscopy",
           "reason_category": "injury"
         }
       ]
@@ -220,11 +234,18 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Leg; NA",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Ziegler, Laura",
+          "name": "Laura Ziegler",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-15_09_00PM.pdf",
-  "fetched_slot": "2026-05-15T21:00:00-04:00",
-  "polled_at_utc": "2026-05-16T01:00:23.397603+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-15_09_15PM.pdf",
+  "fetched_slot": "2026-05-15T21:15:00-04:00",
+  "polled_at_utc": "2026-05-16T01:15:26.626208+00:00"
 }
