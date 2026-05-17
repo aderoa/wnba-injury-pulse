@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/17/26 07:15 PM",
+  "report_ts": "05/17/26 07:30 PM",
   "page_count": 2,
-  "raw_line_count": 40,
+  "raw_line_count": 41,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -309,8 +309,23 @@
       "game_date": "05/18/2026",
       "game_time": "10:00(ET)",
       "matchup": "CON@PDX",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Griner, Brittney",
+          "name": "Brittney Griner",
+          "status": "Probable",
+          "reason": "Injury/Illness - Left Foot; Sprain",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Nelson-Ododa, Olivia",
+          "name": "Olivia Nelson-Ododa",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Ankle; Sprain",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Portland Fire",
@@ -344,7 +359,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-17_07_15PM.pdf",
-  "fetched_slot": "2026-05-17T19:15:00-04:00",
-  "polled_at_utc": "2026-05-17T23:16:08.468697+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-17_07_30PM.pdf",
+  "fetched_slot": "2026-05-17T19:30:00-04:00",
+  "polled_at_utc": "2026-05-17T23:31:08.994681+00:00"
 }

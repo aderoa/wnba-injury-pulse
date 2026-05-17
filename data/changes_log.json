@@ -1693,5 +1693,23 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Right Ankle; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-17T23:31:08.994681+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Ashlon Jackson",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-05-17T23:31:08.994681+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Brittney Griner",
+    "from_status": "Out",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Left Foot; Sprain",
+    "reason_category": "injury"
   }
 ]

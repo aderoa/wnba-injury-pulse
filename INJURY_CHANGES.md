@@ -4,6 +4,11 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-05-17 23:31 UTC
+
+- **Ashlon Jackson** (CON) cleared (was Out)
+- **Brittney Griner** (CON): **Out** → **Probable** — Injury/Illness - Left Foot; Sprain
+
 ## 2026-05-17 23:16 UTC
 
 - **Kamiah Smalls** (PDX) newly listed as **Questionable** — Injury/Illness - Left Ankle; Injury
