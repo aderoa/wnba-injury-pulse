@@ -1511,5 +1511,23 @@
     "status": "Out",
     "reason": "Injury/Illness - Right Hand; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-17T00:01:03.464138+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Laura Ziegler",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-05-17T00:01:03.464138+00:00",
+    "type": "reason_change",
+    "team_abbr": "LAS",
+    "player": "Sania Feagin",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Leg; NA",
+    "to_reason": "Injury/Illness - Left Leg; LLeg",
+    "reason_category": "injury"
   }
 ]
