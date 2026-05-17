@@ -1657,5 +1657,14 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-17T22:31:11.549673+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Maddy Westbeld",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]

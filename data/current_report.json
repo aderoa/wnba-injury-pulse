@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/17/26 06:15 PM",
+  "report_ts": "05/17/26 06:30 PM",
   "page_count": 2,
-  "raw_line_count": 37,
+  "raw_line_count": 38,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -169,6 +169,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Right Knee; Right Knee",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Westbeld, Maddy",
+          "name": "Maddy Westbeld",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -315,7 +322,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-17_06_15PM.pdf",
-  "fetched_slot": "2026-05-17T18:15:00-04:00",
-  "polled_at_utc": "2026-05-17T22:16:06.470199+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-17_06_30PM.pdf",
+  "fetched_slot": "2026-05-17T18:30:00-04:00",
+  "polled_at_utc": "2026-05-17T22:31:11.549673+00:00"
 }
