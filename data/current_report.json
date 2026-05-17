@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/17/26 01:00 PM",
+  "report_ts": "05/17/26 01:15 PM",
   "page_count": 2,
-  "raw_line_count": 30,
+  "raw_line_count": 31,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -48,6 +48,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Right Knee; N/A",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Okonkwo, Amy",
+          "name": "Amy Okonkwo",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -274,7 +281,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-17_01_00PM.pdf",
-  "fetched_slot": "2026-05-17T13:00:00-04:00",
-  "polled_at_utc": "2026-05-17T17:01:11.776359+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-17_01_15PM.pdf",
+  "fetched_slot": "2026-05-17T13:15:00-04:00",
+  "polled_at_utc": "2026-05-17T17:16:08.052110+00:00"
 }

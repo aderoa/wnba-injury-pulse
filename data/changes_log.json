@@ -1529,5 +1529,14 @@
     "from_reason": "Injury/Illness - Left Leg; NA",
     "to_reason": "Injury/Illness - Left Leg; LLeg",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-17T17:16:08.052110+00:00",
+    "type": "added",
+    "team_abbr": "ATL",
+    "player": "Amy Okonkwo",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
