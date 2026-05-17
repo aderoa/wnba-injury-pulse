@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/17/26 06:00 PM",
+  "report_ts": "05/17/26 06:15 PM",
   "page_count": 2,
-  "raw_line_count": 36,
+  "raw_line_count": 37,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -269,6 +269,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Leg; LLeg",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Ziegler, Laura",
+          "name": "Laura Ziegler",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -308,7 +315,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-17_06_00PM.pdf",
-  "fetched_slot": "2026-05-17T18:00:00-04:00",
-  "polled_at_utc": "2026-05-17T22:02:06.314064+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-17_06_15PM.pdf",
+  "fetched_slot": "2026-05-17T18:15:00-04:00",
+  "polled_at_utc": "2026-05-17T22:16:06.470199+00:00"
 }
