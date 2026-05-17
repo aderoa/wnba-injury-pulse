@@ -1,5 +1,5 @@
 {
-  "report_ts": "05/17/26 04:00 PM",
+  "report_ts": "05/17/26 04:15 PM",
   "page_count": 2,
   "raw_line_count": 31,
   "teams": [
@@ -114,7 +114,7 @@
         {
           "name_last_first": "Boston, Aliyah",
           "name": "Aliyah Boston",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Rightlowerleg; right lowerleg",
           "reason_category": "injury"
         }
@@ -281,7 +281,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-17_04_00PM.pdf",
-  "fetched_slot": "2026-05-17T16:00:00-04:00",
-  "polled_at_utc": "2026-05-17T20:01:12.919473+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-17_04_15PM.pdf",
+  "fetched_slot": "2026-05-17T16:15:00-04:00",
+  "polled_at_utc": "2026-05-17T20:16:09.294605+00:00"
 }
