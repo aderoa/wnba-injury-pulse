@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/17/26 07:00 PM",
+  "report_ts": "05/17/26 07:15 PM",
   "page_count": 2,
-  "raw_line_count": 38,
+  "raw_line_count": 40,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -318,11 +318,33 @@
       "game_date": "05/18/2026",
       "game_time": "10:00(ET)",
       "matchup": "CON@PDX",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Leite, Carla",
+          "name": "Carla Leite",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Ankle; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Samuelson, Karlie",
+          "name": "Karlie Samuelson",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Foot; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Smalls, Kamiah",
+          "name": "Kamiah Smalls",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Ankle; Injury",
+          "reason_category": "injury"
+        }
+      ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-17_07_00PM.pdf",
-  "fetched_slot": "2026-05-17T19:00:00-04:00",
-  "polled_at_utc": "2026-05-17T23:12:09.229792+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-17_07_15PM.pdf",
+  "fetched_slot": "2026-05-17T19:15:00-04:00",
+  "polled_at_utc": "2026-05-17T23:16:08.468697+00:00"
 }

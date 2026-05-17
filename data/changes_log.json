@@ -1666,5 +1666,32 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-17T23:16:08.468697+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Kamiah Smalls",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Left Ankle; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-17T23:16:08.468697+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Sug Sutton",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Right Knee; Injury"
+  },
+  {
+    "ts": "2026-05-17T23:16:08.468697+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Carla Leite",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Right Ankle; Injury",
+    "reason_category": "injury"
   }
 ]
