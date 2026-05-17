@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/17/26 05:15 PM",
+  "report_ts": "05/17/26 05:30 PM",
   "page_count": 2,
-  "raw_line_count": 31,
+  "raw_line_count": 33,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -117,6 +117,20 @@
           "status": "Out",
           "reason": "Injury/Illness - Rightlowerleg; right lowerleg",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Hall, Bree",
+          "name": "Bree Hall",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Pissott, Justine",
+          "name": "Justine Pissott",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -281,7 +295,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-17_05_15PM.pdf",
-  "fetched_slot": "2026-05-17T17:15:00-04:00",
-  "polled_at_utc": "2026-05-17T21:16:06.403584+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-17_05_30PM.pdf",
+  "fetched_slot": "2026-05-17T17:30:00-04:00",
+  "polled_at_utc": "2026-05-17T21:31:09.638206+00:00"
 }

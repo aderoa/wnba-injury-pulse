@@ -1568,5 +1568,23 @@
     "to_status": "Available",
     "reason": "-",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-05-17T21:31:09.638206+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Bree Hall",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-17T21:31:09.638206+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Justine Pissott",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
