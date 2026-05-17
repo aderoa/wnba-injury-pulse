@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/17/26 05:45 PM",
+  "report_ts": "05/17/26 06:00 PM",
   "page_count": 2,
-  "raw_line_count": 33,
+  "raw_line_count": 36,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -152,7 +152,7 @@
         {
           "name_last_first": "Diggins, Skylar",
           "name": "Skylar Diggins",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Eye; Eye",
           "reason_category": "injury"
         },
@@ -238,6 +238,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Right Hand; Injury",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Milic, Nikolina",
+          "name": "Nikolina Milic",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -271,8 +278,16 @@
       "game_date": "05/18/2026",
       "game_time": "08:00(ET)",
       "matchup": "WAS@DAL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Onyenwere, Michaela",
+          "name": "Michaela Onyenwere",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Injury Management",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Connecticut Sun",
@@ -293,7 +308,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-17_05_45PM.pdf",
-  "fetched_slot": "2026-05-17T17:45:00-04:00",
-  "polled_at_utc": "2026-05-17T21:46:07.901256+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-17_06_00PM.pdf",
+  "fetched_slot": "2026-05-17T18:00:00-04:00",
+  "polled_at_utc": "2026-05-17T22:01:16.185177+00:00"
 }

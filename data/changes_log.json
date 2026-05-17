@@ -1595,5 +1595,58 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-17T22:01:16.185177+00:00",
+    "type": "status_change",
+    "team_abbr": "CHI",
+    "player": "Skylar Diggins",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Eye; Eye",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-17T22:01:16.185177+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Nikolina Milic",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-17T22:01:16.185177+00:00",
+    "type": "cleared",
+    "team_abbr": "WAS",
+    "player": "Georgia Amoore",
+    "previous_status": "Available",
+    "previous_reason": "-"
+  },
+  {
+    "ts": "2026-05-17T22:01:16.185177+00:00",
+    "type": "cleared",
+    "team_abbr": "WAS",
+    "player": "Alicia FlorezGetino",
+    "previous_status": "Out",
+    "previous_reason": "Personal Reasons"
+  },
+  {
+    "ts": "2026-05-17T22:01:16.185177+00:00",
+    "type": "cleared",
+    "team_abbr": "WAS",
+    "player": "Darianna Littlepage-Buggs",
+    "previous_status": "Out",
+    "previous_reason": "Not With Team"
+  },
+  {
+    "ts": "2026-05-17T22:01:16.185177+00:00",
+    "type": "reason_change",
+    "team_abbr": "WAS",
+    "player": "Michaela Onyenwere",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Knee; Injury management",
+    "to_reason": "Injury/Illness - Left Knee; Injury Management",
+    "reason_category": "injury"
   }
 ]
