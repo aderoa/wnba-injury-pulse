@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/16/26 11:45 PM",
+  "report_ts": "05/17/26 12:00 AM",
   "page_count": 2,
-  "raw_line_count": 26,
+  "raw_line_count": 30,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -236,9 +236,45 @@
           "reason_category": "injury"
         }
       ]
+    },
+    {
+      "team_full": "Washington Mystics",
+      "team_abbr": "WAS",
+      "game_date": "05/18/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "WAS@DAL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Dallas Wings",
+      "team_abbr": "DAL",
+      "game_date": "05/18/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "WAS@DAL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Connecticut Sun",
+      "team_abbr": "CON",
+      "game_date": "05/18/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "CON@PDX",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Portland Fire",
+      "team_abbr": "PDX",
+      "game_date": "05/18/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "CON@PDX",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-16_11_45PM.pdf",
-  "fetched_slot": "2026-05-16T23:45:00-04:00",
-  "polled_at_utc": "2026-05-17T03:46:01.006077+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-17_12_00AM.pdf",
+  "fetched_slot": "2026-05-17T00:00:00-04:00",
+  "polled_at_utc": "2026-05-17T04:01:01.571374+00:00"
 }
