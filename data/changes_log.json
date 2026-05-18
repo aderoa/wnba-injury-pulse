@@ -1720,5 +1720,41 @@
     "status": "Out",
     "reason": "Injury/Illness - Left Knee; Left Knee",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-18T22:00:36.226733+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Julie TorontoTempo Allemand",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Hip; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-18T22:00:36.226733+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Temi Fagbenle",
+    "status": "Out",
+    "reason": "Injury/Illness - Right Shoulder; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-18T22:00:36.226733+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Isabelle Harrison",
+    "status": "Out",
+    "reason": "Injury/Illness - Right Hand; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-18T22:00:36.226733+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Nyara Sabally",
+    "status": "Probable",
+    "reason": "Injury/Illness - Neck; Injury",
+    "reason_category": "injury"
   }
 ]

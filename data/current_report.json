@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/18/26 05:45 PM",
+  "report_ts": "05/18/26 06:00 PM",
   "page_count": 1,
-  "raw_line_count": 10,
+  "raw_line_count": 13,
   "teams": [
     {
       "team_full": "Washington Mystics",
@@ -81,8 +81,37 @@
       "game_date": "05/19/2026",
       "game_time": "10:00(ET)",
       "matchup": "TOR@PHX",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "TorontoTempo Allemand, Julie",
+          "name": "Julie TorontoTempo Allemand",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Hip; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Fagbenle, Temi",
+          "name": "Temi Fagbenle",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Shoulder; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Harrison, Isabelle",
+          "name": "Isabelle Harrison",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Hand; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sabally, Nyara",
+          "name": "Nyara Sabally",
+          "status": "Probable",
+          "reason": "Injury/Illness - Neck; Injury",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Phoenix Mercury",
@@ -94,7 +123,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-18_05_45PM.pdf",
-  "fetched_slot": "2026-05-18T17:45:00-04:00",
-  "polled_at_utc": "2026-05-18T21:45:33.337650+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-18_06_00PM.pdf",
+  "fetched_slot": "2026-05-18T18:00:00-04:00",
+  "polled_at_utc": "2026-05-18T22:00:36.226733+00:00"
 }
