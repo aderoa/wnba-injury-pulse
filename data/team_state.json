@@ -111,7 +111,8 @@
         "reason": "Injury/Illness - Right Hand; Injury",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-05-18T04:01:13.229620+00:00"
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
@@ -306,13 +307,15 @@
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-05-18T03:46:02.318681+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-17_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-18T04:01:13.229620+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-18_12_00AM.pdf",
     "game_dates": [
-      "05/18/2026"
+      "05/18/2026",
+      "05/19/2026"
     ],
     "matchups": [
-      "CON@PDX"
+      "CON@PDX",
+      "TOR@PHX"
     ],
     "players": [
       {
@@ -390,8 +393,8 @@
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-05-18T03:46:02.318681+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-17_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-18T04:01:13.229620+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-18_12_00AM.pdf",
     "game_dates": [
       "05/18/2026"
     ],
@@ -460,8 +463,8 @@
   "WAS": {
     "team_full": "Washington Mystics",
     "submitted": true,
-    "last_submitted_ts": "2026-05-18T03:46:02.318681+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-17_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-18T04:01:13.229620+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-18_12_00AM.pdf",
     "game_dates": [
       "05/18/2026"
     ],
