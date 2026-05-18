@@ -1756,5 +1756,23 @@
     "status": "Probable",
     "reason": "Injury/Illness - Neck; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-18T23:00:33.198993+00:00",
+    "type": "added",
+    "team_abbr": "WAS",
+    "player": "Alicia FlorezGetino",
+    "status": "Out",
+    "reason": "Personal Reasons",
+    "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-05-18T23:00:33.198993+00:00",
+    "type": "added",
+    "team_abbr": "WAS",
+    "player": "Darianna Littlepage-Buggs",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]

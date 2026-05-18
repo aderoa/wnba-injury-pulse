@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/18/26 06:45 PM",
+  "report_ts": "05/18/26 07:00 PM",
   "page_count": 1,
-  "raw_line_count": 13,
+  "raw_line_count": 15,
   "teams": [
     {
       "team_full": "Washington Mystics",
@@ -11,6 +11,20 @@
       "matchup": "WAS@DAL",
       "submitted": true,
       "players": [
+        {
+          "name_last_first": "FlorezGetino, Alicia",
+          "name": "Alicia FlorezGetino",
+          "status": "Out",
+          "reason": "Personal Reasons",
+          "reason_category": "offcourt"
+        },
+        {
+          "name_last_first": "Littlepage-Buggs, Darianna",
+          "name": "Darianna Littlepage-Buggs",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
         {
           "name_last_first": "Onyenwere, Michaela",
           "name": "Michaela Onyenwere",
@@ -123,7 +137,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-18_06_45PM.pdf",
-  "fetched_slot": "2026-05-18T18:45:00-04:00",
-  "polled_at_utc": "2026-05-18T22:45:30.661830+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-18_07_00PM.pdf",
+  "fetched_slot": "2026-05-18T19:00:00-04:00",
+  "polled_at_utc": "2026-05-18T23:00:33.198993+00:00"
 }
