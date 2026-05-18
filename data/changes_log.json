@@ -1774,5 +1774,31 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-18T23:45:32.897344+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Dulcy FankamMendjiadeu",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-18T23:45:32.897344+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Costanza Verona",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-18T23:45:32.897344+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Azzi Fudd",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Right Knee; n/a"
   }
 ]
