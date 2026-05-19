@@ -1,156 +1,8 @@
 {
-  "report_ts": "05/18/26 11:45 PM",
+  "report_ts": "05/19/26 12:00 AM",
   "page_count": 1,
-  "raw_line_count": 19,
+  "raw_line_count": 13,
   "teams": [
-    {
-      "team_full": "Washington Mystics",
-      "team_abbr": "WAS",
-      "game_date": "05/18/2026",
-      "game_time": "08:00(ET)",
-      "matchup": "WAS@DAL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "FlorezGetino, Alicia",
-          "name": "Alicia FlorezGetino",
-          "status": "Out",
-          "reason": "Personal Reasons",
-          "reason_category": "offcourt"
-        },
-        {
-          "name_last_first": "Littlepage-Buggs, Darianna",
-          "name": "Darianna Littlepage-Buggs",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Onyenwere, Michaela",
-          "name": "Michaela Onyenwere",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Knee; Injury Management",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Dallas Wings",
-      "team_abbr": "DAL",
-      "game_date": "05/18/2026",
-      "game_time": "08:00(ET)",
-      "matchup": "WAS@DAL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "FankamMendjiadeu, Dulcy",
-          "name": "Dulcy FankamMendjiadeu",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Verona, Costanza",
-          "name": "Costanza Verona",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Connecticut Sun",
-      "team_abbr": "CON",
-      "game_date": "05/18/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "CON@PDX",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Griner, Brittney",
-          "name": "Brittney Griner",
-          "status": "Available",
-          "reason": "Injury/Illness - Left Foot; Sprain",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Nelson-Ododa, Olivia",
-          "name": "Olivia Nelson-Ododa",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Ankle; Sprain",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Portland Fire",
-      "team_abbr": "PDX",
-      "game_date": "05/18/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "CON@PDX",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Leite, Carla",
-          "name": "Carla Leite",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Ankle; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Samuelson, Karlie",
-          "name": "Karlie Samuelson",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Foot; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Smalls, Kamiah",
-          "name": "Kamiah Smalls",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Ankle; Injury",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Portland Fire",
-      "team_abbr": "PDX",
-      "game_date": "05/19/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "TOR@PHX",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "TorontoTempo Allemand, Julie",
-          "name": "Julie TorontoTempo Allemand",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Hip; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Fagbenle, Temi",
-          "name": "Temi Fagbenle",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Shoulder; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Harrison, Isabelle",
-          "name": "Isabelle Harrison",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Hand; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Sabally, Nyara",
-          "name": "Nyara Sabally",
-          "status": "Probable",
-          "reason": "Injury/Illness - Neck; Injury",
-          "reason_category": "injury"
-        }
-      ]
-    },
     {
       "team_full": "Phoenix Mercury",
       "team_abbr": "PHX",
@@ -167,9 +19,63 @@
           "reason_category": "injury"
         }
       ]
+    },
+    {
+      "team_full": "Portland Fire",
+      "team_abbr": "PDX",
+      "game_date": "05/20/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "PDX@IND",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Indiana Fever",
+      "team_abbr": "IND",
+      "game_date": "05/20/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "PDX@IND",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Dallas Wings",
+      "team_abbr": "DAL",
+      "game_date": "05/20/2026",
+      "game_time": "09:00(ET)",
+      "matchup": "DAL@CHI",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Chicago Sky",
+      "team_abbr": "CHI",
+      "game_date": "05/20/2026",
+      "game_time": "09:00(ET)",
+      "matchup": "DAL@CHI",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Connecticut Sun",
+      "team_abbr": "CON",
+      "game_date": "05/20/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "CON@SEA",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Seattle Storm",
+      "team_abbr": "SEA",
+      "game_date": "05/20/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "CON@SEA",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-18_11_45PM.pdf",
-  "fetched_slot": "2026-05-18T23:45:00-04:00",
-  "polled_at_utc": "2026-05-19T03:58:40.291821+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-19_12_00AM.pdf",
+  "fetched_slot": "2026-05-19T00:00:00-04:00",
+  "polled_at_utc": "2026-05-19T04:00:38.358378+00:00"
 }

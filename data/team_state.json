@@ -25,7 +25,8 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-05-19T04:00:38.358378+00:00"
   },
   "IND": {
     "team_full": "Indiana Fever",
@@ -60,13 +61,14 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-05-19T04:00:38.358378+00:00"
   },
   "PHX": {
     "team_full": "Phoenix Mercury",
     "submitted": true,
-    "last_submitted_ts": "2026-05-19T03:58:40.291821+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-18_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-19T04:00:38.358378+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-19_12_00AM.pdf",
     "game_dates": [
       "05/19/2026"
     ],
@@ -271,7 +273,8 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-05-19T04:00:38.358378+00:00"
   },
   "PDX": {
     "team_full": "Portland Fire",
@@ -336,7 +339,8 @@
         "reason": "Injury/Illness - Neck; Injury",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-05-19T04:00:38.358378+00:00"
   },
   "SEA": {
     "team_full": "Seattle Storm",
@@ -385,7 +389,8 @@
         "reason": "-",
         "reason_category": "other"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-05-19T04:00:38.358378+00:00"
   },
   "CON": {
     "team_full": "Connecticut Sun",
@@ -413,7 +418,8 @@
         "reason": "Injury/Illness - Right Ankle; Sprain",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-05-19T04:00:38.358378+00:00"
   },
   "NYL": {
     "team_full": "New York Liberty",
