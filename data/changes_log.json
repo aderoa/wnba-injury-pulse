@@ -1880,5 +1880,57 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Left Ankle; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-19T21:00:32.633871+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Julie TorontoTempo Allemand",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Hip; Injury"
+  },
+  {
+    "ts": "2026-05-19T21:00:32.633871+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Temi Fagbenle",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Right Shoulder; Injury"
+  },
+  {
+    "ts": "2026-05-19T21:00:32.633871+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Isabelle Harrison",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Right Hand; Injury"
+  },
+  {
+    "ts": "2026-05-19T21:00:32.633871+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Nyara Sabally",
+    "previous_status": "Probable",
+    "previous_reason": "Injury/Illness - Neck; Injury"
+  },
+  {
+    "ts": "2026-05-19T21:00:32.633871+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Carla Leite",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Right Ankle; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-19T21:00:32.633871+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Kamiah Smalls",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Ankle; Injury",
+    "reason_category": "injury"
   }
 ]

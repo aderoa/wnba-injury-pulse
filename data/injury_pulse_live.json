@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-05-19T20:45:37.404922+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-19_04_45PM.pdf",
-  "report_ts": "05/19/26 04:45 PM",
+  "polled_at_utc": "2026-05-19T21:00:32.633871+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-19_05_00PM.pdf",
+  "report_ts": "05/19/26 05:00 PM",
   "all_players": [
     {
       "name": "Alicia FlorezGetino",
@@ -66,15 +66,6 @@
       "reason": "Injury/Illness - Right Knee; N/A",
       "reason_category": "injury",
       "last_updated": "2026-05-18T03:46:02.318681+00:00"
-    },
-    {
-      "name": "Carla Leite",
-      "team_abbr": "PDX",
-      "team_full": "Portland Fire",
-      "status": "Out",
-      "reason": "Injury/Illness - Right Ankle; Injury",
-      "reason_category": "injury",
-      "last_updated": "2026-05-19T03:58:40.291821+00:00"
     },
     {
       "name": "Cecilia Zandalasini",
@@ -185,15 +176,6 @@
       "last_updated": "2026-05-18T03:46:02.318681+00:00"
     },
     {
-      "name": "Isabelle Harrison",
-      "team_abbr": "PDX",
-      "team_full": "Portland Fire",
-      "status": "Out",
-      "reason": "Injury/Illness - Right Hand; Injury",
-      "reason_category": "injury",
-      "last_updated": "2026-05-19T03:58:40.291821+00:00"
-    },
-    {
       "name": "Janiah Barker",
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
@@ -212,15 +194,6 @@
       "last_updated": "2026-05-18T03:46:02.318681+00:00"
     },
     {
-      "name": "Julie TorontoTempo Allemand",
-      "team_abbr": "PDX",
-      "team_full": "Portland Fire",
-      "status": "Out",
-      "reason": "Injury/Illness - Left Hip; Injury",
-      "reason_category": "injury",
-      "last_updated": "2026-05-19T03:58:40.291821+00:00"
-    },
-    {
       "name": "Justine Pissott",
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
@@ -230,22 +203,13 @@
       "last_updated": "2026-05-18T03:46:02.318681+00:00"
     },
     {
-      "name": "Kamiah Smalls",
-      "team_abbr": "PDX",
-      "team_full": "Portland Fire",
-      "status": "Out",
-      "reason": "Injury/Illness - Left Ankle; Injury",
-      "reason_category": "injury",
-      "last_updated": "2026-05-19T03:58:40.291821+00:00"
-    },
-    {
       "name": "Karlie Samuelson",
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
       "status": "Out",
       "reason": "Injury/Illness - Left Foot; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-05-19T03:58:40.291821+00:00"
+      "last_updated": "2026-05-19T21:00:32.633871+00:00"
     },
     {
       "name": "KatieLou Samuelson",
@@ -362,7 +326,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; Arthroscopy",
       "reason_category": "injury",
-      "last_updated": "2026-05-19T20:45:37.404922+00:00"
+      "last_updated": "2026-05-19T21:00:32.633871+00:00"
     },
     {
       "name": "Sania Feagin",
@@ -401,15 +365,6 @@
       "last_updated": "2026-05-18T03:46:02.318681+00:00"
     },
     {
-      "name": "Temi Fagbenle",
-      "team_abbr": "PDX",
-      "team_full": "Portland Fire",
-      "status": "Out",
-      "reason": "Injury/Illness - Right Shoulder; Injury",
-      "reason_category": "injury",
-      "last_updated": "2026-05-19T03:58:40.291821+00:00"
-    },
-    {
       "name": "Tiffany Hayes",
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
@@ -419,13 +374,22 @@
       "last_updated": "2026-05-14T03:46:10.856477+00:00"
     },
     {
-      "name": "Nyara Sabally",
+      "name": "Carla Leite",
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
-      "status": "Probable",
-      "reason": "Injury/Illness - Neck; Injury",
+      "status": "Questionable",
+      "reason": "Injury/Illness - Right Ankle; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-05-19T03:58:40.291821+00:00"
+      "last_updated": "2026-05-19T21:00:32.633871+00:00"
+    },
+    {
+      "name": "Kamiah Smalls",
+      "team_abbr": "PDX",
+      "team_full": "Portland Fire",
+      "status": "Questionable",
+      "reason": "Injury/Illness - Left Ankle; Injury",
+      "reason_category": "injury",
+      "last_updated": "2026-05-19T21:00:32.633871+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -501,7 +465,7 @@
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
       "last_submitted_ts": "2026-05-18T03:46:02.318681+00:00",
-      "last_seen_pending_ts": "2026-05-19T20:45:37.404922+00:00",
+      "last_seen_pending_ts": "2026-05-19T21:00:32.633871+00:00",
       "matchups": [
         "CHI@MIN"
       ],
@@ -554,7 +518,7 @@
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
       "last_submitted_ts": "2026-05-19T03:58:40.291821+00:00",
-      "last_seen_pending_ts": "2026-05-19T20:45:37.404922+00:00",
+      "last_seen_pending_ts": "2026-05-19T21:00:32.633871+00:00",
       "matchups": [
         "CON@PDX"
       ],
@@ -579,7 +543,7 @@
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
       "last_submitted_ts": "2026-05-19T03:58:40.291821+00:00",
-      "last_seen_pending_ts": "2026-05-19T20:45:37.404922+00:00",
+      "last_seen_pending_ts": "2026-05-19T21:00:32.633871+00:00",
       "matchups": [
         "WAS@DAL"
       ],
@@ -824,17 +788,16 @@
     {
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
-      "last_submitted_ts": "2026-05-19T03:58:40.291821+00:00",
-      "last_seen_pending_ts": "2026-05-19T20:45:37.404922+00:00",
+      "last_submitted_ts": "2026-05-19T21:00:32.633871+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "CON@PDX",
-        "TOR@PHX"
+        "PDX@IND"
       ],
       "players": [
         {
           "name_last_first": "Leite, Carla",
           "name": "Carla Leite",
-          "status": "Out",
+          "status": "Questionable",
           "reason": "Injury/Illness - Right Ankle; Injury",
           "reason_category": "injury"
         },
@@ -848,36 +811,8 @@
         {
           "name_last_first": "Smalls, Kamiah",
           "name": "Kamiah Smalls",
-          "status": "Out",
+          "status": "Questionable",
           "reason": "Injury/Illness - Left Ankle; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "TorontoTempo Allemand, Julie",
-          "name": "Julie TorontoTempo Allemand",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Hip; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Fagbenle, Temi",
-          "name": "Temi Fagbenle",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Shoulder; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Harrison, Isabelle",
-          "name": "Isabelle Harrison",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Hand; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Sabally, Nyara",
-          "name": "Nyara Sabally",
-          "status": "Probable",
-          "reason": "Injury/Illness - Neck; Injury",
           "reason_category": "injury"
         }
       ]
@@ -885,7 +820,7 @@
     {
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
-      "last_submitted_ts": "2026-05-19T20:45:37.404922+00:00",
+      "last_submitted_ts": "2026-05-19T21:00:32.633871+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "TOR@PHX"
@@ -904,7 +839,7 @@
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
       "last_submitted_ts": "2026-05-18T03:46:02.318681+00:00",
-      "last_seen_pending_ts": "2026-05-19T20:45:37.404922+00:00",
+      "last_seen_pending_ts": "2026-05-19T21:00:32.633871+00:00",
       "matchups": [
         "SEA@IND"
       ],
@@ -980,6 +915,58 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-05-19T21:00:32.633871+00:00",
+      "type": "status_change",
+      "team_abbr": "PDX",
+      "player": "Kamiah Smalls",
+      "from_status": "Out",
+      "to_status": "Questionable",
+      "reason": "Injury/Illness - Left Ankle; Injury",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-05-19T21:00:32.633871+00:00",
+      "type": "status_change",
+      "team_abbr": "PDX",
+      "player": "Carla Leite",
+      "from_status": "Out",
+      "to_status": "Questionable",
+      "reason": "Injury/Illness - Right Ankle; Injury",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-05-19T21:00:32.633871+00:00",
+      "type": "cleared",
+      "team_abbr": "PDX",
+      "player": "Nyara Sabally",
+      "previous_status": "Probable",
+      "previous_reason": "Injury/Illness - Neck; Injury"
+    },
+    {
+      "ts": "2026-05-19T21:00:32.633871+00:00",
+      "type": "cleared",
+      "team_abbr": "PDX",
+      "player": "Isabelle Harrison",
+      "previous_status": "Out",
+      "previous_reason": "Injury/Illness - Right Hand; Injury"
+    },
+    {
+      "ts": "2026-05-19T21:00:32.633871+00:00",
+      "type": "cleared",
+      "team_abbr": "PDX",
+      "player": "Temi Fagbenle",
+      "previous_status": "Out",
+      "previous_reason": "Injury/Illness - Right Shoulder; Injury"
+    },
+    {
+      "ts": "2026-05-19T21:00:32.633871+00:00",
+      "type": "cleared",
+      "team_abbr": "PDX",
+      "player": "Julie TorontoTempo Allemand",
+      "previous_status": "Out",
+      "previous_reason": "Injury/Illness - Left Hip; Injury"
+    },
     {
       "ts": "2026-05-19T01:30:32.895190+00:00",
       "type": "status_change",

@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/19/26 04:45 PM",
+  "report_ts": "05/19/26 05:00 PM",
   "page_count": 1,
-  "raw_line_count": 13,
+  "raw_line_count": 14,
   "teams": [
     {
       "team_full": "Phoenix Mercury",
@@ -26,17 +26,30 @@
       "game_date": "05/20/2026",
       "game_time": "07:00(ET)",
       "matchup": "PDX@IND",
-      "submitted": false,
-      "players": []
-    },
-    {
-      "team_full": "Indiana Fever",
-      "team_abbr": "IND",
-      "game_date": "05/20/2026",
-      "game_time": "07:00(ET)",
-      "matchup": "PDX@IND",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Leite, Carla",
+          "name": "Carla Leite",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Ankle; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Samuelson, Karlie",
+          "name": "Karlie Samuelson",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Foot; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Smalls, Kamiah",
+          "name": "Kamiah Smalls",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Ankle; Injury",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Dallas Wings",
@@ -75,7 +88,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-19_04_45PM.pdf",
-  "fetched_slot": "2026-05-19T16:45:00-04:00",
-  "polled_at_utc": "2026-05-19T20:45:37.404922+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-19_05_00PM.pdf",
+  "fetched_slot": "2026-05-19T17:00:00-04:00",
+  "polled_at_utc": "2026-05-19T21:00:32.633871+00:00"
 }
