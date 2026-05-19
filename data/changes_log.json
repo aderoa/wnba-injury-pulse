@@ -1932,5 +1932,30 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Left Ankle; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-19T21:45:33.963616+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Elizabeth Williams",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Right Knee; Right Knee",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-19T21:45:33.963616+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Skylar Diggins",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Eye; Eye"
+  },
+  {
+    "ts": "2026-05-19T21:45:33.963616+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Maddy Westbeld",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]
