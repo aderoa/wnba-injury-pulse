@@ -1,5 +1,5 @@
 {
-  "report_ts": "05/19/26 07:00 PM",
+  "report_ts": "05/19/26 07:15 PM",
   "page_count": 1,
   "raw_line_count": 17,
   "teams": [
@@ -102,8 +102,16 @@
       "game_date": "05/20/2026",
       "game_time": "10:00(ET)",
       "matchup": "CON@SEA",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Nelson-Ododa, Olivia",
+          "name": "Olivia Nelson-Ododa",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Ankle; Sprain",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Seattle Storm",
@@ -115,7 +123,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-19_07_00PM.pdf",
-  "fetched_slot": "2026-05-19T19:00:00-04:00",
-  "polled_at_utc": "2026-05-19T23:00:36.191549+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-19_07_15PM.pdf",
+  "fetched_slot": "2026-05-19T19:15:00-04:00",
+  "polled_at_utc": "2026-05-19T23:15:31.956098+00:00"
 }

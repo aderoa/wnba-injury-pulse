@@ -67,8 +67,8 @@
   "PHX": {
     "team_full": "Phoenix Mercury",
     "submitted": true,
-    "last_submitted_ts": "2026-05-19T23:00:36.191549+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-19_07_00PM.pdf",
+    "last_submitted_ts": "2026-05-19T23:15:31.956098+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-19_07_15PM.pdf",
     "game_dates": [
       "05/19/2026"
     ],
@@ -222,8 +222,8 @@
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-05-19T23:00:36.191549+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-19_07_00PM.pdf",
+    "last_submitted_ts": "2026-05-19T23:15:31.956098+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-19_07_15PM.pdf",
     "game_dates": [
       "05/20/2026"
     ],
@@ -271,8 +271,8 @@
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-05-19T23:00:36.191549+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-19_07_00PM.pdf",
+    "last_submitted_ts": "2026-05-19T23:15:31.956098+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-19_07_15PM.pdf",
     "game_dates": [
       "05/20/2026"
     ],
@@ -351,27 +351,20 @@
         "reason_category": "other"
       }
     ],
-    "last_seen_pending_ts": "2026-05-19T23:00:36.191549+00:00"
+    "last_seen_pending_ts": "2026-05-19T23:15:31.956098+00:00"
   },
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-05-19T03:58:40.291821+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-18_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-19T23:15:31.956098+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-19_07_15PM.pdf",
     "game_dates": [
-      "05/18/2026"
+      "05/20/2026"
     ],
     "matchups": [
-      "CON@PDX"
+      "CON@SEA"
     ],
     "players": [
-      {
-        "name_last_first": "Griner, Brittney",
-        "name": "Brittney Griner",
-        "status": "Available",
-        "reason": "Injury/Illness - Left Foot; Sprain",
-        "reason_category": "injury"
-      },
       {
         "name_last_first": "Nelson-Ododa, Olivia",
         "name": "Olivia Nelson-Ododa",
@@ -379,8 +372,7 @@
         "reason": "Injury/Illness - Right Ankle; Sprain",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-05-19T23:00:36.191549+00:00"
+    ]
   },
   "NYL": {
     "team_full": "New York Liberty",
