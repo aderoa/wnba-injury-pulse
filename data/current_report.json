@@ -1,5 +1,5 @@
 {
-  "report_ts": "05/18/26 09:15 PM",
+  "report_ts": "05/18/26 09:30 PM",
   "page_count": 1,
   "raw_line_count": 19,
   "teams": [
@@ -69,7 +69,7 @@
         {
           "name_last_first": "Griner, Brittney",
           "name": "Brittney Griner",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness - Left Foot; Sprain",
           "reason_category": "injury"
         },
@@ -93,7 +93,7 @@
         {
           "name_last_first": "Leite, Carla",
           "name": "Carla Leite",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Right Ankle; Injury",
           "reason_category": "injury"
         },
@@ -107,7 +107,7 @@
         {
           "name_last_first": "Smalls, Kamiah",
           "name": "Kamiah Smalls",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Left Ankle; Injury",
           "reason_category": "injury"
         }
@@ -169,7 +169,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-18_09_15PM.pdf",
-  "fetched_slot": "2026-05-18T21:15:00-04:00",
-  "polled_at_utc": "2026-05-19T01:15:33.271896+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-18_09_30PM.pdf",
+  "fetched_slot": "2026-05-18T21:30:00-04:00",
+  "polled_at_utc": "2026-05-19T01:30:32.895190+00:00"
 }

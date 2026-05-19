@@ -1850,5 +1850,35 @@
     "from_reason": "Player Injury/Illness - Left Knee; Arthroscopy",
     "to_reason": "Injury/Illness - Left Knee; Arthroscopy",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-19T01:30:32.895190+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Brittney Griner",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Foot; Sprain",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-19T01:30:32.895190+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Carla Leite",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Ankle; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-19T01:30:32.895190+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Kamiah Smalls",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Ankle; Injury",
+    "reason_category": "injury"
   }
 ]
