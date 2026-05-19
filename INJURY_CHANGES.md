@@ -4,6 +4,15 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-05-19 00:00 UTC
+
+- **Shay Ciezki** (PHX) cleared (was Out)
+- **Marta Suarez** (PHX) cleared (was Out)
+- **Temi TorontoTempo Fagbenle** (PHX) cleared (was Out)
+- **Mariella Fasoula** (PHX) cleared (was Out)
+- **Isabelle Harrison** (PHX) cleared (was Out)
+- **Sami Whitcomb** (PHX, Out): reason updated (Player Injury/Illness - Left Knee; Arthroscopy → Injury/Illness - Left Knee; Arthroscopy)
+
 ## 2026-05-18 23:45 UTC
 
 - **Dulcy FankamMendjiadeu** (DAL) newly listed as **Out** — Coach's Decision
