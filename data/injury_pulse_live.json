@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-05-19T12:00:36.619378+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-19_08_00AM.pdf",
-  "report_ts": "05/19/26 08:00 AM",
+  "polled_at_utc": "2026-05-19T12:15:33.827674+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-19_08_15AM.pdf",
+  "report_ts": "05/19/26 08:15 AM",
   "all_players": [
     {
       "name": "Alicia FlorezGetino",
@@ -362,7 +362,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; Arthroscopy",
       "reason_category": "injury",
-      "last_updated": "2026-05-19T12:00:36.619378+00:00"
+      "last_updated": "2026-05-19T12:15:33.827674+00:00"
     },
     {
       "name": "Sania Feagin",
@@ -501,7 +501,7 @@
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
       "last_submitted_ts": "2026-05-18T03:46:02.318681+00:00",
-      "last_seen_pending_ts": "2026-05-19T12:00:36.619378+00:00",
+      "last_seen_pending_ts": "2026-05-19T12:15:33.827674+00:00",
       "matchups": [
         "CHI@MIN"
       ],
@@ -554,7 +554,7 @@
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
       "last_submitted_ts": "2026-05-19T03:58:40.291821+00:00",
-      "last_seen_pending_ts": "2026-05-19T12:00:36.619378+00:00",
+      "last_seen_pending_ts": "2026-05-19T12:15:33.827674+00:00",
       "matchups": [
         "CON@PDX"
       ],
@@ -579,7 +579,7 @@
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
       "last_submitted_ts": "2026-05-19T03:58:40.291821+00:00",
-      "last_seen_pending_ts": "2026-05-19T12:00:36.619378+00:00",
+      "last_seen_pending_ts": "2026-05-19T12:15:33.827674+00:00",
       "matchups": [
         "WAS@DAL"
       ],
@@ -629,7 +629,7 @@
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
       "last_submitted_ts": "2026-05-18T03:46:02.318681+00:00",
-      "last_seen_pending_ts": "2026-05-19T12:00:36.619378+00:00",
+      "last_seen_pending_ts": "2026-05-19T12:15:33.827674+00:00",
       "matchups": [
         "SEA@IND"
       ],
@@ -825,7 +825,7 @@
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
       "last_submitted_ts": "2026-05-19T03:58:40.291821+00:00",
-      "last_seen_pending_ts": "2026-05-19T12:00:36.619378+00:00",
+      "last_seen_pending_ts": "2026-05-19T12:15:33.827674+00:00",
       "matchups": [
         "CON@PDX",
         "TOR@PHX"
@@ -885,7 +885,7 @@
     {
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
-      "last_submitted_ts": "2026-05-19T12:00:36.619378+00:00",
+      "last_submitted_ts": "2026-05-19T12:15:33.827674+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "TOR@PHX"
@@ -904,7 +904,7 @@
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
       "last_submitted_ts": "2026-05-18T03:46:02.318681+00:00",
-      "last_seen_pending_ts": "2026-05-19T12:00:36.619378+00:00",
+      "last_seen_pending_ts": "2026-05-19T12:15:33.827674+00:00",
       "matchups": [
         "SEA@IND"
       ],
