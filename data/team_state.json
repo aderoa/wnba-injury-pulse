@@ -83,7 +83,8 @@
         "reason": "Injury/Illness - Left Knee; Arthroscopy",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-05-20T04:00:32.676499+00:00"
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
@@ -217,13 +218,14 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-05-20T04:00:32.676499+00:00"
   },
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-05-20T03:59:24.092865+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-19_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-20T04:00:32.676499+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-20_12_00AM.pdf",
     "game_dates": [
       "05/20/2026"
     ],
@@ -271,8 +273,8 @@
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-05-20T03:59:24.092865+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-19_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-20T04:00:32.676499+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-20_12_00AM.pdf",
     "game_dates": [
       "05/20/2026"
     ],
@@ -306,8 +308,8 @@
   "SEA": {
     "team_full": "Seattle Storm",
     "submitted": true,
-    "last_submitted_ts": "2026-05-20T03:59:24.092865+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-19_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-20T04:00:32.676499+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-20_12_00AM.pdf",
     "game_dates": [
       "05/20/2026"
     ],
@@ -355,8 +357,8 @@
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-05-20T03:59:24.092865+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-19_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-20T04:00:32.676499+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-20_12_00AM.pdf",
     "game_dates": [
       "05/20/2026"
     ],
@@ -413,7 +415,8 @@
         "reason": "Injury/Illness - Cyst; Cyst",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-05-20T04:00:32.676499+00:00"
   },
   "WAS": {
     "team_full": "Washington Mystics",
@@ -476,7 +479,8 @@
         "reason": "Injury/Illness - Head; Concussions",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-05-20T04:00:32.676499+00:00"
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",
@@ -511,6 +515,7 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-05-20T04:00:32.676499+00:00"
   }
 }

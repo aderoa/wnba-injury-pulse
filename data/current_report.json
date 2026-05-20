@@ -1,25 +1,8 @@
 {
-  "report_ts": "05/19/26 11:45 PM",
+  "report_ts": "05/20/26 12:00 AM",
   "page_count": 2,
-  "raw_line_count": 21,
+  "raw_line_count": 20,
   "teams": [
-    {
-      "team_full": "Phoenix Mercury",
-      "team_abbr": "PHX",
-      "game_date": "05/19/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "TOR@PHX",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Whitcomb, Sami",
-          "name": "Sami Whitcomb",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Knee; Arthroscopy",
-          "reason_category": "injury"
-        }
-      ]
-    },
     {
       "team_full": "Portland Fire",
       "team_abbr": "PDX",
@@ -157,9 +140,63 @@
           "reason_category": "rest_coach"
         }
       ]
+    },
+    {
+      "team_full": "Golden State Valkyries",
+      "team_abbr": "GSV",
+      "game_date": "05/21/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "GSV@NYL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "New York Liberty",
+      "team_abbr": "NYL",
+      "game_date": "05/21/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "GSV@NYL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "New York Liberty",
+      "team_abbr": "NYL",
+      "game_date": "05/21/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "TOR@MIN",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Minnesota Lynx",
+      "team_abbr": "MIN",
+      "game_date": "05/21/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "TOR@MIN",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Los Angeles Sparks",
+      "team_abbr": "LAS",
+      "game_date": "05/21/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "LAS@PHX",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Phoenix Mercury",
+      "team_abbr": "PHX",
+      "game_date": "05/21/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "LAS@PHX",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-19_11_45PM.pdf",
-  "fetched_slot": "2026-05-19T23:45:00-04:00",
-  "polled_at_utc": "2026-05-20T03:59:24.092865+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-20_12_00AM.pdf",
+  "fetched_slot": "2026-05-20T00:00:00-04:00",
+  "polled_at_utc": "2026-05-20T04:00:32.676499+00:00"
 }
