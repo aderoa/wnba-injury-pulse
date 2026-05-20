@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/20/26 06:15 PM",
+  "report_ts": "05/20/26 06:30 PM",
   "page_count": 2,
-  "raw_line_count": 37,
+  "raw_line_count": 40,
   "teams": [
     {
       "team_full": "Portland Fire",
@@ -14,7 +14,7 @@
         {
           "name_last_first": "Leite, Carla",
           "name": "Carla Leite",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Right Ankle; Injury",
           "reason_category": "injury"
         },
@@ -28,7 +28,7 @@
         {
           "name_last_first": "Smalls, Kamiah",
           "name": "Kamiah Smalls",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Left Ankle; Injury",
           "reason_category": "injury"
         }
@@ -48,6 +48,20 @@
           "status": "Out",
           "reason": "Injury/Illness - Back; Back",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Hall, Bree",
+          "name": "Bree Hall",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Pissott, Justine",
+          "name": "Justine Pissott",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -170,14 +184,14 @@
           "name_last_first": "Jocyte, Juste",
           "name": "Juste Jocyte",
           "status": "Out",
-          "reason": "Returnto Competition Reconditioning",
+          "reason": "Returnto Competition",
           "reason_category": "other"
         },
         {
           "name_last_first": "Zandalasini, Cecilia",
           "name": "Cecilia Zandalasini",
           "status": "Out",
-          "reason": "Injury/Illness - Head; Concussion",
+          "reason": "Reconditioning Injury/Illness - Head; Concussion",
           "reason_category": "injury"
         }
       ]
@@ -308,7 +322,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-20_06_15PM.pdf",
-  "fetched_slot": "2026-05-20T18:15:00-04:00",
-  "polled_at_utc": "2026-05-20T22:16:13.930753+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-20_06_30PM.pdf",
+  "fetched_slot": "2026-05-20T18:30:00-04:00",
+  "polled_at_utc": "2026-05-20T22:31:13.407067+00:00"
 }
