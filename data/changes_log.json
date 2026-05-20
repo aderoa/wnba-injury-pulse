@@ -1965,5 +1965,25 @@
     "player": "Brittney Griner",
     "previous_status": "Available",
     "previous_reason": "Injury/Illness - Left Foot; Sprain"
+  },
+  {
+    "ts": "2026-05-20T00:00:33.081730+00:00",
+    "type": "status_change",
+    "team_abbr": "SEA",
+    "player": "Taina Mair",
+    "from_status": "Available",
+    "to_status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-20T00:00:33.081730+00:00",
+    "type": "status_change",
+    "team_abbr": "SEA",
+    "player": "Taylor Thierry",
+    "from_status": "Available",
+    "to_status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
