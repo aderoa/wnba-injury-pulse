@@ -84,7 +84,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-05-20T20:46:09.946551+00:00"
+    "last_seen_pending_ts": "2026-05-20T21:01:15.837911+00:00"
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
@@ -219,13 +219,13 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-05-20T20:46:09.946551+00:00"
+    "last_seen_pending_ts": "2026-05-20T21:01:15.837911+00:00"
   },
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-05-20T20:46:09.946551+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-20_04_45PM.pdf",
+    "last_submitted_ts": "2026-05-20T21:01:15.837911+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-20_05_00PM.pdf",
     "game_dates": [
       "05/20/2026"
     ],
@@ -273,8 +273,8 @@
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-05-20T20:46:09.946551+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-20_04_45PM.pdf",
+    "last_submitted_ts": "2026-05-20T21:01:15.837911+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-20_05_00PM.pdf",
     "game_dates": [
       "05/20/2026"
     ],
@@ -308,8 +308,8 @@
   "SEA": {
     "team_full": "Seattle Storm",
     "submitted": true,
-    "last_submitted_ts": "2026-05-20T20:46:09.946551+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-20_04_45PM.pdf",
+    "last_submitted_ts": "2026-05-20T21:01:15.837911+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-20_05_00PM.pdf",
     "game_dates": [
       "05/20/2026"
     ],
@@ -357,8 +357,8 @@
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-05-20T20:46:09.946551+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-20_04_45PM.pdf",
+    "last_submitted_ts": "2026-05-20T21:01:15.837911+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-20_05_00PM.pdf",
     "game_dates": [
       "05/20/2026"
     ],
@@ -378,45 +378,45 @@
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-05-15T03:46:11.316640+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-14_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-20T21:01:15.837911+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-20_05_00PM.pdf",
     "game_dates": [
-      "05/14/2026"
+      "05/21/2026"
     ],
     "matchups": [
-      "NYL@PDX"
+      "GSV@NYL",
+      "TOR@MIN"
     ],
     "players": [
-      {
-        "name_last_first": "Allen, Rebecca",
-        "name": "Rebecca Allen",
-        "status": "Available",
-        "reason": "Injury/Illness - Left Leg; Leg",
-        "reason_category": "injury"
-      },
       {
         "name_last_first": "Fauthoux, Marine",
         "name": "Marine Fauthoux",
         "status": "Out",
-        "reason": "Injury/Illness - Left Knee; Rehabilitation",
+        "reason": "Protocol Injury/Illness - Left Knee; Rehabilitation",
         "reason_category": "injury"
       },
       {
         "name_last_first": "Ionescu, Sabrina",
         "name": "Sabrina Ionescu",
-        "status": "Out",
+        "status": "Questionable",
         "reason": "Injury/Illness - Left Foot; Foot",
         "reason_category": "injury"
       },
       {
+        "name_last_first": "Laney-Hamilton, Betnijah",
+        "name": "Betnijah Laney-Hamilton",
+        "status": "Questionable",
+        "reason": "Personal Reasons",
+        "reason_category": "offcourt"
+      },
+      {
         "name_last_first": "Sabally, Satou",
         "name": "Satou Sabally",
-        "status": "Out",
-        "reason": "Injury/Illness - Cyst; Cyst",
-        "reason_category": "injury"
+        "status": "Questionable",
+        "reason": "Returnto Competition Reconditioning",
+        "reason_category": "other"
       }
-    ],
-    "last_seen_pending_ts": "2026-05-20T20:46:09.946551+00:00"
+    ]
   },
   "WAS": {
     "team_full": "Washington Mystics",
@@ -456,31 +456,30 @@
   "GSV": {
     "team_full": "Golden State Valkyries",
     "submitted": true,
-    "last_submitted_ts": "2026-05-14T03:46:10.856477+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-13_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-20T21:01:15.837911+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-20_05_00PM.pdf",
     "game_dates": [
-      "05/13/2026"
+      "05/21/2026"
     ],
     "matchups": [
-      "CHI@GSV"
+      "GSV@NYL"
     ],
     "players": [
       {
-        "name_last_first": "Hayes, Tiffany",
-        "name": "Tiffany Hayes",
+        "name_last_first": "Jocyte, Juste",
+        "name": "Juste Jocyte",
         "status": "Out",
-        "reason": "Injury/Illness - Left Pinky; Dislocation",
-        "reason_category": "injury"
+        "reason": "Returnto Competition",
+        "reason_category": "other"
       },
       {
         "name_last_first": "Zandalasini, Cecilia",
         "name": "Cecilia Zandalasini",
         "status": "Out",
-        "reason": "Injury/Illness - Head; Concussions",
+        "reason": "Reconditioning Injury/Illness - Head; Concussion",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-05-20T20:46:09.946551+00:00"
+    ]
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",
@@ -516,6 +515,6 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-05-20T20:46:09.946551+00:00"
+    "last_seen_pending_ts": "2026-05-20T21:01:15.837911+00:00"
   }
 }

@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/20/26 04:45 PM",
+  "report_ts": "05/20/26 05:00 PM",
   "page_count": 2,
-  "raw_line_count": 20,
+  "raw_line_count": 32,
   "teams": [
     {
       "team_full": "Portland Fire",
@@ -147,8 +147,23 @@
       "game_date": "05/21/2026",
       "game_time": "08:00(ET)",
       "matchup": "GSV@NYL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Jocyte, Juste",
+          "name": "Juste Jocyte",
+          "status": "Out",
+          "reason": "Returnto Competition",
+          "reason_category": "other"
+        },
+        {
+          "name_last_first": "Zandalasini, Cecilia",
+          "name": "Cecilia Zandalasini",
+          "status": "Out",
+          "reason": "Reconditioning Injury/Illness - Head; Concussion",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "New York Liberty",
@@ -156,8 +171,37 @@
       "game_date": "05/21/2026",
       "game_time": "08:00(ET)",
       "matchup": "GSV@NYL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Fauthoux, Marine",
+          "name": "Marine Fauthoux",
+          "status": "Out",
+          "reason": "Protocol Injury/Illness - Left Knee; Rehabilitation",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Ionescu, Sabrina",
+          "name": "Sabrina Ionescu",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Foot; Foot",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Laney-Hamilton, Betnijah",
+          "name": "Betnijah Laney-Hamilton",
+          "status": "Questionable",
+          "reason": "Personal Reasons",
+          "reason_category": "offcourt"
+        },
+        {
+          "name_last_first": "Sabally, Satou",
+          "name": "Satou Sabally",
+          "status": "Questionable",
+          "reason": "Returnto Competition Reconditioning",
+          "reason_category": "other"
+        }
+      ]
     },
     {
       "team_full": "New York Liberty",
@@ -196,7 +240,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-20_04_45PM.pdf",
-  "fetched_slot": "2026-05-20T16:45:00-04:00",
-  "polled_at_utc": "2026-05-20T20:46:09.946551+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-20_05_00PM.pdf",
+  "fetched_slot": "2026-05-20T17:00:00-04:00",
+  "polled_at_utc": "2026-05-20T21:01:15.837911+00:00"
 }

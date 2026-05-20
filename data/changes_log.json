@@ -1985,5 +1985,79 @@
     "to_status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-20T21:01:15.837911+00:00",
+    "type": "added",
+    "team_abbr": "GSV",
+    "player": "Juste Jocyte",
+    "status": "Out",
+    "reason": "Returnto Competition",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-05-20T21:01:15.837911+00:00",
+    "type": "cleared",
+    "team_abbr": "GSV",
+    "player": "Tiffany Hayes",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Pinky; Dislocation"
+  },
+  {
+    "ts": "2026-05-20T21:01:15.837911+00:00",
+    "type": "reason_change",
+    "team_abbr": "GSV",
+    "player": "Cecilia Zandalasini",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Head; Concussions",
+    "to_reason": "Reconditioning Injury/Illness - Head; Concussion",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-20T21:01:15.837911+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Betnijah Laney-Hamilton",
+    "status": "Questionable",
+    "reason": "Personal Reasons",
+    "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-05-20T21:01:15.837911+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Rebecca Allen",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Left Leg; Leg"
+  },
+  {
+    "ts": "2026-05-20T21:01:15.837911+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Satou Sabally",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Returnto Competition Reconditioning",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-05-20T21:01:15.837911+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Sabrina Ionescu",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Foot; Foot",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-20T21:01:15.837911+00:00",
+    "type": "reason_change",
+    "team_abbr": "NYL",
+    "player": "Marine Fauthoux",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Knee; Rehabilitation",
+    "to_reason": "Protocol Injury/Illness - Left Knee; Rehabilitation",
+    "reason_category": "injury"
   }
 ]
