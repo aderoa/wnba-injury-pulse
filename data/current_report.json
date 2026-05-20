@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/20/26 05:45 PM",
+  "report_ts": "05/20/26 06:00 PM",
   "page_count": 2,
-  "raw_line_count": 32,
+  "raw_line_count": 37,
   "teams": [
     {
       "team_full": "Portland Fire",
@@ -226,8 +226,37 @@
       "game_date": "05/21/2026",
       "game_time": "08:00(ET)",
       "matchup": "TOR@MIN",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "TorontoTempo Allemand, Julie",
+          "name": "Julie TorontoTempo Allemand",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Hip; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Fagbenle, Temi",
+          "name": "Temi Fagbenle",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Shoulder; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Harrison, Isabelle",
+          "name": "Isabelle Harrison",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Hand; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sabally, Nyara",
+          "name": "Nyara Sabally",
+          "status": "Doubtful",
+          "reason": "Injury/Illness - Neck; Injury",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Minnesota Lynx",
@@ -235,8 +264,30 @@
       "game_date": "05/21/2026",
       "game_time": "08:00(ET)",
       "matchup": "TOR@MIN",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Cechova, Emma",
+          "name": "Emma Cechova",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; Right Knee",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Collier, Napheesa",
+          "name": "Napheesa Collier",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; Left Ankle",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Juhasz, Dorka",
+          "name": "Dorka Juhasz",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Foot; Right Foot",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Los Angeles Sparks",
@@ -257,7 +308,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-20_05_45PM.pdf",
-  "fetched_slot": "2026-05-20T17:45:00-04:00",
-  "polled_at_utc": "2026-05-20T21:46:10.696787+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-20_06_00PM.pdf",
+  "fetched_slot": "2026-05-20T18:00:00-04:00",
+  "polled_at_utc": "2026-05-20T22:01:13.984175+00:00"
 }

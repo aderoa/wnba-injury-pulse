@@ -4,6 +4,18 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-05-20 22:01 UTC
+
+- **Julie TorontoTempo Allemand** (NYL) newly listed as **Out** — Injury/Illness - Left Hip; Injury
+- **Temi Fagbenle** (NYL) newly listed as **Out** — Injury/Illness - Right Shoulder; Injury
+- **Isabelle Harrison** (NYL) newly listed as **Out** — Injury/Illness - Right Hand; Injury
+- **Nyara Sabally** (NYL) newly listed as **Doubtful** — Injury/Illness - Neck; Injury
+- **Liatu King** (MIN) cleared (was Out)
+- **Julie TorontoTempo Allemand** (MIN) cleared (was Out)
+- **Temi Fagbenle** (MIN) cleared (was Out)
+- **Isabelle Harrison** (MIN) cleared (was Out)
+- **Nikolina Milic** (MIN) cleared (was Out)
+
 ## 2026-05-20 21:31 UTC
 
 - **Caitlin Clark** (IND) newly listed as **Out** — Injury/Illness - Back; Back
