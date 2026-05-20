@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/20/26 06:30 PM",
+  "report_ts": "05/20/26 06:45 PM",
   "page_count": 2,
-  "raw_line_count": 40,
+  "raw_line_count": 41,
   "teams": [
     {
       "team_full": "Portland Fire",
@@ -11,6 +11,13 @@
       "matchup": "PDX@IND",
       "submitted": true,
       "players": [
+        {
+          "name_last_first": "Buhner, Frieda",
+          "name": "Frieda Buhner",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
         {
           "name_last_first": "Leite, Carla",
           "name": "Carla Leite",
@@ -322,7 +329,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-20_06_30PM.pdf",
-  "fetched_slot": "2026-05-20T18:30:00-04:00",
-  "polled_at_utc": "2026-05-20T22:31:13.407067+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-20_06_45PM.pdf",
+  "fetched_slot": "2026-05-20T18:45:00-04:00",
+  "polled_at_utc": "2026-05-20T22:46:09.072839+00:00"
 }
