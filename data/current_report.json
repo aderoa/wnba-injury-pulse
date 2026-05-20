@@ -1,5 +1,5 @@
 {
-  "report_ts": "05/20/26 05:15 PM",
+  "report_ts": "05/20/26 05:30 PM",
   "page_count": 2,
   "raw_line_count": 32,
   "teams": [
@@ -30,6 +30,23 @@
           "name": "Kamiah Smalls",
           "status": "Questionable",
           "reason": "Injury/Illness - Left Ankle; Injury",
+          "reason_category": "injury"
+        }
+      ]
+    },
+    {
+      "team_full": "Indiana Fever",
+      "team_abbr": "IND",
+      "game_date": "05/20/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "PDX@IND",
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Clark, Caitlin",
+          "name": "Caitlin Clark",
+          "status": "Out",
+          "reason": "Injury/Illness - Back; Back",
           "reason_category": "injury"
         }
       ]
@@ -153,14 +170,14 @@
           "name_last_first": "Jocyte, Juste",
           "name": "Juste Jocyte",
           "status": "Out",
-          "reason": "Returnto Competition",
+          "reason": "Returnto Competition Reconditioning",
           "reason_category": "other"
         },
         {
           "name_last_first": "Zandalasini, Cecilia",
           "name": "Cecilia Zandalasini",
           "status": "Out",
-          "reason": "Reconditioning Injury/Illness - Head; Concussion",
+          "reason": "Injury/Illness - Head; Concussion",
           "reason_category": "injury"
         }
       ]
@@ -240,7 +257,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-20_05_15PM.pdf",
-  "fetched_slot": "2026-05-20T17:15:00-04:00",
-  "polled_at_utc": "2026-05-20T21:16:09.477876+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-20_05_30PM.pdf",
+  "fetched_slot": "2026-05-20T17:30:00-04:00",
+  "polled_at_utc": "2026-05-20T21:31:09.392195+00:00"
 }
