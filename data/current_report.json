@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/20/26 07:45 PM",
-  "page_count": 2,
-  "raw_line_count": 41,
+  "report_ts": "05/20/26 08:00 PM",
+  "page_count": 3,
+  "raw_line_count": 46,
   "teams": [
     {
       "team_full": "Portland Fire",
@@ -73,6 +73,30 @@
       ]
     },
     {
+      "team_full": "Dallas Wings",
+      "team_abbr": "DAL",
+      "game_date": "05/20/2026",
+      "game_time": "09:00(ET)",
+      "matchup": "DAL@CHI",
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "FankamMendjiadeu, Dulcy",
+          "name": "Dulcy FankamMendjiadeu",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Verona, Costanza",
+          "name": "Costanza Verona",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        }
+      ]
+    },
+    {
       "team_full": "Chicago Sky",
       "team_abbr": "CHI",
       "game_date": "05/20/2026",
@@ -109,9 +133,16 @@
           "reason_category": "injury"
         },
         {
+          "name_last_first": "Westbeld, Maddy",
+          "name": "Maddy Westbeld",
+          "status": "Out",
+          "reason": "Coach's Decision - Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Williams, Elizabeth",
           "name": "Elizabeth Williams",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Right Knee; Right Knee",
           "reason_category": "injury"
         }
@@ -316,8 +347,16 @@
       "game_date": "05/21/2026",
       "game_time": "10:00(ET)",
       "matchup": "LAS@PHX",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Feagin, Sania",
+          "name": "Sania Feagin",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Leg; LLeg",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Phoenix Mercury",
@@ -325,11 +364,19 @@
       "game_date": "05/21/2026",
       "game_time": "10:00(ET)",
       "matchup": "LAS@PHX",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Whitcomb, Sami",
+          "name": "Sami Whitcomb",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Arthroscopy",
+          "reason_category": "injury"
+        }
+      ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-20_07_45PM.pdf",
-  "fetched_slot": "2026-05-20T19:45:00-04:00",
-  "polled_at_utc": "2026-05-20T23:46:09.194200+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-20_08_00PM.pdf",
+  "fetched_slot": "2026-05-20T20:00:00-04:00",
+  "polled_at_utc": "2026-05-21T00:10:32.556367+00:00"
 }
