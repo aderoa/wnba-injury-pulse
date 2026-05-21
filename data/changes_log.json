@@ -2299,5 +2299,25 @@
     "status": "Out",
     "reason": "Injury/Illness - Right Rib; Sprain",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-21T01:16:02.441042+00:00",
+    "type": "status_change",
+    "team_abbr": "SEA",
+    "player": "Taylor Thierry",
+    "from_status": "Out",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-05-21T01:16:02.441042+00:00",
+    "type": "status_change",
+    "team_abbr": "SEA",
+    "player": "Taina Mair",
+    "from_status": "Out",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
   }
 ]

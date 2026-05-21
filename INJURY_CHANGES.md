@@ -4,6 +4,11 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-05-21 01:16 UTC
+
+- **Taylor Thierry** (SEA): **Out** → **Available** — -
+- **Taina Mair** (SEA): **Out** → **Available** — -
+
 ## 2026-05-21 00:46 UTC
 
 - **Brittney Griner** (CON) newly listed as **Out** — Injury/Illness - Right Rib; Sprain
