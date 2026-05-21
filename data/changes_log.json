@@ -2290,5 +2290,14 @@
     "player": "Laura Ziegler",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-05-21T00:46:04.769951+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Brittney Griner",
+    "status": "Out",
+    "reason": "Injury/Illness - Right Rib; Sprain",
+    "reason_category": "injury"
   }
 ]

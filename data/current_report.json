@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/20/26 08:30 PM",
+  "report_ts": "05/20/26 08:45 PM",
   "page_count": 3,
-  "raw_line_count": 46,
+  "raw_line_count": 47,
   "teams": [
     {
       "team_full": "Portland Fire",
@@ -156,6 +156,13 @@
       "matchup": "CON@SEA",
       "submitted": true,
       "players": [
+        {
+          "name_last_first": "Griner, Brittney",
+          "name": "Brittney Griner",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Rib; Sprain",
+          "reason_category": "injury"
+        },
         {
           "name_last_first": "Nelson-Ododa, Olivia",
           "name": "Olivia Nelson-Ododa",
@@ -376,7 +383,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-20_08_30PM.pdf",
-  "fetched_slot": "2026-05-20T20:30:00-04:00",
-  "polled_at_utc": "2026-05-21T00:31:00.217161+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-20_08_45PM.pdf",
+  "fetched_slot": "2026-05-20T20:45:00-04:00",
+  "polled_at_utc": "2026-05-21T00:46:04.769951+00:00"
 }
