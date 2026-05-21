@@ -2381,5 +2381,25 @@
     "to_status": "Probable",
     "reason": "Injury/Illness - Back; Back",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-21T22:00:50.992849+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Sabrina Ionescu",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Foot; Foot",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-21T22:00:50.992849+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Satou Sabally",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Returnto Competition Reconditioning",
+    "reason_category": "other"
   }
 ]

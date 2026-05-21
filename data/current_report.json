@@ -1,5 +1,5 @@
 {
-  "report_ts": "05/21/26 05:45 PM",
+  "report_ts": "05/21/26 06:00 PM",
   "page_count": 2,
   "raw_line_count": 29,
   "teams": [
@@ -45,7 +45,7 @@
         {
           "name_last_first": "Ionescu, Sabrina",
           "name": "Sabrina Ionescu",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Left Foot; Foot",
           "reason_category": "injury"
         },
@@ -59,7 +59,7 @@
         {
           "name_last_first": "Sabally, Satou",
           "name": "Satou Sabally",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Returnto Competition Reconditioning",
           "reason_category": "other"
         }
@@ -230,7 +230,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-21_05_45PM.pdf",
-  "fetched_slot": "2026-05-21T17:45:00-04:00",
-  "polled_at_utc": "2026-05-21T21:45:51.817309+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-21_06_00PM.pdf",
+  "fetched_slot": "2026-05-21T18:00:00-04:00",
+  "polled_at_utc": "2026-05-21T22:00:50.992849+00:00"
 }
