@@ -2339,5 +2339,47 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Neck; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-21T21:00:52.180951+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Rhyne Howard",
+    "previous_status": "Out",
+    "previous_reason": "Concussion Protocol"
+  },
+  {
+    "ts": "2026-05-21T21:00:52.180951+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Amy Okonkwo",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-05-21T21:00:52.180951+00:00",
+    "type": "cleared",
+    "team_abbr": "IND",
+    "player": "Bree Hall",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-05-21T21:00:52.180951+00:00",
+    "type": "cleared",
+    "team_abbr": "IND",
+    "player": "Justine Pissott",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-05-21T21:00:52.180951+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Out",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Back; Back",
+    "reason_category": "injury"
   }
 ]
