@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/21/26 08:30 PM",
+  "report_ts": "05/21/26 08:45 PM",
   "page_count": 2,
-  "raw_line_count": 36,
+  "raw_line_count": 37,
   "teams": [
     {
       "team_full": "Golden State Valkyries",
@@ -155,6 +155,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Leg; LLeg",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Ziegler, Laura",
+          "name": "Laura Ziegler",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -288,7 +295,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-21_08_30PM.pdf",
-  "fetched_slot": "2026-05-21T20:30:00-04:00",
-  "polled_at_utc": "2026-05-22T00:30:51.699368+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-21_08_45PM.pdf",
+  "fetched_slot": "2026-05-21T20:45:00-04:00",
+  "polled_at_utc": "2026-05-22T00:45:50.355108+00:00"
 }
