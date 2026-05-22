@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/21/26 09:00 PM",
+  "report_ts": "05/21/26 09:15 PM",
   "page_count": 2,
-  "raw_line_count": 37,
+  "raw_line_count": 40,
   "teams": [
     {
       "team_full": "Golden State Valkyries",
@@ -174,10 +174,17 @@
       "submitted": true,
       "players": [
         {
+          "name_last_first": "Ciezki, Shay",
+          "name": "Shay Ciezki",
+          "status": "Out",
+          "reason": "Coach's Decision - Developmental",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Whitcomb, Sami",
           "name": "Sami Whitcomb",
           "status": "Out",
-          "reason": "Injury/Illness - Left Knee; Arthroscopy",
+          "reason": "Player Injury/Illness - Left Knee; Arthroscopy",
           "reason_category": "injury"
         }
       ]
@@ -295,7 +302,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-21_09_00PM.pdf",
-  "fetched_slot": "2026-05-21T21:00:00-04:00",
-  "polled_at_utc": "2026-05-22T01:00:49.584528+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-21_09_15PM.pdf",
+  "fetched_slot": "2026-05-21T21:15:00-04:00",
+  "polled_at_utc": "2026-05-22T01:15:49.023147+00:00"
 }
