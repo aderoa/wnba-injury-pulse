@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/22/26 04:45 PM",
+  "report_ts": "05/22/26 05:00 PM",
   "page_count": 2,
-  "raw_line_count": 21,
+  "raw_line_count": 24,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -176,6 +176,34 @@
           "status": "Questionable",
           "reason": "Injury/Illness - Left Foot; Injury",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "TorontoTempo Allemand, Julie",
+          "name": "Julie TorontoTempo Allemand",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Hip; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Fagbenle, Temi",
+          "name": "Temi Fagbenle",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Shoulder; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Harrison, Isabelle",
+          "name": "Isabelle Harrison",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Hand; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sabally, Nyara",
+          "name": "Nyara Sabally",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Neck; Injury",
+          "reason_category": "injury"
         }
       ]
     },
@@ -206,7 +234,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-22_04_45PM.pdf",
-  "fetched_slot": "2026-05-22T16:45:00-04:00",
-  "polled_at_utc": "2026-05-22T20:46:01.318086+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-22_05_00PM.pdf",
+  "fetched_slot": "2026-05-22T17:00:00-04:00",
+  "polled_at_utc": "2026-05-22T21:01:03.833118+00:00"
 }
