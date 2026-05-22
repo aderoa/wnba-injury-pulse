@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/22/26 05:30 PM",
+  "report_ts": "05/22/26 05:45 PM",
   "page_count": 2,
-  "raw_line_count": 27,
+  "raw_line_count": 29,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -55,9 +55,23 @@
         {
           "name_last_first": "Clark, Caitlin",
           "name": "Caitlin Clark",
-          "status": "Probable",
-          "reason": "Injury/Illness - Back; Back",
-          "reason_category": "injury"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
+        },
+        {
+          "name_last_first": "Hall, Bree",
+          "name": "Bree Hall",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Pissott, Justine",
+          "name": "Justine Pissott",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -263,7 +277,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-22_05_30PM.pdf",
-  "fetched_slot": "2026-05-22T17:30:00-04:00",
-  "polled_at_utc": "2026-05-22T21:43:42.738322+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-22_05_45PM.pdf",
+  "fetched_slot": "2026-05-22T17:45:00-04:00",
+  "polled_at_utc": "2026-05-22T21:46:06.490146+00:00"
 }
