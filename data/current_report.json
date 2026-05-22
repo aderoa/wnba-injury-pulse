@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/22/26 06:00 PM",
+  "report_ts": "05/22/26 06:15 PM",
   "page_count": 2,
-  "raw_line_count": 32,
+  "raw_line_count": 33,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -17,6 +17,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Right Knee; N/A",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Okonkwo, Amy",
+          "name": "Amy Okonkwo",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -306,7 +313,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-22_06_00PM.pdf",
-  "fetched_slot": "2026-05-22T18:00:00-04:00",
-  "polled_at_utc": "2026-05-22T22:01:04.943068+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-22_06_15PM.pdf",
+  "fetched_slot": "2026-05-22T18:15:00-04:00",
+  "polled_at_utc": "2026-05-22T22:16:04.209572+00:00"
 }
