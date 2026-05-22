@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-05-22T16:46:05.963131+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-22_12_45PM.pdf",
-  "report_ts": "05/22/26 12:45 PM",
+  "polled_at_utc": "2026-05-22T17:01:04.035472+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-22_01_00PM.pdf",
+  "report_ts": "05/22/26 01:00 PM",
   "all_players": [
     {
       "name": "Alicia FlorezGetino",
@@ -38,7 +38,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-05-22T16:46:05.963131+00:00"
+      "last_updated": "2026-05-22T17:01:04.035472+00:00"
     },
     {
       "name": "Cecilia Zandalasini",
@@ -92,7 +92,7 @@
       "status": "Out",
       "reason": "Concussion Protocol",
       "reason_category": "procedural",
-      "last_updated": "2026-05-22T16:46:05.963131+00:00"
+      "last_updated": "2026-05-22T17:01:04.035472+00:00"
     },
     {
       "name": "Dorka Juhasz",
@@ -137,7 +137,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Foot; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-05-22T16:46:05.963131+00:00"
+      "last_updated": "2026-05-22T17:01:04.035472+00:00"
     },
     {
       "name": "Frieda Buhner",
@@ -200,7 +200,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-05-22T16:46:05.963131+00:00"
+      "last_updated": "2026-05-22T17:01:04.035472+00:00"
     },
     {
       "name": "Laura Ziegler",
@@ -263,7 +263,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Ankle; Sprain",
       "reason_category": "injury",
-      "last_updated": "2026-05-22T16:46:05.963131+00:00"
+      "last_updated": "2026-05-22T17:01:04.035472+00:00"
     },
     {
       "name": "Rickea Jackson",
@@ -317,7 +317,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-05-22T16:46:05.963131+00:00"
+      "last_updated": "2026-05-22T17:01:04.035472+00:00"
     },
     {
       "name": "Taylor Thierry",
@@ -326,7 +326,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-05-22T16:46:05.963131+00:00"
+      "last_updated": "2026-05-22T17:01:04.035472+00:00"
     },
     {
       "name": "Temi Fagbenle",
@@ -344,7 +344,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Right Rib; Sprain",
       "reason_category": "injury",
-      "last_updated": "2026-05-22T16:46:05.963131+00:00"
+      "last_updated": "2026-05-22T17:01:04.035472+00:00"
     },
     {
       "name": "Caitlin Clark",
@@ -353,7 +353,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Back; Back",
       "reason_category": "injury",
-      "last_updated": "2026-05-22T16:46:05.963131+00:00"
+      "last_updated": "2026-05-22T17:01:04.035472+00:00"
     },
     {
       "name": "Carla Leite",
@@ -380,7 +380,7 @@
       "status": "Available",
       "reason": "Concussion Protocol",
       "reason_category": "procedural",
-      "last_updated": "2026-05-22T16:46:05.963131+00:00"
+      "last_updated": "2026-05-22T17:01:04.035472+00:00"
     },
     {
       "name": "Satou Sabally",
@@ -396,7 +396,7 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-05-22T16:46:05.963131+00:00",
+      "last_submitted_ts": "2026-05-22T17:01:04.035472+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "DAL@ATL"
@@ -415,7 +415,7 @@
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
       "last_submitted_ts": "2026-05-21T03:46:01.813370+00:00",
-      "last_seen_pending_ts": "2026-05-22T16:46:05.963131+00:00",
+      "last_seen_pending_ts": "2026-05-22T17:01:04.035472+00:00",
       "matchups": [
         "DAL@CHI"
       ],
@@ -467,7 +467,7 @@
     {
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
-      "last_submitted_ts": "2026-05-22T16:46:05.963131+00:00",
+      "last_submitted_ts": "2026-05-22T17:01:04.035472+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "CON@SEA"
@@ -518,7 +518,7 @@
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
       "last_submitted_ts": "2026-05-22T03:45:50.736441+00:00",
-      "last_seen_pending_ts": "2026-05-22T16:46:05.963131+00:00",
+      "last_seen_pending_ts": "2026-05-22T17:01:04.035472+00:00",
       "matchups": [
         "GSV@NYL",
         "GSV@IND"
@@ -543,7 +543,7 @@
     {
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
-      "last_submitted_ts": "2026-05-22T16:46:05.963131+00:00",
+      "last_submitted_ts": "2026-05-22T17:01:04.035472+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "GSV@IND"
@@ -562,7 +562,7 @@
       "team_abbr": "LAS",
       "team_full": "Los Angeles Sparks",
       "last_submitted_ts": "2026-05-22T03:45:50.736441+00:00",
-      "last_seen_pending_ts": "2026-05-22T16:46:05.963131+00:00",
+      "last_seen_pending_ts": "2026-05-22T17:01:04.035472+00:00",
       "matchups": [
         "LAS@PHX"
       ],
@@ -586,7 +586,7 @@
     {
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
-      "last_submitted_ts": "2026-05-22T16:46:05.963131+00:00",
+      "last_submitted_ts": "2026-05-22T17:01:04.035472+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "LAS@LVA"
@@ -605,7 +605,7 @@
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
       "last_submitted_ts": "2026-05-22T03:45:50.736441+00:00",
-      "last_seen_pending_ts": "2026-05-22T16:46:05.963131+00:00",
+      "last_seen_pending_ts": "2026-05-22T17:01:04.035472+00:00",
       "matchups": [
         "TOR@MIN"
       ],
@@ -712,7 +712,7 @@
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
       "last_submitted_ts": "2026-05-21T03:46:01.813370+00:00",
-      "last_seen_pending_ts": "2026-05-22T16:46:05.963131+00:00",
+      "last_seen_pending_ts": "2026-05-22T17:01:04.035472+00:00",
       "matchups": [
         "PDX@IND"
       ],
@@ -775,7 +775,7 @@
     {
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
-      "last_submitted_ts": "2026-05-22T16:46:05.963131+00:00",
+      "last_submitted_ts": "2026-05-22T17:01:04.035472+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "CON@SEA"
