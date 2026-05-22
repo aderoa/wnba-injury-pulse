@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/22/26 03:45 PM",
+  "report_ts": "05/22/26 04:00 PM",
   "page_count": 2,
-  "raw_line_count": 19,
+  "raw_line_count": 21,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -154,8 +154,30 @@
       "game_date": "05/23/2026",
       "game_time": "06:00(ET)",
       "matchup": "PDX@TOR",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Oblak, Teja",
+          "name": "Teja Oblak",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Quad; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Puoch, Nyadiew",
+          "name": "Nyadiew Puoch",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Ankle; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Samuelson, Karlie",
+          "name": "Karlie Samuelson",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Foot; Injury",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Los Angeles Sparks",
@@ -184,7 +206,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-22_03_45PM.pdf",
-  "fetched_slot": "2026-05-22T15:45:00-04:00",
-  "polled_at_utc": "2026-05-22T19:46:00.689517+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-22_04_00PM.pdf",
+  "fetched_slot": "2026-05-22T16:00:00-04:00",
+  "polled_at_utc": "2026-05-22T20:01:05.197687+00:00"
 }
