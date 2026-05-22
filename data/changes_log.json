@@ -2648,5 +2648,22 @@
     "to_status": "Available",
     "reason": "-",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-05-22T22:01:04.943068+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "AnastasiiaOlairi Kosu",
+    "status": "Out",
+    "reason": "Concussion Protocol",
+    "reason_category": "procedural"
+  },
+  {
+    "ts": "2026-05-22T22:01:04.943068+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Emese Hof",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]
