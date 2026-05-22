@@ -1,194 +1,8 @@
 {
-  "report_ts": "05/21/26 11:45 PM",
-  "page_count": 2,
-  "raw_line_count": 40,
+  "report_ts": "05/22/26 12:00 AM",
+  "page_count": 1,
+  "raw_line_count": 16,
   "teams": [
-    {
-      "team_full": "Golden State Valkyries",
-      "team_abbr": "GSV",
-      "game_date": "05/21/2026",
-      "game_time": "08:00(ET)",
-      "matchup": "GSV@NYL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Jocyte, Juste",
-          "name": "Juste Jocyte",
-          "status": "Out",
-          "reason": "Returnto Competition",
-          "reason_category": "other"
-        },
-        {
-          "name_last_first": "Zandalasini, Cecilia",
-          "name": "Cecilia Zandalasini",
-          "status": "Out",
-          "reason": "Reconditioning Injury/Illness - Head; Concussion",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "New York Liberty",
-      "team_abbr": "NYL",
-      "game_date": "05/21/2026",
-      "game_time": "08:00(ET)",
-      "matchup": "GSV@NYL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Fauthoux, Marine",
-          "name": "Marine Fauthoux",
-          "status": "Out",
-          "reason": "Protocol Injury/Illness - Left Knee; Rehabilitation",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Ionescu, Sabrina",
-          "name": "Sabrina Ionescu",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Foot; Foot",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Laney-Hamilton, Betnijah",
-          "name": "Betnijah Laney-Hamilton",
-          "status": "Out",
-          "reason": "Personal Reasons",
-          "reason_category": "offcourt"
-        },
-        {
-          "name_last_first": "Sabally, Satou",
-          "name": "Satou Sabally",
-          "status": "Available",
-          "reason": "Returnto Competition Reconditioning",
-          "reason_category": "other"
-        }
-      ]
-    },
-    {
-      "team_full": "New York Liberty",
-      "team_abbr": "NYL",
-      "game_date": "05/21/2026",
-      "game_time": "08:00(ET)",
-      "matchup": "TOR@MIN",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "TorontoTempo Allemand, Julie",
-          "name": "Julie TorontoTempo Allemand",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Hip; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Fagbenle, Temi",
-          "name": "Temi Fagbenle",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Shoulder; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Harrison, Isabelle",
-          "name": "Isabelle Harrison",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Hand; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Sabally, Nyara",
-          "name": "Nyara Sabally",
-          "status": "Out",
-          "reason": "Injury/Illness - Neck; Injury",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Minnesota Lynx",
-      "team_abbr": "MIN",
-      "game_date": "05/21/2026",
-      "game_time": "08:00(ET)",
-      "matchup": "TOR@MIN",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Cechova, Emma",
-          "name": "Emma Cechova",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee; Right Knee",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Collier, Napheesa",
-          "name": "Napheesa Collier",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Ankle; Left Ankle",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Hof, Emese",
-          "name": "Emese Hof",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Juhasz, Dorka",
-          "name": "Dorka Juhasz",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Foot; Right Foot",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Los Angeles Sparks",
-      "team_abbr": "LAS",
-      "game_date": "05/21/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "LAS@PHX",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Feagin, Sania",
-          "name": "Sania Feagin",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Leg; LLeg",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Ziegler, Laura",
-          "name": "Laura Ziegler",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Phoenix Mercury",
-      "team_abbr": "PHX",
-      "game_date": "05/21/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "LAS@PHX",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Ciezki, Shay",
-          "name": "Shay Ciezki",
-          "status": "Out",
-          "reason": "Coach's Decision - Developmental",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Whitcomb, Sami",
-          "name": "Sami Whitcomb",
-          "status": "Out",
-          "reason": "Player Injury/Illness - Left Knee; Arthroscopy",
-          "reason_category": "injury"
-        }
-      ]
-    },
     {
       "team_full": "Atlanta Dream",
       "team_abbr": "ATL",
@@ -300,9 +114,62 @@
           "reason_category": "rest_coach"
         }
       ]
+    },
+    {
+      "team_full": "Minnesota Lynx",
+      "team_abbr": "MIN",
+      "game_date": "05/23/2026",
+      "game_time": "01:00(ET)",
+      "matchup": "MIN@CHI",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Chicago Sky",
+      "team_abbr": "CHI",
+      "game_date": "05/23/2026",
+      "game_time": "01:00(ET)",
+      "matchup": "MIN@CHI",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Portland Fire",
+      "team_abbr": "PDX",
+      "game_date": "05/23/2026",
+      "game_time": "06:00(ET)",
+      "matchup": "PDX@TOR",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Los Angeles Sparks",
+      "team_abbr": "LAS",
+      "game_date": "05/23/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "LAS@LVA",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Las Vegas Aces",
+      "team_abbr": "LVA",
+      "game_date": "05/23/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "LAS@LVA",
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Barker, Janiah",
+          "name": "Janiah Barker",
+          "status": "Available",
+          "reason": "Concussion Protocol",
+          "reason_category": "procedural"
+        }
+      ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-21_11_45PM.pdf",
-  "fetched_slot": "2026-05-21T23:45:00-04:00",
-  "polled_at_utc": "2026-05-22T03:45:50.736441+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-22_12_00AM.pdf",
+  "fetched_slot": "2026-05-22T00:00:00-04:00",
+  "polled_at_utc": "2026-05-22T04:00:51.694046+00:00"
 }

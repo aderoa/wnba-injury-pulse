@@ -2468,5 +2468,23 @@
     "from_reason": "Injury/Illness - Left Knee; Arthroscopy",
     "to_reason": "Player Injury/Illness - Left Knee; Arthroscopy",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-22T04:00:51.694046+00:00",
+    "type": "cleared",
+    "team_abbr": "LVA",
+    "player": "Dana Evans",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Leg; lower"
+  },
+  {
+    "ts": "2026-05-22T04:00:51.694046+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Janiah Barker",
+    "from_status": "Out",
+    "to_status": "Available",
+    "reason": "Concussion Protocol",
+    "reason_category": "procedural"
   }
 ]
