@@ -2851,5 +2851,44 @@
     "player": "Amy Okonkwo",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-05-23T21:30:57.168496+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Jordan Harrison",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-23T21:30:57.168496+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Teja Oblak",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Quad; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-23T21:30:57.168496+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Karlie Samuelson",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Foot; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-23T21:30:57.168496+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Nyadiew Puoch",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Ankle; Injury",
+    "reason_category": "injury"
   }
 ]
