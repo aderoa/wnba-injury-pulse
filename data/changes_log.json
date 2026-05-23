@@ -2674,5 +2674,14 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-23T00:01:05.556285+00:00",
+    "type": "added",
+    "team_abbr": "LVA",
+    "player": "Dana Evans",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Leg; Injury",
+    "reason_category": "injury"
   }
 ]
