@@ -66,37 +66,36 @@
   "PHX": {
     "team_full": "Phoenix Mercury",
     "submitted": true,
-    "last_submitted_ts": "2026-05-22T03:45:50.736441+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-21_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-23T21:01:00.443339+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-23_05_00PM.pdf",
     "game_dates": [
-      "05/21/2026"
+      "05/24/2026"
     ],
     "matchups": [
-      "LAS@PHX"
+      "PHX@ATL"
     ],
     "players": [
       {
-        "name_last_first": "Ciezki, Shay",
-        "name": "Shay Ciezki",
-        "status": "Out",
-        "reason": "Coach's Decision - Developmental",
-        "reason_category": "rest_coach"
+        "name_last_first": "AkoaMakani, Monique",
+        "name": "Monique AkoaMakani",
+        "status": "Questionable",
+        "reason": "Returnto Competition",
+        "reason_category": "other"
       },
       {
         "name_last_first": "Whitcomb, Sami",
         "name": "Sami Whitcomb",
         "status": "Out",
-        "reason": "Player Injury/Illness - Left Knee; Arthroscopy",
+        "reason": "Reconditioning Injury/Illness - Left Knee; Arthroscopy",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-05-23T20:45:56.601950+00:00"
+    ]
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
     "submitted": true,
-    "last_submitted_ts": "2026-05-23T20:45:56.601950+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-23_04_45PM.pdf",
+    "last_submitted_ts": "2026-05-23T21:01:00.443339+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-23_05_00PM.pdf",
     "game_dates": [
       "05/23/2026"
     ],
@@ -123,13 +122,13 @@
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-05-23T03:46:00.868143+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-22_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-23T21:01:00.443339+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-23_05_00PM.pdf",
     "game_dates": [
-      "05/22/2026"
+      "05/24/2026"
     ],
     "matchups": [
-      "DAL@ATL"
+      "PHX@ATL"
     ],
     "players": [
       {
@@ -138,22 +137,14 @@
         "status": "Out",
         "reason": "Injury/Illness - Right Knee; N/A",
         "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Okonkwo, Amy",
-        "name": "Amy Okonkwo",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
       }
-    ],
-    "last_seen_pending_ts": "2026-05-23T20:45:56.601950+00:00"
+    ]
   },
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-05-23T20:45:56.601950+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-23_04_45PM.pdf",
+    "last_submitted_ts": "2026-05-23T21:01:00.443339+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-23_05_00PM.pdf",
     "game_dates": [
       "05/23/2026"
     ],
@@ -194,8 +185,8 @@
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-05-23T20:45:56.601950+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-23_04_45PM.pdf",
+    "last_submitted_ts": "2026-05-23T21:01:00.443339+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-23_05_00PM.pdf",
     "game_dates": [
       "05/23/2026"
     ],
@@ -250,8 +241,8 @@
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-05-23T20:45:56.601950+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-23_04_45PM.pdf",
+    "last_submitted_ts": "2026-05-23T21:01:00.443339+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-23_05_00PM.pdf",
     "game_dates": [
       "05/23/2026"
     ],
@@ -358,7 +349,7 @@
         "reason_category": "other"
       }
     ],
-    "last_seen_pending_ts": "2026-05-23T20:45:56.601950+00:00"
+    "last_seen_pending_ts": "2026-05-23T21:01:00.443339+00:00"
   },
   "CON": {
     "team_full": "Connecticut Sun",
@@ -391,8 +382,8 @@
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-05-23T20:45:56.601950+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-23_04_45PM.pdf",
+    "last_submitted_ts": "2026-05-23T21:01:00.443339+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-23_05_00PM.pdf",
     "game_dates": [
       "05/24/2026"
     ],
@@ -450,7 +441,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-05-23T20:45:56.601950+00:00"
+    "last_seen_pending_ts": "2026-05-23T21:01:00.443339+00:00"
   },
   "GSV": {
     "team_full": "Golden State Valkyries",
@@ -483,8 +474,8 @@
   "LAS": {
     "team_full": "Los Angeles Sparks",
     "submitted": true,
-    "last_submitted_ts": "2026-05-23T20:45:56.601950+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-23_04_45PM.pdf",
+    "last_submitted_ts": "2026-05-23T21:01:00.443339+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-23_05_00PM.pdf",
     "game_dates": [
       "05/23/2026"
     ],

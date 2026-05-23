@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/23/26 04:45 PM",
+  "report_ts": "05/23/26 05:00 PM",
   "page_count": 2,
-  "raw_line_count": 30,
+  "raw_line_count": 34,
   "teams": [
     {
       "team_full": "Minnesota Lynx",
@@ -206,8 +206,23 @@
       "game_date": "05/24/2026",
       "game_time": "03:00(ET)",
       "matchup": "PHX@ATL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "AkoaMakani, Monique",
+          "name": "Monique AkoaMakani",
+          "status": "Questionable",
+          "reason": "Returnto Competition",
+          "reason_category": "other"
+        },
+        {
+          "name_last_first": "Whitcomb, Sami",
+          "name": "Sami Whitcomb",
+          "status": "Out",
+          "reason": "Reconditioning Injury/Illness - Left Knee; Arthroscopy",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Atlanta Dream",
@@ -215,17 +230,16 @@
       "game_date": "05/24/2026",
       "game_time": "03:00(ET)",
       "matchup": "PHX@ATL",
-      "submitted": false,
-      "players": []
-    },
-    {
-      "team_full": "Dallas Wings",
-      "team_abbr": "DAL",
-      "game_date": "05/24/2026",
-      "game_time": "03:30(ET)",
-      "matchup": "DAL@NYL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Jones, Brionna",
+          "name": "Brionna Jones",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; N/A",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "New York Liberty",
@@ -270,7 +284,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-23_04_45PM.pdf",
-  "fetched_slot": "2026-05-23T16:45:00-04:00",
-  "polled_at_utc": "2026-05-23T20:45:56.601950+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-23_05_00PM.pdf",
+  "fetched_slot": "2026-05-23T17:00:00-04:00",
+  "polled_at_utc": "2026-05-23T21:01:00.443339+00:00"
 }

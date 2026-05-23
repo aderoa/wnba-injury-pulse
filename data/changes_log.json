@@ -2816,5 +2816,40 @@
     "from_reason": "Protocol Injury/Illness - Left Knee; Rehabilitation",
     "to_reason": "Injury/Illness - Left Knee; Rehabilitation",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-23T21:01:00.443339+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Monique AkoaMakani",
+    "status": "Questionable",
+    "reason": "Returnto Competition",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-05-23T21:01:00.443339+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Shay Ciezki",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental"
+  },
+  {
+    "ts": "2026-05-23T21:01:00.443339+00:00",
+    "type": "reason_change",
+    "team_abbr": "PHX",
+    "player": "Sami Whitcomb",
+    "status": "Out",
+    "from_reason": "Player Injury/Illness - Left Knee; Arthroscopy",
+    "to_reason": "Reconditioning Injury/Illness - Left Knee; Arthroscopy",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-23T21:01:00.443339+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Amy Okonkwo",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]
