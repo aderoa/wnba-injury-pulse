@@ -2900,5 +2900,14 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Left Hand; LHand",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-23T23:15:57.521934+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Laura Ziegler",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
