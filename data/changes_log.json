@@ -2683,5 +2683,22 @@
     "status": "Out",
     "reason": "Injury/Illness - Left Leg; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-23T00:16:00.189730+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Nneka Ogwumike",
+    "status": "Probable",
+    "reason": "Injury/Illness - Left Hand; LHand",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-23T00:16:00.189730+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Laura Ziegler",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]

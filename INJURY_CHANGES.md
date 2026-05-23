@@ -4,6 +4,11 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-05-23 00:16 UTC
+
+- **Nneka Ogwumike** (LAS) newly listed as **Probable** — Injury/Illness - Left Hand; LHand
+- **Laura Ziegler** (LAS) cleared (was Out)
+
 ## 2026-05-23 00:01 UTC
 
 - **Dana Evans** (LVA) newly listed as **Out** — Injury/Illness - Left Leg; Injury

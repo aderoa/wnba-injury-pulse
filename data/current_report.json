@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/22/26 08:00 PM",
+  "report_ts": "05/22/26 08:15 PM",
   "page_count": 2,
-  "raw_line_count": 36,
+  "raw_line_count": 37,
   "teams": [
     {
       "team_full": "Dallas Wings",
@@ -316,8 +316,23 @@
       "game_date": "05/23/2026",
       "game_time": "08:00(ET)",
       "matchup": "LAS@LVA",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Feagin, Sania",
+          "name": "Sania Feagin",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Leg; LLeg",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Ogwumike, Nneka",
+          "name": "Nneka Ogwumike",
+          "status": "Probable",
+          "reason": "Injury/Illness - Left Hand; LHand",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Las Vegas Aces",
@@ -344,7 +359,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-22_08_00PM.pdf",
-  "fetched_slot": "2026-05-22T20:00:00-04:00",
-  "polled_at_utc": "2026-05-23T00:01:05.556285+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-22_08_15PM.pdf",
+  "fetched_slot": "2026-05-22T20:15:00-04:00",
+  "polled_at_utc": "2026-05-23T00:16:00.189730+00:00"
 }
