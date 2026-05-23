@@ -2890,5 +2890,15 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Right Ankle; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-23T22:30:58.961245+00:00",
+    "type": "status_change",
+    "team_abbr": "LAS",
+    "player": "Nneka Ogwumike",
+    "from_status": "Probable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Hand; LHand",
+    "reason_category": "injury"
   }
 ]
