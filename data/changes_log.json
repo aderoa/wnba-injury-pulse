@@ -2748,5 +2748,15 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Left Knee; Left Knee",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-23T16:30:18.414809+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Nyara Sabally",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Neck; Injury",
+    "reason_category": "injury"
   }
 ]
