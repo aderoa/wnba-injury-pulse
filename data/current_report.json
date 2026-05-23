@@ -1,180 +1,8 @@
 {
-  "report_ts": "05/22/26 11:45 PM",
+  "report_ts": "05/23/26 12:00 AM",
   "page_count": 2,
-  "raw_line_count": 37,
+  "raw_line_count": 25,
   "teams": [
-    {
-      "team_full": "Dallas Wings",
-      "team_abbr": "DAL",
-      "game_date": "05/22/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "DAL@ATL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "FankamMendjiadeu, Dulcy",
-          "name": "Dulcy FankamMendjiadeu",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Verona, Costanza",
-          "name": "Costanza Verona",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Atlanta Dream",
-      "team_abbr": "ATL",
-      "game_date": "05/22/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "DAL@ATL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Jones, Brionna",
-          "name": "Brionna Jones",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee; N/A",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Okonkwo, Amy",
-          "name": "Amy Okonkwo",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Golden State Valkyries",
-      "team_abbr": "GSV",
-      "game_date": "05/22/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "GSV@IND",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Jocyte, Juste",
-          "name": "Juste Jocyte",
-          "status": "Out",
-          "reason": "Returnto Competition Reconditioning",
-          "reason_category": "other"
-        },
-        {
-          "name_last_first": "Zandalasini, Cecilia",
-          "name": "Cecilia Zandalasini",
-          "status": "Out",
-          "reason": "Concussion Protocol",
-          "reason_category": "procedural"
-        }
-      ]
-    },
-    {
-      "team_full": "Indiana Fever",
-      "team_abbr": "IND",
-      "game_date": "05/22/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "GSV@IND",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Clark, Caitlin",
-          "name": "Caitlin Clark",
-          "status": "Available",
-          "reason": "-",
-          "reason_category": "other"
-        },
-        {
-          "name_last_first": "Hall, Bree",
-          "name": "Bree Hall",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Pissott, Justine",
-          "name": "Justine Pissott",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Connecticut Sun",
-      "team_abbr": "CON",
-      "game_date": "05/22/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "CON@SEA",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Griner, Brittney",
-          "name": "Brittney Griner",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Rib; Sprain",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Nelson-Ododa, Olivia",
-          "name": "Olivia Nelson-Ododa",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Ankle; Sprain",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Seattle Storm",
-      "team_abbr": "SEA",
-      "game_date": "05/22/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "CON@SEA",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Magbegor, Ezi",
-          "name": "Ezi Magbegor",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Foot; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Mair, Taina",
-          "name": "Taina Mair",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Malonga, Dominique",
-          "name": "Dominique Malonga",
-          "status": "Out",
-          "reason": "Concussion Protocol",
-          "reason_category": "procedural"
-        },
-        {
-          "name_last_first": "Samuelson, KatieLou",
-          "name": "KatieLou Samuelson",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Thierry, Taylor",
-          "name": "Taylor Thierry",
-          "status": "Available",
-          "reason": "-",
-          "reason_category": "other"
-        }
-      ]
-    },
     {
       "team_full": "Minnesota Lynx",
       "team_abbr": "MIN",
@@ -357,9 +185,63 @@
           "reason_category": "injury"
         }
       ]
+    },
+    {
+      "team_full": "Phoenix Mercury",
+      "team_abbr": "PHX",
+      "game_date": "05/24/2026",
+      "game_time": "03:00(ET)",
+      "matchup": "PHX@ATL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Atlanta Dream",
+      "team_abbr": "ATL",
+      "game_date": "05/24/2026",
+      "game_time": "03:00(ET)",
+      "matchup": "PHX@ATL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Dallas Wings",
+      "team_abbr": "DAL",
+      "game_date": "05/24/2026",
+      "game_time": "03:30(ET)",
+      "matchup": "DAL@NYL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "New York Liberty",
+      "team_abbr": "NYL",
+      "game_date": "05/24/2026",
+      "game_time": "03:30(ET)",
+      "matchup": "DAL@NYL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Washington Mystics",
+      "team_abbr": "WAS",
+      "game_date": "05/24/2026",
+      "game_time": "06:00(ET)",
+      "matchup": "WAS@SEA",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Seattle Storm",
+      "team_abbr": "SEA",
+      "game_date": "05/24/2026",
+      "game_time": "06:00(ET)",
+      "matchup": "WAS@SEA",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-22_11_45PM.pdf",
-  "fetched_slot": "2026-05-22T23:45:00-04:00",
-  "polled_at_utc": "2026-05-23T03:46:00.868143+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-23_12_00AM.pdf",
+  "fetched_slot": "2026-05-23T00:00:00-04:00",
+  "polled_at_utc": "2026-05-23T04:00:21.675916+00:00"
 }
