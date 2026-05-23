@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/23/26 11:45 AM",
+  "report_ts": "05/23/26 12:00 PM",
   "page_count": 2,
-  "raw_line_count": 25,
+  "raw_line_count": 27,
   "teams": [
     {
       "team_full": "Minnesota Lynx",
@@ -57,6 +57,13 @@
           "reason_category": "injury"
         },
         {
+          "name_last_first": "Coulibaly, Aicha",
+          "name": "Aicha Coulibaly",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Jackson, Rickea",
           "name": "Rickea Jackson",
           "status": "Out",
@@ -66,7 +73,7 @@
         {
           "name_last_first": "Stevens, Azura",
           "name": "Azura Stevens",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Left Knee; Left Knee",
           "reason_category": "injury"
         },
@@ -76,6 +83,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Right Knee; Right Knee",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Westbeld, Maddy",
+          "name": "Maddy Westbeld",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -241,7 +255,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-23_11_45AM.pdf",
-  "fetched_slot": "2026-05-23T11:45:00-04:00",
-  "polled_at_utc": "2026-05-23T15:48:18.597176+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-23_12_00PM.pdf",
+  "fetched_slot": "2026-05-23T12:00:00-04:00",
+  "polled_at_utc": "2026-05-23T16:00:18.615357+00:00"
 }

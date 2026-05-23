@@ -2720,5 +2720,33 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Right Rib; Sprain",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-23T16:00:18.615357+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Aicha Coulibaly",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-23T16:00:18.615357+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Maddy Westbeld",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-23T16:00:18.615357+00:00",
+    "type": "status_change",
+    "team_abbr": "CHI",
+    "player": "Azura Stevens",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Knee; Left Knee",
+    "reason_category": "injury"
   }
 ]
