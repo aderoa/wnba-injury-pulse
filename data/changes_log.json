@@ -2758,5 +2758,63 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Neck; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-23T19:46:01.159505+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Sabrina Ionescu",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Foot; Foot"
+  },
+  {
+    "ts": "2026-05-23T19:46:01.159505+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Satou Sabally",
+    "previous_status": "Available",
+    "previous_reason": "Returnto Competition Reconditioning"
+  },
+  {
+    "ts": "2026-05-23T19:46:01.159505+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Julie TorontoTempo Allemand",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Hip; Injury"
+  },
+  {
+    "ts": "2026-05-23T19:46:01.159505+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Temi Fagbenle",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Right Shoulder; Injury"
+  },
+  {
+    "ts": "2026-05-23T19:46:01.159505+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Isabelle Harrison",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Right Hand; Injury"
+  },
+  {
+    "ts": "2026-05-23T19:46:01.159505+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Nyara Sabally",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Neck; Injury"
+  },
+  {
+    "ts": "2026-05-23T19:46:01.159505+00:00",
+    "type": "reason_change",
+    "team_abbr": "NYL",
+    "player": "Marine Fauthoux",
+    "status": "Out",
+    "from_reason": "Protocol Injury/Illness - Left Knee; Rehabilitation",
+    "to_reason": "Injury/Illness - Left Knee; Rehabilitation",
+    "reason_category": "injury"
   }
 ]

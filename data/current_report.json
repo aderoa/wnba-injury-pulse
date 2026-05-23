@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/23/26 03:30 PM",
+  "report_ts": "05/23/26 03:45 PM",
   "page_count": 2,
-  "raw_line_count": 27,
+  "raw_line_count": 30,
   "teams": [
     {
       "team_full": "Minnesota Lynx",
@@ -233,8 +233,23 @@
       "game_date": "05/24/2026",
       "game_time": "03:30(ET)",
       "matchup": "DAL@NYL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Fauthoux, Marine",
+          "name": "Marine Fauthoux",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Rehabilitation",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Laney-Hamilton, Betnijah",
+          "name": "Betnijah Laney-Hamilton",
+          "status": "Out",
+          "reason": "Personal Reasons",
+          "reason_category": "offcourt"
+        }
+      ]
     },
     {
       "team_full": "Washington Mystics",
@@ -255,7 +270,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-23_03_30PM.pdf",
-  "fetched_slot": "2026-05-23T15:30:00-04:00",
-  "polled_at_utc": "2026-05-23T19:39:11.813958+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-23_03_45PM.pdf",
+  "fetched_slot": "2026-05-23T15:45:00-04:00",
+  "polled_at_utc": "2026-05-23T19:46:01.159505+00:00"
 }
