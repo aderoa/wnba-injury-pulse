@@ -2984,5 +2984,15 @@
     "to_status": "Out",
     "reason": "Returnto Competition",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-05-24T21:00:55.772722+00:00",
+    "type": "status_change",
+    "team_abbr": "SEA",
+    "player": "Awa Fam",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
   }
 ]
