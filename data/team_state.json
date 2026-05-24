@@ -66,8 +66,8 @@
   "PHX": {
     "team_full": "Phoenix Mercury",
     "submitted": true,
-    "last_submitted_ts": "2026-05-24T03:45:57.923229+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-23_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-24T04:01:03.806738+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-24_12_00AM.pdf",
     "game_dates": [
       "05/24/2026"
     ],
@@ -122,8 +122,8 @@
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-05-24T03:45:57.923229+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-23_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-24T04:01:03.806738+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-24_12_00AM.pdf",
     "game_dates": [
       "05/24/2026"
     ],
@@ -306,13 +306,14 @@
         "reason": "Injury/Illness - Neck; Injury",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-05-24T04:01:03.806738+00:00"
   },
   "SEA": {
     "team_full": "Seattle Storm",
     "submitted": true,
-    "last_submitted_ts": "2026-05-24T03:45:57.923229+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-23_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-24T04:01:03.806738+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-24_12_00AM.pdf",
     "game_dates": [
       "05/24/2026"
     ],
@@ -383,18 +384,21 @@
         "reason": "Injury/Illness - Right Ankle; Sprain",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-05-24T04:01:03.806738+00:00"
   },
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-05-24T03:45:57.923229+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-23_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-24T04:01:03.806738+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-24_12_00AM.pdf",
     "game_dates": [
-      "05/24/2026"
+      "05/24/2026",
+      "05/25/2026"
     ],
     "matchups": [
-      "DAL@NYL"
+      "DAL@NYL",
+      "PDX@NYL"
     ],
     "players": [
       {
@@ -475,7 +479,8 @@
         "reason": "Concussion Protocol",
         "reason_category": "procedural"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-05-24T04:01:03.806738+00:00"
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",
