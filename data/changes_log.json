@@ -2909,5 +2909,32 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-24T00:01:03.426054+00:00",
+    "type": "added",
+    "team_abbr": "SEA",
+    "player": "Awa Fam",
+    "status": "Questionable",
+    "reason": "Returnto Competition Reconditioning",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-05-24T00:01:03.426054+00:00",
+    "type": "cleared",
+    "team_abbr": "SEA",
+    "player": "KatieLou Samuelson",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Right Knee; Injury"
+  },
+  {
+    "ts": "2026-05-24T00:01:03.426054+00:00",
+    "type": "status_change",
+    "team_abbr": "SEA",
+    "player": "Taylor Thierry",
+    "from_status": "Available",
+    "to_status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
