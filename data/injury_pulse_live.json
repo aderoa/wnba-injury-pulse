@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-05-24T06:15:57.453936+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-24_02_15AM.pdf",
-  "report_ts": "05/24/26 02:15 AM",
+  "polled_at_utc": "2026-05-24T06:30:59.037690+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-24_02_30AM.pdf",
+  "report_ts": "05/24/26 02:30 AM",
   "all_players": [
     {
       "name": "Aicha Coulibaly",
@@ -38,7 +38,7 @@
       "status": "Out",
       "reason": "Personal Reasons",
       "reason_category": "offcourt",
-      "last_updated": "2026-05-24T06:15:57.453936+00:00"
+      "last_updated": "2026-05-24T06:30:59.037690+00:00"
     },
     {
       "name": "Bree Hall",
@@ -56,7 +56,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-05-24T06:15:57.453936+00:00"
+      "last_updated": "2026-05-24T06:30:59.037690+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -128,7 +128,7 @@
       "status": "Out",
       "reason": "Concussion Protocol",
       "reason_category": "procedural",
-      "last_updated": "2026-05-24T06:15:57.453936+00:00"
+      "last_updated": "2026-05-24T06:30:59.037690+00:00"
     },
     {
       "name": "Dorka Juhasz",
@@ -164,7 +164,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Foot; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-05-24T06:15:57.453936+00:00"
+      "last_updated": "2026-05-24T06:30:59.037690+00:00"
     },
     {
       "name": "Isabelle Harrison",
@@ -236,7 +236,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; Rehabilitation",
       "reason_category": "injury",
-      "last_updated": "2026-05-24T06:15:57.453936+00:00"
+      "last_updated": "2026-05-24T06:30:59.037690+00:00"
     },
     {
       "name": "Michaela Onyenwere",
@@ -290,7 +290,7 @@
       "status": "Out",
       "reason": "Reconditioning Injury/Illness - Left Knee; Arthroscopy",
       "reason_category": "injury",
-      "last_updated": "2026-05-24T06:15:57.453936+00:00"
+      "last_updated": "2026-05-24T06:30:59.037690+00:00"
     },
     {
       "name": "Sania Feagin",
@@ -308,7 +308,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-05-24T06:15:57.453936+00:00"
+      "last_updated": "2026-05-24T06:30:59.037690+00:00"
     },
     {
       "name": "Taylor Thierry",
@@ -317,7 +317,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-05-24T06:15:57.453936+00:00"
+      "last_updated": "2026-05-24T06:30:59.037690+00:00"
     },
     {
       "name": "Temi Fagbenle",
@@ -335,7 +335,7 @@
       "status": "Questionable",
       "reason": "Returnto Competition",
       "reason_category": "other",
-      "last_updated": "2026-05-24T06:15:57.453936+00:00"
+      "last_updated": "2026-05-24T06:30:59.037690+00:00"
     },
     {
       "name": "Awa Fam",
@@ -344,7 +344,7 @@
       "status": "Probable",
       "reason": "Returnto Competition Reconditioning",
       "reason_category": "other",
-      "last_updated": "2026-05-24T06:15:57.453936+00:00"
+      "last_updated": "2026-05-24T06:30:59.037690+00:00"
     },
     {
       "name": "Azura Stevens",
@@ -414,7 +414,7 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-05-24T06:15:57.453936+00:00",
+      "last_submitted_ts": "2026-05-24T06:30:59.037690+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "PHX@ATL"
@@ -486,7 +486,7 @@
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
       "last_submitted_ts": "2026-05-23T03:46:00.868143+00:00",
-      "last_seen_pending_ts": "2026-05-24T06:15:57.453936+00:00",
+      "last_seen_pending_ts": "2026-05-24T06:30:59.037690+00:00",
       "matchups": [
         "CON@SEA"
       ],
@@ -536,7 +536,7 @@
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
       "last_submitted_ts": "2026-05-23T03:46:00.868143+00:00",
-      "last_seen_pending_ts": "2026-05-24T06:15:57.453936+00:00",
+      "last_seen_pending_ts": "2026-05-24T06:30:59.037690+00:00",
       "matchups": [
         "GSV@IND"
       ],
@@ -688,7 +688,7 @@
     {
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
-      "last_submitted_ts": "2026-05-24T06:15:57.453936+00:00",
+      "last_submitted_ts": "2026-05-24T06:30:59.037690+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "DAL@NYL",
@@ -715,7 +715,7 @@
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
       "last_submitted_ts": "2026-05-24T03:45:57.923229+00:00",
-      "last_seen_pending_ts": "2026-05-24T06:15:57.453936+00:00",
+      "last_seen_pending_ts": "2026-05-24T06:30:59.037690+00:00",
       "matchups": [
         "PDX@TOR"
       ],
@@ -781,7 +781,7 @@
     {
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
-      "last_submitted_ts": "2026-05-24T06:15:57.453936+00:00",
+      "last_submitted_ts": "2026-05-24T06:30:59.037690+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "PHX@ATL"
@@ -806,7 +806,7 @@
     {
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
-      "last_submitted_ts": "2026-05-24T06:15:57.453936+00:00",
+      "last_submitted_ts": "2026-05-24T06:30:59.037690+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "WAS@SEA"
