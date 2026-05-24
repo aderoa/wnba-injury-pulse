@@ -2936,5 +2936,15 @@
     "to_status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-24T00:15:57.267937+00:00",
+    "type": "status_change",
+    "team_abbr": "SEA",
+    "player": "Awa Fam",
+    "from_status": "Questionable",
+    "to_status": "Probable",
+    "reason": "Returnto Competition Reconditioning",
+    "reason_category": "other"
   }
 ]
