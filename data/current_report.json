@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/24/26 02:00 PM",
-  "page_count": 1,
-  "raw_line_count": 22,
+  "report_ts": "05/24/26 02:15 PM",
+  "page_count": 2,
+  "raw_line_count": 26,
   "teams": [
     {
       "team_full": "Phoenix Mercury",
@@ -19,10 +19,17 @@
           "reason_category": "other"
         },
         {
+          "name_last_first": "Ciezki, Shay",
+          "name": "Shay Ciezki",
+          "status": "Out",
+          "reason": "Reconditioning Coach's Decision - Developmental",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Whitcomb, Sami",
           "name": "Sami Whitcomb",
           "status": "Out",
-          "reason": "Reconditioning Injury/Illness - Left Knee; Arthroscopy",
+          "reason": "Player Injury/Illness - Left Knee; Arthroscopy",
           "reason_category": "injury"
         }
       ]
@@ -41,6 +48,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Right Knee; N/A",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Okonkwo, Amy",
+          "name": "Amy Okonkwo",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -150,7 +164,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-24_02_00PM.pdf",
-  "fetched_slot": "2026-05-24T14:00:00-04:00",
-  "polled_at_utc": "2026-05-24T18:01:03.274775+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-24_02_15PM.pdf",
+  "fetched_slot": "2026-05-24T14:15:00-04:00",
+  "polled_at_utc": "2026-05-24T18:15:55.011524+00:00"
 }
