@@ -1,5 +1,5 @@
 {
-  "report_ts": "05/24/26 02:15 PM",
+  "report_ts": "05/24/26 02:30 PM",
   "page_count": 2,
   "raw_line_count": 26,
   "teams": [
@@ -14,7 +14,7 @@
         {
           "name_last_first": "AkoaMakani, Monique",
           "name": "Monique AkoaMakani",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Returnto Competition",
           "reason_category": "other"
         },
@@ -164,7 +164,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-24_02_15PM.pdf",
-  "fetched_slot": "2026-05-24T14:15:00-04:00",
-  "polled_at_utc": "2026-05-24T18:15:55.011524+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-24_02_30PM.pdf",
+  "fetched_slot": "2026-05-24T14:30:00-04:00",
+  "polled_at_utc": "2026-05-24T18:30:56.810993+00:00"
 }
