@@ -2994,5 +2994,21 @@
     "to_status": "Available",
     "reason": "-",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-05-24T21:30:54.911688+00:00",
+    "type": "cleared",
+    "team_abbr": "WAS",
+    "player": "Alicia FlorezGetino",
+    "previous_status": "Out",
+    "previous_reason": "Personal Reasons"
+  },
+  {
+    "ts": "2026-05-24T21:30:54.911688+00:00",
+    "type": "cleared",
+    "team_abbr": "WAS",
+    "player": "Michaela Onyenwere",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Knee; Injury Management"
   }
 ]

@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/24/26 05:15 PM",
+  "report_ts": "05/24/26 05:30 PM",
   "page_count": 2,
-  "raw_line_count": 25,
+  "raw_line_count": 26,
   "teams": [
     {
       "team_full": "Phoenix Mercury",
@@ -107,6 +107,23 @@
       ]
     },
     {
+      "team_full": "Washington Mystics",
+      "team_abbr": "WAS",
+      "game_date": "05/24/2026",
+      "game_time": "06:00(ET)",
+      "matchup": "WAS@SEA",
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Littlepage-Buggs, Darianna",
+          "name": "Darianna Littlepage-Buggs",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        }
+      ]
+    },
+    {
       "team_full": "Seattle Storm",
       "team_abbr": "SEA",
       "game_date": "05/24/2026",
@@ -179,7 +196,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-24_05_15PM.pdf",
-  "fetched_slot": "2026-05-24T17:15:00-04:00",
-  "polled_at_utc": "2026-05-24T21:15:53.131991+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-24_05_30PM.pdf",
+  "fetched_slot": "2026-05-24T17:30:00-04:00",
+  "polled_at_utc": "2026-05-24T21:30:54.911688+00:00"
 }
