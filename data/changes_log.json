@@ -3068,5 +3068,15 @@
     "status": "Questionable",
     "reason": "Injury/Illness - Left Foot; Injury Management",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-25T19:30:53.431786+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Brittney Griner",
+    "from_status": "Probable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Rib; Strain",
+    "reason_category": "injury"
   }
 ]
