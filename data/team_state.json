@@ -2,8 +2,8 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-05-25T00:00:54.489860+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-24_08_00PM.pdf",
+    "last_submitted_ts": "2026-05-25T00:15:52.661464+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-24_08_15PM.pdf",
     "game_dates": [
       "05/24/2026"
     ],
@@ -65,8 +65,8 @@
   "PHX": {
     "team_full": "Phoenix Mercury",
     "submitted": true,
-    "last_submitted_ts": "2026-05-25T00:00:54.489860+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-24_08_00PM.pdf",
+    "last_submitted_ts": "2026-05-25T00:15:52.661464+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-24_08_15PM.pdf",
     "game_dates": [
       "05/24/2026"
     ],
@@ -128,8 +128,8 @@
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-05-25T00:00:54.489860+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-24_08_00PM.pdf",
+    "last_submitted_ts": "2026-05-25T00:15:52.661464+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-24_08_15PM.pdf",
     "game_dates": [
       "05/24/2026"
     ],
@@ -325,8 +325,8 @@
   "SEA": {
     "team_full": "Seattle Storm",
     "submitted": true,
-    "last_submitted_ts": "2026-05-25T00:00:54.489860+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-24_08_00PM.pdf",
+    "last_submitted_ts": "2026-05-25T00:15:52.661464+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-24_08_15PM.pdf",
     "game_dates": [
       "05/24/2026"
     ],
@@ -374,37 +374,36 @@
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-05-23T03:46:00.868143+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-22_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-25T00:15:52.661464+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-24_08_15PM.pdf",
     "game_dates": [
-      "05/22/2026"
+      "05/25/2026"
     ],
     "matchups": [
-      "CON@SEA"
+      "CON@GSV"
     ],
     "players": [
       {
         "name_last_first": "Griner, Brittney",
         "name": "Brittney Griner",
-        "status": "Out",
-        "reason": "Injury/Illness - Right Rib; Sprain",
+        "status": "Probable",
+        "reason": "Injury/Illness - Right Rib; Strain",
         "reason_category": "injury"
       },
       {
         "name_last_first": "Nelson-Ododa, Olivia",
         "name": "Olivia Nelson-Ododa",
-        "status": "Out",
+        "status": "Probable",
         "reason": "Injury/Illness - Right Ankle; Sprain",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-05-25T00:00:54.489860+00:00"
+    ]
   },
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-05-25T00:00:54.489860+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-24_08_00PM.pdf",
+    "last_submitted_ts": "2026-05-25T00:15:52.661464+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-24_08_15PM.pdf",
     "game_dates": [
       "05/24/2026",
       "05/25/2026"
@@ -433,8 +432,8 @@
   "WAS": {
     "team_full": "Washington Mystics",
     "submitted": true,
-    "last_submitted_ts": "2026-05-25T00:00:54.489860+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-24_08_00PM.pdf",
+    "last_submitted_ts": "2026-05-25T00:15:52.661464+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-24_08_15PM.pdf",
     "game_dates": [
       "05/24/2026"
     ],
@@ -454,31 +453,30 @@
   "GSV": {
     "team_full": "Golden State Valkyries",
     "submitted": true,
-    "last_submitted_ts": "2026-05-23T03:46:00.868143+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-22_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-25T00:15:52.661464+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-24_08_15PM.pdf",
     "game_dates": [
-      "05/22/2026"
+      "05/25/2026"
     ],
     "matchups": [
-      "GSV@IND"
+      "CON@GSV"
     ],
     "players": [
       {
         "name_last_first": "Jocyte, Juste",
         "name": "Juste Jocyte",
-        "status": "Out",
+        "status": "Questionable",
         "reason": "Returnto Competition Reconditioning",
         "reason_category": "other"
       },
       {
         "name_last_first": "Zandalasini, Cecilia",
         "name": "Cecilia Zandalasini",
-        "status": "Out",
+        "status": "Questionable",
         "reason": "Concussion Protocol",
         "reason_category": "procedural"
       }
-    ],
-    "last_seen_pending_ts": "2026-05-25T00:00:54.489860+00:00"
+    ]
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",
