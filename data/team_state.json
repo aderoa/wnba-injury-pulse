@@ -374,8 +374,8 @@
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-05-25T16:33:23.224795+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-25_12_30PM.pdf",
+    "last_submitted_ts": "2026-05-25T16:45:53.965338+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-25_12_45PM.pdf",
     "game_dates": [
       "05/25/2026"
     ],
@@ -402,14 +402,12 @@
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-05-25T03:45:52.987579+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-24_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-25T16:45:53.965338+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-25_12_45PM.pdf",
     "game_dates": [
-      "05/24/2026",
       "05/25/2026"
     ],
     "matchups": [
-      "DAL@NYL",
       "PDX@NYL"
     ],
     "players": [
@@ -421,14 +419,27 @@
         "reason_category": "injury"
       },
       {
+        "name_last_first": "Fiebich, Leonie",
+        "name": "Leonie Fiebich",
+        "status": "Out",
+        "reason": "Rest",
+        "reason_category": "other"
+      },
+      {
+        "name_last_first": "Ionescu, Sabrina",
+        "name": "Sabrina Ionescu",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Left Foot; Injury Management",
+        "reason_category": "injury"
+      },
+      {
         "name_last_first": "Laney-Hamilton, Betnijah",
         "name": "Betnijah Laney-Hamilton",
         "status": "Out",
         "reason": "Personal Reasons",
         "reason_category": "offcourt"
       }
-    ],
-    "last_seen_pending_ts": "2026-05-25T16:33:23.224795+00:00"
+    ]
   },
   "WAS": {
     "team_full": "Washington Mystics",
@@ -454,8 +465,8 @@
   "GSV": {
     "team_full": "Golden State Valkyries",
     "submitted": true,
-    "last_submitted_ts": "2026-05-25T16:33:23.224795+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-25_12_30PM.pdf",
+    "last_submitted_ts": "2026-05-25T16:45:53.965338+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-25_12_45PM.pdf",
     "game_dates": [
       "05/25/2026"
     ],

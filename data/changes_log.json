@@ -3050,5 +3050,23 @@
     "to_status": "Questionable",
     "reason": "Returnto Competition Reconditioning",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-05-25T16:45:53.965338+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Leonie Fiebich",
+    "status": "Out",
+    "reason": "Rest",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-05-25T16:45:53.965338+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Sabrina Ionescu",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Left Foot; Injury Management",
+    "reason_category": "injury"
   }
 ]
