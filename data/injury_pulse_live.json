@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-05-25T23:15:53.788334+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-25_07_15PM.pdf",
-  "report_ts": "05/25/26 07:15 PM",
+  "polled_at_utc": "2026-05-25T23:30:51.988427+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-25_07_30PM.pdf",
+  "report_ts": "05/25/26 07:30 PM",
   "all_players": [
     {
       "name": "Aicha Coulibaly",
@@ -38,7 +38,7 @@
       "status": "Out",
       "reason": "Personal Reasons",
       "reason_category": "offcourt",
-      "last_updated": "2026-05-25T23:15:53.788334+00:00"
+      "last_updated": "2026-05-25T23:30:51.988427+00:00"
     },
     {
       "name": "Bree Hall",
@@ -65,7 +65,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Rib; Strain",
       "reason_category": "injury",
-      "last_updated": "2026-05-25T23:15:53.788334+00:00"
+      "last_updated": "2026-05-25T23:30:51.988427+00:00"
     },
     {
       "name": "Costanza Verona",
@@ -158,31 +158,13 @@
       "last_updated": "2026-05-25T03:45:52.987579+00:00"
     },
     {
-      "name": "Isabelle Harrison",
-      "team_abbr": "PDX",
-      "team_full": "Portland Fire",
-      "status": "Out",
-      "reason": "Injury/Illness - Right Hand; Injury",
-      "reason_category": "injury",
-      "last_updated": "2026-05-24T03:45:57.923229+00:00"
-    },
-    {
       "name": "Jordan Harrison",
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-05-24T03:45:57.923229+00:00"
-    },
-    {
-      "name": "Julie TorontoTempo Allemand",
-      "team_abbr": "PDX",
-      "team_full": "Portland Fire",
-      "status": "Out",
-      "reason": "Injury/Illness - Left Hip; Injury",
-      "reason_category": "injury",
-      "last_updated": "2026-05-24T03:45:57.923229+00:00"
+      "last_updated": "2026-05-25T23:30:51.988427+00:00"
     },
     {
       "name": "Justine Pissott",
@@ -209,7 +191,7 @@
       "status": "Out",
       "reason": "Rest",
       "reason_category": "other",
-      "last_updated": "2026-05-25T23:15:53.788334+00:00"
+      "last_updated": "2026-05-25T23:30:51.988427+00:00"
     },
     {
       "name": "Maddy Westbeld",
@@ -227,7 +209,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; Rehabilitation",
       "reason_category": "injury",
-      "last_updated": "2026-05-25T23:15:53.788334+00:00"
+      "last_updated": "2026-05-25T23:30:51.988427+00:00"
     },
     {
       "name": "Monique AkoaMakani",
@@ -272,7 +254,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Foot; Injury Management",
       "reason_category": "injury",
-      "last_updated": "2026-05-25T23:15:53.788334+00:00"
+      "last_updated": "2026-05-25T23:30:51.988427+00:00"
     },
     {
       "name": "Sami Whitcomb",
@@ -320,22 +302,13 @@
       "last_updated": "2026-05-25T03:45:52.987579+00:00"
     },
     {
-      "name": "Temi Fagbenle",
-      "team_abbr": "PDX",
-      "team_full": "Portland Fire",
-      "status": "Out",
-      "reason": "Injury/Illness - Right Shoulder; Injury",
-      "reason_category": "injury",
-      "last_updated": "2026-05-24T03:45:57.923229+00:00"
-    },
-    {
       "name": "Cecilia Zandalasini",
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
       "status": "Questionable",
       "reason": "Concussion Protocol",
       "reason_category": "procedural",
-      "last_updated": "2026-05-25T23:15:53.788334+00:00"
+      "last_updated": "2026-05-25T23:30:51.988427+00:00"
     },
     {
       "name": "Juste Jocyte",
@@ -344,7 +317,7 @@
       "status": "Questionable",
       "reason": "Returnto Competition Reconditioning",
       "reason_category": "other",
-      "last_updated": "2026-05-25T23:15:53.788334+00:00"
+      "last_updated": "2026-05-25T23:30:51.988427+00:00"
     },
     {
       "name": "Olivia Nelson-Ododa",
@@ -353,7 +326,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Right Ankle; Sprain",
       "reason_category": "injury",
-      "last_updated": "2026-05-25T23:15:53.788334+00:00"
+      "last_updated": "2026-05-25T23:30:51.988427+00:00"
     },
     {
       "name": "Awa Fam",
@@ -389,42 +362,6 @@
       "status": "Available",
       "reason": "Concussion Protocol",
       "reason_category": "procedural",
-      "last_updated": "2026-05-24T03:45:57.923229+00:00"
-    },
-    {
-      "name": "Karlie Samuelson",
-      "team_abbr": "PDX",
-      "team_full": "Portland Fire",
-      "status": "Available",
-      "reason": "Injury/Illness - Left Foot; Injury",
-      "reason_category": "injury",
-      "last_updated": "2026-05-24T03:45:57.923229+00:00"
-    },
-    {
-      "name": "Nyadiew Puoch",
-      "team_abbr": "PDX",
-      "team_full": "Portland Fire",
-      "status": "Available",
-      "reason": "Injury/Illness - Right Ankle; Injury",
-      "reason_category": "injury",
-      "last_updated": "2026-05-24T03:45:57.923229+00:00"
-    },
-    {
-      "name": "Nyara Sabally",
-      "team_abbr": "PDX",
-      "team_full": "Portland Fire",
-      "status": "Available",
-      "reason": "Injury/Illness - Neck; Injury",
-      "reason_category": "injury",
-      "last_updated": "2026-05-24T03:45:57.923229+00:00"
-    },
-    {
-      "name": "Teja Oblak",
-      "team_abbr": "PDX",
-      "team_full": "Portland Fire",
-      "status": "Available",
-      "reason": "Injury/Illness - Right Quad; Injury",
-      "reason_category": "injury",
       "last_updated": "2026-05-24T03:45:57.923229+00:00"
     }
   ],
@@ -510,7 +447,7 @@
     {
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
-      "last_submitted_ts": "2026-05-25T23:15:53.788334+00:00",
+      "last_submitted_ts": "2026-05-25T23:30:51.988427+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "CON@GSV"
@@ -560,7 +497,7 @@
     {
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
-      "last_submitted_ts": "2026-05-25T23:15:53.788334+00:00",
+      "last_submitted_ts": "2026-05-25T23:30:51.988427+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "CON@GSV"
@@ -713,7 +650,7 @@
     {
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
-      "last_submitted_ts": "2026-05-25T23:15:53.788334+00:00",
+      "last_submitted_ts": "2026-05-25T23:30:51.988427+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "PDX@NYL"
@@ -752,10 +689,10 @@
     {
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
-      "last_submitted_ts": "2026-05-24T03:45:57.923229+00:00",
-      "last_seen_pending_ts": "2026-05-24T20:00:57.370183+00:00",
+      "last_submitted_ts": "2026-05-25T23:30:51.988427+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "PDX@TOR"
+        "PDX@NYL"
       ],
       "players": [
         {
@@ -764,55 +701,6 @@
           "status": "Out",
           "reason": "Coach's Decision",
           "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Oblak, Teja",
-          "name": "Teja Oblak",
-          "status": "Available",
-          "reason": "Injury/Illness - Right Quad; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Puoch, Nyadiew",
-          "name": "Nyadiew Puoch",
-          "status": "Available",
-          "reason": "Injury/Illness - Right Ankle; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Samuelson, Karlie",
-          "name": "Karlie Samuelson",
-          "status": "Available",
-          "reason": "Injury/Illness - Left Foot; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "TorontoTempo Allemand, Julie",
-          "name": "Julie TorontoTempo Allemand",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Hip; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Fagbenle, Temi",
-          "name": "Temi Fagbenle",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Shoulder; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Harrison, Isabelle",
-          "name": "Isabelle Harrison",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Hand; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Sabally, Nyara",
-          "name": "Nyara Sabally",
-          "status": "Available",
-          "reason": "Injury/Illness - Neck; Injury",
-          "reason_category": "injury"
         }
       ]
     },
@@ -914,6 +802,62 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-05-25T23:30:51.988427+00:00",
+      "type": "cleared",
+      "team_abbr": "PDX",
+      "player": "Nyara Sabally",
+      "previous_status": "Available",
+      "previous_reason": "Injury/Illness - Neck; Injury"
+    },
+    {
+      "ts": "2026-05-25T23:30:51.988427+00:00",
+      "type": "cleared",
+      "team_abbr": "PDX",
+      "player": "Isabelle Harrison",
+      "previous_status": "Out",
+      "previous_reason": "Injury/Illness - Right Hand; Injury"
+    },
+    {
+      "ts": "2026-05-25T23:30:51.988427+00:00",
+      "type": "cleared",
+      "team_abbr": "PDX",
+      "player": "Temi Fagbenle",
+      "previous_status": "Out",
+      "previous_reason": "Injury/Illness - Right Shoulder; Injury"
+    },
+    {
+      "ts": "2026-05-25T23:30:51.988427+00:00",
+      "type": "cleared",
+      "team_abbr": "PDX",
+      "player": "Julie TorontoTempo Allemand",
+      "previous_status": "Out",
+      "previous_reason": "Injury/Illness - Left Hip; Injury"
+    },
+    {
+      "ts": "2026-05-25T23:30:51.988427+00:00",
+      "type": "cleared",
+      "team_abbr": "PDX",
+      "player": "Karlie Samuelson",
+      "previous_status": "Available",
+      "previous_reason": "Injury/Illness - Left Foot; Injury"
+    },
+    {
+      "ts": "2026-05-25T23:30:51.988427+00:00",
+      "type": "cleared",
+      "team_abbr": "PDX",
+      "player": "Nyadiew Puoch",
+      "previous_status": "Available",
+      "previous_reason": "Injury/Illness - Right Ankle; Injury"
+    },
+    {
+      "ts": "2026-05-25T23:30:51.988427+00:00",
+      "type": "cleared",
+      "team_abbr": "PDX",
+      "player": "Teja Oblak",
+      "previous_status": "Available",
+      "previous_reason": "Injury/Illness - Right Quad; Injury"
+    },
     {
       "ts": "2026-05-25T23:15:53.788334+00:00",
       "type": "status_change",
@@ -3112,70 +3056,6 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach"
-    },
-    {
-      "ts": "2026-05-14T00:01:11.643564+00:00",
-      "type": "status_change",
-      "team_abbr": "PDX",
-      "player": "Sug Sutton",
-      "from_status": "Out",
-      "to_status": "Questionable",
-      "reason": "Injury/Illness - Right Knee; Injury",
-      "reason_category": "injury"
-    },
-    {
-      "ts": "2026-05-14T00:01:11.643564+00:00",
-      "type": "cleared",
-      "team_abbr": "PDX",
-      "player": "Kamiah Smalls",
-      "previous_status": "Available",
-      "previous_reason": "-"
-    },
-    {
-      "ts": "2026-05-14T00:01:11.643564+00:00",
-      "type": "added",
-      "team_abbr": "PDX",
-      "player": "Carla Leite",
-      "status": "Questionable",
-      "reason": "Injury/Illness - Right Ankle; Injury",
-      "reason_category": "injury"
-    },
-    {
-      "ts": "2026-05-13T23:31:13.783447+00:00",
-      "type": "added",
-      "team_abbr": "CON",
-      "player": "Ashlon Jackson",
-      "status": "Out",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach"
-    },
-    {
-      "ts": "2026-05-13T23:16:08.680867+00:00",
-      "type": "status_change",
-      "team_abbr": "NYL",
-      "player": "Rebecca Allen",
-      "from_status": "Out",
-      "to_status": "Questionable",
-      "reason": "Injury/Illness - Left Leg; Leg",
-      "reason_category": "injury"
-    },
-    {
-      "ts": "2026-05-13T22:01:16.046724+00:00",
-      "type": "status_change",
-      "team_abbr": "DAL",
-      "player": "Azzi Fudd",
-      "from_status": "Out",
-      "to_status": "Questionable",
-      "reason": "Injury/Illness - Right Knee; n/a",
-      "reason_category": "injury"
-    },
-    {
-      "ts": "2026-05-13T22:01:16.046724+00:00",
-      "type": "cleared",
-      "team_abbr": "DAL",
-      "player": "Costanza Verona",
-      "previous_status": "Out",
-      "previous_reason": "Coach's Decision"
     }
   ]
 }

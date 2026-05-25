@@ -1,8 +1,25 @@
 {
-  "report_ts": "05/25/26 07:15 PM",
+  "report_ts": "05/25/26 07:30 PM",
   "page_count": 1,
-  "raw_line_count": 14,
+  "raw_line_count": 15,
   "teams": [
+    {
+      "team_full": "Portland Fire",
+      "team_abbr": "PDX",
+      "game_date": "05/25/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "PDX@NYL",
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Harrison, Jordan",
+          "name": "Jordan Harrison",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        }
+      ]
+    },
     {
       "team_full": "New York Liberty",
       "team_abbr": "NYL",
@@ -90,7 +107,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-25_07_15PM.pdf",
-  "fetched_slot": "2026-05-25T19:15:00-04:00",
-  "polled_at_utc": "2026-05-25T23:15:53.788334+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-25_07_30PM.pdf",
+  "fetched_slot": "2026-05-25T19:30:00-04:00",
+  "polled_at_utc": "2026-05-25T23:30:51.988427+00:00"
 }
