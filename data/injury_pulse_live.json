@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-05-25T16:45:53.965338+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-25_12_45PM.pdf",
-  "report_ts": "05/25/26 12:45 PM",
+  "polled_at_utc": "2026-05-25T17:00:53.488200+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-25_01_00PM.pdf",
+  "report_ts": "05/25/26 01:00 PM",
   "all_players": [
     {
       "name": "Aicha Coulibaly",
@@ -38,7 +38,7 @@
       "status": "Out",
       "reason": "Personal Reasons",
       "reason_category": "offcourt",
-      "last_updated": "2026-05-25T16:45:53.965338+00:00"
+      "last_updated": "2026-05-25T17:00:53.488200+00:00"
     },
     {
       "name": "Bree Hall",
@@ -200,7 +200,7 @@
       "status": "Out",
       "reason": "Rest",
       "reason_category": "other",
-      "last_updated": "2026-05-25T16:45:53.965338+00:00"
+      "last_updated": "2026-05-25T17:00:53.488200+00:00"
     },
     {
       "name": "Maddy Westbeld",
@@ -218,7 +218,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; Rehabilitation",
       "reason_category": "injury",
-      "last_updated": "2026-05-25T16:45:53.965338+00:00"
+      "last_updated": "2026-05-25T17:00:53.488200+00:00"
     },
     {
       "name": "Monique AkoaMakani",
@@ -317,7 +317,7 @@
       "status": "Questionable",
       "reason": "Concussion Protocol",
       "reason_category": "procedural",
-      "last_updated": "2026-05-25T16:45:53.965338+00:00"
+      "last_updated": "2026-05-25T17:00:53.488200+00:00"
     },
     {
       "name": "Juste Jocyte",
@@ -326,7 +326,7 @@
       "status": "Questionable",
       "reason": "Returnto Competition Reconditioning",
       "reason_category": "other",
-      "last_updated": "2026-05-25T16:45:53.965338+00:00"
+      "last_updated": "2026-05-25T17:00:53.488200+00:00"
     },
     {
       "name": "Sabrina Ionescu",
@@ -335,7 +335,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Left Foot; Injury Management",
       "reason_category": "injury",
-      "last_updated": "2026-05-25T16:45:53.965338+00:00"
+      "last_updated": "2026-05-25T17:00:53.488200+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -344,7 +344,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Right Rib; Strain",
       "reason_category": "injury",
-      "last_updated": "2026-05-25T16:45:53.965338+00:00"
+      "last_updated": "2026-05-25T17:00:53.488200+00:00"
     },
     {
       "name": "Olivia Nelson-Ododa",
@@ -353,7 +353,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Right Ankle; Sprain",
       "reason_category": "injury",
-      "last_updated": "2026-05-25T16:45:53.965338+00:00"
+      "last_updated": "2026-05-25T17:00:53.488200+00:00"
     },
     {
       "name": "Awa Fam",
@@ -510,7 +510,7 @@
     {
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
-      "last_submitted_ts": "2026-05-25T16:45:53.965338+00:00",
+      "last_submitted_ts": "2026-05-25T17:00:53.488200+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "CON@GSV"
@@ -560,7 +560,7 @@
     {
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
-      "last_submitted_ts": "2026-05-25T16:45:53.965338+00:00",
+      "last_submitted_ts": "2026-05-25T17:00:53.488200+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "CON@GSV"
@@ -713,7 +713,7 @@
     {
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
-      "last_submitted_ts": "2026-05-25T16:45:53.965338+00:00",
+      "last_submitted_ts": "2026-05-25T17:00:53.488200+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "PDX@NYL"
