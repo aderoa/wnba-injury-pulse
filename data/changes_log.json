@@ -3078,5 +3078,15 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Right Rib; Strain",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-25T23:15:53.788334+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Sabrina Ionescu",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Foot; Injury Management",
+    "reason_category": "injury"
   }
 ]
