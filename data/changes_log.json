@@ -3346,5 +3346,13 @@
     "to_status": "Probable",
     "reason": "Concussion Protocol",
     "reason_category": "procedural"
+  },
+  {
+    "ts": "2026-05-26T23:46:04.824925+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Olivia Nelson-Ododa",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Right Ankle; Sprain"
   }
 ]
