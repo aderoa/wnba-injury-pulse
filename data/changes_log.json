@@ -3163,5 +3163,34 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-26T01:30:53.007560+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Satou Sabally",
+    "status": "Out",
+    "reason": "Injury/Illness - Ilness; Ilness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-26T01:30:53.007560+00:00",
+    "type": "status_change",
+    "team_abbr": "GSV",
+    "player": "Cecilia Zandalasini",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-05-26T01:30:53.007560+00:00",
+    "type": "status_change",
+    "team_abbr": "GSV",
+    "player": "Juste Jocyte",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
   }
 ]

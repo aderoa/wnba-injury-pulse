@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/25/26 09:15 PM",
+  "report_ts": "05/25/26 09:30 PM",
   "page_count": 1,
-  "raw_line_count": 16,
+  "raw_line_count": 15,
   "teams": [
     {
       "team_full": "Portland Fire",
@@ -55,6 +55,13 @@
           "status": "Out",
           "reason": "Personal Reasons",
           "reason_category": "offcourt"
+        },
+        {
+          "name_last_first": "Sabally, Satou",
+          "name": "Satou Sabally",
+          "status": "Out",
+          "reason": "Injury/Illness - Ilness; Ilness",
+          "reason_category": "injury"
         }
       ]
     },
@@ -93,8 +100,8 @@
         {
           "name_last_first": "Jocyte, Juste",
           "name": "Juste Jocyte",
-          "status": "Questionable",
-          "reason": "Returnto Competition Reconditioning",
+          "status": "Available",
+          "reason": "-",
           "reason_category": "other"
         },
         {
@@ -107,14 +114,14 @@
         {
           "name_last_first": "Zandalasini, Cecilia",
           "name": "Cecilia Zandalasini",
-          "status": "Questionable",
-          "reason": "Concussion Protocol",
-          "reason_category": "procedural"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
         }
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-25_09_15PM.pdf",
-  "fetched_slot": "2026-05-25T21:15:00-04:00",
-  "polled_at_utc": "2026-05-26T01:15:53.170687+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-25_09_30PM.pdf",
+  "fetched_slot": "2026-05-25T21:30:00-04:00",
+  "polled_at_utc": "2026-05-26T01:30:53.007560+00:00"
 }
