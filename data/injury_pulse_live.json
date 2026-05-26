@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-05-26T02:15:53.775559+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-25_10_15PM.pdf",
-  "report_ts": "05/25/26 10:15 PM",
+  "polled_at_utc": "2026-05-26T02:30:54.831636+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-25_10_30PM.pdf",
+  "report_ts": "05/25/26 10:30 PM",
   "all_players": [
     {
       "name": "Aicha Coulibaly",
@@ -38,7 +38,7 @@
       "status": "Out",
       "reason": "Personal Reasons",
       "reason_category": "offcourt",
-      "last_updated": "2026-05-26T02:15:53.775559+00:00"
+      "last_updated": "2026-05-26T02:30:54.831636+00:00"
     },
     {
       "name": "Bree Hall",
@@ -65,7 +65,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Rib; Strain",
       "reason_category": "injury",
-      "last_updated": "2026-05-26T02:15:53.775559+00:00"
+      "last_updated": "2026-05-26T02:30:54.831636+00:00"
     },
     {
       "name": "Costanza Verona",
@@ -164,7 +164,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-05-26T02:15:53.775559+00:00"
+      "last_updated": "2026-05-26T02:30:54.831636+00:00"
     },
     {
       "name": "Justine Pissott",
@@ -191,7 +191,7 @@
       "status": "Out",
       "reason": "Rest",
       "reason_category": "other",
-      "last_updated": "2026-05-26T02:15:53.775559+00:00"
+      "last_updated": "2026-05-26T02:30:54.831636+00:00"
     },
     {
       "name": "Maddy Westbeld",
@@ -209,7 +209,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; Rehabilitation",
       "reason_category": "injury",
-      "last_updated": "2026-05-26T02:15:53.775559+00:00"
+      "last_updated": "2026-05-26T02:30:54.831636+00:00"
     },
     {
       "name": "Miela Sowah",
@@ -218,7 +218,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-05-26T02:15:53.775559+00:00"
+      "last_updated": "2026-05-26T02:30:54.831636+00:00"
     },
     {
       "name": "Monique AkoaMakani",
@@ -263,7 +263,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Foot; Injury Management",
       "reason_category": "injury",
-      "last_updated": "2026-05-26T02:15:53.775559+00:00"
+      "last_updated": "2026-05-26T02:30:54.831636+00:00"
     },
     {
       "name": "Sami Whitcomb",
@@ -290,7 +290,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Ilness; Ilness",
       "reason_category": "injury",
-      "last_updated": "2026-05-26T02:15:53.775559+00:00"
+      "last_updated": "2026-05-26T02:30:54.831636+00:00"
     },
     {
       "name": "Shay Ciezki",
@@ -353,7 +353,7 @@
       "status": "Available",
       "reason": "-",
       "reason_category": "other",
-      "last_updated": "2026-05-26T02:15:53.775559+00:00"
+      "last_updated": "2026-05-26T02:30:54.831636+00:00"
     },
     {
       "name": "Janiah Barker",
@@ -371,7 +371,7 @@
       "status": "Available",
       "reason": "-",
       "reason_category": "other",
-      "last_updated": "2026-05-26T02:15:53.775559+00:00"
+      "last_updated": "2026-05-26T02:30:54.831636+00:00"
     },
     {
       "name": "Olivia Nelson-Ododa",
@@ -380,7 +380,7 @@
       "status": "Available",
       "reason": "Injury/Illness - Right Ankle; Sprain",
       "reason_category": "injury",
-      "last_updated": "2026-05-26T02:15:53.775559+00:00"
+      "last_updated": "2026-05-26T02:30:54.831636+00:00"
     }
   ],
   "teams": [
@@ -465,7 +465,7 @@
     {
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
-      "last_submitted_ts": "2026-05-26T02:15:53.775559+00:00",
+      "last_submitted_ts": "2026-05-26T02:30:54.831636+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "CON@GSV"
@@ -515,7 +515,7 @@
     {
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
-      "last_submitted_ts": "2026-05-26T02:15:53.775559+00:00",
+      "last_submitted_ts": "2026-05-26T02:30:54.831636+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "CON@GSV"
@@ -675,7 +675,7 @@
     {
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
-      "last_submitted_ts": "2026-05-26T02:15:53.775559+00:00",
+      "last_submitted_ts": "2026-05-26T02:30:54.831636+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "PDX@NYL"
@@ -721,7 +721,7 @@
     {
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
-      "last_submitted_ts": "2026-05-26T02:15:53.775559+00:00",
+      "last_submitted_ts": "2026-05-26T02:30:54.831636+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "PDX@NYL"
