@@ -3295,5 +3295,56 @@
     "status": "Out",
     "reason": "Injury/Illness - Right Hand; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-26T21:46:13.336505+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Gabriela Jaquez",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Knee; Left Knee",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-26T21:46:13.336505+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Aicha Coulibaly",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-05-26T21:46:13.336505+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Azura Stevens",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Left Knee; Left Knee"
+  },
+  {
+    "ts": "2026-05-26T21:46:13.336505+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Maddy Westbeld",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-05-26T21:46:13.336505+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Amy Okonkwo",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-05-26T21:46:13.336505+00:00",
+    "type": "status_change",
+    "team_abbr": "MIN",
+    "player": "AnastasiiaOlairi Kosu",
+    "from_status": "Out",
+    "to_status": "Probable",
+    "reason": "Concussion Protocol",
+    "reason_category": "procedural"
   }
 ]

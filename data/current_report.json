@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/26/26 05:30 PM",
+  "report_ts": "05/26/26 05:45 PM",
   "page_count": 2,
-  "raw_line_count": 22,
+  "raw_line_count": 28,
   "teams": [
     {
       "team_full": "Phoenix Mercury",
@@ -102,8 +102,37 @@
       "game_date": "05/27/2026",
       "game_time": "08:00(ET)",
       "matchup": "TOR@CHI",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Carrington, DiJonai",
+          "name": "DiJonai Carrington",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Foot; Left Foot",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Jackson, Rickea",
+          "name": "Rickea Jackson",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Left Knee",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Jaquez, Gabriela",
+          "name": "Gabriela Jaquez",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Left Knee",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Vandersloot, Courtney",
+          "name": "Courtney Vandersloot",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; Right Knee",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Atlanta Dream",
@@ -111,8 +140,16 @@
       "game_date": "05/27/2026",
       "game_time": "09:00(ET)",
       "matchup": "ATL@MIN",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Jones, Brionna",
+          "name": "Brionna Jones",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; N/A",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Minnesota Lynx",
@@ -120,8 +157,37 @@
       "game_date": "05/27/2026",
       "game_time": "09:00(ET)",
       "matchup": "ATL@MIN",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Cechova, Emma",
+          "name": "Emma Cechova",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; Right Knee",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Collier, Napheesa",
+          "name": "Napheesa Collier",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; Left Ankle",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Juhasz, Dorka",
+          "name": "Dorka Juhasz",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Foot; Right Foot",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Kosu, AnastasiiaOlairi",
+          "name": "AnastasiiaOlairi Kosu",
+          "status": "Probable",
+          "reason": "Concussion Protocol",
+          "reason_category": "procedural"
+        }
+      ]
     },
     {
       "team_full": "Connecticut Sun",
@@ -168,7 +234,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-26_05_30PM.pdf",
-  "fetched_slot": "2026-05-26T17:30:00-04:00",
-  "polled_at_utc": "2026-05-26T21:31:08.083829+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-26_05_45PM.pdf",
+  "fetched_slot": "2026-05-26T17:45:00-04:00",
+  "polled_at_utc": "2026-05-26T21:46:13.336505+00:00"
 }
