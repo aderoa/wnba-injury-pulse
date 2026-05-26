@@ -3268,5 +3268,32 @@
     "to_status": "Questionable",
     "reason": "Personal Reasons",
     "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-05-26T21:31:08.083829+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Julie TorontoTempo Allemand",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Left Hip; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-26T21:31:08.083829+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Temi Fagbenle",
+    "status": "Out",
+    "reason": "Not With Team",
+    "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-05-26T21:31:08.083829+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Isabelle Harrison",
+    "status": "Out",
+    "reason": "Injury/Illness - Right Hand; Injury",
+    "reason_category": "injury"
   }
 ]

@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/26/26 05:15 PM",
-  "page_count": 1,
-  "raw_line_count": 20,
+  "report_ts": "05/26/26 05:30 PM",
+  "page_count": 2,
+  "raw_line_count": 22,
   "teams": [
     {
       "team_full": "Phoenix Mercury",
@@ -71,8 +71,30 @@
       "game_date": "05/27/2026",
       "game_time": "08:00(ET)",
       "matchup": "TOR@CHI",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "TorontoTempo Allemand, Julie",
+          "name": "Julie TorontoTempo Allemand",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Hip; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Fagbenle, Temi",
+          "name": "Temi Fagbenle",
+          "status": "Out",
+          "reason": "Not With Team",
+          "reason_category": "offcourt"
+        },
+        {
+          "name_last_first": "Harrison, Isabelle",
+          "name": "Isabelle Harrison",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Hand; Injury",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Chicago Sky",
@@ -146,7 +168,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-26_05_15PM.pdf",
-  "fetched_slot": "2026-05-26T17:15:00-04:00",
-  "polled_at_utc": "2026-05-26T21:16:09.737092+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-26_05_30PM.pdf",
+  "fetched_slot": "2026-05-26T17:30:00-04:00",
+  "polled_at_utc": "2026-05-26T21:31:08.083829+00:00"
 }
