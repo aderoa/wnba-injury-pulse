@@ -65,38 +65,30 @@
   "PHX": {
     "team_full": "Phoenix Mercury",
     "submitted": true,
-    "last_submitted_ts": "2026-05-25T03:45:52.987579+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-24_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-26T21:01:06.221847+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-26_05_00PM.pdf",
     "game_dates": [
-      "05/24/2026"
+      "05/27/2026"
     ],
     "matchups": [
-      "PHX@ATL"
+      "PHX@NYL"
     ],
     "players": [
       {
         "name_last_first": "AkoaMakani, Monique",
         "name": "Monique AkoaMakani",
-        "status": "Out",
+        "status": "Probable",
         "reason": "Returnto Competition",
         "reason_category": "other"
-      },
-      {
-        "name_last_first": "Ciezki, Shay",
-        "name": "Shay Ciezki",
-        "status": "Out",
-        "reason": "Reconditioning Coach's Decision - Developmental",
-        "reason_category": "rest_coach"
       },
       {
         "name_last_first": "Whitcomb, Sami",
         "name": "Sami Whitcomb",
         "status": "Out",
-        "reason": "Player Injury/Illness - Left Knee; Arthroscopy",
+        "reason": "Reconditioning Injury/Illness - Left Knee;",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-05-26T20:46:06.713451+00:00"
+    ]
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
@@ -153,7 +145,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-05-26T20:46:06.713451+00:00"
+    "last_seen_pending_ts": "2026-05-26T21:01:06.221847+00:00"
   },
   "MIN": {
     "team_full": "Minnesota Lynx",
@@ -196,7 +188,7 @@
         "reason_category": "procedural"
       }
     ],
-    "last_seen_pending_ts": "2026-05-26T20:46:06.713451+00:00"
+    "last_seen_pending_ts": "2026-05-26T21:01:06.221847+00:00"
   },
   "CHI": {
     "team_full": "Chicago Sky",
@@ -253,7 +245,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-05-26T20:46:06.713451+00:00"
+    "last_seen_pending_ts": "2026-05-26T21:01:06.221847+00:00"
   },
   "PDX": {
     "team_full": "Portland Fire",
@@ -275,7 +267,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-05-26T20:46:06.713451+00:00"
+    "last_seen_pending_ts": "2026-05-26T21:01:06.221847+00:00"
   },
   "SEA": {
     "team_full": "Seattle Storm",
@@ -325,7 +317,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-05-26T20:46:06.713451+00:00"
+    "last_seen_pending_ts": "2026-05-26T21:01:06.221847+00:00"
   },
   "CON": {
     "team_full": "Connecticut Sun",
@@ -354,63 +346,56 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-05-26T20:46:06.713451+00:00"
+    "last_seen_pending_ts": "2026-05-26T21:01:06.221847+00:00"
   },
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-05-26T03:59:15.951563+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-25_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-26T21:01:06.221847+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-26_05_00PM.pdf",
     "game_dates": [
-      "05/25/2026"
+      "05/27/2026"
     ],
     "matchups": [
-      "PDX@NYL"
+      "PHX@NYL",
+      "TOR@CHI"
     ],
     "players": [
       {
         "name_last_first": "Fauthoux, Marine",
         "name": "Marine Fauthoux",
         "status": "Out",
-        "reason": "Injury/Illness - Left Knee; Rehabilitation",
+        "reason": "Arthroscopy Injury/Illness - Left Knee; Rehabilitation",
         "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Fiebich, Leonie",
-        "name": "Leonie Fiebich",
-        "status": "Out",
-        "reason": "Rest",
-        "reason_category": "other"
       },
       {
         "name_last_first": "Ionescu, Sabrina",
         "name": "Sabrina Ionescu",
-        "status": "Out",
-        "reason": "Injury/Illness - Left Foot; Injury Management",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Back; Soreness",
         "reason_category": "injury"
       },
       {
         "name_last_first": "Laney-Hamilton, Betnijah",
         "name": "Betnijah Laney-Hamilton",
-        "status": "Out",
+        "status": "Questionable",
         "reason": "Personal Reasons",
         "reason_category": "offcourt"
       },
       {
         "name_last_first": "Sabally, Satou",
         "name": "Satou Sabally",
-        "status": "Out",
-        "reason": "Injury/Illness - Ilness; Ilness",
+        "status": "Questionable",
+        "reason": "Injury/Illness - N/A; Illness",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-05-26T20:46:06.713451+00:00"
+    ]
   },
   "WAS": {
     "team_full": "Washington Mystics",
     "submitted": true,
-    "last_submitted_ts": "2026-05-26T20:46:06.713451+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-26_04_45PM.pdf",
+    "last_submitted_ts": "2026-05-26T21:01:06.221847+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-26_05_00PM.pdf",
     "game_dates": [
       "05/27/2026"
     ],

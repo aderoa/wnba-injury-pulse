@@ -4,6 +4,17 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-05-26 21:01 UTC
+
+- **Shay Ciezki** (PHX) cleared (was Out)
+- **Monique AkoaMakani** (PHX): **Out** → **Probable** — Returnto Competition
+- **Sami Whitcomb** (PHX, Out): reason updated (Player Injury/Illness - Left Knee; Arthroscopy → Reconditioning Injury/Illness - Left Knee;)
+- **Leonie Fiebich** (NYL) cleared (was Out)
+- **Satou Sabally** (NYL): **Out** → **Questionable** — Injury/Illness - N/A; Illness
+- **Sabrina Ionescu** (NYL): **Out** → **Questionable** — Injury/Illness - Back; Soreness
+- **Marine Fauthoux** (NYL, Out): reason updated (Injury/Illness - Left Knee; Rehabilitation → Arthroscopy Injury/Illness - Left Knee; Rehabilitation)
+- **Betnijah Laney-Hamilton** (NYL): **Out** → **Questionable** — Personal Reasons
+
 ## 2026-05-26 01:30 UTC
 
 - **Satou Sabally** (NYL) newly listed as **Out** — Injury/Illness - Ilness; Ilness

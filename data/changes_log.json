@@ -3192,5 +3192,81 @@
     "to_status": "Available",
     "reason": "-",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-05-26T21:01:06.221847+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Shay Ciezki",
+    "previous_status": "Out",
+    "previous_reason": "Reconditioning Coach's Decision - Developmental"
+  },
+  {
+    "ts": "2026-05-26T21:01:06.221847+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "Monique AkoaMakani",
+    "from_status": "Out",
+    "to_status": "Probable",
+    "reason": "Returnto Competition",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-05-26T21:01:06.221847+00:00",
+    "type": "reason_change",
+    "team_abbr": "PHX",
+    "player": "Sami Whitcomb",
+    "status": "Out",
+    "from_reason": "Player Injury/Illness - Left Knee; Arthroscopy",
+    "to_reason": "Reconditioning Injury/Illness - Left Knee;",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-26T21:01:06.221847+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Leonie Fiebich",
+    "previous_status": "Out",
+    "previous_reason": "Rest"
+  },
+  {
+    "ts": "2026-05-26T21:01:06.221847+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Satou Sabally",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - N/A; Illness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-26T21:01:06.221847+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Sabrina Ionescu",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Back; Soreness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-26T21:01:06.221847+00:00",
+    "type": "reason_change",
+    "team_abbr": "NYL",
+    "player": "Marine Fauthoux",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Knee; Rehabilitation",
+    "to_reason": "Arthroscopy Injury/Illness - Left Knee; Rehabilitation",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-26T21:01:06.221847+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Betnijah Laney-Hamilton",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Personal Reasons",
+    "reason_category": "offcourt"
   }
 ]

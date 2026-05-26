@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-05-26T20:46:06.713451+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-26_04_45PM.pdf",
-  "report_ts": "05/26/26 04:45 PM",
+  "polled_at_utc": "2026-05-26T21:01:06.221847+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-26_05_00PM.pdf",
+  "report_ts": "05/26/26 05:00 PM",
   "all_players": [
     {
       "name": "Aicha Coulibaly",
@@ -30,15 +30,6 @@
       "reason": "Concussion Protocol",
       "reason_category": "procedural",
       "last_updated": "2026-05-24T03:45:57.923229+00:00"
-    },
-    {
-      "name": "Betnijah Laney-Hamilton",
-      "team_abbr": "NYL",
-      "team_full": "New York Liberty",
-      "status": "Out",
-      "reason": "Personal Reasons",
-      "reason_category": "offcourt",
-      "last_updated": "2026-05-26T03:59:15.951563+00:00"
     },
     {
       "name": "Bree Hall",
@@ -101,7 +92,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-05-26T20:46:06.713451+00:00"
+      "last_updated": "2026-05-26T21:01:06.221847+00:00"
     },
     {
       "name": "DiJonai Carrington",
@@ -185,15 +176,6 @@
       "last_updated": "2026-05-24T03:45:57.923229+00:00"
     },
     {
-      "name": "Leonie Fiebich",
-      "team_abbr": "NYL",
-      "team_full": "New York Liberty",
-      "status": "Out",
-      "reason": "Rest",
-      "reason_category": "other",
-      "last_updated": "2026-05-26T03:59:15.951563+00:00"
-    },
-    {
       "name": "Maddy Westbeld",
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
@@ -207,9 +189,9 @@
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
       "status": "Out",
-      "reason": "Injury/Illness - Left Knee; Rehabilitation",
+      "reason": "Arthroscopy Injury/Illness - Left Knee; Rehabilitation",
       "reason_category": "injury",
-      "last_updated": "2026-05-26T03:59:15.951563+00:00"
+      "last_updated": "2026-05-26T21:01:06.221847+00:00"
     },
     {
       "name": "Miela Sowah",
@@ -219,15 +201,6 @@
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
       "last_updated": "2026-05-26T03:59:15.951563+00:00"
-    },
-    {
-      "name": "Monique AkoaMakani",
-      "team_abbr": "PHX",
-      "team_full": "Phoenix Mercury",
-      "status": "Out",
-      "reason": "Returnto Competition",
-      "reason_category": "other",
-      "last_updated": "2026-05-25T03:45:52.987579+00:00"
     },
     {
       "name": "Napheesa Collier",
@@ -257,22 +230,13 @@
       "last_updated": "2026-05-24T03:45:57.923229+00:00"
     },
     {
-      "name": "Sabrina Ionescu",
-      "team_abbr": "NYL",
-      "team_full": "New York Liberty",
-      "status": "Out",
-      "reason": "Injury/Illness - Left Foot; Injury Management",
-      "reason_category": "injury",
-      "last_updated": "2026-05-26T03:59:15.951563+00:00"
-    },
-    {
       "name": "Sami Whitcomb",
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
       "status": "Out",
-      "reason": "Player Injury/Illness - Left Knee; Arthroscopy",
+      "reason": "Reconditioning Injury/Illness - Left Knee;",
       "reason_category": "injury",
-      "last_updated": "2026-05-25T03:45:52.987579+00:00"
+      "last_updated": "2026-05-26T21:01:06.221847+00:00"
     },
     {
       "name": "Sania Feagin",
@@ -282,24 +246,6 @@
       "reason": "Injury/Illness - Left Leg; LLeg",
       "reason_category": "injury",
       "last_updated": "2026-05-24T03:45:57.923229+00:00"
-    },
-    {
-      "name": "Satou Sabally",
-      "team_abbr": "NYL",
-      "team_full": "New York Liberty",
-      "status": "Out",
-      "reason": "Injury/Illness - Ilness; Ilness",
-      "reason_category": "injury",
-      "last_updated": "2026-05-26T03:59:15.951563+00:00"
-    },
-    {
-      "name": "Shay Ciezki",
-      "team_abbr": "PHX",
-      "team_full": "Phoenix Mercury",
-      "status": "Out",
-      "reason": "Reconditioning Coach's Decision - Developmental",
-      "reason_category": "rest_coach",
-      "last_updated": "2026-05-25T03:45:52.987579+00:00"
     },
     {
       "name": "Taina Mair",
@@ -318,6 +264,42 @@
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
       "last_updated": "2026-05-25T03:45:52.987579+00:00"
+    },
+    {
+      "name": "Betnijah Laney-Hamilton",
+      "team_abbr": "NYL",
+      "team_full": "New York Liberty",
+      "status": "Questionable",
+      "reason": "Personal Reasons",
+      "reason_category": "offcourt",
+      "last_updated": "2026-05-26T21:01:06.221847+00:00"
+    },
+    {
+      "name": "Sabrina Ionescu",
+      "team_abbr": "NYL",
+      "team_full": "New York Liberty",
+      "status": "Questionable",
+      "reason": "Injury/Illness - Back; Soreness",
+      "reason_category": "injury",
+      "last_updated": "2026-05-26T21:01:06.221847+00:00"
+    },
+    {
+      "name": "Satou Sabally",
+      "team_abbr": "NYL",
+      "team_full": "New York Liberty",
+      "status": "Questionable",
+      "reason": "Injury/Illness - N/A; Illness",
+      "reason_category": "injury",
+      "last_updated": "2026-05-26T21:01:06.221847+00:00"
+    },
+    {
+      "name": "Monique AkoaMakani",
+      "team_abbr": "PHX",
+      "team_full": "Phoenix Mercury",
+      "status": "Probable",
+      "reason": "Returnto Competition",
+      "reason_category": "other",
+      "last_updated": "2026-05-26T21:01:06.221847+00:00"
     },
     {
       "name": "Awa Fam",
@@ -388,7 +370,7 @@
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
       "last_submitted_ts": "2026-05-25T03:45:52.987579+00:00",
-      "last_seen_pending_ts": "2026-05-26T20:46:06.713451+00:00",
+      "last_seen_pending_ts": "2026-05-26T21:01:06.221847+00:00",
       "matchups": [
         "PHX@ATL"
       ],
@@ -413,7 +395,7 @@
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
       "last_submitted_ts": "2026-05-24T03:45:57.923229+00:00",
-      "last_seen_pending_ts": "2026-05-26T20:46:06.713451+00:00",
+      "last_seen_pending_ts": "2026-05-26T21:01:06.221847+00:00",
       "matchups": [
         "MIN@CHI"
       ],
@@ -466,7 +448,7 @@
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
       "last_submitted_ts": "2026-05-26T03:59:15.951563+00:00",
-      "last_seen_pending_ts": "2026-05-26T20:46:06.713451+00:00",
+      "last_seen_pending_ts": "2026-05-26T21:01:06.221847+00:00",
       "matchups": [
         "CON@GSV"
       ],
@@ -637,7 +619,7 @@
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
       "last_submitted_ts": "2026-05-24T03:45:57.923229+00:00",
-      "last_seen_pending_ts": "2026-05-26T20:46:06.713451+00:00",
+      "last_seen_pending_ts": "2026-05-26T21:01:06.221847+00:00",
       "matchups": [
         "MIN@CHI"
       ],
@@ -675,45 +657,39 @@
     {
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
-      "last_submitted_ts": "2026-05-26T03:59:15.951563+00:00",
-      "last_seen_pending_ts": "2026-05-26T20:46:06.713451+00:00",
+      "last_submitted_ts": "2026-05-26T21:01:06.221847+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "PDX@NYL"
+        "PHX@NYL",
+        "TOR@CHI"
       ],
       "players": [
         {
           "name_last_first": "Fauthoux, Marine",
           "name": "Marine Fauthoux",
           "status": "Out",
-          "reason": "Injury/Illness - Left Knee; Rehabilitation",
+          "reason": "Arthroscopy Injury/Illness - Left Knee; Rehabilitation",
           "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Fiebich, Leonie",
-          "name": "Leonie Fiebich",
-          "status": "Out",
-          "reason": "Rest",
-          "reason_category": "other"
         },
         {
           "name_last_first": "Ionescu, Sabrina",
           "name": "Sabrina Ionescu",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Foot; Injury Management",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Back; Soreness",
           "reason_category": "injury"
         },
         {
           "name_last_first": "Laney-Hamilton, Betnijah",
           "name": "Betnijah Laney-Hamilton",
-          "status": "Out",
+          "status": "Questionable",
           "reason": "Personal Reasons",
           "reason_category": "offcourt"
         },
         {
           "name_last_first": "Sabally, Satou",
           "name": "Satou Sabally",
-          "status": "Out",
-          "reason": "Injury/Illness - Ilness; Ilness",
+          "status": "Questionable",
+          "reason": "Injury/Illness - N/A; Illness",
           "reason_category": "injury"
         }
       ]
@@ -722,7 +698,7 @@
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
       "last_submitted_ts": "2026-05-26T03:59:15.951563+00:00",
-      "last_seen_pending_ts": "2026-05-26T20:46:06.713451+00:00",
+      "last_seen_pending_ts": "2026-05-26T21:01:06.221847+00:00",
       "matchups": [
         "PDX@NYL"
       ],
@@ -739,31 +715,24 @@
     {
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
-      "last_submitted_ts": "2026-05-25T03:45:52.987579+00:00",
-      "last_seen_pending_ts": "2026-05-26T20:46:06.713451+00:00",
+      "last_submitted_ts": "2026-05-26T21:01:06.221847+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "PHX@ATL"
+        "PHX@NYL"
       ],
       "players": [
         {
           "name_last_first": "AkoaMakani, Monique",
           "name": "Monique AkoaMakani",
-          "status": "Out",
+          "status": "Probable",
           "reason": "Returnto Competition",
           "reason_category": "other"
-        },
-        {
-          "name_last_first": "Ciezki, Shay",
-          "name": "Shay Ciezki",
-          "status": "Out",
-          "reason": "Reconditioning Coach's Decision - Developmental",
-          "reason_category": "rest_coach"
         },
         {
           "name_last_first": "Whitcomb, Sami",
           "name": "Sami Whitcomb",
           "status": "Out",
-          "reason": "Player Injury/Illness - Left Knee; Arthroscopy",
+          "reason": "Reconditioning Injury/Illness - Left Knee;",
           "reason_category": "injury"
         }
       ]
@@ -772,7 +741,7 @@
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
       "last_submitted_ts": "2026-05-25T03:45:52.987579+00:00",
-      "last_seen_pending_ts": "2026-05-26T20:46:06.713451+00:00",
+      "last_seen_pending_ts": "2026-05-26T21:01:06.221847+00:00",
       "matchups": [
         "WAS@SEA"
       ],
@@ -817,7 +786,7 @@
     {
       "team_abbr": "WAS",
       "team_full": "Washington Mystics",
-      "last_submitted_ts": "2026-05-26T20:46:06.713451+00:00",
+      "last_submitted_ts": "2026-05-26T21:01:06.221847+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "WAS@SEA"
@@ -834,6 +803,82 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-05-26T21:01:06.221847+00:00",
+      "type": "status_change",
+      "team_abbr": "NYL",
+      "player": "Betnijah Laney-Hamilton",
+      "from_status": "Out",
+      "to_status": "Questionable",
+      "reason": "Personal Reasons",
+      "reason_category": "offcourt"
+    },
+    {
+      "ts": "2026-05-26T21:01:06.221847+00:00",
+      "type": "reason_change",
+      "team_abbr": "NYL",
+      "player": "Marine Fauthoux",
+      "status": "Out",
+      "from_reason": "Injury/Illness - Left Knee; Rehabilitation",
+      "to_reason": "Arthroscopy Injury/Illness - Left Knee; Rehabilitation",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-05-26T21:01:06.221847+00:00",
+      "type": "status_change",
+      "team_abbr": "NYL",
+      "player": "Sabrina Ionescu",
+      "from_status": "Out",
+      "to_status": "Questionable",
+      "reason": "Injury/Illness - Back; Soreness",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-05-26T21:01:06.221847+00:00",
+      "type": "status_change",
+      "team_abbr": "NYL",
+      "player": "Satou Sabally",
+      "from_status": "Out",
+      "to_status": "Questionable",
+      "reason": "Injury/Illness - N/A; Illness",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-05-26T21:01:06.221847+00:00",
+      "type": "cleared",
+      "team_abbr": "NYL",
+      "player": "Leonie Fiebich",
+      "previous_status": "Out",
+      "previous_reason": "Rest"
+    },
+    {
+      "ts": "2026-05-26T21:01:06.221847+00:00",
+      "type": "reason_change",
+      "team_abbr": "PHX",
+      "player": "Sami Whitcomb",
+      "status": "Out",
+      "from_reason": "Player Injury/Illness - Left Knee; Arthroscopy",
+      "to_reason": "Reconditioning Injury/Illness - Left Knee;",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-05-26T21:01:06.221847+00:00",
+      "type": "status_change",
+      "team_abbr": "PHX",
+      "player": "Monique AkoaMakani",
+      "from_status": "Out",
+      "to_status": "Probable",
+      "reason": "Returnto Competition",
+      "reason_category": "other"
+    },
+    {
+      "ts": "2026-05-26T21:01:06.221847+00:00",
+      "type": "cleared",
+      "team_abbr": "PHX",
+      "player": "Shay Ciezki",
+      "previous_status": "Out",
+      "previous_reason": "Reconditioning Coach's Decision - Developmental"
+    },
     {
       "ts": "2026-05-26T01:30:53.007560+00:00",
       "type": "status_change",
@@ -3023,74 +3068,6 @@
       "player": "Cotie McMahon",
       "previous_status": "Out",
       "previous_reason": "Injury/Illness - Left Elbow; Sprain"
-    },
-    {
-      "ts": "2026-05-14T21:00:16.935426+00:00",
-      "type": "cleared",
-      "team_abbr": "WAS",
-      "player": "Alicia FlorezGetino",
-      "previous_status": "Out",
-      "previous_reason": "Personal Reasons"
-    },
-    {
-      "ts": "2026-05-14T21:00:16.935426+00:00",
-      "type": "reason_change",
-      "team_abbr": "LVA",
-      "player": "Dana Evans",
-      "status": "Out",
-      "from_reason": "Injury/Illness - Left Leg; injury",
-      "to_reason": "Injury/Illness - Left Leg; leg",
-      "reason_category": "injury"
-    },
-    {
-      "ts": "2026-05-14T20:45:18.238932+00:00",
-      "type": "cleared",
-      "team_abbr": "CON",
-      "player": "Shey Peddy",
-      "previous_status": "Out",
-      "previous_reason": "Injury/Illness - Left Knee; OA"
-    },
-    {
-      "ts": "2026-05-14T20:45:18.238932+00:00",
-      "type": "cleared",
-      "team_abbr": "CON",
-      "player": "Ashlon Jackson",
-      "previous_status": "Out",
-      "previous_reason": "Coach's Decision"
-    },
-    {
-      "ts": "2026-05-14T20:45:18.238932+00:00",
-      "type": "cleared",
-      "team_abbr": "CON",
-      "player": "Brittney Griner",
-      "previous_status": "Out",
-      "previous_reason": "Injury/Illness - Left Foot; Sprain"
-    },
-    {
-      "ts": "2026-05-14T20:45:18.238932+00:00",
-      "type": "cleared",
-      "team_abbr": "CON",
-      "player": "Aaliyah Edwards",
-      "previous_status": "Out",
-      "previous_reason": "Injury/Illness - Left Thigh; Adductor"
-    },
-    {
-      "ts": "2026-05-14T20:45:18.238932+00:00",
-      "type": "added",
-      "team_abbr": "CON",
-      "player": "Olivia Nelson-Ododa",
-      "status": "Questionable",
-      "reason": "Injury/Illness - Right Ankle; Sprain",
-      "reason_category": "injury"
-    },
-    {
-      "ts": "2026-05-14T18:00:18.187255+00:00",
-      "type": "added",
-      "team_abbr": "MIN",
-      "player": "Nia Coffey",
-      "status": "Questionable",
-      "reason": "Injury/Illness - Right Shoulder; Right Shoulder",
-      "reason_category": "injury"
     }
   ]
 }
