@@ -3144,5 +3144,24 @@
     "player": "Nyara Sabally",
     "previous_status": "Available",
     "previous_reason": "Injury/Illness - Neck; Injury"
+  },
+  {
+    "ts": "2026-05-26T01:15:53.170687+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Olivia Nelson-Ododa",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Ankle; Sprain",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-26T01:15:53.170687+00:00",
+    "type": "added",
+    "team_abbr": "GSV",
+    "player": "Miela Sowah",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]

@@ -254,8 +254,8 @@
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-05-26T01:00:52.689289+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-25_09_00PM.pdf",
+    "last_submitted_ts": "2026-05-26T01:15:53.170687+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-25_09_15PM.pdf",
     "game_dates": [
       "05/25/2026"
     ],
@@ -324,8 +324,8 @@
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-05-26T01:00:52.689289+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-25_09_00PM.pdf",
+    "last_submitted_ts": "2026-05-26T01:15:53.170687+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-25_09_15PM.pdf",
     "game_dates": [
       "05/25/2026"
     ],
@@ -343,7 +343,7 @@
       {
         "name_last_first": "Nelson-Ododa, Olivia",
         "name": "Olivia Nelson-Ododa",
-        "status": "Probable",
+        "status": "Available",
         "reason": "Injury/Illness - Right Ankle; Sprain",
         "reason_category": "injury"
       }
@@ -352,8 +352,8 @@
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-05-26T01:00:52.689289+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-25_09_00PM.pdf",
+    "last_submitted_ts": "2026-05-26T01:15:53.170687+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-25_09_15PM.pdf",
     "game_dates": [
       "05/25/2026"
     ],
@@ -415,8 +415,8 @@
   "GSV": {
     "team_full": "Golden State Valkyries",
     "submitted": true,
-    "last_submitted_ts": "2026-05-26T01:00:52.689289+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-25_09_00PM.pdf",
+    "last_submitted_ts": "2026-05-26T01:15:53.170687+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-25_09_15PM.pdf",
     "game_dates": [
       "05/25/2026"
     ],
@@ -430,6 +430,13 @@
         "status": "Questionable",
         "reason": "Returnto Competition Reconditioning",
         "reason_category": "other"
+      },
+      {
+        "name_last_first": "Sowah, Miela",
+        "name": "Miela Sowah",
+        "status": "Out",
+        "reason": "Coach's Decision",
+        "reason_category": "rest_coach"
       },
       {
         "name_last_first": "Zandalasini, Cecilia",
