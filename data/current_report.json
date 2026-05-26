@@ -1,127 +1,108 @@
 {
-  "report_ts": "05/25/26 11:45 PM",
+  "report_ts": "05/26/26 12:00 AM",
   "page_count": 1,
-  "raw_line_count": 15,
+  "raw_line_count": 10,
   "teams": [
     {
-      "team_full": "Portland Fire",
-      "team_abbr": "PDX",
-      "game_date": "05/25/2026",
-      "game_time": "08:00(ET)",
-      "matchup": "PDX@NYL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Harrison, Jordan",
-          "name": "Jordan Harrison",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
+      "team_full": "Phoenix Mercury",
+      "team_abbr": "PHX",
+      "game_date": "05/27/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "PHX@NYL",
+      "submitted": false,
+      "players": []
     },
     {
       "team_full": "New York Liberty",
       "team_abbr": "NYL",
-      "game_date": "05/25/2026",
+      "game_date": "05/27/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "PHX@NYL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "New York Liberty",
+      "team_abbr": "NYL",
+      "game_date": "05/27/2026",
       "game_time": "08:00(ET)",
-      "matchup": "PDX@NYL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Fauthoux, Marine",
-          "name": "Marine Fauthoux",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Knee; Rehabilitation",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Fiebich, Leonie",
-          "name": "Leonie Fiebich",
-          "status": "Out",
-          "reason": "Rest",
-          "reason_category": "other"
-        },
-        {
-          "name_last_first": "Ionescu, Sabrina",
-          "name": "Sabrina Ionescu",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Foot; Injury Management",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Laney-Hamilton, Betnijah",
-          "name": "Betnijah Laney-Hamilton",
-          "status": "Out",
-          "reason": "Personal Reasons",
-          "reason_category": "offcourt"
-        },
-        {
-          "name_last_first": "Sabally, Satou",
-          "name": "Satou Sabally",
-          "status": "Out",
-          "reason": "Injury/Illness - Ilness; Ilness",
-          "reason_category": "injury"
-        }
-      ]
+      "matchup": "TOR@CHI",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Chicago Sky",
+      "team_abbr": "CHI",
+      "game_date": "05/27/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "TOR@CHI",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Atlanta Dream",
+      "team_abbr": "ATL",
+      "game_date": "05/27/2026",
+      "game_time": "09:00(ET)",
+      "matchup": "ATL@MIN",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Minnesota Lynx",
+      "team_abbr": "MIN",
+      "game_date": "05/27/2026",
+      "game_time": "09:00(ET)",
+      "matchup": "ATL@MIN",
+      "submitted": false,
+      "players": []
     },
     {
       "team_full": "Connecticut Sun",
       "team_abbr": "CON",
-      "game_date": "05/25/2026",
+      "game_date": "05/27/2026",
       "game_time": "10:00(ET)",
-      "matchup": "CON@GSV",
+      "matchup": "CON@PDX",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Portland Fire",
+      "team_abbr": "PDX",
+      "game_date": "05/27/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "CON@PDX",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Washington Mystics",
+      "team_abbr": "WAS",
+      "game_date": "05/27/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "WAS@SEA",
       "submitted": true,
       "players": [
         {
-          "name_last_first": "Griner, Brittney",
-          "name": "Brittney Griner",
+          "name_last_first": "Littlepage-Buggs, Darianna",
+          "name": "Darianna Littlepage-Buggs",
           "status": "Out",
-          "reason": "Injury/Illness - Right Rib; Strain",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Nelson-Ododa, Olivia",
-          "name": "Olivia Nelson-Ododa",
-          "status": "Available",
-          "reason": "Injury/Illness - Right Ankle; Sprain",
-          "reason_category": "injury"
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
     {
-      "team_full": "Golden State Valkyries",
-      "team_abbr": "GSV",
-      "game_date": "05/25/2026",
+      "team_full": "Seattle Storm",
+      "team_abbr": "SEA",
+      "game_date": "05/27/2026",
       "game_time": "10:00(ET)",
-      "matchup": "CON@GSV",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Jocyte, Juste",
-          "name": "Juste Jocyte",
-          "status": "Available",
-          "reason": "-",
-          "reason_category": "other"
-        },
-        {
-          "name_last_first": "Sowah, Miela",
-          "name": "Miela Sowah",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Zandalasini, Cecilia",
-          "name": "Cecilia Zandalasini",
-          "status": "Available",
-          "reason": "-",
-          "reason_category": "other"
-        }
-      ]
+      "matchup": "WAS@SEA",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-25_11_45PM.pdf",
-  "fetched_slot": "2026-05-25T23:45:00-04:00",
-  "polled_at_utc": "2026-05-26T03:59:15.951563+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-26_12_00AM.pdf",
+  "fetched_slot": "2026-05-26T00:00:00-04:00",
+  "polled_at_utc": "2026-05-26T04:00:54.367686+00:00"
 }
