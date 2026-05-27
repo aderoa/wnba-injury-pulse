@@ -4,6 +4,12 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-05-27 16:46 UTC
+
+- **Sabrina Ionescu** (NYL): **Questionable** → **Out** — Injury/Illness - Back; Soreness
+- **Betnijah Laney-Hamilton** (NYL): **Questionable** → **Available** — Personal Reasons
+- **Julie TorontoTempo Allemand** (NYL): **Questionable** → **Out** — Injury/Illness - Left Hip; Injury
+
 ## 2026-05-27 00:01 UTC
 
 - **Darianna Littlepage-Buggs** (WAS): **Out** → **Available** — -

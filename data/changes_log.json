@@ -3372,5 +3372,35 @@
     "player": "Awa Fam",
     "previous_status": "Available",
     "previous_reason": "-"
+  },
+  {
+    "ts": "2026-05-27T16:46:08.539845+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Sabrina Ionescu",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Back; Soreness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-27T16:46:08.539845+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Betnijah Laney-Hamilton",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Personal Reasons",
+    "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-05-27T16:46:08.539845+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Julie TorontoTempo Allemand",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Hip; Injury",
+    "reason_category": "injury"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "report_ts": "05/27/26 12:30 PM",
+  "report_ts": "05/27/26 12:45 PM",
   "page_count": 2,
   "raw_line_count": 34,
   "teams": [
@@ -45,14 +45,14 @@
         {
           "name_last_first": "Ionescu, Sabrina",
           "name": "Sabrina Ionescu",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Back; Soreness",
           "reason_category": "injury"
         },
         {
           "name_last_first": "Laney-Hamilton, Betnijah",
           "name": "Betnijah Laney-Hamilton",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Personal Reasons",
           "reason_category": "offcourt"
         },
@@ -76,7 +76,7 @@
         {
           "name_last_first": "TorontoTempo Allemand, Julie",
           "name": "Julie TorontoTempo Allemand",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Left Hip; Injury",
           "reason_category": "injury"
         },
@@ -298,7 +298,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-27_12_30PM.pdf",
-  "fetched_slot": "2026-05-27T12:30:00-04:00",
-  "polled_at_utc": "2026-05-27T16:31:10.177231+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-27_12_45PM.pdf",
+  "fetched_slot": "2026-05-27T12:45:00-04:00",
+  "polled_at_utc": "2026-05-27T16:46:08.539845+00:00"
 }
