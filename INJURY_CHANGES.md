@@ -4,6 +4,15 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-05-27 22:16 UTC
+
+- **Janiah Barker** (LVA) cleared (was Available)
+- **Dana Evans** (LVA, Out): reason updated (Injury/Illness - Left Leg; Injury → Injury/Illness - Left Leg; leftleg)
+- **Paige Bueckers** (DAL) newly listed as **Probable** — Injury/Illness - Leftleg; leftleg
+- **Alanna Smith** (DAL) newly listed as **Probable** — Injury/Illness - Illness; illness
+- **Dulcy FankamMendjiadeu** (DAL) cleared (was Out)
+- **Costanza Verona** (DAL) cleared (was Out)
+
 ## 2026-05-27 16:46 UTC
 
 - **Sabrina Ionescu** (NYL): **Questionable** → **Out** — Injury/Illness - Back; Soreness
