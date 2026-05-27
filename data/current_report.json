@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/26/26 11:45 PM",
+  "report_ts": "05/27/26 12:00 AM",
   "page_count": 2,
-  "raw_line_count": 30,
+  "raw_line_count": 34,
   "teams": [
     {
       "team_full": "Phoenix Mercury",
@@ -260,9 +260,45 @@
           "reason_category": "rest_coach"
         }
       ]
+    },
+    {
+      "team_full": "Las Vegas Aces",
+      "team_abbr": "LVA",
+      "game_date": "05/28/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "LVA@DAL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Dallas Wings",
+      "team_abbr": "DAL",
+      "game_date": "05/28/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "LVA@DAL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Indiana Fever",
+      "team_abbr": "IND",
+      "game_date": "05/28/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "IND@GSV",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Golden State Valkyries",
+      "team_abbr": "GSV",
+      "game_date": "05/28/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "IND@GSV",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-26_11_45PM.pdf",
-  "fetched_slot": "2026-05-26T23:45:00-04:00",
-  "polled_at_utc": "2026-05-27T03:46:08.197191+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-27_12_00AM.pdf",
+  "fetched_slot": "2026-05-27T00:00:00-04:00",
+  "polled_at_utc": "2026-05-27T04:01:09.541417+00:00"
 }
