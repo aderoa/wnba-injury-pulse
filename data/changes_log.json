@@ -3493,5 +3493,14 @@
     "from_reason": "Reconditioning Injury/Illness - Left Knee;",
     "to_reason": "Player Injury/Illness - Left Knee;",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-27T23:01:04.990131+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Maddy Westbeld",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
