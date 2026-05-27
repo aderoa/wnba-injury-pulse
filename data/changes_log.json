@@ -3454,5 +3454,15 @@
     "player": "Costanza Verona",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-05-27T22:31:08.966174+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Satou Sabally",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - N/A; Illness",
+    "reason_category": "injury"
   }
 ]
