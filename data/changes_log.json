@@ -3502,5 +3502,14 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-27T23:46:04.093224+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Emese Hof",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
