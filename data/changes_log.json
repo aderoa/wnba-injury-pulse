@@ -3354,5 +3354,23 @@
     "player": "Olivia Nelson-Ododa",
     "previous_status": "Available",
     "previous_reason": "Injury/Illness - Right Ankle; Sprain"
+  },
+  {
+    "ts": "2026-05-27T00:01:08.275852+00:00",
+    "type": "status_change",
+    "team_abbr": "WAS",
+    "player": "Darianna Littlepage-Buggs",
+    "from_status": "Out",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-05-27T00:01:08.275852+00:00",
+    "type": "cleared",
+    "team_abbr": "SEA",
+    "player": "Awa Fam",
+    "previous_status": "Available",
+    "previous_reason": "-"
   }
 ]

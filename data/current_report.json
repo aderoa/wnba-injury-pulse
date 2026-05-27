@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/26/26 07:45 PM",
+  "report_ts": "05/26/26 08:00 PM",
   "page_count": 2,
-  "raw_line_count": 27,
+  "raw_line_count": 30,
   "teams": [
     {
       "team_full": "Phoenix Mercury",
@@ -217,9 +217,9 @@
         {
           "name_last_first": "Littlepage-Buggs, Darianna",
           "name": "Darianna Littlepage-Buggs",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
         }
       ]
     },
@@ -229,11 +229,40 @@
       "game_date": "05/27/2026",
       "game_time": "10:00(ET)",
       "matchup": "WAS@SEA",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Magbegor, Ezi",
+          "name": "Ezi Magbegor",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Foot; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Mair, Taina",
+          "name": "Taina Mair",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Malonga, Dominique",
+          "name": "Dominique Malonga",
+          "status": "Out",
+          "reason": "Concussion Protocol",
+          "reason_category": "procedural"
+        },
+        {
+          "name_last_first": "Thierry, Taylor",
+          "name": "Taylor Thierry",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        }
+      ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-26_07_45PM.pdf",
-  "fetched_slot": "2026-05-26T19:45:00-04:00",
-  "polled_at_utc": "2026-05-26T23:46:04.824925+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-26_08_00PM.pdf",
+  "fetched_slot": "2026-05-26T20:00:00-04:00",
+  "polled_at_utc": "2026-05-27T00:01:08.275852+00:00"
 }
