@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/27/26 07:45 PM",
-  "page_count": 2,
-  "raw_line_count": 40,
+  "report_ts": "05/27/26 08:00 PM",
+  "page_count": 3,
+  "raw_line_count": 44,
   "teams": [
     {
       "team_full": "Phoenix Mercury",
@@ -62,6 +62,13 @@
           "status": "Available",
           "reason": "Personal Reasons",
           "reason_category": "offcourt"
+        },
+        {
+          "name_last_first": "Maley, Anneli",
+          "name": "Anneli Maley",
+          "status": "Out",
+          "reason": "Coach's Decision - Developmental Player",
+          "reason_category": "rest_coach"
         },
         {
           "name_last_first": "Sabally, Satou",
@@ -162,6 +169,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Right Knee; N/A",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Okonkwo, Amy",
+          "name": "Amy Okonkwo",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -329,20 +343,26 @@
       "game_date": "05/28/2026",
       "game_time": "10:00(ET)",
       "matchup": "IND@GSV",
-      "submitted": false,
-      "players": []
-    },
-    {
-      "team_full": "Golden State Valkyries",
-      "team_abbr": "GSV",
-      "game_date": "05/28/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "IND@GSV",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Clark, Caitlin",
+          "name": "Caitlin Clark",
+          "status": "Probable",
+          "reason": "Injury/Illness - Back; Back",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Hall, Bree",
+          "name": "Bree Hall",
+          "status": "Probable",
+          "reason": "Injury/Illness - Illness; Illness",
+          "reason_category": "injury"
+        }
+      ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-27_07_45PM.pdf",
-  "fetched_slot": "2026-05-27T19:45:00-04:00",
-  "polled_at_utc": "2026-05-27T23:46:04.093224+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-27_08_00PM.pdf",
+  "fetched_slot": "2026-05-27T20:00:00-04:00",
+  "polled_at_utc": "2026-05-28T00:01:08.965454+00:00"
 }
