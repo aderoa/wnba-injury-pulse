@@ -3732,5 +3732,31 @@
     "player": "Maddy Westbeld",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-05-28T21:45:19.148311+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Alanna Smith",
+    "from_status": "Doubtful",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Illness; illness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-28T21:45:19.148311+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Emese Hof",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-05-28T21:45:19.148311+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "AnastasiiaOlairi Kosu",
+    "previous_status": "Available",
+    "previous_reason": "Concussion Protocol"
   }
 ]
