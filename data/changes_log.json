@@ -3567,5 +3567,15 @@
     "to_status": "Available",
     "reason": "Concussion Protocol",
     "reason_category": "procedural"
+  },
+  {
+    "ts": "2026-05-28T01:16:05.822738+00:00",
+    "type": "status_change",
+    "team_abbr": "WAS",
+    "player": "Darianna Littlepage-Buggs",
+    "from_status": "Available",
+    "to_status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
