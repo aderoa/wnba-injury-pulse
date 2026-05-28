@@ -3777,5 +3777,60 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Leftleg; leftleg",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-28T23:30:21.973680+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Arike Ogunbowale",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Illness; Illness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-28T23:30:21.973680+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-05-28T23:30:21.973680+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "SarahAshlee Barker",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Right Foot; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-28T23:30:21.973680+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Bridget Carleton",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Lower Back; Soreness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-28T23:30:21.973680+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Teja Oblak",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Right Quad; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-28T23:30:21.973680+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Jordan Harrison",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]

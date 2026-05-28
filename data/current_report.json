@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/28/26 07:15 PM",
+  "report_ts": "05/28/26 07:30 PM",
   "page_count": 2,
-  "raw_line_count": 24,
+  "raw_line_count": 26,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -38,7 +38,7 @@
         {
           "name_last_first": "Ogunbowale, Arike",
           "name": "Arike Ogunbowale",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Illness; Illness",
           "reason_category": "injury"
         },
@@ -69,9 +69,9 @@
         {
           "name_last_first": "Clark, Caitlin",
           "name": "Caitlin Clark",
-          "status": "Probable",
-          "reason": "Injury/Illness - Back; Back",
-          "reason_category": "injury"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
         },
         {
           "name_last_first": "Hall, Bree",
@@ -231,11 +231,33 @@
       "game_date": "05/29/2026",
       "game_time": "10:00(ET)",
       "matchup": "ATL@PDX",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Barker, SarahAshlee",
+          "name": "SarahAshlee Barker",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Foot; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Carleton, Bridget",
+          "name": "Bridget Carleton",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Lower Back; Soreness",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Oblak, Teja",
+          "name": "Teja Oblak",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Quad; Injury",
+          "reason_category": "injury"
+        }
+      ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-28_07_15PM.pdf",
-  "fetched_slot": "2026-05-28T19:15:00-04:00",
-  "polled_at_utc": "2026-05-28T23:15:21.046063+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-28_07_30PM.pdf",
+  "fetched_slot": "2026-05-28T19:30:00-04:00",
+  "polled_at_utc": "2026-05-28T23:30:21.973680+00:00"
 }
