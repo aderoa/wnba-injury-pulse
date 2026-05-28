@@ -1,5 +1,5 @@
 {
-  "report_ts": "05/28/26 12:30 PM",
+  "report_ts": "05/28/26 12:45 PM",
   "page_count": 1,
   "raw_line_count": 14,
   "teams": [
@@ -69,7 +69,7 @@
         {
           "name_last_first": "Hall, Bree",
           "name": "Bree Hall",
-          "status": "Probable",
+          "status": "Out",
           "reason": "Injury/Illness - Illness; Illness",
           "reason_category": "injury"
         }
@@ -148,7 +148,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-28_12_30PM.pdf",
-  "fetched_slot": "2026-05-28T12:30:00-04:00",
-  "polled_at_utc": "2026-05-28T16:38:40.171438+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-28_12_45PM.pdf",
+  "fetched_slot": "2026-05-28T12:45:00-04:00",
+  "polled_at_utc": "2026-05-28T16:45:23.242737+00:00"
 }

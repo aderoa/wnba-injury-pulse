@@ -3605,5 +3605,15 @@
     "to_status": "Doubtful",
     "reason": "Injury/Illness - Illness; illness",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-28T16:45:23.242737+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Bree Hall",
+    "from_status": "Probable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Illness; Illness",
+    "reason_category": "injury"
   }
 ]
