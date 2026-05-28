@@ -3758,5 +3758,24 @@
     "player": "AnastasiiaOlairi Kosu",
     "previous_status": "Available",
     "previous_reason": "Concussion Protocol"
+  },
+  {
+    "ts": "2026-05-28T23:00:17.593739+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Costanza Verona",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-28T23:00:17.593739+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Paige Bueckers",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Leftleg; leftleg",
+    "reason_category": "injury"
   }
 ]
