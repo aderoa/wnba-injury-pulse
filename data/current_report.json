@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/28/26 11:15 AM",
+  "report_ts": "05/28/26 11:30 AM",
   "page_count": 1,
-  "raw_line_count": 13,
+  "raw_line_count": 14,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -36,9 +36,16 @@
           "reason_category": "injury"
         },
         {
+          "name_last_first": "Ogunbowale, Arike",
+          "name": "Arike Ogunbowale",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Illness; Illness",
+          "reason_category": "injury"
+        },
+        {
           "name_last_first": "Smith, Alanna",
           "name": "Alanna Smith",
-          "status": "Probable",
+          "status": "Doubtful",
           "reason": "Injury/Illness - Illness; illness",
           "reason_category": "injury"
         }
@@ -141,7 +148,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-28_11_15AM.pdf",
-  "fetched_slot": "2026-05-28T11:15:00-04:00",
-  "polled_at_utc": "2026-05-28T15:15:24.862068+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-28_11_30AM.pdf",
+  "fetched_slot": "2026-05-28T11:30:00-04:00",
+  "polled_at_utc": "2026-05-28T15:30:22.714080+00:00"
 }

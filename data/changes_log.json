@@ -3586,5 +3586,24 @@
     "status": "Out",
     "reason": "Injury/Illness - Nose; Contusion",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-28T15:30:22.714080+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Arike Ogunbowale",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Illness; Illness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-28T15:30:22.714080+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Alanna Smith",
+    "from_status": "Probable",
+    "to_status": "Doubtful",
+    "reason": "Injury/Illness - Illness; illness",
+    "reason_category": "injury"
   }
 ]

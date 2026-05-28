@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-05-28T15:15:24.862068+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-28_11_15AM.pdf",
-  "report_ts": "05/28/26 11:15 AM",
+  "polled_at_utc": "2026-05-28T15:30:22.714080+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-28_11_30AM.pdf",
+  "report_ts": "05/28/26 11:30 AM",
   "all_players": [
     {
       "name": "Aaliyah Edwards",
@@ -65,7 +65,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; leftleg",
       "reason_category": "injury",
-      "last_updated": "2026-05-28T15:15:24.862068+00:00"
+      "last_updated": "2026-05-28T15:30:22.714080+00:00"
     },
     {
       "name": "Darianna Littlepage-Buggs",
@@ -305,10 +305,19 @@
       "name": "Alanna Smith",
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
-      "status": "Probable",
+      "status": "Doubtful",
       "reason": "Injury/Illness - Illness; illness",
       "reason_category": "injury",
-      "last_updated": "2026-05-28T15:15:24.862068+00:00"
+      "last_updated": "2026-05-28T15:30:22.714080+00:00"
+    },
+    {
+      "name": "Arike Ogunbowale",
+      "team_abbr": "DAL",
+      "team_full": "Dallas Wings",
+      "status": "Questionable",
+      "reason": "Injury/Illness - Illness; Illness",
+      "reason_category": "injury",
+      "last_updated": "2026-05-28T15:30:22.714080+00:00"
     },
     {
       "name": "Bree Hall",
@@ -317,7 +326,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Illness; Illness",
       "reason_category": "injury",
-      "last_updated": "2026-05-28T15:15:24.862068+00:00"
+      "last_updated": "2026-05-28T15:30:22.714080+00:00"
     },
     {
       "name": "Caitlin Clark",
@@ -326,7 +335,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Back; Back",
       "reason_category": "injury",
-      "last_updated": "2026-05-28T15:15:24.862068+00:00"
+      "last_updated": "2026-05-28T15:30:22.714080+00:00"
     },
     {
       "name": "Paige Bueckers",
@@ -335,7 +344,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Leftleg; leftleg",
       "reason_category": "injury",
-      "last_updated": "2026-05-28T15:15:24.862068+00:00"
+      "last_updated": "2026-05-28T15:30:22.714080+00:00"
     },
     {
       "name": "AnastasiiaOlairi Kosu",
@@ -388,7 +397,7 @@
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
       "last_submitted_ts": "2026-05-28T03:45:17.343180+00:00",
-      "last_seen_pending_ts": "2026-05-28T15:15:24.862068+00:00",
+      "last_seen_pending_ts": "2026-05-28T15:30:22.714080+00:00",
       "matchups": [
         "ATL@MIN"
       ],
@@ -413,7 +422,7 @@
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
       "last_submitted_ts": "2026-05-28T03:45:17.343180+00:00",
-      "last_seen_pending_ts": "2026-05-28T15:15:24.862068+00:00",
+      "last_seen_pending_ts": "2026-05-28T15:30:22.714080+00:00",
       "matchups": [
         "TOR@CHI"
       ],
@@ -483,7 +492,7 @@
     {
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
-      "last_submitted_ts": "2026-05-28T15:15:24.862068+00:00",
+      "last_submitted_ts": "2026-05-28T15:30:22.714080+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "LVA@DAL"
@@ -497,9 +506,16 @@
           "reason_category": "injury"
         },
         {
+          "name_last_first": "Ogunbowale, Arike",
+          "name": "Arike Ogunbowale",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Illness; Illness",
+          "reason_category": "injury"
+        },
+        {
           "name_last_first": "Smith, Alanna",
           "name": "Alanna Smith",
-          "status": "Probable",
+          "status": "Doubtful",
           "reason": "Injury/Illness - Illness; illness",
           "reason_category": "injury"
         }
@@ -540,7 +556,7 @@
     {
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
-      "last_submitted_ts": "2026-05-28T15:15:24.862068+00:00",
+      "last_submitted_ts": "2026-05-28T15:30:22.714080+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "IND@GSV"
@@ -566,7 +582,7 @@
       "team_abbr": "LAS",
       "team_full": "Los Angeles Sparks",
       "last_submitted_ts": "2026-05-24T03:45:57.923229+00:00",
-      "last_seen_pending_ts": "2026-05-28T15:15:24.862068+00:00",
+      "last_seen_pending_ts": "2026-05-28T15:30:22.714080+00:00",
       "matchups": [
         "LAS@LVA"
       ],
@@ -597,7 +613,7 @@
     {
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
-      "last_submitted_ts": "2026-05-28T15:15:24.862068+00:00",
+      "last_submitted_ts": "2026-05-28T15:30:22.714080+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "LVA@DAL"
@@ -616,7 +632,7 @@
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
       "last_submitted_ts": "2026-05-28T03:45:17.343180+00:00",
-      "last_seen_pending_ts": "2026-05-28T15:15:24.862068+00:00",
+      "last_seen_pending_ts": "2026-05-28T15:30:22.714080+00:00",
       "matchups": [
         "ATL@MIN"
       ],
@@ -662,7 +678,7 @@
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
       "last_submitted_ts": "2026-05-28T03:45:17.343180+00:00",
-      "last_seen_pending_ts": "2026-05-28T15:15:24.862068+00:00",
+      "last_seen_pending_ts": "2026-05-28T15:30:22.714080+00:00",
       "matchups": [
         "PHX@NYL",
         "TOR@CHI"
@@ -730,7 +746,7 @@
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
       "last_submitted_ts": "2026-05-28T03:45:17.343180+00:00",
-      "last_seen_pending_ts": "2026-05-28T15:15:24.862068+00:00",
+      "last_seen_pending_ts": "2026-05-28T15:30:22.714080+00:00",
       "matchups": [
         "CON@PDX"
       ],
@@ -748,7 +764,7 @@
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
       "last_submitted_ts": "2026-05-28T03:45:17.343180+00:00",
-      "last_seen_pending_ts": "2026-05-28T15:15:24.862068+00:00",
+      "last_seen_pending_ts": "2026-05-28T15:30:22.714080+00:00",
       "matchups": [
         "PHX@NYL"
       ],
@@ -819,7 +835,7 @@
       "team_abbr": "WAS",
       "team_full": "Washington Mystics",
       "last_submitted_ts": "2026-05-28T03:45:17.343180+00:00",
-      "last_seen_pending_ts": "2026-05-28T15:15:24.862068+00:00",
+      "last_seen_pending_ts": "2026-05-28T15:30:22.714080+00:00",
       "matchups": [
         "WAS@SEA"
       ],
@@ -835,6 +851,25 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-05-28T15:30:22.714080+00:00",
+      "type": "status_change",
+      "team_abbr": "DAL",
+      "player": "Alanna Smith",
+      "from_status": "Probable",
+      "to_status": "Doubtful",
+      "reason": "Injury/Illness - Illness; illness",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-05-28T15:30:22.714080+00:00",
+      "type": "added",
+      "team_abbr": "DAL",
+      "player": "Arike Ogunbowale",
+      "status": "Questionable",
+      "reason": "Injury/Illness - Illness; Illness",
+      "reason_category": "injury"
+    },
     {
       "ts": "2026-05-28T03:30:19.002935+00:00",
       "type": "added",
@@ -3077,24 +3112,6 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Eye; Eye",
       "reason_category": "injury"
-    },
-    {
-      "ts": "2026-05-16T01:45:22.034011+00:00",
-      "type": "added",
-      "team_abbr": "PHX",
-      "player": "Mariella Fasoula",
-      "status": "Out",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach"
-    },
-    {
-      "ts": "2026-05-16T01:15:26.626208+00:00",
-      "type": "added",
-      "team_abbr": "LAS",
-      "player": "Laura Ziegler",
-      "status": "Out",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach"
     }
   ]
 }
