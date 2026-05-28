@@ -3577,5 +3577,14 @@
     "to_status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-28T03:30:19.002935+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Aaliyah Edwards",
+    "status": "Out",
+    "reason": "Injury/Illness - Nose; Contusion",
+    "reason_category": "injury"
   }
 ]

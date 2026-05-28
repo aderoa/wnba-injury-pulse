@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/27/26 11:15 PM",
+  "report_ts": "05/27/26 11:30 PM",
   "page_count": 3,
-  "raw_line_count": 45,
+  "raw_line_count": 46,
   "teams": [
     {
       "team_full": "Phoenix Mercury",
@@ -233,6 +233,13 @@
       "submitted": true,
       "players": [
         {
+          "name_last_first": "Edwards, Aaliyah",
+          "name": "Aaliyah Edwards",
+          "status": "Out",
+          "reason": "Injury/Illness - Nose; Contusion",
+          "reason_category": "injury"
+        },
+        {
           "name_last_first": "Griner, Brittney",
           "name": "Brittney Griner",
           "status": "Out",
@@ -379,7 +386,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-27_11_15PM.pdf",
-  "fetched_slot": "2026-05-27T23:15:00-04:00",
-  "polled_at_utc": "2026-05-28T03:16:04.792047+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-27_11_30PM.pdf",
+  "fetched_slot": "2026-05-27T23:30:00-04:00",
+  "polled_at_utc": "2026-05-28T03:30:19.002935+00:00"
 }
