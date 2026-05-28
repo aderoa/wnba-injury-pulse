@@ -3557,5 +3557,15 @@
     "to_status": "Probable",
     "reason": "Injury/Illness - Illness; Illness",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-28T00:31:04.693875+00:00",
+    "type": "status_change",
+    "team_abbr": "MIN",
+    "player": "AnastasiiaOlairi Kosu",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Concussion Protocol",
+    "reason_category": "procedural"
   }
 ]

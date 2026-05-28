@@ -1,5 +1,5 @@
 {
-  "report_ts": "05/27/26 08:15 PM",
+  "report_ts": "05/27/26 08:30 PM",
   "page_count": 3,
   "raw_line_count": 44,
   "teams": [
@@ -218,7 +218,7 @@
         {
           "name_last_first": "Kosu, AnastasiiaOlairi",
           "name": "AnastasiiaOlairi Kosu",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Concussion Protocol",
           "reason_category": "procedural"
         }
@@ -362,7 +362,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-27_08_15PM.pdf",
-  "fetched_slot": "2026-05-27T20:15:00-04:00",
-  "polled_at_utc": "2026-05-28T00:16:06.901311+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-27_08_30PM.pdf",
+  "fetched_slot": "2026-05-27T20:30:00-04:00",
+  "polled_at_utc": "2026-05-28T00:31:04.693875+00:00"
 }
