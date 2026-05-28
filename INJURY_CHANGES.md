@@ -4,6 +4,22 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-05-28 21:00 UTC
+
+- **Kelsey Plum** (LAS) newly listed as **Out** — Injury/Illness - Right Ankle; RAnkle
+- **Nneka Ogwumike** (LAS) cleared (was Out)
+- **Laura Ziegler** (LAS) cleared (was Out)
+- **Sania Feagin** (LAS): **Out** → **Probable** — Injury/Illness - Left Leg; LLeg
+- **Monique AkoaMakani** (PHX) cleared (was Available)
+- **Shay Ciezki** (PHX) cleared (was Out)
+- **Sami Whitcomb** (PHX, Out): reason updated (Player Injury/Illness - Left Knee; → Injury/Illness - Left Knee;)
+- **Betnijah Laney-Hamilton** (NYL) cleared (was Available)
+- **Anneli Maley** (NYL) cleared (was Out)
+- **Satou Sabally** (NYL) cleared (was Out)
+- **Julie TorontoTempo Allemand** (NYL) cleared (was Out)
+- **Temi Fagbenle** (NYL) cleared (was Out)
+- **Isabelle Harrison** (NYL) cleared (was Out)
+
 ## 2026-05-28 16:45 UTC
 
 - **Bree Hall** (IND): **Probable** → **Out** — Injury/Illness - Illness; Illness

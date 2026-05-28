@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/28/26 04:45 PM",
+  "report_ts": "05/28/26 05:00 PM",
   "page_count": 1,
-  "raw_line_count": 14,
+  "raw_line_count": 19,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -81,17 +81,23 @@
       "game_date": "05/29/2026",
       "game_time": "07:30(ET)",
       "matchup": "LAS@WAS",
-      "submitted": false,
-      "players": []
-    },
-    {
-      "team_full": "Washington Mystics",
-      "team_abbr": "WAS",
-      "game_date": "05/29/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "LAS@WAS",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Feagin, Sania",
+          "name": "Sania Feagin",
+          "status": "Probable",
+          "reason": "Injury/Illness - Left Leg; LLeg",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Plum, Kelsey",
+          "name": "Kelsey Plum",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Ankle; RAnkle",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Minnesota Lynx",
@@ -117,8 +123,16 @@
       "game_date": "05/29/2026",
       "game_time": "07:30(ET)",
       "matchup": "PHX@NYL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Whitcomb, Sami",
+          "name": "Sami Whitcomb",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee;",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "New York Liberty",
@@ -126,8 +140,23 @@
       "game_date": "05/29/2026",
       "game_time": "07:30(ET)",
       "matchup": "PHX@NYL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Fauthoux, Marine",
+          "name": "Marine Fauthoux",
+          "status": "Out",
+          "reason": "Arthroscopy Injury/Illness - Left Knee; Rehabilitation",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Ionescu, Sabrina",
+          "name": "Sabrina Ionescu",
+          "status": "Out",
+          "reason": "Injury/Illness - Back; Soreness",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Atlanta Dream",
@@ -148,7 +177,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-28_04_45PM.pdf",
-  "fetched_slot": "2026-05-28T16:45:00-04:00",
-  "polled_at_utc": "2026-05-28T20:45:22.344926+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-28_05_00PM.pdf",
+  "fetched_slot": "2026-05-28T17:00:00-04:00",
+  "polled_at_utc": "2026-05-28T21:00:20.262161+00:00"
 }
