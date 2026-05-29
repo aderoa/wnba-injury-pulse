@@ -4,6 +4,11 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-05-29 22:00 UTC
+
+- **Sania Feagin** (LAS): **Questionable** → **Out** — Injury/Illness - Left Leg; LLeg
+- **Anneli Maley** (NYL) newly listed as **Out** — Coach's Decision - Developmental Player
+
 ## 2026-05-29 21:00 UTC
 
 - **Julie TorontoTempo Allemand** (SEA) newly listed as **Probable** — Injury/Illness - Left Hip; Injury
