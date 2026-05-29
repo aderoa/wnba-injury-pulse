@@ -3910,5 +3910,15 @@
     "from_reason": "Injury/Illness - Nose; Contusion",
     "to_reason": "Injury/Illness - Right Head; Concussion Protocol",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-29T20:15:55.492916+00:00",
+    "type": "status_change",
+    "team_abbr": "LAS",
+    "player": "Sania Feagin",
+    "from_status": "Probable",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Leg; LLeg",
+    "reason_category": "injury"
   }
 ]

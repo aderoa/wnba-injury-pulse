@@ -1,5 +1,5 @@
 {
-  "report_ts": "05/29/26 04:00 PM",
+  "report_ts": "05/29/26 04:15 PM",
   "page_count": 2,
   "raw_line_count": 31,
   "teams": [
@@ -14,7 +14,7 @@
         {
           "name_last_first": "Feagin, Sania",
           "name": "Sania Feagin",
-          "status": "Probable",
+          "status": "Questionable",
           "reason": "Injury/Illness - Left Leg; LLeg",
           "reason_category": "injury"
         },
@@ -260,7 +260,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-29_04_00PM.pdf",
-  "fetched_slot": "2026-05-29T16:00:00-04:00",
-  "polled_at_utc": "2026-05-29T20:00:54.677163+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-29_04_15PM.pdf",
+  "fetched_slot": "2026-05-29T16:15:00-04:00",
+  "polled_at_utc": "2026-05-29T20:15:55.492916+00:00"
 }
