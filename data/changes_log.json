@@ -3865,5 +3865,23 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-29T15:00:26.846731+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Kamilla Cardoso",
+    "status": "Questionable",
+    "reason": "Injury/Illness - N/a; Illness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-29T15:00:26.846731+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Natasha Cloud",
+    "status": "Questionable",
+    "reason": "Injury/Illness - N/a; Illness",
+    "reason_category": "injury"
   }
 ]
