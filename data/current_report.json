@@ -1,111 +1,8 @@
 {
-  "report_ts": "05/28/26 11:45 PM",
+  "report_ts": "05/29/26 12:00 AM",
   "page_count": 2,
-  "raw_line_count": 29,
+  "raw_line_count": 26,
   "teams": [
-    {
-      "team_full": "Las Vegas Aces",
-      "team_abbr": "LVA",
-      "game_date": "05/28/2026",
-      "game_time": "08:00(ET)",
-      "matchup": "LVA@DAL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Evans, Dana",
-          "name": "Dana Evans",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Leg; leftleg",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Dallas Wings",
-      "team_abbr": "DAL",
-      "game_date": "05/28/2026",
-      "game_time": "08:00(ET)",
-      "matchup": "LVA@DAL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Bueckers, Paige",
-          "name": "Paige Bueckers",
-          "status": "Available",
-          "reason": "Injury/Illness - Leftleg; leftleg",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Ogunbowale, Arike",
-          "name": "Arike Ogunbowale",
-          "status": "Available",
-          "reason": "Injury/Illness - Illness; Illness",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Smith, Alanna",
-          "name": "Alanna Smith",
-          "status": "Out",
-          "reason": "Injury/Illness - Illness; illness",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Verona, Costanza",
-          "name": "Costanza Verona",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Indiana Fever",
-      "team_abbr": "IND",
-      "game_date": "05/28/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "IND@GSV",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Clark, Caitlin",
-          "name": "Caitlin Clark",
-          "status": "Available",
-          "reason": "-",
-          "reason_category": "other"
-        },
-        {
-          "name_last_first": "Hall, Bree",
-          "name": "Bree Hall",
-          "status": "Out",
-          "reason": "Injury/Illness - Illness; Illness",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Pissott, Justine",
-          "name": "Justine Pissott",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Golden State Valkyries",
-      "team_abbr": "GSV",
-      "game_date": "05/28/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "IND@GSV",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Sowah, Miela",
-          "name": "Miela Sowah",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
     {
       "team_full": "Los Angeles Sparks",
       "team_abbr": "LAS",
@@ -287,9 +184,54 @@
           "reason_category": "injury"
         }
       ]
+    },
+    {
+      "team_full": "Seattle Storm",
+      "team_abbr": "SEA",
+      "game_date": "05/30/2026",
+      "game_time": "01:00(ET)",
+      "matchup": "SEA@TOR",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Los Angeles Sparks",
+      "team_abbr": "LAS",
+      "game_date": "05/30/2026",
+      "game_time": "06:00(ET)",
+      "matchup": "LAS@CON",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Connecticut Sun",
+      "team_abbr": "CON",
+      "game_date": "05/30/2026",
+      "game_time": "06:00(ET)",
+      "matchup": "LAS@CON",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Indiana Fever",
+      "team_abbr": "IND",
+      "game_date": "05/30/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "IND@PDX",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Portland Fire",
+      "team_abbr": "PDX",
+      "game_date": "05/30/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "IND@PDX",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-28_11_45PM.pdf",
-  "fetched_slot": "2026-05-28T23:45:00-04:00",
-  "polled_at_utc": "2026-05-29T03:45:22.414447+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-29_12_00AM.pdf",
+  "fetched_slot": "2026-05-29T00:00:00-04:00",
+  "polled_at_utc": "2026-05-29T04:00:18.033531+00:00"
 }
