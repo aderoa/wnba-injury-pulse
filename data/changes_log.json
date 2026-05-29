@@ -3892,5 +3892,23 @@
     "status": "Probable",
     "reason": "Injury/Illness--; Illness",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-29T16:30:26.700092+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Brittney Griner",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Right Rib; Strain"
+  },
+  {
+    "ts": "2026-05-29T16:30:26.700092+00:00",
+    "type": "reason_change",
+    "team_abbr": "CON",
+    "player": "Aaliyah Edwards",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Nose; Contusion",
+    "to_reason": "Injury/Illness - Right Head; Concussion Protocol",
+    "reason_category": "injury"
   }
 ]
