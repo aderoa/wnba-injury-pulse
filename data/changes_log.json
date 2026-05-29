@@ -4099,5 +4099,15 @@
     "from_reason": "Injury/Illness - Left Knee;",
     "to_reason": "Contract Injury/Illness - Left Knee;",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-29T23:00:52.312864+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "DeWanna Bonner",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness--; Illness",
+    "reason_category": "injury"
   }
 ]

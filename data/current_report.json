@@ -1,5 +1,5 @@
 {
-  "report_ts": "05/29/26 06:45 PM",
+  "report_ts": "05/29/26 07:00 PM",
   "page_count": 3,
   "raw_line_count": 51,
   "teams": [
@@ -166,7 +166,7 @@
         {
           "name_last_first": "Bonner, DeWanna",
           "name": "DeWanna Bonner",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness--; Illness",
           "reason_category": "injury"
         },
@@ -383,7 +383,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-29_06_45PM.pdf",
-  "fetched_slot": "2026-05-29T18:45:00-04:00",
-  "polled_at_utc": "2026-05-29T22:54:09.144844+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-29_07_00PM.pdf",
+  "fetched_slot": "2026-05-29T19:00:00-04:00",
+  "polled_at_utc": "2026-05-29T23:00:52.312864+00:00"
 }
