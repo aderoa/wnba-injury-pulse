@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/29/26 04:45 PM",
+  "report_ts": "05/29/26 05:00 PM",
   "page_count": 2,
-  "raw_line_count": 34,
+  "raw_line_count": 37,
   "teams": [
     {
       "team_full": "Los Angeles Sparks",
@@ -212,8 +212,36 @@
       "game_date": "05/30/2026",
       "game_time": "01:00(ET)",
       "matchup": "SEA@TOR",
-      "submitted": false,
+      "submitted": true,
       "players": [
+        {
+          "name_last_first": "Magbegor, Ezi",
+          "name": "Ezi Magbegor",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Foot; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Mair, Taina",
+          "name": "Taina Mair",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Malonga, Dominique",
+          "name": "Dominique Malonga",
+          "status": "Out",
+          "reason": "Concussion Protocol",
+          "reason_category": "procedural"
+        },
+        {
+          "name_last_first": "Thierry, Taylor",
+          "name": "Taylor Thierry",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
         {
           "name_last_first": "TorontoTempo Allemand, Julie",
           "name": "Julie TorontoTempo Allemand",
@@ -289,7 +317,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-29_04_45PM.pdf",
-  "fetched_slot": "2026-05-29T16:45:00-04:00",
-  "polled_at_utc": "2026-05-29T20:45:53.770439+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-29_05_00PM.pdf",
+  "fetched_slot": "2026-05-29T17:00:00-04:00",
+  "polled_at_utc": "2026-05-29T21:00:53.472084+00:00"
 }
