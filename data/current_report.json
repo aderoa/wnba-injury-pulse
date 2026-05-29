@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/29/26 06:30 PM",
+  "report_ts": "05/29/26 06:45 PM",
   "page_count": 3,
-  "raw_line_count": 44,
+  "raw_line_count": 51,
   "teams": [
     {
       "team_full": "Los Angeles Sparks",
@@ -79,6 +79,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Ankle; Left Ankle",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Hamzova, Eliska",
+          "name": "Eliska Hamzova",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         },
         {
           "name_last_first": "Juhasz, Dorka",
@@ -164,10 +171,24 @@
           "reason_category": "injury"
         },
         {
+          "name_last_first": "Ciezki, Shay",
+          "name": "Shay Ciezki",
+          "status": "Out",
+          "reason": "Coach's Decision - Developmental",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Suarez, Marta",
+          "name": "Marta Suarez",
+          "status": "Out",
+          "reason": "Contract Coach's Decision - Developmental",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Whitcomb, Sami",
           "name": "Sami Whitcomb",
           "status": "Out",
-          "reason": "Injury/Illness - Left Knee;",
+          "reason": "Contract Injury/Illness - Left Knee;",
           "reason_category": "injury"
         }
       ]
@@ -362,7 +383,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-29_06_30PM.pdf",
-  "fetched_slot": "2026-05-29T18:30:00-04:00",
-  "polled_at_utc": "2026-05-29T22:30:55.482469+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-29_06_45PM.pdf",
+  "fetched_slot": "2026-05-29T18:45:00-04:00",
+  "polled_at_utc": "2026-05-29T22:45:53.749334+00:00"
 }
