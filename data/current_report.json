@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/29/26 06:00 PM",
-  "page_count": 2,
-  "raw_line_count": 39,
+  "report_ts": "05/29/26 06:15 PM",
+  "page_count": 3,
+  "raw_line_count": 42,
   "teams": [
     {
       "team_full": "Los Angeles Sparks",
@@ -19,11 +19,42 @@
           "reason_category": "injury"
         },
         {
+          "name_last_first": "Martin, Kate",
+          "name": "Kate Martin",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Plum, Kelsey",
           "name": "Kelsey Plum",
           "status": "Out",
           "reason": "Injury/Illness - Right Ankle; RAnkle",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Ziegler, Laura",
+          "name": "Laura Ziegler",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        }
+      ]
+    },
+    {
+      "team_full": "Washington Mystics",
+      "team_abbr": "WAS",
+      "game_date": "05/29/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "LAS@WAS",
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Littlepage-Buggs, Darianna",
+          "name": "Darianna Littlepage-Buggs",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -129,7 +160,7 @@
           "name_last_first": "Whitcomb, Sami",
           "name": "Sami Whitcomb",
           "status": "Out",
-          "reason": "Injury/Illness - Left Knee;",
+          "reason": "Injury/Illness - Left Knee; Arthroscopy",
           "reason_category": "injury"
         }
       ]
@@ -146,7 +177,7 @@
           "name_last_first": "Fauthoux, Marine",
           "name": "Marine Fauthoux",
           "status": "Out",
-          "reason": "Arthroscopy Injury/Illness - Left Knee; Rehabilitation",
+          "reason": "Injury/Illness - Left Knee; Rehabilitation",
           "reason_category": "injury"
         },
         {
@@ -324,7 +355,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-29_06_00PM.pdf",
-  "fetched_slot": "2026-05-29T18:00:00-04:00",
-  "polled_at_utc": "2026-05-29T22:00:54.017406+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-29_06_15PM.pdf",
+  "fetched_slot": "2026-05-29T18:15:00-04:00",
+  "polled_at_utc": "2026-05-29T22:15:53.562949+00:00"
 }

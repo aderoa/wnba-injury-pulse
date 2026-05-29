@@ -3975,5 +3975,43 @@
     "status": "Out",
     "reason": "Coach's Decision - Developmental Player",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-29T22:15:53.562949+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Kate Martin",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-29T22:15:53.562949+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Laura Ziegler",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-29T22:15:53.562949+00:00",
+    "type": "reason_change",
+    "team_abbr": "PHX",
+    "player": "Sami Whitcomb",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Knee;",
+    "to_reason": "Injury/Illness - Left Knee; Arthroscopy",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-29T22:15:53.562949+00:00",
+    "type": "reason_change",
+    "team_abbr": "NYL",
+    "player": "Marine Fauthoux",
+    "status": "Out",
+    "from_reason": "Arthroscopy Injury/Illness - Left Knee; Rehabilitation",
+    "to_reason": "Injury/Illness - Left Knee; Rehabilitation",
+    "reason_category": "injury"
   }
 ]
