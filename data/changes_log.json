@@ -4013,5 +4013,54 @@
     "from_reason": "Arthroscopy Injury/Illness - Left Knee; Rehabilitation",
     "to_reason": "Injury/Illness - Left Knee; Rehabilitation",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-29T22:30:55.482469+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Maddy Westbeld",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-29T22:30:55.482469+00:00",
+    "type": "status_change",
+    "team_abbr": "CHI",
+    "player": "Natasha Cloud",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - N/a; Illness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-29T22:30:55.482469+00:00",
+    "type": "status_change",
+    "team_abbr": "CHI",
+    "player": "Kamilla Cardoso",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - N/a; Illness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-29T22:30:55.482469+00:00",
+    "type": "reason_change",
+    "team_abbr": "PHX",
+    "player": "Sami Whitcomb",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Knee; Arthroscopy",
+    "to_reason": "Injury/Illness - Left Knee;",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-29T22:30:55.482469+00:00",
+    "type": "reason_change",
+    "team_abbr": "NYL",
+    "player": "Marine Fauthoux",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Knee; Rehabilitation",
+    "to_reason": "Arthroscopy Injury/Illness - Left Knee; Rehabilitation",
+    "reason_category": "injury"
   }
 ]

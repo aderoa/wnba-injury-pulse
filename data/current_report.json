@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/29/26 06:15 PM",
+  "report_ts": "05/29/26 06:30 PM",
   "page_count": 3,
-  "raw_line_count": 42,
+  "raw_line_count": 44,
   "teams": [
     {
       "team_full": "Los Angeles Sparks",
@@ -100,7 +100,7 @@
         {
           "name_last_first": "Cardoso, Kamilla",
           "name": "Kamilla Cardoso",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - N/a; Illness",
           "reason_category": "injury"
         },
@@ -114,7 +114,7 @@
         {
           "name_last_first": "Cloud, Natasha",
           "name": "Natasha Cloud",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - N/a; Illness",
           "reason_category": "injury"
         },
@@ -138,6 +138,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Right Knee; Right Knee",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Westbeld, Maddy",
+          "name": "Maddy Westbeld",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -160,7 +167,7 @@
           "name_last_first": "Whitcomb, Sami",
           "name": "Sami Whitcomb",
           "status": "Out",
-          "reason": "Injury/Illness - Left Knee; Arthroscopy",
+          "reason": "Injury/Illness - Left Knee;",
           "reason_category": "injury"
         }
       ]
@@ -177,7 +184,7 @@
           "name_last_first": "Fauthoux, Marine",
           "name": "Marine Fauthoux",
           "status": "Out",
-          "reason": "Injury/Illness - Left Knee; Rehabilitation",
+          "reason": "Arthroscopy Injury/Illness - Left Knee; Rehabilitation",
           "reason_category": "injury"
         },
         {
@@ -355,7 +362,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-29_06_15PM.pdf",
-  "fetched_slot": "2026-05-29T18:15:00-04:00",
-  "polled_at_utc": "2026-05-29T22:15:53.562949+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-29_06_30PM.pdf",
+  "fetched_slot": "2026-05-29T18:30:00-04:00",
+  "polled_at_utc": "2026-05-29T22:30:55.482469+00:00"
 }
