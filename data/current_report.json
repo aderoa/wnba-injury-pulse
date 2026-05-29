@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/29/26 11:15 AM",
+  "report_ts": "05/29/26 11:30 AM",
   "page_count": 2,
-  "raw_line_count": 28,
+  "raw_line_count": 29,
   "teams": [
     {
       "team_full": "Los Angeles Sparks",
@@ -118,6 +118,13 @@
       "matchup": "PHX@NYL",
       "submitted": true,
       "players": [
+        {
+          "name_last_first": "Bonner, DeWanna",
+          "name": "DeWanna Bonner",
+          "status": "Probable",
+          "reason": "Injury/Illness--; Illness",
+          "reason_category": "injury"
+        },
         {
           "name_last_first": "Whitcomb, Sami",
           "name": "Sami Whitcomb",
@@ -245,7 +252,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-29_11_15AM.pdf",
-  "fetched_slot": "2026-05-29T11:15:00-04:00",
-  "polled_at_utc": "2026-05-29T15:15:27.038784+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-29_11_30AM.pdf",
+  "fetched_slot": "2026-05-29T11:30:00-04:00",
+  "polled_at_utc": "2026-05-29T15:30:21.754576+00:00"
 }
