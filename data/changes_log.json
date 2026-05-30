@@ -4282,5 +4282,14 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Right Quad; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-30T20:45:49.724185+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Laura Ziegler",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]

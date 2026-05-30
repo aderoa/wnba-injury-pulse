@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/30/26 04:30 PM",
-  "page_count": 1,
-  "raw_line_count": 20,
+  "report_ts": "05/30/26 04:45 PM",
+  "page_count": 2,
+  "raw_line_count": 21,
   "teams": [
     {
       "team_full": "Seattle Storm",
@@ -76,6 +76,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Right Ankle; RAnkle",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Ziegler, Laura",
+          "name": "Laura Ziegler",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -170,7 +177,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-30_04_30PM.pdf",
-  "fetched_slot": "2026-05-30T16:30:00-04:00",
-  "polled_at_utc": "2026-05-30T20:33:27.303181+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-30_04_45PM.pdf",
+  "fetched_slot": "2026-05-30T16:45:00-04:00",
+  "polled_at_utc": "2026-05-30T20:45:49.724185+00:00"
 }
