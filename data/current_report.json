@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/30/26 05:00 PM",
+  "report_ts": "05/30/26 05:15 PM",
   "page_count": 2,
-  "raw_line_count": 21,
+  "raw_line_count": 22,
   "teams": [
     {
       "team_full": "Seattle Storm",
@@ -107,6 +107,13 @@
           "status": "Available",
           "reason": "-",
           "reason_category": "other"
+        },
+        {
+          "name_last_first": "Jackson, Ashlon",
+          "name": "Ashlon Jackson",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -177,7 +184,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-30_05_00PM.pdf",
-  "fetched_slot": "2026-05-30T17:00:00-04:00",
-  "polled_at_utc": "2026-05-30T21:00:49.723765+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-30_05_15PM.pdf",
+  "fetched_slot": "2026-05-30T17:15:00-04:00",
+  "polled_at_utc": "2026-05-30T21:15:48.939931+00:00"
 }
