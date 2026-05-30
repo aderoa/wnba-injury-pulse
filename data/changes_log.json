@@ -4386,5 +4386,15 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-30T23:45:48.947176+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Serah Williams",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Ankle; Injury",
+    "reason_category": "injury"
   }
 ]

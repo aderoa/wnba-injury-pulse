@@ -1,5 +1,5 @@
 {
-  "report_ts": "05/30/26 07:30 PM",
+  "report_ts": "05/30/26 07:45 PM",
   "page_count": 2,
   "raw_line_count": 26,
   "teams": [
@@ -187,7 +187,7 @@
         {
           "name_last_first": "Williams, Serah",
           "name": "Serah Williams",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Left Ankle; Injury",
           "reason_category": "injury"
         }
@@ -212,7 +212,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-30_07_30PM.pdf",
-  "fetched_slot": "2026-05-30T19:30:00-04:00",
-  "polled_at_utc": "2026-05-30T23:43:49.539944+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-30_07_45PM.pdf",
+  "fetched_slot": "2026-05-30T19:45:00-04:00",
+  "polled_at_utc": "2026-05-30T23:45:48.947176+00:00"
 }
