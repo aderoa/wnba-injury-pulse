@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/30/26 07:15 PM",
+  "report_ts": "05/30/26 07:30 PM",
   "page_count": 2,
-  "raw_line_count": 23,
+  "raw_line_count": 26,
   "teams": [
     {
       "team_full": "Seattle Storm",
@@ -104,9 +104,9 @@
         {
           "name_last_first": "Griner, Brittney",
           "name": "Brittney Griner",
-          "status": "Available",
-          "reason": "-",
-          "reason_category": "other"
+          "status": "Out",
+          "reason": "Injury/Illness - Right Eye; Bruise",
+          "reason_category": "injury"
         },
         {
           "name_last_first": "Jackson, Ashlon",
@@ -131,6 +131,20 @@
           "status": "Available",
           "reason": "-",
           "reason_category": "other"
+        },
+        {
+          "name_last_first": "Hall, Bree",
+          "name": "Bree Hall",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Pissott, Justine",
+          "name": "Justine Pissott",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -198,7 +212,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-30_07_15PM.pdf",
-  "fetched_slot": "2026-05-30T19:15:00-04:00",
-  "polled_at_utc": "2026-05-30T23:15:49.594969+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-30_07_30PM.pdf",
+  "fetched_slot": "2026-05-30T19:30:00-04:00",
+  "polled_at_utc": "2026-05-30T23:30:49.475778+00:00"
 }
