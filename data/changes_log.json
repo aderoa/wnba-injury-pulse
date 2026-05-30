@@ -4135,5 +4135,35 @@
     "to_status": "Probable",
     "reason": "Injury/Illness - Back; Back",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-30T00:30:50.319413+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Teja Oblak",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Quad; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-30T00:30:50.319413+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "SarahAshlee Barker",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Foot; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-30T00:30:50.319413+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Bridget Carleton",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Lower Back; Soreness",
+    "reason_category": "injury"
   }
 ]
