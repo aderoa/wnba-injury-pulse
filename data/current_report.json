@@ -1,5 +1,5 @@
 {
-  "report_ts": "05/29/26 07:45 PM",
+  "report_ts": "05/29/26 08:00 PM",
   "page_count": 3,
   "raw_line_count": 51,
   "teams": [
@@ -370,8 +370,16 @@
       "game_date": "05/30/2026",
       "game_time": "08:00(ET)",
       "matchup": "IND@PDX",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Clark, Caitlin",
+          "name": "Caitlin Clark",
+          "status": "Probable",
+          "reason": "Injury/Illness - Back; Back",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Portland Fire",
@@ -383,7 +391,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-29_07_45PM.pdf",
-  "fetched_slot": "2026-05-29T19:45:00-04:00",
-  "polled_at_utc": "2026-05-29T23:45:50.971248+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-29_08_00PM.pdf",
+  "fetched_slot": "2026-05-29T20:00:00-04:00",
+  "polled_at_utc": "2026-05-30T00:00:52.227388+00:00"
 }
