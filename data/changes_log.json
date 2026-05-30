@@ -4183,5 +4183,15 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-30T13:45:49.333015+00:00",
+    "type": "reason_change",
+    "team_abbr": "SEA",
+    "player": "Temi Fagbenle",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Right Hand; Injury",
+    "to_reason": "Injury/Illness - Right Shoulder; Injury",
+    "reason_category": "injury"
   }
 ]
