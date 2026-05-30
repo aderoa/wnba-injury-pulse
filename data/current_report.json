@@ -1,5 +1,5 @@
 {
-  "report_ts": "05/30/26 12:45 PM",
+  "report_ts": "05/30/26 01:00 PM",
   "page_count": 1,
   "raw_line_count": 16,
   "teams": [
@@ -68,8 +68,16 @@
       "game_date": "05/30/2026",
       "game_time": "06:00(ET)",
       "matchup": "LAS@CON",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Plum, Kelsey",
+          "name": "Kelsey Plum",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Ankle; RAnkle",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Connecticut Sun",
@@ -140,7 +148,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-30_12_45PM.pdf",
-  "fetched_slot": "2026-05-30T12:45:00-04:00",
-  "polled_at_utc": "2026-05-30T16:45:48.749944+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-30_01_00PM.pdf",
+  "fetched_slot": "2026-05-30T13:00:00-04:00",
+  "polled_at_utc": "2026-05-30T17:00:49.489933+00:00"
 }

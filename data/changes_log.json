@@ -4203,5 +4203,29 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Left Hip; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-30T17:00:49.489933+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Sania Feagin",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Leg; LLeg"
+  },
+  {
+    "ts": "2026-05-30T17:00:49.489933+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Kate Martin",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-05-30T17:00:49.489933+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Laura Ziegler",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]

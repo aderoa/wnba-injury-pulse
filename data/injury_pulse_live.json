@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-05-30T16:45:48.749944+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-30_12_45PM.pdf",
-  "report_ts": "05/30/26 12:45 PM",
+  "polled_at_utc": "2026-05-30T17:00:49.489933+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-30_01_00PM.pdf",
+  "report_ts": "05/30/26 01:00 PM",
   "all_players": [
     {
       "name": "Aaliyah Edwards",
@@ -11,7 +11,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Head; Concussion Protocol",
       "reason_category": "injury",
-      "last_updated": "2026-05-30T16:45:48.749944+00:00"
+      "last_updated": "2026-05-30T17:00:49.489933+00:00"
     },
     {
       "name": "Alanna Smith",
@@ -110,7 +110,7 @@
       "status": "Out",
       "reason": "Concussion Protocol",
       "reason_category": "procedural",
-      "last_updated": "2026-05-30T16:45:48.749944+00:00"
+      "last_updated": "2026-05-30T17:00:49.489933+00:00"
     },
     {
       "name": "Dorka Juhasz",
@@ -146,7 +146,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Foot; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-05-30T16:45:48.749944+00:00"
+      "last_updated": "2026-05-30T17:00:49.489933+00:00"
     },
     {
       "name": "Gabriela Jaquez",
@@ -164,21 +164,12 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Hand; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-05-30T16:45:48.749944+00:00"
+      "last_updated": "2026-05-30T17:00:49.489933+00:00"
     },
     {
       "name": "Jordan Harrison",
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
-      "status": "Out",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach",
-      "last_updated": "2026-05-30T03:45:50.877489+00:00"
-    },
-    {
-      "name": "Kate Martin",
-      "team_abbr": "LAS",
-      "team_full": "Los Angeles Sparks",
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
@@ -191,16 +182,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Ankle; RAnkle",
       "reason_category": "injury",
-      "last_updated": "2026-05-30T03:45:50.877489+00:00"
-    },
-    {
-      "name": "Laura Ziegler",
-      "team_abbr": "LAS",
-      "team_full": "Los Angeles Sparks",
-      "status": "Out",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach",
-      "last_updated": "2026-05-30T03:45:50.877489+00:00"
+      "last_updated": "2026-05-30T17:00:49.489933+00:00"
     },
     {
       "name": "Maddy Westbeld",
@@ -275,15 +257,6 @@
       "last_updated": "2026-05-30T03:45:50.877489+00:00"
     },
     {
-      "name": "Sania Feagin",
-      "team_abbr": "LAS",
-      "team_full": "Los Angeles Sparks",
-      "status": "Out",
-      "reason": "Injury/Illness - Left Leg; LLeg",
-      "reason_category": "injury",
-      "last_updated": "2026-05-30T03:45:50.877489+00:00"
-    },
-    {
       "name": "Shay Ciezki",
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
@@ -299,7 +272,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-05-30T16:45:48.749944+00:00"
+      "last_updated": "2026-05-30T17:00:49.489933+00:00"
     },
     {
       "name": "Taylor Thierry",
@@ -308,7 +281,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-05-30T16:45:48.749944+00:00"
+      "last_updated": "2026-05-30T17:00:49.489933+00:00"
     },
     {
       "name": "Temi Fagbenle",
@@ -317,7 +290,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Shoulder; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-05-30T16:45:48.749944+00:00"
+      "last_updated": "2026-05-30T17:00:49.489933+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -326,7 +299,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Right Rib; Strain",
       "reason_category": "injury",
-      "last_updated": "2026-05-30T16:45:48.749944+00:00"
+      "last_updated": "2026-05-30T17:00:49.489933+00:00"
     },
     {
       "name": "Caitlin Clark",
@@ -335,7 +308,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Back; Back",
       "reason_category": "injury",
-      "last_updated": "2026-05-30T16:45:48.749944+00:00"
+      "last_updated": "2026-05-30T17:00:49.489933+00:00"
     },
     {
       "name": "Arike Ogunbowale",
@@ -362,7 +335,7 @@
       "status": "Available",
       "reason": "Injury/Illness - Left Hip; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-05-30T16:45:48.749944+00:00"
+      "last_updated": "2026-05-30T17:00:49.489933+00:00"
     },
     {
       "name": "Kamilla Cardoso",
@@ -499,7 +472,7 @@
     {
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
-      "last_submitted_ts": "2026-05-30T16:45:48.749944+00:00",
+      "last_submitted_ts": "2026-05-30T17:00:49.489933+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "LAS@CON"
@@ -564,7 +537,7 @@
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
       "last_submitted_ts": "2026-05-29T03:45:22.414447+00:00",
-      "last_seen_pending_ts": "2026-05-30T16:45:48.749944+00:00",
+      "last_seen_pending_ts": "2026-05-30T17:00:49.489933+00:00",
       "matchups": [
         "IND@GSV"
       ],
@@ -581,7 +554,7 @@
     {
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
-      "last_submitted_ts": "2026-05-30T16:45:48.749944+00:00",
+      "last_submitted_ts": "2026-05-30T17:00:49.489933+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "IND@PDX"
@@ -599,40 +572,18 @@
     {
       "team_abbr": "LAS",
       "team_full": "Los Angeles Sparks",
-      "last_submitted_ts": "2026-05-30T03:45:50.877489+00:00",
-      "last_seen_pending_ts": "2026-05-30T16:45:48.749944+00:00",
+      "last_submitted_ts": "2026-05-30T17:00:49.489933+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "LAS@WAS",
         "LAS@CON"
       ],
       "players": [
-        {
-          "name_last_first": "Feagin, Sania",
-          "name": "Sania Feagin",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Leg; LLeg",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Martin, Kate",
-          "name": "Kate Martin",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
         {
           "name_last_first": "Plum, Kelsey",
           "name": "Kelsey Plum",
           "status": "Out",
           "reason": "Injury/Illness - Right Ankle; RAnkle",
           "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Ziegler, Laura",
-          "name": "Laura Ziegler",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
         }
       ]
     },
@@ -640,7 +591,7 @@
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
       "last_submitted_ts": "2026-05-29T03:45:22.414447+00:00",
-      "last_seen_pending_ts": "2026-05-30T16:45:48.749944+00:00",
+      "last_seen_pending_ts": "2026-05-30T17:00:49.489933+00:00",
       "matchups": [
         "LVA@DAL"
       ],
@@ -729,7 +680,7 @@
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
       "last_submitted_ts": "2026-05-30T03:45:50.877489+00:00",
-      "last_seen_pending_ts": "2026-05-30T16:45:48.749944+00:00",
+      "last_seen_pending_ts": "2026-05-30T17:00:49.489933+00:00",
       "matchups": [
         "ATL@PDX",
         "IND@PDX"
@@ -807,7 +758,7 @@
     {
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
-      "last_submitted_ts": "2026-05-30T16:45:48.749944+00:00",
+      "last_submitted_ts": "2026-05-30T17:00:49.489933+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "SEA@TOR"
@@ -884,6 +835,30 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-05-30T17:00:49.489933+00:00",
+      "type": "cleared",
+      "team_abbr": "LAS",
+      "player": "Laura Ziegler",
+      "previous_status": "Out",
+      "previous_reason": "Coach's Decision"
+    },
+    {
+      "ts": "2026-05-30T17:00:49.489933+00:00",
+      "type": "cleared",
+      "team_abbr": "LAS",
+      "player": "Kate Martin",
+      "previous_status": "Out",
+      "previous_reason": "Coach's Decision"
+    },
+    {
+      "ts": "2026-05-30T17:00:49.489933+00:00",
+      "type": "cleared",
+      "team_abbr": "LAS",
+      "player": "Sania Feagin",
+      "previous_status": "Out",
+      "previous_reason": "Injury/Illness - Left Leg; LLeg"
+    },
     {
       "ts": "2026-05-30T15:00:50.677008+00:00",
       "type": "status_change",
@@ -3129,31 +3104,6 @@
       "player": "Brittney Griner",
       "previous_status": "Available",
       "previous_reason": "Injury/Illness - Left Foot; Sprain"
-    },
-    {
-      "ts": "2026-05-19T21:45:33.963616+00:00",
-      "type": "cleared",
-      "team_abbr": "CHI",
-      "player": "Maddy Westbeld",
-      "previous_status": "Out",
-      "previous_reason": "Coach's Decision"
-    },
-    {
-      "ts": "2026-05-19T21:45:33.963616+00:00",
-      "type": "cleared",
-      "team_abbr": "CHI",
-      "player": "Skylar Diggins",
-      "previous_status": "Out",
-      "previous_reason": "Injury/Illness - Eye; Eye"
-    },
-    {
-      "ts": "2026-05-19T21:45:33.963616+00:00",
-      "type": "added",
-      "team_abbr": "CHI",
-      "player": "Elizabeth Williams",
-      "status": "Questionable",
-      "reason": "Injury/Illness - Right Knee; Right Knee",
-      "reason_category": "injury"
     }
   ]
 }
