@@ -4165,5 +4165,14 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Lower Back; Soreness",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-30T00:45:52.926882+00:00",
+    "type": "added",
+    "team_abbr": "ATL",
+    "player": "Amy Okonkwo",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
