@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/30/26 07:00 PM",
+  "report_ts": "05/30/26 07:15 PM",
   "page_count": 2,
-  "raw_line_count": 22,
+  "raw_line_count": 23,
   "teams": [
     {
       "team_full": "Seattle Storm",
@@ -145,22 +145,36 @@
         {
           "name_last_first": "Carleton, Bridget",
           "name": "Bridget Carleton",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Lower Back; Soreness",
           "reason_category": "injury"
         },
         {
+          "name_last_first": "Harrison, Jordan",
+          "name": "Jordan Harrison",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Oblak, Teja",
           "name": "Teja Oblak",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Right Quad; Injury",
           "reason_category": "injury"
         },
         {
           "name_last_first": "Samuelson, Karlie",
           "name": "Karlie Samuelson",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Right Foot; Injury Management",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Williams, Serah",
+          "name": "Serah Williams",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Ankle; Injury",
           "reason_category": "injury"
         }
       ]
@@ -184,7 +198,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-30_07_00PM.pdf",
-  "fetched_slot": "2026-05-30T19:00:00-04:00",
-  "polled_at_utc": "2026-05-30T23:00:47.984631+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-30_07_15PM.pdf",
+  "fetched_slot": "2026-05-30T19:15:00-04:00",
+  "polled_at_utc": "2026-05-30T23:15:49.594969+00:00"
 }

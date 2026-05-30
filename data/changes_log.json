@@ -4310,5 +4310,53 @@
     "to_status": "Available",
     "reason": "-",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-05-30T23:15:49.594969+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Jordan Harrison",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-30T23:15:49.594969+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Serah Williams",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Left Ankle; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-30T23:15:49.594969+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Teja Oblak",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Quad; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-30T23:15:49.594969+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Karlie Samuelson",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Foot; Injury Management",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-30T23:15:49.594969+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Bridget Carleton",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Lower Back; Soreness",
+    "reason_category": "injury"
   }
 ]
