@@ -39,7 +39,8 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-05-31T04:00:59.740301+00:00"
   },
   "IND": {
     "team_full": "Indiana Fever",
@@ -116,13 +117,14 @@
         "reason": "Contract Injury/Illness - Left Knee;",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-05-31T04:00:59.740301+00:00"
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
     "submitted": true,
-    "last_submitted_ts": "2026-05-31T03:45:59.404077+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-30_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-31T04:00:59.740301+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-31_12_00AM.pdf",
     "game_dates": [
       "05/31/2026"
     ],
@@ -214,7 +216,8 @@
         "reason": "Injury/Illness - Right Foot; Right Foot",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-05-31T04:00:59.740301+00:00"
   },
   "CHI": {
     "team_full": "Chicago Sky",
@@ -389,7 +392,8 @@
         "reason": "Injury/Illness - Right Hand; Injury",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-05-31T04:00:59.740301+00:00"
   },
   "CON": {
     "team_full": "Connecticut Sun",
