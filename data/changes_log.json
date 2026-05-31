@@ -4424,5 +4424,79 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-05-31T22:01:03.333936+00:00",
+    "type": "cleared",
+    "team_abbr": "SEA",
+    "player": "Julie TorontoTempo Allemand",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Left Hip; Injury"
+  },
+  {
+    "ts": "2026-05-31T22:01:03.333936+00:00",
+    "type": "cleared",
+    "team_abbr": "SEA",
+    "player": "Temi Fagbenle",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Right Shoulder; Injury"
+  },
+  {
+    "ts": "2026-05-31T22:01:03.333936+00:00",
+    "type": "cleared",
+    "team_abbr": "SEA",
+    "player": "Isabelle Harrison",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Right Hand; Injury"
+  },
+  {
+    "ts": "2026-05-31T22:01:03.333936+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Alysha Clark",
+    "status": "Probable",
+    "reason": "Injury/Illness - Leftarm; arm",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-31T22:01:03.333936+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Awak Kuier",
+    "status": "Out",
+    "reason": "Injury/Illness - Rightwrist; wrist",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-31T22:01:03.333936+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Paige Bueckers",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Leftleg; leftleg"
+  },
+  {
+    "ts": "2026-05-31T22:01:03.333936+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Arike Ogunbowale",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Illness; Illness"
+  },
+  {
+    "ts": "2026-05-31T22:01:03.333936+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Alanna Smith",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Illness; illness"
+  },
+  {
+    "ts": "2026-05-31T22:01:03.333936+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Costanza Verona",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]

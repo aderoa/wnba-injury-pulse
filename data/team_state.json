@@ -2,45 +2,30 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-05-29T03:45:22.414447+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-28_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-31T22:01:03.333936+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-31_06_00PM.pdf",
     "game_dates": [
-      "05/28/2026"
+      "06/01/2026"
     ],
     "matchups": [
-      "LVA@DAL"
+      "SEA@DAL"
     ],
     "players": [
       {
-        "name_last_first": "Bueckers, Paige",
-        "name": "Paige Bueckers",
-        "status": "Available",
-        "reason": "Injury/Illness - Leftleg; leftleg",
+        "name_last_first": "Clark, Alysha",
+        "name": "Alysha Clark",
+        "status": "Probable",
+        "reason": "Injury/Illness - Leftarm; arm",
         "reason_category": "injury"
       },
       {
-        "name_last_first": "Ogunbowale, Arike",
-        "name": "Arike Ogunbowale",
-        "status": "Available",
-        "reason": "Injury/Illness - Illness; Illness",
-        "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Smith, Alanna",
-        "name": "Alanna Smith",
+        "name_last_first": "Kuier, Awak",
+        "name": "Awak Kuier",
         "status": "Out",
-        "reason": "Injury/Illness - Illness; illness",
+        "reason": "Injury/Illness - Rightwrist; wrist",
         "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Verona, Costanza",
-        "name": "Costanza Verona",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
       }
-    ],
-    "last_seen_pending_ts": "2026-05-31T21:46:02.923365+00:00"
+    ]
   },
   "IND": {
     "team_full": "Indiana Fever",
@@ -118,13 +103,13 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-05-31T21:46:02.923365+00:00"
+    "last_seen_pending_ts": "2026-05-31T22:01:03.333936+00:00"
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
     "submitted": true,
-    "last_submitted_ts": "2026-05-31T21:46:02.923365+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-31_05_45PM.pdf",
+    "last_submitted_ts": "2026-05-31T22:01:03.333936+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-31_06_00PM.pdf",
     "game_dates": [
       "05/31/2026"
     ],
@@ -217,7 +202,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-05-31T21:46:02.923365+00:00"
+    "last_seen_pending_ts": "2026-05-31T22:01:03.333936+00:00"
   },
   "CHI": {
     "team_full": "Chicago Sky",
@@ -334,13 +319,13 @@
   "SEA": {
     "team_full": "Seattle Storm",
     "submitted": true,
-    "last_submitted_ts": "2026-05-31T03:45:59.404077+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-30_11_45PM.pdf",
+    "last_submitted_ts": "2026-05-31T22:01:03.333936+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-31_06_00PM.pdf",
     "game_dates": [
-      "05/30/2026"
+      "06/01/2026"
     ],
     "matchups": [
-      "SEA@TOR"
+      "SEA@DAL"
     ],
     "players": [
       {
@@ -370,30 +355,8 @@
         "status": "Out",
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
-      },
-      {
-        "name_last_first": "TorontoTempo Allemand, Julie",
-        "name": "Julie TorontoTempo Allemand",
-        "status": "Available",
-        "reason": "Injury/Illness - Left Hip; Injury",
-        "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Fagbenle, Temi",
-        "name": "Temi Fagbenle",
-        "status": "Out",
-        "reason": "Injury/Illness - Right Shoulder; Injury",
-        "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Harrison, Isabelle",
-        "name": "Isabelle Harrison",
-        "status": "Out",
-        "reason": "Injury/Illness - Right Hand; Injury",
-        "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-05-31T21:46:02.923365+00:00"
+    ]
   },
   "CON": {
     "team_full": "Connecticut Sun",
@@ -489,8 +452,8 @@
   "GSV": {
     "team_full": "Golden State Valkyries",
     "submitted": true,
-    "last_submitted_ts": "2026-05-31T21:46:02.923365+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-31_05_45PM.pdf",
+    "last_submitted_ts": "2026-05-31T22:01:03.333936+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-31_06_00PM.pdf",
     "game_dates": [
       "05/31/2026"
     ],
