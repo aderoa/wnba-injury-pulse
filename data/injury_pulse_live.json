@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-05-31T23:01:02.427089+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-31_07_00PM.pdf",
-  "report_ts": "05/31/26 07:00 PM",
+  "polled_at_utc": "2026-05-31T23:16:03.340640+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-31_07_15PM.pdf",
+  "report_ts": "05/31/26 07:15 PM",
   "all_players": [
     {
       "name": "Aaliyah Edwards",
@@ -47,7 +47,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-05-31T23:01:02.427089+00:00"
+      "last_updated": "2026-05-31T23:16:03.340640+00:00"
     },
     {
       "name": "Awak Kuier",
@@ -56,7 +56,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Rightwrist; wrist",
       "reason_category": "injury",
-      "last_updated": "2026-05-31T23:01:02.427089+00:00"
+      "last_updated": "2026-05-31T23:16:03.340640+00:00"
     },
     {
       "name": "Bree Hall",
@@ -101,7 +101,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; leftleg",
       "reason_category": "injury",
-      "last_updated": "2026-05-31T23:01:02.427089+00:00"
+      "last_updated": "2026-05-31T23:16:03.340640+00:00"
     },
     {
       "name": "Darianna Littlepage-Buggs",
@@ -128,7 +128,7 @@
       "status": "Out",
       "reason": "Concussion Protocol",
       "reason_category": "procedural",
-      "last_updated": "2026-05-31T23:01:02.427089+00:00"
+      "last_updated": "2026-05-31T23:16:03.340640+00:00"
     },
     {
       "name": "Dorka Juhasz",
@@ -164,7 +164,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Foot; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-05-31T23:01:02.427089+00:00"
+      "last_updated": "2026-05-31T23:16:03.340640+00:00"
     },
     {
       "name": "Gabriela Jaquez",
@@ -182,7 +182,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; leftleg",
       "reason_category": "injury",
-      "last_updated": "2026-05-31T23:01:02.427089+00:00"
+      "last_updated": "2026-05-31T23:16:03.340640+00:00"
     },
     {
       "name": "Jordan Harrison",
@@ -263,7 +263,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-05-31T23:01:02.427089+00:00"
+      "last_updated": "2026-05-31T23:16:03.340640+00:00"
     },
     {
       "name": "Napheesa Collier",
@@ -317,7 +317,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-05-31T23:01:02.427089+00:00"
+      "last_updated": "2026-05-31T23:16:03.340640+00:00"
     },
     {
       "name": "Taylor Thierry",
@@ -326,7 +326,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-05-31T23:01:02.427089+00:00"
+      "last_updated": "2026-05-31T23:16:03.340640+00:00"
     },
     {
       "name": "Alysha Clark",
@@ -335,7 +335,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Leftarm; arm",
       "reason_category": "injury",
-      "last_updated": "2026-05-31T23:01:02.427089+00:00"
+      "last_updated": "2026-05-31T23:16:03.340640+00:00"
     },
     {
       "name": "Bridget Carleton",
@@ -522,7 +522,7 @@
     {
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
-      "last_submitted_ts": "2026-05-31T23:01:02.427089+00:00",
+      "last_submitted_ts": "2026-05-31T23:16:03.340640+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "SEA@DAL"
@@ -547,7 +547,7 @@
     {
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
-      "last_submitted_ts": "2026-05-31T23:01:02.427089+00:00",
+      "last_submitted_ts": "2026-05-31T23:16:03.340640+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "LVA@GSV"
@@ -629,7 +629,7 @@
     {
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
-      "last_submitted_ts": "2026-05-31T23:01:02.427089+00:00",
+      "last_submitted_ts": "2026-05-31T23:16:03.340640+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "LVA@GSV"
@@ -655,7 +655,7 @@
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
       "last_submitted_ts": "2026-05-30T03:45:50.877489+00:00",
-      "last_seen_pending_ts": "2026-05-31T23:01:02.427089+00:00",
+      "last_seen_pending_ts": "2026-05-31T23:16:03.340640+00:00",
       "matchups": [
         "MIN@CHI"
       ],
@@ -772,7 +772,7 @@
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
       "last_submitted_ts": "2026-05-30T03:45:50.877489+00:00",
-      "last_seen_pending_ts": "2026-05-31T23:01:02.427089+00:00",
+      "last_seen_pending_ts": "2026-05-31T23:16:03.340640+00:00",
       "matchups": [
         "PHX@NYL"
       ],
@@ -810,7 +810,7 @@
     {
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
-      "last_submitted_ts": "2026-05-31T23:01:02.427089+00:00",
+      "last_submitted_ts": "2026-05-31T23:16:03.340640+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "SEA@DAL"
