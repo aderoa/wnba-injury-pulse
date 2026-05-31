@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-05-31T06:46:00.492451+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-31_02_45AM.pdf",
-  "report_ts": "05/31/26 02:45 AM",
+  "polled_at_utc": "2026-05-31T07:01:04.390417+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-31_03_00AM.pdf",
+  "report_ts": "05/31/26 03:00 AM",
   "all_players": [
     {
       "name": "Aaliyah Edwards",
@@ -101,7 +101,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; leftleg",
       "reason_category": "injury",
-      "last_updated": "2026-05-31T06:46:00.492451+00:00"
+      "last_updated": "2026-05-31T07:01:04.390417+00:00"
     },
     {
       "name": "Darianna Littlepage-Buggs",
@@ -344,7 +344,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Left Leg; leftleg",
       "reason_category": "injury",
-      "last_updated": "2026-05-31T06:46:00.492451+00:00"
+      "last_updated": "2026-05-31T07:01:04.390417+00:00"
     },
     {
       "name": "Arike Ogunbowale",
@@ -559,7 +559,7 @@
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
       "last_submitted_ts": "2026-05-29T03:45:22.414447+00:00",
-      "last_seen_pending_ts": "2026-05-31T06:46:00.492451+00:00",
+      "last_seen_pending_ts": "2026-05-31T07:01:04.390417+00:00",
       "matchups": [
         "LVA@DAL"
       ],
@@ -672,7 +672,7 @@
     {
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
-      "last_submitted_ts": "2026-05-31T06:46:00.492451+00:00",
+      "last_submitted_ts": "2026-05-31T07:01:04.390417+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "LVA@GSV"
@@ -698,7 +698,7 @@
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
       "last_submitted_ts": "2026-05-30T03:45:50.877489+00:00",
-      "last_seen_pending_ts": "2026-05-31T06:46:00.492451+00:00",
+      "last_seen_pending_ts": "2026-05-31T07:01:04.390417+00:00",
       "matchups": [
         "MIN@CHI"
       ],
@@ -815,7 +815,7 @@
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
       "last_submitted_ts": "2026-05-30T03:45:50.877489+00:00",
-      "last_seen_pending_ts": "2026-05-31T06:46:00.492451+00:00",
+      "last_seen_pending_ts": "2026-05-31T07:01:04.390417+00:00",
       "matchups": [
         "PHX@NYL"
       ],
@@ -854,7 +854,7 @@
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
       "last_submitted_ts": "2026-05-31T03:45:59.404077+00:00",
-      "last_seen_pending_ts": "2026-05-31T06:46:00.492451+00:00",
+      "last_seen_pending_ts": "2026-05-31T07:01:04.390417+00:00",
       "matchups": [
         "SEA@TOR"
       ],
