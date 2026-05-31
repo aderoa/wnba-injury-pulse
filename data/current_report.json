@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/31/26 07:30 PM",
+  "report_ts": "05/31/26 07:45 PM",
   "page_count": 1,
-  "raw_line_count": 12,
+  "raw_line_count": 14,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -119,8 +119,30 @@
       "game_date": "06/01/2026",
       "game_time": "10:00(ET)",
       "matchup": "MIN@PHX",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Cechova, Emma",
+          "name": "Emma Cechova",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; Right Knee",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Collier, Napheesa",
+          "name": "Napheesa Collier",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; Left Ankle",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Juhasz, Dorka",
+          "name": "Dorka Juhasz",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Foot; Right Foot",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Phoenix Mercury",
@@ -132,7 +154,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-31_07_30PM.pdf",
-  "fetched_slot": "2026-05-31T19:30:00-04:00",
-  "polled_at_utc": "2026-05-31T23:31:01.973017+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-31_07_45PM.pdf",
+  "fetched_slot": "2026-05-31T19:45:00-04:00",
+  "polled_at_utc": "2026-05-31T23:46:02.090194+00:00"
 }
