@@ -4405,5 +4405,15 @@
     "status": "Questionable",
     "reason": "Injury/Illness - Left Leg; leftleg",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-05-31T18:45:57.890576+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Jewell Loyd",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Leg; leftleg",
+    "reason_category": "injury"
   }
 ]
