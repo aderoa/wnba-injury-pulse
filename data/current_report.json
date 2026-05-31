@@ -1,7 +1,7 @@
 {
-  "report_ts": "05/30/26 07:45 PM",
+  "report_ts": "05/30/26 08:00 PM",
   "page_count": 2,
-  "raw_line_count": 26,
+  "raw_line_count": 25,
   "teams": [
     {
       "team_full": "Seattle Storm",
@@ -201,18 +201,9 @@
       "matchup": "LVA@GSV",
       "submitted": false,
       "players": []
-    },
-    {
-      "team_full": "Golden State Valkyries",
-      "team_abbr": "GSV",
-      "game_date": "05/31/2026",
-      "game_time": "03:30(ET)",
-      "matchup": "LVA@GSV",
-      "submitted": false,
-      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-30_07_45PM.pdf",
-  "fetched_slot": "2026-05-30T19:45:00-04:00",
-  "polled_at_utc": "2026-05-30T23:45:48.947176+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-30_08_00PM.pdf",
+  "fetched_slot": "2026-05-30T20:00:00-04:00",
+  "polled_at_utc": "2026-05-31T00:00:50.248273+00:00"
 }
