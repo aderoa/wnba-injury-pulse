@@ -2,8 +2,8 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-05-31T23:46:36.189039+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-31_07_45PM.pdf",
+    "last_submitted_ts": "2026-06-01T00:01:10.806014+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-31_08_00PM.pdf",
     "game_dates": [
       "06/01/2026"
     ],
@@ -65,51 +65,29 @@
   "PHX": {
     "team_full": "Phoenix Mercury",
     "submitted": true,
-    "last_submitted_ts": "2026-05-30T03:45:50.877489+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-29_11_45PM.pdf",
+    "last_submitted_ts": "2026-06-01T00:01:10.806014+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-31_08_00PM.pdf",
     "game_dates": [
-      "05/29/2026"
+      "06/01/2026"
     ],
     "matchups": [
-      "PHX@NYL"
+      "MIN@PHX"
     ],
     "players": [
-      {
-        "name_last_first": "Bonner, DeWanna",
-        "name": "DeWanna Bonner",
-        "status": "Available",
-        "reason": "Injury/Illness--; Illness",
-        "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Ciezki, Shay",
-        "name": "Shay Ciezki",
-        "status": "Out",
-        "reason": "Coach's Decision - Developmental",
-        "reason_category": "rest_coach"
-      },
-      {
-        "name_last_first": "Suarez, Marta",
-        "name": "Marta Suarez",
-        "status": "Out",
-        "reason": "Contract Coach's Decision - Developmental",
-        "reason_category": "rest_coach"
-      },
       {
         "name_last_first": "Whitcomb, Sami",
         "name": "Sami Whitcomb",
         "status": "Out",
-        "reason": "Contract Injury/Illness - Left Knee;",
+        "reason": "Injury/Illness - Left Knee; Arthroscopy",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-05-31T23:46:36.189039+00:00"
+    ]
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
     "submitted": true,
-    "last_submitted_ts": "2026-05-31T23:46:36.189039+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-31_07_45PM.pdf",
+    "last_submitted_ts": "2026-06-01T00:01:10.806014+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-31_08_00PM.pdf",
     "game_dates": [
       "05/31/2026"
     ],
@@ -164,8 +142,8 @@
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-05-31T23:46:36.189039+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-31_07_45PM.pdf",
+    "last_submitted_ts": "2026-06-01T00:01:10.806014+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-31_08_00PM.pdf",
     "game_dates": [
       "06/01/2026"
     ],
@@ -311,8 +289,8 @@
   "SEA": {
     "team_full": "Seattle Storm",
     "submitted": true,
-    "last_submitted_ts": "2026-05-31T23:46:36.189039+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-31_07_45PM.pdf",
+    "last_submitted_ts": "2026-06-01T00:01:10.806014+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-31_08_00PM.pdf",
     "game_dates": [
       "06/01/2026"
     ],
@@ -444,8 +422,8 @@
   "GSV": {
     "team_full": "Golden State Valkyries",
     "submitted": true,
-    "last_submitted_ts": "2026-05-31T23:46:36.189039+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-31_07_45PM.pdf",
+    "last_submitted_ts": "2026-06-01T00:01:10.806014+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-31_08_00PM.pdf",
     "game_dates": [
       "05/31/2026"
     ],

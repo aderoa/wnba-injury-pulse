@@ -4506,5 +4506,39 @@
     "player": "Eliska Hamzova",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-01T00:01:10.806014+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "DeWanna Bonner",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness--; Illness"
+  },
+  {
+    "ts": "2026-06-01T00:01:10.806014+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Shay Ciezki",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental"
+  },
+  {
+    "ts": "2026-06-01T00:01:10.806014+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Marta Suarez",
+    "previous_status": "Out",
+    "previous_reason": "Contract Coach's Decision - Developmental"
+  },
+  {
+    "ts": "2026-06-01T00:01:10.806014+00:00",
+    "type": "reason_change",
+    "team_abbr": "PHX",
+    "player": "Sami Whitcomb",
+    "status": "Out",
+    "from_reason": "Contract Injury/Illness - Left Knee;",
+    "to_reason": "Injury/Illness - Left Knee; Arthroscopy",
+    "reason_category": "injury"
   }
 ]
