@@ -1,5 +1,5 @@
 {
-  "report_ts": "06/01/26 04:45 PM",
+  "report_ts": "06/01/26 05:00 PM",
   "page_count": 2,
   "raw_line_count": 24,
   "teams": [
@@ -198,8 +198,16 @@
       "game_date": "06/02/2026",
       "game_time": "07:30(ET)",
       "matchup": "CON@ATL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Jones, Brionna",
+          "name": "Brionna Jones",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; N/A",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Las Vegas Aces",
@@ -238,7 +246,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-01_04_45PM.pdf",
-  "fetched_slot": "2026-06-01T16:45:00-04:00",
-  "polled_at_utc": "2026-06-01T20:46:06.108876+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-01_05_00PM.pdf",
+  "fetched_slot": "2026-06-01T17:00:00-04:00",
+  "polled_at_utc": "2026-06-01T21:01:09.039268+00:00"
 }

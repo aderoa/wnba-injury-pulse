@@ -4626,5 +4626,13 @@
     "from_reason": "Injury/Illness - Right Head; Concussion Protocol",
     "to_reason": "Concussion Protocol",
     "reason_category": "procedural"
+  },
+  {
+    "ts": "2026-06-01T21:01:09.039268+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Amy Okonkwo",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]
