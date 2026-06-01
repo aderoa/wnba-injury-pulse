@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/01/26 04:15 PM",
+  "report_ts": "06/01/26 04:30 PM",
   "page_count": 2,
-  "raw_line_count": 23,
+  "raw_line_count": 24,
   "teams": [
     {
       "team_full": "Seattle Storm",
@@ -52,7 +52,7 @@
         {
           "name_last_first": "Clark, Alysha",
           "name": "Alysha Clark",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness - Leftarm; arm",
           "reason_category": "injury"
         },
@@ -157,8 +157,23 @@
       "game_date": "06/02/2026",
       "game_time": "07:30(ET)",
       "matchup": "CHI@WAS",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Citron, Sonia",
+          "name": "Sonia Citron",
+          "status": "Out",
+          "reason": "Injury/Illness - Leftfoot; Sprain",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Wilson, Alex",
+          "name": "Alex Wilson",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Leg; Hamstring",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Connecticut Sun",
@@ -166,8 +181,16 @@
       "game_date": "06/02/2026",
       "game_time": "07:30(ET)",
       "matchup": "CON@ATL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Edwards, Aaliyah",
+          "name": "Aaliyah Edwards",
+          "status": "Out",
+          "reason": "Concussion Protocol",
+          "reason_category": "procedural"
+        }
+      ]
     },
     {
       "team_full": "Atlanta Dream",
@@ -215,7 +238,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-01_04_15PM.pdf",
-  "fetched_slot": "2026-06-01T16:15:00-04:00",
-  "polled_at_utc": "2026-06-01T20:16:02.675913+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-01_04_30PM.pdf",
+  "fetched_slot": "2026-06-01T16:30:00-04:00",
+  "polled_at_utc": "2026-06-01T20:31:04.745540+00:00"
 }
