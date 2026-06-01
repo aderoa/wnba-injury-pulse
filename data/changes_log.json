@@ -4540,5 +4540,29 @@
     "from_reason": "Contract Injury/Illness - Left Knee;",
     "to_reason": "Injury/Illness - Left Knee; Arthroscopy",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-01T20:01:04.242505+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Kamilla Cardoso",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - N/a; Illness"
+  },
+  {
+    "ts": "2026-06-01T20:01:04.242505+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Natasha Cloud",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - N/a; Illness"
+  },
+  {
+    "ts": "2026-06-01T20:01:04.242505+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Maddy Westbeld",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]

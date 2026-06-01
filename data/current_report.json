@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/01/26 03:45 PM",
+  "report_ts": "06/01/26 04:00 PM",
   "page_count": 2,
-  "raw_line_count": 20,
+  "raw_line_count": 23,
   "teams": [
     {
       "team_full": "Seattle Storm",
@@ -119,8 +119,37 @@
       "game_date": "06/02/2026",
       "game_time": "07:30(ET)",
       "matchup": "CHI@WAS",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Carrington, DiJonai",
+          "name": "DiJonai Carrington",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Foot; Left Foot",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Jackson, Rickea",
+          "name": "Rickea Jackson",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Left Knee",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Jaquez, Gabriela",
+          "name": "Gabriela Jaquez",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Left Knee",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Vandersloot, Courtney",
+          "name": "Courtney Vandersloot",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; Right Knee",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Washington Mystics",
@@ -186,7 +215,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-01_03_45PM.pdf",
-  "fetched_slot": "2026-06-01T15:45:00-04:00",
-  "polled_at_utc": "2026-06-01T19:46:04.120399+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-01_04_00PM.pdf",
+  "fetched_slot": "2026-06-01T16:00:00-04:00",
+  "polled_at_utc": "2026-06-01T20:01:04.242505+00:00"
 }
