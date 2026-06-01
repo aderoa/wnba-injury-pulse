@@ -4634,5 +4634,23 @@
     "player": "Amy Okonkwo",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-01T23:01:03.855492+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Dulcy FankamMendjiadeu",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-01T23:01:03.855492+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Costanza Verona",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
