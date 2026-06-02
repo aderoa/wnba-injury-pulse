@@ -1,5 +1,5 @@
 {
-  "report_ts": "06/01/26 08:00 PM",
+  "report_ts": "06/01/26 08:15 PM",
   "page_count": 2,
   "raw_line_count": 27,
   "teams": [
@@ -260,8 +260,16 @@
       "game_date": "06/02/2026",
       "game_time": "10:00(ET)",
       "matchup": "LVA@LAS",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Plum, Kelsey",
+          "name": "Kelsey Plum",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Ankle; RAnkle",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Golden State Valkyries",
@@ -269,11 +277,19 @@
       "game_date": "06/02/2026",
       "game_time": "10:00(ET)",
       "matchup": "PDX@GSV",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Burton, Veronica",
+          "name": "Veronica Burton",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Quad; Contusion",
+          "reason_category": "injury"
+        }
+      ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-01_08_00PM.pdf",
-  "fetched_slot": "2026-06-01T20:00:00-04:00",
-  "polled_at_utc": "2026-06-02T00:01:03.472784+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-01_08_15PM.pdf",
+  "fetched_slot": "2026-06-01T20:15:00-04:00",
+  "polled_at_utc": "2026-06-02T00:16:01.089242+00:00"
 }

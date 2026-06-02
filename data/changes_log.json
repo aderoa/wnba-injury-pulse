@@ -4671,5 +4671,38 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Left Leg; leftleg",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-02T00:16:01.089242+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Laura Ziegler",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-02T00:16:01.089242+00:00",
+    "type": "added",
+    "team_abbr": "GSV",
+    "player": "Veronica Burton",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Right Quad; Contusion",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-02T00:16:01.089242+00:00",
+    "type": "cleared",
+    "team_abbr": "GSV",
+    "player": "Ashten Prechtel",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-02T00:16:01.089242+00:00",
+    "type": "cleared",
+    "team_abbr": "GSV",
+    "player": "Miela Sowah",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]
