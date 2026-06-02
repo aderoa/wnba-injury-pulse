@@ -4,6 +4,13 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-06-02 22:15 UTC
+
+- **Alex Wilson** (WAS): **Questionable** → **Out** — Not With Team
+- **Ashlon Jackson** (CON) newly listed as **Out** — Coach's Decision
+- **Hailey VanLith** (CON) newly listed as **Out** — Coach's Decision
+- **Amy Okonkwo** (ATL) newly listed as **Out** — Coach's Decision
+
 ## 2026-06-02 20:45 UTC
 
 - **Temi TorontoTempo Fagbenle** (GSV) newly listed as **Out** — Injury/Illness - Right Shoulder; Injury

@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/02/26 06:00 PM",
+  "report_ts": "06/02/26 06:15 PM",
   "page_count": 2,
-  "raw_line_count": 21,
+  "raw_line_count": 24,
   "teams": [
     {
       "team_full": "Chicago Sky",
@@ -59,9 +59,9 @@
         {
           "name_last_first": "Wilson, Alex",
           "name": "Alex Wilson",
-          "status": "Questionable",
-          "reason": "Injury/Illness - Right Leg; Hamstring",
-          "reason_category": "injury"
+          "status": "Out",
+          "reason": "Not With Team",
+          "reason_category": "offcourt"
         }
       ]
     },
@@ -79,6 +79,20 @@
           "status": "Out",
           "reason": "Concussion Protocol",
           "reason_category": "procedural"
+        },
+        {
+          "name_last_first": "Jackson, Ashlon",
+          "name": "Ashlon Jackson",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "VanLith, Hailey",
+          "name": "Hailey VanLith",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -96,6 +110,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Right Knee; N/A",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Okonkwo, Amy",
+          "name": "Amy Okonkwo",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -231,7 +252,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-02_06_00PM.pdf",
-  "fetched_slot": "2026-06-02T18:00:00-04:00",
-  "polled_at_utc": "2026-06-02T22:00:46.108892+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-02_06_15PM.pdf",
+  "fetched_slot": "2026-06-02T18:15:00-04:00",
+  "polled_at_utc": "2026-06-02T22:15:47.117755+00:00"
 }

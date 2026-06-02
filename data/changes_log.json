@@ -4786,5 +4786,42 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Back; Soreness",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-02T22:15:47.117755+00:00",
+    "type": "status_change",
+    "team_abbr": "WAS",
+    "player": "Alex Wilson",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Not With Team",
+    "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-06-02T22:15:47.117755+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Ashlon Jackson",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-02T22:15:47.117755+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Hailey VanLith",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-02T22:15:47.117755+00:00",
+    "type": "added",
+    "team_abbr": "ATL",
+    "player": "Amy Okonkwo",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
