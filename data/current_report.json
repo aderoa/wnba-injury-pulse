@@ -1,160 +1,8 @@
 {
-  "report_ts": "06/01/26 11:45 PM",
-  "page_count": 2,
-  "raw_line_count": 34,
+  "report_ts": "06/02/26 12:00 AM",
+  "page_count": 1,
+  "raw_line_count": 17,
   "teams": [
-    {
-      "team_full": "Seattle Storm",
-      "team_abbr": "SEA",
-      "game_date": "06/01/2026",
-      "game_time": "08:00(ET)",
-      "matchup": "SEA@DAL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Magbegor, Ezi",
-          "name": "Ezi Magbegor",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Foot; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Mair, Taina",
-          "name": "Taina Mair",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Malonga, Dominique",
-          "name": "Dominique Malonga",
-          "status": "Out",
-          "reason": "Concussion Protocol",
-          "reason_category": "procedural"
-        },
-        {
-          "name_last_first": "Thierry, Taylor",
-          "name": "Taylor Thierry",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Dallas Wings",
-      "team_abbr": "DAL",
-      "game_date": "06/01/2026",
-      "game_time": "08:00(ET)",
-      "matchup": "SEA@DAL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Clark, Alysha",
-          "name": "Alysha Clark",
-          "status": "Available",
-          "reason": "Injury/Illness - Leftarm; arm",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "FankamMendjiadeu, Dulcy",
-          "name": "Dulcy FankamMendjiadeu",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Kuier, Awak",
-          "name": "Awak Kuier",
-          "status": "Out",
-          "reason": "Injury/Illness - Rightwrist; wrist",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Verona, Costanza",
-          "name": "Costanza Verona",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Minnesota Lynx",
-      "team_abbr": "MIN",
-      "game_date": "06/01/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "MIN@PHX",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Cechova, Emma",
-          "name": "Emma Cechova",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee; Right Knee",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Collier, Napheesa",
-          "name": "Napheesa Collier",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Ankle; Left Ankle",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Hamzova, Eliska",
-          "name": "Eliska Hamzova",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Juhasz, Dorka",
-          "name": "Dorka Juhasz",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Foot; Right Foot",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "King, Liatu",
-          "name": "Liatu King",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Phoenix Mercury",
-      "team_abbr": "PHX",
-      "game_date": "06/01/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "MIN@PHX",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Ciezki, Shay",
-          "name": "Shay Ciezki",
-          "status": "Out",
-          "reason": "Coach's Decision - Developmental",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Suarez, Marta",
-          "name": "Marta Suarez",
-          "status": "Out",
-          "reason": "Player Coach's Decision - Developmental Player",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Whitcomb, Sami",
-          "name": "Sami Whitcomb",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Knee; Arthroscopy",
-          "reason_category": "injury"
-        }
-      ]
-    },
     {
       "team_full": "Chicago Sky",
       "team_abbr": "CHI",
@@ -315,9 +163,45 @@
           "reason_category": "injury"
         }
       ]
+    },
+    {
+      "team_full": "Golden State Valkyries",
+      "team_abbr": "GSV",
+      "game_date": "06/03/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "TOR@NYL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "New York Liberty",
+      "team_abbr": "NYL",
+      "game_date": "06/03/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "TOR@NYL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Phoenix Mercury",
+      "team_abbr": "PHX",
+      "game_date": "06/03/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "PHX@SEA",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Seattle Storm",
+      "team_abbr": "SEA",
+      "game_date": "06/03/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "PHX@SEA",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-01_11_45PM.pdf",
-  "fetched_slot": "2026-06-01T23:45:00-04:00",
-  "polled_at_utc": "2026-06-02T03:46:00.762143+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-02_12_00AM.pdf",
+  "fetched_slot": "2026-06-02T00:00:00-04:00",
+  "polled_at_utc": "2026-06-02T04:01:01.517816+00:00"
 }
