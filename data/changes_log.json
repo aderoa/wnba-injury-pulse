@@ -4850,5 +4850,25 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-02T23:15:46.194616+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Chennedy Carter",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Leg; leftleg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-02T23:15:46.194616+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Jewell Loyd",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Leg; leftleg",
+    "reason_category": "injury"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "report_ts": "06/02/26 07:00 PM",
+  "report_ts": "06/02/26 07:15 PM",
   "page_count": 2,
   "raw_line_count": 27,
   "teams": [
@@ -152,7 +152,7 @@
         {
           "name_last_first": "Carter, Chennedy",
           "name": "Chennedy Carter",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Left Leg; leftleg",
           "reason_category": "injury"
         },
@@ -166,7 +166,7 @@
         {
           "name_last_first": "Loyd, Jewell",
           "name": "Jewell Loyd",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Left Leg; leftleg",
           "reason_category": "injury"
         }
@@ -273,7 +273,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-02_07_00PM.pdf",
-  "fetched_slot": "2026-06-02T19:00:00-04:00",
-  "polled_at_utc": "2026-06-02T23:04:33.695427+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-02_07_15PM.pdf",
+  "fetched_slot": "2026-06-02T19:15:00-04:00",
+  "polled_at_utc": "2026-06-02T23:15:46.194616+00:00"
 }
