@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/02/26 04:30 PM",
-  "page_count": 1,
-  "raw_line_count": 17,
+  "report_ts": "06/02/26 04:45 PM",
+  "page_count": 2,
+  "raw_line_count": 21,
   "teams": [
     {
       "team_full": "Chicago Sky",
@@ -170,8 +170,23 @@
       "game_date": "06/03/2026",
       "game_time": "07:30(ET)",
       "matchup": "TOR@NYL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "TorontoTempo Fagbenle, Temi",
+          "name": "Temi TorontoTempo Fagbenle",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Shoulder; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Harrison, Isabelle",
+          "name": "Isabelle Harrison",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Hand; Injury",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "New York Liberty",
@@ -179,8 +194,23 @@
       "game_date": "06/03/2026",
       "game_time": "07:30(ET)",
       "matchup": "TOR@NYL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Fauthoux, Marine",
+          "name": "Marine Fauthoux",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Rehabilitation",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Ionescu, Sabrina",
+          "name": "Sabrina Ionescu",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Back; Soreness",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Phoenix Mercury",
@@ -201,7 +231,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-02_04_30PM.pdf",
-  "fetched_slot": "2026-06-02T16:30:00-04:00",
-  "polled_at_utc": "2026-06-02T20:30:53.433604+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-02_04_45PM.pdf",
+  "fetched_slot": "2026-06-02T16:45:00-04:00",
+  "polled_at_utc": "2026-06-02T20:45:48.956612+00:00"
 }

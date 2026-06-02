@@ -4,6 +4,14 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-06-02 20:45 UTC
+
+- **Temi TorontoTempo Fagbenle** (GSV) newly listed as **Out** — Injury/Illness - Right Shoulder; Injury
+- **Isabelle Harrison** (GSV) newly listed as **Out** — Injury/Illness - Right Hand; Injury
+- **Anneli Maley** (NYL) cleared (was Out)
+- **Marine Fauthoux** (NYL, Out): reason updated (Arthroscopy Injury/Illness - Left Knee; Rehabilitation → Injury/Illness - Left Knee; Rehabilitation)
+- **Sabrina Ionescu** (NYL): **Out** → **Questionable** — Injury/Illness - Back; Soreness
+
 ## 2026-06-02 01:16 UTC
 
 - **Eliska Hamzova** (MIN) newly listed as **Out** — Coach's Decision

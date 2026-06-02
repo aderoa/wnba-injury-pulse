@@ -4740,5 +4740,51 @@
     "status": "Out",
     "reason": "Player Coach's Decision - Developmental Player",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-02T20:45:48.956612+00:00",
+    "type": "added",
+    "team_abbr": "GSV",
+    "player": "Temi TorontoTempo Fagbenle",
+    "status": "Out",
+    "reason": "Injury/Illness - Right Shoulder; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-02T20:45:48.956612+00:00",
+    "type": "added",
+    "team_abbr": "GSV",
+    "player": "Isabelle Harrison",
+    "status": "Out",
+    "reason": "Injury/Illness - Right Hand; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-02T20:45:48.956612+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Anneli Maley",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental Player"
+  },
+  {
+    "ts": "2026-06-02T20:45:48.956612+00:00",
+    "type": "reason_change",
+    "team_abbr": "NYL",
+    "player": "Marine Fauthoux",
+    "status": "Out",
+    "from_reason": "Arthroscopy Injury/Illness - Left Knee; Rehabilitation",
+    "to_reason": "Injury/Illness - Left Knee; Rehabilitation",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-02T20:45:48.956612+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Sabrina Ionescu",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Back; Soreness",
+    "reason_category": "injury"
   }
 ]
