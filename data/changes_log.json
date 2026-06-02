@@ -4704,5 +4704,41 @@
     "player": "Miela Sowah",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-02T01:16:05.470144+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Eliska Hamzova",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-02T01:16:05.470144+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Liatu King",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-02T01:16:05.470144+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Shay Ciezki",
+    "status": "Out",
+    "reason": "Coach's Decision - Developmental",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-02T01:16:05.470144+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Marta Suarez",
+    "status": "Out",
+    "reason": "Player Coach's Decision - Developmental Player",
+    "reason_category": "rest_coach"
   }
 ]
