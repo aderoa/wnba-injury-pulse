@@ -4904,5 +4904,65 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-03T01:30:43.294790+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Bridget Carleton",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Lower Back; Soreness"
+  },
+  {
+    "ts": "2026-06-03T01:30:43.294790+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Teja Oblak",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Right Quad; Injury"
+  },
+  {
+    "ts": "2026-06-03T01:30:43.294790+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Karlie Samuelson",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Right Foot; Injury Management"
+  },
+  {
+    "ts": "2026-06-03T01:30:43.294790+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Serah Williams",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Left Ankle; Injury"
+  },
+  {
+    "ts": "2026-06-03T01:30:43.294790+00:00",
+    "type": "added",
+    "team_abbr": "GSV",
+    "player": "Ashten Prechtel",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-03T01:30:43.294790+00:00",
+    "type": "added",
+    "team_abbr": "GSV",
+    "player": "Miela Sowah",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-03T01:30:43.294790+00:00",
+    "type": "status_change",
+    "team_abbr": "GSV",
+    "player": "Veronica Burton",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
   }
 ]

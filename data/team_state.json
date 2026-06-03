@@ -79,8 +79,8 @@
   "PHX": {
     "team_full": "Phoenix Mercury",
     "submitted": true,
-    "last_submitted_ts": "2026-06-03T01:15:45.478520+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-02_09_15PM.pdf",
+    "last_submitted_ts": "2026-06-03T01:30:43.294790+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-02_09_30PM.pdf",
     "game_dates": [
       "06/03/2026"
     ],
@@ -100,8 +100,8 @@
   "LVA": {
     "team_full": "Las Vegas Aces",
     "submitted": true,
-    "last_submitted_ts": "2026-06-03T01:15:45.478520+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-02_09_15PM.pdf",
+    "last_submitted_ts": "2026-06-03T01:30:43.294790+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-02_09_30PM.pdf",
     "game_dates": [
       "06/02/2026"
     ],
@@ -135,8 +135,8 @@
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-06-03T01:15:45.478520+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-02_09_15PM.pdf",
+    "last_submitted_ts": "2026-06-03T01:30:43.294790+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-02_09_30PM.pdf",
     "game_dates": [
       "06/02/2026"
     ],
@@ -212,8 +212,8 @@
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-06-03T01:15:45.478520+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-02_09_15PM.pdf",
+    "last_submitted_ts": "2026-06-03T01:30:43.294790+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-02_09_30PM.pdf",
     "game_dates": [
       "06/02/2026"
     ],
@@ -268,58 +268,29 @@
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-05-31T03:45:59.404077+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-05-30_11_45PM.pdf",
+    "last_submitted_ts": "2026-06-03T01:30:43.294790+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-02_09_30PM.pdf",
     "game_dates": [
-      "05/30/2026"
+      "06/02/2026"
     ],
     "matchups": [
-      "IND@PDX"
+      "PDX@GSV"
     ],
     "players": [
-      {
-        "name_last_first": "Carleton, Bridget",
-        "name": "Bridget Carleton",
-        "status": "Available",
-        "reason": "Injury/Illness - Lower Back; Soreness",
-        "reason_category": "injury"
-      },
       {
         "name_last_first": "Harrison, Jordan",
         "name": "Jordan Harrison",
         "status": "Out",
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
-      },
-      {
-        "name_last_first": "Oblak, Teja",
-        "name": "Teja Oblak",
-        "status": "Available",
-        "reason": "Injury/Illness - Right Quad; Injury",
-        "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Samuelson, Karlie",
-        "name": "Karlie Samuelson",
-        "status": "Out",
-        "reason": "Injury/Illness - Right Foot; Injury Management",
-        "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Williams, Serah",
-        "name": "Serah Williams",
-        "status": "Available",
-        "reason": "Injury/Illness - Left Ankle; Injury",
-        "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-06-01T23:01:03.855492+00:00"
+    ]
   },
   "SEA": {
     "team_full": "Seattle Storm",
     "submitted": true,
-    "last_submitted_ts": "2026-06-03T01:15:45.478520+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-02_09_15PM.pdf",
+    "last_submitted_ts": "2026-06-03T01:30:43.294790+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-02_09_30PM.pdf",
     "game_dates": [
       "06/03/2026"
     ],
@@ -360,8 +331,8 @@
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-06-03T01:15:45.478520+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-02_09_15PM.pdf",
+    "last_submitted_ts": "2026-06-03T01:30:43.294790+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-02_09_30PM.pdf",
     "game_dates": [
       "06/02/2026"
     ],
@@ -395,8 +366,8 @@
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-06-03T01:15:45.478520+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-02_09_15PM.pdf",
+    "last_submitted_ts": "2026-06-03T01:30:43.294790+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-02_09_30PM.pdf",
     "game_dates": [
       "06/03/2026"
     ],
@@ -423,8 +394,8 @@
   "WAS": {
     "team_full": "Washington Mystics",
     "submitted": true,
-    "last_submitted_ts": "2026-06-03T01:15:45.478520+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-02_09_15PM.pdf",
+    "last_submitted_ts": "2026-06-03T01:30:43.294790+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-02_09_30PM.pdf",
     "game_dates": [
       "06/02/2026"
     ],
@@ -458,8 +429,8 @@
   "GSV": {
     "team_full": "Golden State Valkyries",
     "submitted": true,
-    "last_submitted_ts": "2026-06-03T01:15:45.478520+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-02_09_15PM.pdf",
+    "last_submitted_ts": "2026-06-03T01:30:43.294790+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-02_09_30PM.pdf",
     "game_dates": [
       "06/02/2026",
       "06/03/2026"
@@ -472,9 +443,23 @@
       {
         "name_last_first": "Burton, Veronica",
         "name": "Veronica Burton",
-        "status": "Questionable",
-        "reason": "Injury/Illness - Right Quad; Contusion",
-        "reason_category": "injury"
+        "status": "Available",
+        "reason": "-",
+        "reason_category": "other"
+      },
+      {
+        "name_last_first": "Prechtel, Ashten",
+        "name": "Ashten Prechtel",
+        "status": "Out",
+        "reason": "Coach's Decision",
+        "reason_category": "rest_coach"
+      },
+      {
+        "name_last_first": "Sowah, Miela",
+        "name": "Miela Sowah",
+        "status": "Out",
+        "reason": "Coach's Decision",
+        "reason_category": "rest_coach"
       },
       {
         "name_last_first": "TorontoTempo Fagbenle, Temi",
@@ -495,8 +480,8 @@
   "LAS": {
     "team_full": "Los Angeles Sparks",
     "submitted": true,
-    "last_submitted_ts": "2026-06-03T01:15:45.478520+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-02_09_15PM.pdf",
+    "last_submitted_ts": "2026-06-03T01:30:43.294790+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-02_09_30PM.pdf",
     "game_dates": [
       "06/02/2026"
     ],
