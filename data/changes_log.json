@@ -4964,5 +4964,15 @@
     "to_status": "Available",
     "reason": "-",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-06-03T15:45:49.403097+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Sabrina Ionescu",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Back; Soreness",
+    "reason_category": "injury"
   }
 ]
