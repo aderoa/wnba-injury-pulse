@@ -4870,5 +4870,21 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Left Leg; leftleg",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-03T00:00:45.055705+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Shay Ciezki",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental"
+  },
+  {
+    "ts": "2026-06-03T00:00:45.055705+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Marta Suarez",
+    "previous_status": "Out",
+    "previous_reason": "Player Coach's Decision - Developmental Player"
   }
 ]
