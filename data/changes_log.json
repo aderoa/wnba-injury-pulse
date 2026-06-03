@@ -5017,5 +5017,21 @@
     "to_status": "Probable",
     "reason": "Injury/Illness - Back; Back",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-03T21:45:45.892735+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Eliska Hamzova",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-03T21:45:45.892735+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Liatu King",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]

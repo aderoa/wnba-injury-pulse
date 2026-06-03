@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/03/26 05:30 PM",
+  "report_ts": "06/03/26 05:45 PM",
   "page_count": 1,
-  "raw_line_count": 18,
+  "raw_line_count": 20,
   "teams": [
     {
       "team_full": "New York Liberty",
@@ -138,11 +138,33 @@
       "game_date": "06/04/2026",
       "game_time": "09:00(ET)",
       "matchup": "GSV@MIN",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Cechova, Emma",
+          "name": "Emma Cechova",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; Right Knee",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Collier, Napheesa",
+          "name": "Napheesa Collier",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; Left Ankle",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Juhasz, Dorka",
+          "name": "Dorka Juhasz",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Foot; Right Foot",
+          "reason_category": "injury"
+        }
+      ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-03_05_30PM.pdf",
-  "fetched_slot": "2026-06-03T17:30:00-04:00",
-  "polled_at_utc": "2026-06-03T21:30:48.011614+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-03_05_45PM.pdf",
+  "fetched_slot": "2026-06-03T17:45:00-04:00",
+  "polled_at_utc": "2026-06-03T21:45:45.892735+00:00"
 }
