@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/03/26 06:00 PM",
+  "report_ts": "06/03/26 06:15 PM",
   "page_count": 1,
-  "raw_line_count": 20,
+  "raw_line_count": 19,
   "teams": [
     {
       "team_full": "New York Liberty",
@@ -124,15 +124,6 @@
       ]
     },
     {
-      "team_full": "Golden State Valkyries",
-      "team_abbr": "GSV",
-      "game_date": "06/04/2026",
-      "game_time": "09:00(ET)",
-      "matchup": "GSV@MIN",
-      "submitted": false,
-      "players": []
-    },
-    {
       "team_full": "Minnesota Lynx",
       "team_abbr": "MIN",
       "game_date": "06/04/2026",
@@ -164,7 +155,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-03_06_00PM.pdf",
-  "fetched_slot": "2026-06-03T18:00:00-04:00",
-  "polled_at_utc": "2026-06-03T22:00:45.337669+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-03_06_15PM.pdf",
+  "fetched_slot": "2026-06-03T18:15:00-04:00",
+  "polled_at_utc": "2026-06-03T22:15:48.183659+00:00"
 }
