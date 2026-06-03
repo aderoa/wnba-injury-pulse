@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-06-03T11:15:50.420115+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-03_07_15AM.pdf",
-  "report_ts": "06/03/26 07:15 AM",
+  "polled_at_utc": "2026-06-03T11:30:49.906456+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-03_07_30AM.pdf",
+  "report_ts": "06/03/26 07:30 AM",
   "all_players": [
     {
       "name": "Aaliyah Edwards",
@@ -146,7 +146,7 @@
       "status": "Out",
       "reason": "Concussion Protocol",
       "reason_category": "procedural",
-      "last_updated": "2026-06-03T11:15:50.420115+00:00"
+      "last_updated": "2026-06-03T11:30:49.906456+00:00"
     },
     {
       "name": "Dorka Juhasz",
@@ -191,7 +191,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Foot; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-06-03T11:15:50.420115+00:00"
+      "last_updated": "2026-06-03T11:30:49.906456+00:00"
     },
     {
       "name": "Gabriela Jaquez",
@@ -299,7 +299,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; Rehabilitation",
       "reason_category": "injury",
-      "last_updated": "2026-06-03T11:15:50.420115+00:00"
+      "last_updated": "2026-06-03T11:30:49.906456+00:00"
     },
     {
       "name": "Miela Sowah",
@@ -335,7 +335,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; Arthroscopy",
       "reason_category": "injury",
-      "last_updated": "2026-06-03T11:15:50.420115+00:00"
+      "last_updated": "2026-06-03T11:30:49.906456+00:00"
     },
     {
       "name": "Sonia Citron",
@@ -353,7 +353,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-06-03T11:15:50.420115+00:00"
+      "last_updated": "2026-06-03T11:30:49.906456+00:00"
     },
     {
       "name": "Taylor Thierry",
@@ -362,7 +362,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-06-03T11:15:50.420115+00:00"
+      "last_updated": "2026-06-03T11:30:49.906456+00:00"
     },
     {
       "name": "Temi TorontoTempo Fagbenle",
@@ -380,7 +380,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Back; Soreness",
       "reason_category": "injury",
-      "last_updated": "2026-06-03T11:15:50.420115+00:00"
+      "last_updated": "2026-06-03T11:30:49.906456+00:00"
     },
     {
       "name": "Alysha Clark",
@@ -415,7 +415,7 @@
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
       "last_submitted_ts": "2026-06-03T03:45:46.925120+00:00",
-      "last_seen_pending_ts": "2026-06-03T11:15:50.420115+00:00",
+      "last_seen_pending_ts": "2026-06-03T11:30:49.906456+00:00",
       "matchups": [
         "CON@ATL"
       ],
@@ -564,7 +564,7 @@
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
       "last_submitted_ts": "2026-06-03T03:45:46.925120+00:00",
-      "last_seen_pending_ts": "2026-06-03T11:15:50.420115+00:00",
+      "last_seen_pending_ts": "2026-06-03T11:30:49.906456+00:00",
       "matchups": [
         "PDX@GSV",
         "TOR@NYL"
@@ -611,7 +611,7 @@
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
       "last_submitted_ts": "2026-05-31T03:45:59.404077+00:00",
-      "last_seen_pending_ts": "2026-06-03T11:15:50.420115+00:00",
+      "last_seen_pending_ts": "2026-06-03T11:30:49.906456+00:00",
       "matchups": [
         "IND@PDX"
       ],
@@ -707,7 +707,7 @@
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
       "last_submitted_ts": "2026-06-02T03:46:00.762143+00:00",
-      "last_seen_pending_ts": "2026-06-03T11:15:50.420115+00:00",
+      "last_seen_pending_ts": "2026-06-03T11:30:49.906456+00:00",
       "matchups": [
         "MIN@PHX"
       ],
@@ -752,7 +752,7 @@
     {
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
-      "last_submitted_ts": "2026-06-03T11:15:50.420115+00:00",
+      "last_submitted_ts": "2026-06-03T11:30:49.906456+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "TOR@NYL"
@@ -795,7 +795,7 @@
     {
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
-      "last_submitted_ts": "2026-06-03T11:15:50.420115+00:00",
+      "last_submitted_ts": "2026-06-03T11:30:49.906456+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "PHX@SEA"
@@ -813,7 +813,7 @@
     {
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
-      "last_submitted_ts": "2026-06-03T11:15:50.420115+00:00",
+      "last_submitted_ts": "2026-06-03T11:30:49.906456+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "PHX@SEA"
