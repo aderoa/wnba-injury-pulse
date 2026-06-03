@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/02/26 09:00 PM",
+  "report_ts": "06/02/26 09:15 PM",
   "page_count": 2,
-  "raw_line_count": 32,
+  "raw_line_count": 34,
   "teams": [
     {
       "team_full": "Chicago Sky",
@@ -181,11 +181,25 @@
       "submitted": true,
       "players": [
         {
+          "name_last_first": "Martin, Kate",
+          "name": "Kate Martin",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Plum, Kelsey",
           "name": "Kelsey Plum",
           "status": "Out",
           "reason": "Injury/Illness - Right Ankle; RAnkle",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Ziegler, Laura",
+          "name": "Laura Ziegler",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -310,7 +324,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-02_09_00PM.pdf",
-  "fetched_slot": "2026-06-02T21:00:00-04:00",
-  "polled_at_utc": "2026-06-03T01:00:45.240356+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-02_09_15PM.pdf",
+  "fetched_slot": "2026-06-02T21:15:00-04:00",
+  "polled_at_utc": "2026-06-03T01:15:45.478520+00:00"
 }
