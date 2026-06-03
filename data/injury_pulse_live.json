@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-06-03T20:45:52.223693+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-03_04_45PM.pdf",
-  "report_ts": "06/03/26 04:45 PM",
+  "polled_at_utc": "2026-06-03T21:00:50.847503+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-03_05_00PM.pdf",
+  "report_ts": "06/03/26 05:00 PM",
   "all_players": [
     {
       "name": "Aaliyah Edwards",
@@ -29,15 +29,6 @@
       "status": "Out",
       "reason": "Not With Team",
       "reason_category": "offcourt",
-      "last_updated": "2026-06-03T03:45:46.925120+00:00"
-    },
-    {
-      "name": "Amy Okonkwo",
-      "team_abbr": "ATL",
-      "team_full": "Atlanta Dream",
-      "status": "Out",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach",
       "last_updated": "2026-06-03T03:45:46.925120+00:00"
     },
     {
@@ -68,22 +59,13 @@
       "last_updated": "2026-06-02T03:46:00.762143+00:00"
     },
     {
-      "name": "Bree Hall",
-      "team_abbr": "IND",
-      "team_full": "Indiana Fever",
-      "status": "Out",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach",
-      "last_updated": "2026-05-31T03:45:59.404077+00:00"
-    },
-    {
       "name": "Brionna Jones",
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-06-03T03:45:46.925120+00:00"
+      "last_updated": "2026-06-03T21:00:50.847503+00:00"
     },
     {
       "name": "Chennedy Carter",
@@ -146,7 +128,7 @@
       "status": "Out",
       "reason": "Concussion Protocol",
       "reason_category": "procedural",
-      "last_updated": "2026-06-03T20:45:52.223693+00:00"
+      "last_updated": "2026-06-03T21:00:50.847503+00:00"
     },
     {
       "name": "Dorka Juhasz",
@@ -191,7 +173,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Foot; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-06-03T20:45:52.223693+00:00"
+      "last_updated": "2026-06-03T21:00:50.847503+00:00"
     },
     {
       "name": "Gabriela Jaquez",
@@ -237,15 +219,6 @@
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
       "last_updated": "2026-06-03T03:45:46.925120+00:00"
-    },
-    {
-      "name": "Justine Pissott",
-      "team_abbr": "IND",
-      "team_full": "Indiana Fever",
-      "status": "Out",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach",
-      "last_updated": "2026-05-31T03:45:59.404077+00:00"
     },
     {
       "name": "Kate Martin",
@@ -299,7 +272,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; Rehabilitation",
       "reason_category": "injury",
-      "last_updated": "2026-06-03T20:45:52.223693+00:00"
+      "last_updated": "2026-06-03T21:00:50.847503+00:00"
     },
     {
       "name": "Miela Sowah",
@@ -335,7 +308,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Back; Soreness",
       "reason_category": "injury",
-      "last_updated": "2026-06-03T20:45:52.223693+00:00"
+      "last_updated": "2026-06-03T21:00:50.847503+00:00"
     },
     {
       "name": "Sami Whitcomb",
@@ -344,7 +317,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; Arthroscopy",
       "reason_category": "injury",
-      "last_updated": "2026-06-03T20:45:52.223693+00:00"
+      "last_updated": "2026-06-03T21:00:50.847503+00:00"
     },
     {
       "name": "Sonia Citron",
@@ -362,7 +335,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-06-03T20:45:52.223693+00:00"
+      "last_updated": "2026-06-03T21:00:50.847503+00:00"
     },
     {
       "name": "Taylor Thierry",
@@ -371,7 +344,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-06-03T20:45:52.223693+00:00"
+      "last_updated": "2026-06-03T21:00:50.847503+00:00"
     },
     {
       "name": "Temi TorontoTempo Fagbenle",
@@ -383,6 +356,24 @@
       "last_updated": "2026-06-03T03:45:46.925120+00:00"
     },
     {
+      "name": "Caitlin Clark",
+      "team_abbr": "IND",
+      "team_full": "Indiana Fever",
+      "status": "Probable",
+      "reason": "Injury/Illness - Back; Back",
+      "reason_category": "injury",
+      "last_updated": "2026-06-03T21:00:50.847503+00:00"
+    },
+    {
+      "name": "Damiris Dantas",
+      "team_abbr": "IND",
+      "team_full": "Indiana Fever",
+      "status": "Probable",
+      "reason": "Personal Reasons",
+      "reason_category": "offcourt",
+      "last_updated": "2026-06-03T21:00:50.847503+00:00"
+    },
+    {
       "name": "Alysha Clark",
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
@@ -390,15 +381,6 @@
       "reason": "Injury/Illness - Leftarm; arm",
       "reason_category": "injury",
       "last_updated": "2026-06-02T03:46:00.762143+00:00"
-    },
-    {
-      "name": "Caitlin Clark",
-      "team_abbr": "IND",
-      "team_full": "Indiana Fever",
-      "status": "Available",
-      "reason": "-",
-      "reason_category": "other",
-      "last_updated": "2026-05-31T03:45:59.404077+00:00"
     },
     {
       "name": "Veronica Burton",
@@ -414,10 +396,10 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-06-03T03:45:46.925120+00:00",
-      "last_seen_pending_ts": "2026-06-03T20:45:52.223693+00:00",
+      "last_submitted_ts": "2026-06-03T21:00:50.847503+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "CON@ATL"
+        "ATL@IND"
       ],
       "players": [
         {
@@ -426,13 +408,6 @@
           "status": "Out",
           "reason": "Injury/Illness - Right Knee; N/A",
           "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Okonkwo, Amy",
-          "name": "Amy Okonkwo",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
         }
       ]
     },
@@ -564,7 +539,7 @@
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
       "last_submitted_ts": "2026-06-03T03:45:46.925120+00:00",
-      "last_seen_pending_ts": "2026-06-03T20:45:52.223693+00:00",
+      "last_seen_pending_ts": "2026-06-03T21:00:50.847503+00:00",
       "matchups": [
         "PDX@GSV",
         "TOR@NYL"
@@ -610,32 +585,25 @@
     {
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
-      "last_submitted_ts": "2026-05-31T03:45:59.404077+00:00",
-      "last_seen_pending_ts": "2026-06-03T20:45:52.223693+00:00",
+      "last_submitted_ts": "2026-06-03T21:00:50.847503+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "IND@PDX"
+        "ATL@IND"
       ],
       "players": [
         {
           "name_last_first": "Clark, Caitlin",
           "name": "Caitlin Clark",
-          "status": "Available",
-          "reason": "-",
-          "reason_category": "other"
+          "status": "Probable",
+          "reason": "Injury/Illness - Back; Back",
+          "reason_category": "injury"
         },
         {
-          "name_last_first": "Hall, Bree",
-          "name": "Bree Hall",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Pissott, Justine",
-          "name": "Justine Pissott",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
+          "name_last_first": "Dantas, Damiris",
+          "name": "Damiris Dantas",
+          "status": "Probable",
+          "reason": "Personal Reasons",
+          "reason_category": "offcourt"
         }
       ]
     },
@@ -707,7 +675,7 @@
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
       "last_submitted_ts": "2026-06-02T03:46:00.762143+00:00",
-      "last_seen_pending_ts": "2026-06-03T20:45:52.223693+00:00",
+      "last_seen_pending_ts": "2026-06-03T21:00:50.847503+00:00",
       "matchups": [
         "MIN@PHX"
       ],
@@ -752,7 +720,7 @@
     {
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
-      "last_submitted_ts": "2026-06-03T20:45:52.223693+00:00",
+      "last_submitted_ts": "2026-06-03T21:00:50.847503+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "TOR@NYL"
@@ -795,7 +763,7 @@
     {
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
-      "last_submitted_ts": "2026-06-03T20:45:52.223693+00:00",
+      "last_submitted_ts": "2026-06-03T21:00:50.847503+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "PHX@SEA"
@@ -813,7 +781,7 @@
     {
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
-      "last_submitted_ts": "2026-06-03T20:45:52.223693+00:00",
+      "last_submitted_ts": "2026-06-03T21:00:50.847503+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "PHX@SEA"
@@ -883,6 +851,49 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-06-03T21:00:50.847503+00:00",
+      "type": "status_change",
+      "team_abbr": "IND",
+      "player": "Caitlin Clark",
+      "from_status": "Available",
+      "to_status": "Probable",
+      "reason": "Injury/Illness - Back; Back",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-06-03T21:00:50.847503+00:00",
+      "type": "cleared",
+      "team_abbr": "IND",
+      "player": "Justine Pissott",
+      "previous_status": "Out",
+      "previous_reason": "Coach's Decision"
+    },
+    {
+      "ts": "2026-06-03T21:00:50.847503+00:00",
+      "type": "cleared",
+      "team_abbr": "IND",
+      "player": "Bree Hall",
+      "previous_status": "Out",
+      "previous_reason": "Coach's Decision"
+    },
+    {
+      "ts": "2026-06-03T21:00:50.847503+00:00",
+      "type": "added",
+      "team_abbr": "IND",
+      "player": "Damiris Dantas",
+      "status": "Probable",
+      "reason": "Personal Reasons",
+      "reason_category": "offcourt"
+    },
+    {
+      "ts": "2026-06-03T21:00:50.847503+00:00",
+      "type": "cleared",
+      "team_abbr": "ATL",
+      "player": "Amy Okonkwo",
+      "previous_status": "Out",
+      "previous_reason": "Coach's Decision"
+    },
     {
       "ts": "2026-06-03T15:45:49.403097+00:00",
       "type": "status_change",
@@ -3090,52 +3101,6 @@
       "player": "Satou Sabally",
       "previous_status": "Available",
       "previous_reason": "Returnto Competition Reconditioning"
-    },
-    {
-      "ts": "2026-05-23T19:46:01.159505+00:00",
-      "type": "cleared",
-      "team_abbr": "NYL",
-      "player": "Sabrina Ionescu",
-      "previous_status": "Out",
-      "previous_reason": "Injury/Illness - Left Foot; Foot"
-    },
-    {
-      "ts": "2026-05-23T16:30:18.414809+00:00",
-      "type": "status_change",
-      "team_abbr": "PDX",
-      "player": "Nyara Sabally",
-      "from_status": "Questionable",
-      "to_status": "Available",
-      "reason": "Injury/Illness - Neck; Injury",
-      "reason_category": "injury"
-    },
-    {
-      "ts": "2026-05-23T16:00:18.615357+00:00",
-      "type": "status_change",
-      "team_abbr": "CHI",
-      "player": "Azura Stevens",
-      "from_status": "Questionable",
-      "to_status": "Available",
-      "reason": "Injury/Illness - Left Knee; Left Knee",
-      "reason_category": "injury"
-    },
-    {
-      "ts": "2026-05-23T16:00:18.615357+00:00",
-      "type": "added",
-      "team_abbr": "CHI",
-      "player": "Maddy Westbeld",
-      "status": "Out",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach"
-    },
-    {
-      "ts": "2026-05-23T16:00:18.615357+00:00",
-      "type": "added",
-      "team_abbr": "CHI",
-      "player": "Aicha Coulibaly",
-      "status": "Out",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach"
     }
   ]
 }

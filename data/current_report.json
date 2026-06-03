@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/03/26 04:45 PM",
+  "report_ts": "06/03/26 05:00 PM",
   "page_count": 1,
-  "raw_line_count": 17,
+  "raw_line_count": 18,
   "teams": [
     {
       "team_full": "New York Liberty",
@@ -88,8 +88,16 @@
       "game_date": "06/04/2026",
       "game_time": "07:00(ET)",
       "matchup": "ATL@IND",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Jones, Brionna",
+          "name": "Brionna Jones",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; N/A",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Indiana Fever",
@@ -97,8 +105,23 @@
       "game_date": "06/04/2026",
       "game_time": "07:00(ET)",
       "matchup": "ATL@IND",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Clark, Caitlin",
+          "name": "Caitlin Clark",
+          "status": "Probable",
+          "reason": "Injury/Illness - Back; Back",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Dantas, Damiris",
+          "name": "Damiris Dantas",
+          "status": "Probable",
+          "reason": "Personal Reasons",
+          "reason_category": "offcourt"
+        }
+      ]
     },
     {
       "team_full": "Golden State Valkyries",
@@ -119,7 +142,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-03_04_45PM.pdf",
-  "fetched_slot": "2026-06-03T16:45:00-04:00",
-  "polled_at_utc": "2026-06-03T20:45:52.223693+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-03_05_00PM.pdf",
+  "fetched_slot": "2026-06-03T17:00:00-04:00",
+  "polled_at_utc": "2026-06-03T21:00:50.847503+00:00"
 }
