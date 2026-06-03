@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/03/26 06:45 PM",
-  "page_count": 1,
-  "raw_line_count": 19,
+  "report_ts": "06/03/26 07:00 PM",
+  "page_count": 2,
+  "raw_line_count": 22,
   "teams": [
     {
       "team_full": "New York Liberty",
@@ -24,6 +24,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Back; Soreness",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Maley, Anneli",
+          "name": "Anneli Maley",
+          "status": "Out",
+          "reason": "Coach's Decision - Developmental",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -39,7 +46,7 @@
           "name_last_first": "Whitcomb, Sami",
           "name": "Sami Whitcomb",
           "status": "Out",
-          "reason": "Injury/Illness - Left Knee; Arthroscopy",
+          "reason": "Player Injury/Illness - Left Knee; Arthroscopy",
           "reason_category": "injury"
         }
       ]
@@ -155,7 +162,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-03_06_45PM.pdf",
-  "fetched_slot": "2026-06-03T18:45:00-04:00",
-  "polled_at_utc": "2026-06-03T22:53:47.796353+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-03_07_00PM.pdf",
+  "fetched_slot": "2026-06-03T19:00:00-04:00",
+  "polled_at_utc": "2026-06-03T23:00:47.244713+00:00"
 }
