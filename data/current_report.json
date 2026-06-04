@@ -1,108 +1,8 @@
 {
-  "report_ts": "06/03/26 11:45 PM",
-  "page_count": 2,
-  "raw_line_count": 28,
+  "report_ts": "06/04/26 12:00 AM",
+  "page_count": 1,
+  "raw_line_count": 12,
   "teams": [
-    {
-      "team_full": "New York Liberty",
-      "team_abbr": "NYL",
-      "game_date": "06/03/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "TOR@NYL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Fauthoux, Marine",
-          "name": "Marine Fauthoux",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Knee; Rehabilitation",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Ionescu, Sabrina",
-          "name": "Sabrina Ionescu",
-          "status": "Out",
-          "reason": "Injury/Illness - Back; Soreness",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Maley, Anneli",
-          "name": "Anneli Maley",
-          "status": "Out",
-          "reason": "Coach's Decision - Developmental",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Phoenix Mercury",
-      "team_abbr": "PHX",
-      "game_date": "06/03/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "PHX@SEA",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Ciezki, Shay",
-          "name": "Shay Ciezki",
-          "status": "Out",
-          "reason": "Player Coach's Decision - Developmental",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Suarez, Marta",
-          "name": "Marta Suarez",
-          "status": "Out",
-          "reason": "Player Coach's Decision - Developmental",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Whitcomb, Sami",
-          "name": "Sami Whitcomb",
-          "status": "Out",
-          "reason": "Player Injury/Illness - Left Knee; Arthroscopy",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Seattle Storm",
-      "team_abbr": "SEA",
-      "game_date": "06/03/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "PHX@SEA",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Magbegor, Ezi",
-          "name": "Ezi Magbegor",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Foot; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Mair, Taina",
-          "name": "Taina Mair",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Malonga, Dominique",
-          "name": "Dominique Malonga",
-          "status": "Out",
-          "reason": "Concussion Protocol",
-          "reason_category": "procedural"
-        },
-        {
-          "name_last_first": "Thierry, Taylor",
-          "name": "Taylor Thierry",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
     {
       "team_full": "Atlanta Dream",
       "team_abbr": "ATL",
@@ -174,9 +74,63 @@
           "reason_category": "injury"
         }
       ]
+    },
+    {
+      "team_full": "Connecticut Sun",
+      "team_abbr": "CON",
+      "game_date": "06/05/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "CON@CHI",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Chicago Sky",
+      "team_abbr": "CHI",
+      "game_date": "06/05/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "CON@CHI",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Dallas Wings",
+      "team_abbr": "DAL",
+      "game_date": "06/05/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "DAL@LAS",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Los Angeles Sparks",
+      "team_abbr": "LAS",
+      "game_date": "06/05/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "DAL@LAS",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Phoenix Mercury",
+      "team_abbr": "PHX",
+      "game_date": "06/05/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "PHX@PDX",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Portland Fire",
+      "team_abbr": "PDX",
+      "game_date": "06/05/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "PHX@PDX",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-03_11_45PM.pdf",
-  "fetched_slot": "2026-06-03T23:45:00-04:00",
-  "polled_at_utc": "2026-06-04T03:45:36.820149+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-04_12_00AM.pdf",
+  "fetched_slot": "2026-06-04T00:00:00-04:00",
+  "polled_at_utc": "2026-06-04T04:00:38.726415+00:00"
 }
