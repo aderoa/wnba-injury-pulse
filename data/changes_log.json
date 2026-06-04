@@ -5052,5 +5052,23 @@
     "from_reason": "Injury/Illness - Left Knee; Arthroscopy",
     "to_reason": "Player Injury/Illness - Left Knee; Arthroscopy",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-04T01:00:46.595428+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Shay Ciezki",
+    "status": "Out",
+    "reason": "Player Coach's Decision - Developmental",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-04T01:00:46.595428+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Marta Suarez",
+    "status": "Out",
+    "reason": "Player Coach's Decision - Developmental",
+    "reason_category": "rest_coach"
   }
 ]
