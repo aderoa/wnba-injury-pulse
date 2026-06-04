@@ -5070,5 +5070,31 @@
     "status": "Out",
     "reason": "Player Coach's Decision - Developmental",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-04T21:15:41.084022+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Aicha Coulibaly",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-04T21:15:41.084022+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Maddy Westbeld",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-04T21:15:41.084022+00:00",
+    "type": "status_change",
+    "team_abbr": "CHI",
+    "player": "Gabriela Jaquez",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Knee; Left Knee",
+    "reason_category": "injury"
   }
 ]

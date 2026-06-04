@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/04/26 05:00 PM",
+  "report_ts": "06/04/26 05:15 PM",
   "page_count": 1,
-  "raw_line_count": 12,
+  "raw_line_count": 15,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -90,8 +90,37 @@
       "game_date": "06/05/2026",
       "game_time": "07:30(ET)",
       "matchup": "CON@CHI",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Carrington, DiJonai",
+          "name": "DiJonai Carrington",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Foot; Left Foot",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Jackson, Rickea",
+          "name": "Rickea Jackson",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Left Knee",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Jaquez, Gabriela",
+          "name": "Gabriela Jaquez",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Knee; Left Knee",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Vandersloot, Courtney",
+          "name": "Courtney Vandersloot",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; Right Knee",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Dallas Wings",
@@ -130,7 +159,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-04_05_00PM.pdf",
-  "fetched_slot": "2026-06-04T17:00:00-04:00",
-  "polled_at_utc": "2026-06-04T21:03:53.042176+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-04_05_15PM.pdf",
+  "fetched_slot": "2026-06-04T17:15:00-04:00",
+  "polled_at_utc": "2026-06-04T21:15:41.084022+00:00"
 }
