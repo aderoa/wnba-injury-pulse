@@ -5096,5 +5096,39 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Left Knee; Left Knee",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-04T21:45:43.209428+00:00",
+    "type": "added",
+    "team_abbr": "ATL",
+    "player": "Amy Okonkwo",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-04T21:45:43.209428+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Kennedy Burke",
+    "status": "Questionable",
+    "reason": "Injury/Illness - General; Illness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-04T21:45:43.209428+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Ashlon Jackson",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-04T21:45:43.209428+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Hailey VanLith",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]

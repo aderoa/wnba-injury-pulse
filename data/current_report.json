@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/04/26 05:30 PM",
+  "report_ts": "06/04/26 05:45 PM",
   "page_count": 1,
-  "raw_line_count": 15,
+  "raw_line_count": 17,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -17,6 +17,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Right Knee; N/A",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Okonkwo, Amy",
+          "name": "Amy Okonkwo",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -81,8 +88,23 @@
       "game_date": "06/05/2026",
       "game_time": "07:30(ET)",
       "matchup": "CON@CHI",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Burke, Kennedy",
+          "name": "Kennedy Burke",
+          "status": "Questionable",
+          "reason": "Injury/Illness - General; Illness",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Edwards, Aaliyah",
+          "name": "Aaliyah Edwards",
+          "status": "Out",
+          "reason": "Concussion Protocol",
+          "reason_category": "procedural"
+        }
+      ]
     },
     {
       "team_full": "Chicago Sky",
@@ -159,7 +181,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-04_05_30PM.pdf",
-  "fetched_slot": "2026-06-04T17:30:00-04:00",
-  "polled_at_utc": "2026-06-04T21:30:37.510298+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-04_05_45PM.pdf",
+  "fetched_slot": "2026-06-04T17:45:00-04:00",
+  "polled_at_utc": "2026-06-04T21:45:43.209428+00:00"
 }
