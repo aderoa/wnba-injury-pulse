@@ -5323,5 +5323,15 @@
     "to_status": "Out",
     "reason": "Injury/Illness - General; Illness",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-05T18:45:25.976712+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Li Yueru",
+    "from_status": "Questionable",
+    "to_status": "Doubtful",
+    "reason": "Injury/Illness - Leftankle; ankle",
+    "reason_category": "injury"
   }
 ]
