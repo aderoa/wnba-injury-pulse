@@ -5313,5 +5313,15 @@
     "player": "Isabelle Harrison",
     "previous_status": "Out",
     "previous_reason": "Injury/Illness - Right Hand; Injury"
+  },
+  {
+    "ts": "2026-06-05T18:00:26.574809+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Kennedy Burke",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - General; Illness",
+    "reason_category": "injury"
   }
 ]
