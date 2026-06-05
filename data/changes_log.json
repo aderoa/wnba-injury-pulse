@@ -5333,5 +5333,31 @@
     "to_status": "Doubtful",
     "reason": "Injury/Illness - Leftankle; ankle",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-05T19:30:24.085246+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Marine Fauthoux",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Knee; Rehabilitation"
+  },
+  {
+    "ts": "2026-06-05T19:30:24.085246+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Anneli Maley",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental"
+  },
+  {
+    "ts": "2026-06-05T19:30:24.085246+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Sabrina Ionescu",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Back; Soreness",
+    "reason_category": "injury"
   }
 ]

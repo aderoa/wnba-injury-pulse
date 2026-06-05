@@ -4,6 +4,12 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-06-05 19:30 UTC
+
+- **Marine Fauthoux** (NYL) cleared (was Out)
+- **Anneli Maley** (NYL) cleared (was Out)
+- **Sabrina Ionescu** (NYL): **Out** → **Questionable** — Injury/Illness - Back; Soreness
+
 ## 2026-06-05 18:45 UTC
 
 - **Li Yueru** (DAL): **Questionable** → **Doubtful** — Injury/Illness - Leftankle; ankle
