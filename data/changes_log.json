@@ -5359,5 +5359,48 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Back; Soreness",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-05T20:45:24.022759+00:00",
+    "type": "added",
+    "team_abbr": "WAS",
+    "player": "Lauren Betts",
+    "status": "Questionable",
+    "reason": "Injury/Illness - n/a; Illness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-05T20:45:24.022759+00:00",
+    "type": "cleared",
+    "team_abbr": "WAS",
+    "player": "Darianna Littlepage-Buggs",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-05T20:45:24.022759+00:00",
+    "type": "cleared",
+    "team_abbr": "WAS",
+    "player": "Alex Wilson",
+    "previous_status": "Out",
+    "previous_reason": "Not With Team"
+  },
+  {
+    "ts": "2026-06-05T20:45:24.022759+00:00",
+    "type": "status_change",
+    "team_abbr": "WAS",
+    "player": "Sonia Citron",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Foot; Sprain",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-05T20:45:24.022759+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Amy Okonkwo",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]
