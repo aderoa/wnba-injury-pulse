@@ -5289,5 +5289,29 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-05T00:30:41.001664+00:00",
+    "type": "cleared",
+    "team_abbr": "GSV",
+    "player": "Veronica Burton",
+    "previous_status": "Available",
+    "previous_reason": "-"
+  },
+  {
+    "ts": "2026-06-05T00:30:41.001664+00:00",
+    "type": "cleared",
+    "team_abbr": "GSV",
+    "player": "Temi TorontoTempo Fagbenle",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Right Shoulder; Injury"
+  },
+  {
+    "ts": "2026-06-05T00:30:41.001664+00:00",
+    "type": "cleared",
+    "team_abbr": "GSV",
+    "player": "Isabelle Harrison",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Right Hand; Injury"
   }
 ]
