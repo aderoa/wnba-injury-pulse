@@ -4,6 +4,14 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-06-05 22:00 UTC
+
+- **Lexie Brown** (SEA) newly listed as **Out** — Not With Team
+- **Dominique Malonga** (SEA) cleared (was Out)
+- **Eliska Hamzova** (MIN) cleared (was Out)
+- **Liatu King** (MIN) cleared (was Out)
+- **Dorka Juhasz** (MIN, Out): reason updated (Injury/Illness - Right Foot; Right Foot → Injury/Illness - Right Foot; Rightfoot)
+
 ## 2026-06-05 21:15 UTC
 
 - **Damiris Dantas** (IND) cleared (was Available)
