@@ -4,6 +4,13 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-06-05 21:15 UTC
+
+- **Damiris Dantas** (IND) cleared (was Available)
+- **Bree Hall** (IND) cleared (was Out)
+- **Justine Pissott** (IND) cleared (was Out)
+- **Caitlin Clark** (IND): **Available** → **Probable** — Injury/Illness - Back; Back
+
 ## 2026-06-05 20:45 UTC
 
 - **Lauren Betts** (WAS) newly listed as **Questionable** — Injury/Illness - n/a; Illness
