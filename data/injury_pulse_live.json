@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-06-04T23:45:37.638882+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-04_07_45PM.pdf",
-  "report_ts": "06/04/26 07:45 PM",
+  "polled_at_utc": "2026-06-05T00:00:37.829136+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-04_08_00PM.pdf",
+  "report_ts": "06/04/26 08:00 PM",
   "all_players": [
     {
       "name": "Aaliyah Edwards",
@@ -11,7 +11,7 @@
       "status": "Out",
       "reason": "Concussion Protocol",
       "reason_category": "procedural",
-      "last_updated": "2026-06-04T23:45:37.638882+00:00"
+      "last_updated": "2026-06-05T00:00:37.829136+00:00"
     },
     {
       "name": "Alex Wilson",
@@ -29,7 +29,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-06-04T23:45:37.638882+00:00"
+      "last_updated": "2026-06-05T00:00:37.829136+00:00"
     },
     {
       "name": "Anneli Maley",
@@ -56,7 +56,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Rightwrist; wrist",
       "reason_category": "injury",
-      "last_updated": "2026-06-02T03:46:00.762143+00:00"
+      "last_updated": "2026-06-05T00:00:37.829136+00:00"
     },
     {
       "name": "Bree Hall",
@@ -65,7 +65,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-06-04T23:45:37.638882+00:00"
+      "last_updated": "2026-06-05T00:00:37.829136+00:00"
     },
     {
       "name": "Brionna Jones",
@@ -74,7 +74,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-06-04T23:45:37.638882+00:00"
+      "last_updated": "2026-06-05T00:00:37.829136+00:00"
     },
     {
       "name": "Chennedy Carter",
@@ -86,22 +86,13 @@
       "last_updated": "2026-06-03T03:45:46.925120+00:00"
     },
     {
-      "name": "Costanza Verona",
-      "team_abbr": "DAL",
-      "team_full": "Dallas Wings",
-      "status": "Out",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach",
-      "last_updated": "2026-06-02T03:46:00.762143+00:00"
-    },
-    {
       "name": "Courtney Vandersloot",
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; Right Knee",
       "reason_category": "injury",
-      "last_updated": "2026-06-04T23:45:37.638882+00:00"
+      "last_updated": "2026-06-05T00:00:37.829136+00:00"
     },
     {
       "name": "Dana Evans",
@@ -128,7 +119,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Foot; Left Foot",
       "reason_category": "injury",
-      "last_updated": "2026-06-04T23:45:37.638882+00:00"
+      "last_updated": "2026-06-05T00:00:37.829136+00:00"
     },
     {
       "name": "Dominique Malonga",
@@ -146,16 +137,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Foot; Right Foot",
       "reason_category": "injury",
-      "last_updated": "2026-06-04T23:45:37.638882+00:00"
-    },
-    {
-      "name": "Dulcy FankamMendjiadeu",
-      "team_abbr": "DAL",
-      "team_full": "Dallas Wings",
-      "status": "Out",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach",
-      "last_updated": "2026-06-02T03:46:00.762143+00:00"
+      "last_updated": "2026-06-05T00:00:37.829136+00:00"
     },
     {
       "name": "Emma Cechova",
@@ -164,7 +146,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; Right Knee",
       "reason_category": "injury",
-      "last_updated": "2026-06-04T23:45:37.638882+00:00"
+      "last_updated": "2026-06-05T00:00:37.829136+00:00"
     },
     {
       "name": "Ezi Magbegor",
@@ -209,34 +191,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-06-04T23:45:37.638882+00:00"
-    },
-    {
-      "name": "Kate Martin",
-      "team_abbr": "LAS",
-      "team_full": "Los Angeles Sparks",
-      "status": "Out",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach",
-      "last_updated": "2026-06-03T03:45:46.925120+00:00"
-    },
-    {
-      "name": "Kelsey Plum",
-      "team_abbr": "LAS",
-      "team_full": "Los Angeles Sparks",
-      "status": "Out",
-      "reason": "Injury/Illness - Right Ankle; RAnkle",
-      "reason_category": "injury",
-      "last_updated": "2026-06-03T03:45:46.925120+00:00"
-    },
-    {
-      "name": "Laura Ziegler",
-      "team_abbr": "LAS",
-      "team_full": "Los Angeles Sparks",
-      "status": "Out",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach",
-      "last_updated": "2026-06-03T03:45:46.925120+00:00"
+      "last_updated": "2026-06-05T00:00:37.829136+00:00"
     },
     {
       "name": "Marine Fauthoux",
@@ -245,15 +200,6 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; Rehabilitation",
       "reason_category": "injury",
-      "last_updated": "2026-06-04T03:45:36.820149+00:00"
-    },
-    {
-      "name": "Marta Suarez",
-      "team_abbr": "PHX",
-      "team_full": "Phoenix Mercury",
-      "status": "Out",
-      "reason": "Player Coach's Decision - Developmental",
-      "reason_category": "rest_coach",
       "last_updated": "2026-06-04T03:45:36.820149+00:00"
     },
     {
@@ -272,7 +218,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Ankle; Left Ankle",
       "reason_category": "injury",
-      "last_updated": "2026-06-04T23:45:37.638882+00:00"
+      "last_updated": "2026-06-05T00:00:37.829136+00:00"
     },
     {
       "name": "Rickea Jackson",
@@ -281,7 +227,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; Left Knee",
       "reason_category": "injury",
-      "last_updated": "2026-06-04T23:45:37.638882+00:00"
+      "last_updated": "2026-06-05T00:00:37.829136+00:00"
     },
     {
       "name": "Sabrina Ionescu",
@@ -297,18 +243,9 @@
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
       "status": "Out",
-      "reason": "Player Injury/Illness - Left Knee; Arthroscopy",
+      "reason": "Injury/Illness - Left Knee; Arthroscopy",
       "reason_category": "injury",
-      "last_updated": "2026-06-04T03:45:36.820149+00:00"
-    },
-    {
-      "name": "Shay Ciezki",
-      "team_abbr": "PHX",
-      "team_full": "Phoenix Mercury",
-      "status": "Out",
-      "reason": "Player Coach's Decision - Developmental",
-      "reason_category": "rest_coach",
-      "last_updated": "2026-06-04T03:45:36.820149+00:00"
+      "last_updated": "2026-06-05T00:00:37.829136+00:00"
     },
     {
       "name": "Sonia Citron",
@@ -347,13 +284,31 @@
       "last_updated": "2026-06-03T03:45:46.925120+00:00"
     },
     {
+      "name": "Kahleah Copper",
+      "team_abbr": "PHX",
+      "team_full": "Phoenix Mercury",
+      "status": "Doubtful",
+      "reason": "Injury/Illness - Left Hip;-",
+      "reason_category": "injury",
+      "last_updated": "2026-06-05T00:00:37.829136+00:00"
+    },
+    {
+      "name": "Alyssa Thomas",
+      "team_abbr": "PHX",
+      "team_full": "Phoenix Mercury",
+      "status": "Questionable",
+      "reason": "Injury/Illness - Left Calf;-",
+      "reason_category": "injury",
+      "last_updated": "2026-06-05T00:00:37.829136+00:00"
+    },
+    {
       "name": "Gabriela Jaquez",
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
       "status": "Questionable",
       "reason": "Injury/Illness - Left Knee; Left Knee",
       "reason_category": "injury",
-      "last_updated": "2026-06-04T23:45:37.638882+00:00"
+      "last_updated": "2026-06-05T00:00:37.829136+00:00"
     },
     {
       "name": "Kennedy Burke",
@@ -362,16 +317,25 @@
       "status": "Questionable",
       "reason": "Injury/Illness - General; Illness",
       "reason_category": "injury",
-      "last_updated": "2026-06-04T23:45:37.638882+00:00"
+      "last_updated": "2026-06-05T00:00:37.829136+00:00"
     },
     {
-      "name": "Alysha Clark",
+      "name": "Li Yueru",
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
-      "status": "Available",
-      "reason": "Injury/Illness - Leftarm; arm",
+      "status": "Questionable",
+      "reason": "Injury/Illness - Leftankle; ankle",
       "reason_category": "injury",
-      "last_updated": "2026-06-02T03:46:00.762143+00:00"
+      "last_updated": "2026-06-05T00:00:37.829136+00:00"
+    },
+    {
+      "name": "Kelsey Plum",
+      "team_abbr": "LAS",
+      "team_full": "Los Angeles Sparks",
+      "status": "Probable",
+      "reason": "Injury/Illness - Right Ankle; RAnkle",
+      "reason_category": "injury",
+      "last_updated": "2026-06-05T00:00:37.829136+00:00"
     },
     {
       "name": "Caitlin Clark",
@@ -380,7 +344,7 @@
       "status": "Available",
       "reason": "-",
       "reason_category": "other",
-      "last_updated": "2026-06-04T23:45:37.638882+00:00"
+      "last_updated": "2026-06-05T00:00:37.829136+00:00"
     },
     {
       "name": "Damiris Dantas",
@@ -389,7 +353,7 @@
       "status": "Available",
       "reason": "-",
       "reason_category": "other",
-      "last_updated": "2026-06-04T23:45:37.638882+00:00"
+      "last_updated": "2026-06-05T00:00:37.829136+00:00"
     },
     {
       "name": "Veronica Burton",
@@ -405,7 +369,7 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-06-04T23:45:37.638882+00:00",
+      "last_submitted_ts": "2026-06-05T00:00:37.829136+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "ATL@IND"
@@ -430,7 +394,7 @@
     {
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
-      "last_submitted_ts": "2026-06-04T23:45:37.638882+00:00",
+      "last_submitted_ts": "2026-06-05T00:00:37.829136+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "CON@CHI"
@@ -469,7 +433,7 @@
     {
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
-      "last_submitted_ts": "2026-06-04T23:45:37.638882+00:00",
+      "last_submitted_ts": "2026-06-05T00:00:37.829136+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "CON@CHI"
@@ -494,26 +458,12 @@
     {
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
-      "last_submitted_ts": "2026-06-02T03:46:00.762143+00:00",
-      "last_seen_pending_ts": "2026-06-04T23:45:37.638882+00:00",
+      "last_submitted_ts": "2026-06-05T00:00:37.829136+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "SEA@DAL"
+        "DAL@LAS"
       ],
       "players": [
-        {
-          "name_last_first": "Clark, Alysha",
-          "name": "Alysha Clark",
-          "status": "Available",
-          "reason": "Injury/Illness - Leftarm; arm",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "FankamMendjiadeu, Dulcy",
-          "name": "Dulcy FankamMendjiadeu",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
         {
           "name_last_first": "Kuier, Awak",
           "name": "Awak Kuier",
@@ -522,11 +472,11 @@
           "reason_category": "injury"
         },
         {
-          "name_last_first": "Verona, Costanza",
-          "name": "Costanza Verona",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
+          "name_last_first": "Yueru, Li",
+          "name": "Li Yueru",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Leftankle; ankle",
+          "reason_category": "injury"
         }
       ]
     },
@@ -580,7 +530,7 @@
     {
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
-      "last_submitted_ts": "2026-06-04T23:45:37.638882+00:00",
+      "last_submitted_ts": "2026-06-05T00:00:37.829136+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "ATL@IND"
@@ -619,32 +569,18 @@
     {
       "team_abbr": "LAS",
       "team_full": "Los Angeles Sparks",
-      "last_submitted_ts": "2026-06-03T03:45:46.925120+00:00",
-      "last_seen_pending_ts": "2026-06-04T23:45:37.638882+00:00",
+      "last_submitted_ts": "2026-06-05T00:00:37.829136+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "LVA@LAS"
+        "DAL@LAS"
       ],
       "players": [
         {
-          "name_last_first": "Martin, Kate",
-          "name": "Kate Martin",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
           "name_last_first": "Plum, Kelsey",
           "name": "Kelsey Plum",
-          "status": "Out",
+          "status": "Probable",
           "reason": "Injury/Illness - Right Ankle; RAnkle",
           "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Ziegler, Laura",
-          "name": "Laura Ziegler",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
         }
       ]
     },
@@ -683,7 +619,7 @@
     {
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
-      "last_submitted_ts": "2026-06-04T23:45:37.638882+00:00",
+      "last_submitted_ts": "2026-06-05T00:00:37.829136+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "GSV@MIN"
@@ -765,31 +701,31 @@
     {
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
-      "last_submitted_ts": "2026-06-04T03:45:36.820149+00:00",
-      "last_seen_pending_ts": "2026-06-04T23:45:37.638882+00:00",
+      "last_submitted_ts": "2026-06-05T00:00:37.829136+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "PHX@SEA"
+        "PHX@PDX"
       ],
       "players": [
         {
-          "name_last_first": "Ciezki, Shay",
-          "name": "Shay Ciezki",
-          "status": "Out",
-          "reason": "Player Coach's Decision - Developmental",
-          "reason_category": "rest_coach"
+          "name_last_first": "Copper, Kahleah",
+          "name": "Kahleah Copper",
+          "status": "Doubtful",
+          "reason": "Injury/Illness - Left Hip;-",
+          "reason_category": "injury"
         },
         {
-          "name_last_first": "Suarez, Marta",
-          "name": "Marta Suarez",
-          "status": "Out",
-          "reason": "Player Coach's Decision - Developmental",
-          "reason_category": "rest_coach"
+          "name_last_first": "Thomas, Alyssa",
+          "name": "Alyssa Thomas",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Calf;-",
+          "reason_category": "injury"
         },
         {
           "name_last_first": "Whitcomb, Sami",
           "name": "Sami Whitcomb",
           "status": "Out",
-          "reason": "Player Injury/Illness - Left Knee; Arthroscopy",
+          "reason": "Injury/Illness - Left Knee; Arthroscopy",
           "reason_category": "injury"
         }
       ]
@@ -867,6 +803,109 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-06-05T00:00:37.829136+00:00",
+      "type": "reason_change",
+      "team_abbr": "PHX",
+      "player": "Sami Whitcomb",
+      "status": "Out",
+      "from_reason": "Player Injury/Illness - Left Knee; Arthroscopy",
+      "to_reason": "Injury/Illness - Left Knee; Arthroscopy",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-06-05T00:00:37.829136+00:00",
+      "type": "cleared",
+      "team_abbr": "PHX",
+      "player": "Marta Suarez",
+      "previous_status": "Out",
+      "previous_reason": "Player Coach's Decision - Developmental"
+    },
+    {
+      "ts": "2026-06-05T00:00:37.829136+00:00",
+      "type": "cleared",
+      "team_abbr": "PHX",
+      "player": "Shay Ciezki",
+      "previous_status": "Out",
+      "previous_reason": "Player Coach's Decision - Developmental"
+    },
+    {
+      "ts": "2026-06-05T00:00:37.829136+00:00",
+      "type": "added",
+      "team_abbr": "PHX",
+      "player": "Alyssa Thomas",
+      "status": "Questionable",
+      "reason": "Injury/Illness - Left Calf;-",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-06-05T00:00:37.829136+00:00",
+      "type": "added",
+      "team_abbr": "PHX",
+      "player": "Kahleah Copper",
+      "status": "Doubtful",
+      "reason": "Injury/Illness - Left Hip;-",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-06-05T00:00:37.829136+00:00",
+      "type": "status_change",
+      "team_abbr": "LAS",
+      "player": "Kelsey Plum",
+      "from_status": "Out",
+      "to_status": "Probable",
+      "reason": "Injury/Illness - Right Ankle; RAnkle",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-06-05T00:00:37.829136+00:00",
+      "type": "cleared",
+      "team_abbr": "LAS",
+      "player": "Laura Ziegler",
+      "previous_status": "Out",
+      "previous_reason": "Coach's Decision"
+    },
+    {
+      "ts": "2026-06-05T00:00:37.829136+00:00",
+      "type": "cleared",
+      "team_abbr": "LAS",
+      "player": "Kate Martin",
+      "previous_status": "Out",
+      "previous_reason": "Coach's Decision"
+    },
+    {
+      "ts": "2026-06-05T00:00:37.829136+00:00",
+      "type": "cleared",
+      "team_abbr": "DAL",
+      "player": "Costanza Verona",
+      "previous_status": "Out",
+      "previous_reason": "Coach's Decision"
+    },
+    {
+      "ts": "2026-06-05T00:00:37.829136+00:00",
+      "type": "cleared",
+      "team_abbr": "DAL",
+      "player": "Dulcy FankamMendjiadeu",
+      "previous_status": "Out",
+      "previous_reason": "Coach's Decision"
+    },
+    {
+      "ts": "2026-06-05T00:00:37.829136+00:00",
+      "type": "cleared",
+      "team_abbr": "DAL",
+      "player": "Alysha Clark",
+      "previous_status": "Available",
+      "previous_reason": "Injury/Illness - Leftarm; arm"
+    },
+    {
+      "ts": "2026-06-05T00:00:37.829136+00:00",
+      "type": "added",
+      "team_abbr": "DAL",
+      "player": "Li Yueru",
+      "status": "Questionable",
+      "reason": "Injury/Illness - Leftankle; ankle",
+      "reason_category": "injury"
+    },
     {
       "ts": "2026-06-04T22:00:37.547786+00:00",
       "type": "status_change",
@@ -3004,118 +3043,6 @@
       "to_status": "Questionable",
       "reason": "Concussion Protocol",
       "reason_category": "procedural"
-    },
-    {
-      "ts": "2026-05-25T00:15:52.661464+00:00",
-      "type": "status_change",
-      "team_abbr": "CON",
-      "player": "Olivia Nelson-Ododa",
-      "from_status": "Out",
-      "to_status": "Probable",
-      "reason": "Injury/Illness - Right Ankle; Sprain",
-      "reason_category": "injury"
-    },
-    {
-      "ts": "2026-05-25T00:15:52.661464+00:00",
-      "type": "status_change",
-      "team_abbr": "CON",
-      "player": "Brittney Griner",
-      "from_status": "Out",
-      "to_status": "Probable",
-      "reason": "Injury/Illness - Right Rib; Strain",
-      "reason_category": "injury"
-    },
-    {
-      "ts": "2026-05-24T21:30:54.911688+00:00",
-      "type": "cleared",
-      "team_abbr": "WAS",
-      "player": "Michaela Onyenwere",
-      "previous_status": "Out",
-      "previous_reason": "Injury/Illness - Left Knee; Injury Management"
-    },
-    {
-      "ts": "2026-05-24T21:30:54.911688+00:00",
-      "type": "cleared",
-      "team_abbr": "WAS",
-      "player": "Alicia FlorezGetino",
-      "previous_status": "Out",
-      "previous_reason": "Personal Reasons"
-    },
-    {
-      "ts": "2026-05-24T21:00:55.772722+00:00",
-      "type": "status_change",
-      "team_abbr": "SEA",
-      "player": "Awa Fam",
-      "from_status": "Probable",
-      "to_status": "Available",
-      "reason": "-",
-      "reason_category": "other"
-    },
-    {
-      "ts": "2026-05-24T18:30:56.810993+00:00",
-      "type": "status_change",
-      "team_abbr": "PHX",
-      "player": "Monique AkoaMakani",
-      "from_status": "Questionable",
-      "to_status": "Out",
-      "reason": "Returnto Competition",
-      "reason_category": "other"
-    },
-    {
-      "ts": "2026-05-24T18:15:55.011524+00:00",
-      "type": "added",
-      "team_abbr": "ATL",
-      "player": "Amy Okonkwo",
-      "status": "Out",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach"
-    },
-    {
-      "ts": "2026-05-24T18:15:55.011524+00:00",
-      "type": "reason_change",
-      "team_abbr": "PHX",
-      "player": "Sami Whitcomb",
-      "status": "Out",
-      "from_reason": "Reconditioning Injury/Illness - Left Knee; Arthroscopy",
-      "to_reason": "Player Injury/Illness - Left Knee; Arthroscopy",
-      "reason_category": "injury"
-    },
-    {
-      "ts": "2026-05-24T18:15:55.011524+00:00",
-      "type": "added",
-      "team_abbr": "PHX",
-      "player": "Shay Ciezki",
-      "status": "Out",
-      "reason": "Reconditioning Coach's Decision - Developmental",
-      "reason_category": "rest_coach"
-    },
-    {
-      "ts": "2026-05-24T00:15:57.267937+00:00",
-      "type": "status_change",
-      "team_abbr": "SEA",
-      "player": "Awa Fam",
-      "from_status": "Questionable",
-      "to_status": "Probable",
-      "reason": "Returnto Competition Reconditioning",
-      "reason_category": "other"
-    },
-    {
-      "ts": "2026-05-24T00:01:03.426054+00:00",
-      "type": "status_change",
-      "team_abbr": "SEA",
-      "player": "Taylor Thierry",
-      "from_status": "Available",
-      "to_status": "Out",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach"
-    },
-    {
-      "ts": "2026-05-24T00:01:03.426054+00:00",
-      "type": "cleared",
-      "team_abbr": "SEA",
-      "player": "KatieLou Samuelson",
-      "previous_status": "Out",
-      "previous_reason": "Injury/Illness - Right Knee; Injury"
     }
   ]
 }

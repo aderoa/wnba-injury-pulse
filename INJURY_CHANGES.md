@@ -4,6 +4,21 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-06-05 00:00 UTC
+
+- **Li Yueru** (DAL) newly listed as **Questionable** — Injury/Illness - Leftankle; ankle
+- **Alysha Clark** (DAL) cleared (was Available)
+- **Dulcy FankamMendjiadeu** (DAL) cleared (was Out)
+- **Costanza Verona** (DAL) cleared (was Out)
+- **Kate Martin** (LAS) cleared (was Out)
+- **Laura Ziegler** (LAS) cleared (was Out)
+- **Kelsey Plum** (LAS): **Out** → **Probable** — Injury/Illness - Right Ankle; RAnkle
+- **Kahleah Copper** (PHX) newly listed as **Doubtful** — Injury/Illness - Left Hip;-
+- **Alyssa Thomas** (PHX) newly listed as **Questionable** — Injury/Illness - Left Calf;-
+- **Shay Ciezki** (PHX) cleared (was Out)
+- **Marta Suarez** (PHX) cleared (was Out)
+- **Sami Whitcomb** (PHX, Out): reason updated (Player Injury/Illness - Left Knee; Arthroscopy → Injury/Illness - Left Knee; Arthroscopy)
+
 ## 2026-06-04 22:00 UTC
 
 - **Bree Hall** (IND) newly listed as **Out** — Coach's Decision
