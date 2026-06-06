@@ -4,6 +4,12 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-06-06 23:45 UTC
+
+- **SarahAshlee Barker** (PDX) newly listed as **Probable** — Injury/Illness - Right Quad; Contusion
+- **Karlie Samuelson** (PDX) newly listed as **Probable** — Injury/Illness - Right Achilles; Injury
+- **Jordan Harrison** (PDX) cleared (was Out)
+
 ## 2026-06-06 23:30 UTC
 
 - **Bree Hall** (IND) newly listed as **Out** — Coach's Decision
