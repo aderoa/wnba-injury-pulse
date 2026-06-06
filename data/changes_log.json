@@ -5586,5 +5586,14 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-06T01:15:24.934486+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Laura Ziegler",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
