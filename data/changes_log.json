@@ -5537,5 +5537,45 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Left Leg; Leftleg",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-06T00:30:25.388681+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Li Yueru",
+    "from_status": "Doubtful",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Leftankle; ankle",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-06T00:30:25.388681+00:00",
+    "type": "status_change",
+    "team_abbr": "LAS",
+    "player": "Kelsey Plum",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Ankle; RAnkle",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-06T00:30:25.388681+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "Kahleah Copper",
+    "from_status": "Doubtful",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Hip;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-06T00:30:25.388681+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "Alyssa Thomas",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Calf;-",
+    "reason_category": "injury"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "report_ts": "06/05/26 08:15 PM",
+  "report_ts": "06/05/26 08:30 PM",
   "page_count": 2,
   "raw_line_count": 31,
   "teams": [
@@ -97,7 +97,7 @@
         {
           "name_last_first": "Yueru, Li",
           "name": "Li Yueru",
-          "status": "Doubtful",
+          "status": "Out",
           "reason": "Injury/Illness - Leftankle; ankle",
           "reason_category": "injury"
         }
@@ -114,7 +114,7 @@
         {
           "name_last_first": "Plum, Kelsey",
           "name": "Kelsey Plum",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness - Right Ankle; RAnkle",
           "reason_category": "injury"
         }
@@ -131,14 +131,14 @@
         {
           "name_last_first": "Copper, Kahleah",
           "name": "Kahleah Copper",
-          "status": "Doubtful",
+          "status": "Out",
           "reason": "Injury/Illness - Left Hip;-",
           "reason_category": "injury"
         },
         {
           "name_last_first": "Thomas, Alyssa",
           "name": "Alyssa Thomas",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Left Calf;-",
           "reason_category": "injury"
         },
@@ -327,7 +327,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-05_08_15PM.pdf",
-  "fetched_slot": "2026-06-05T20:15:00-04:00",
-  "polled_at_utc": "2026-06-06T00:15:25.924615+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-05_08_30PM.pdf",
+  "fetched_slot": "2026-06-05T20:30:00-04:00",
+  "polled_at_utc": "2026-06-06T00:30:25.388681+00:00"
 }
