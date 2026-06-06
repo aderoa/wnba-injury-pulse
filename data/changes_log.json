@@ -5595,5 +5595,33 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-06T15:45:20.313291+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Eliska Hamzova",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-06T15:45:20.313291+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Liatu King",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-06T15:45:20.313291+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Jewell Loyd",
+    "from_status": "Questionable",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Left Leg; Leftleg",
+    "reason_category": "injury"
   }
 ]
