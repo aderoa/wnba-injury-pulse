@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/06/26 04:30 PM",
+  "report_ts": "06/06/26 04:45 PM",
   "page_count": 2,
-  "raw_line_count": 23,
+  "raw_line_count": 24,
   "teams": [
     {
       "team_full": "Seattle Storm",
@@ -179,6 +179,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Right Knee; N/A",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Okonkwo, Amy",
+          "name": "Amy Okonkwo",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -244,7 +251,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-06_04_30PM.pdf",
-  "fetched_slot": "2026-06-06T16:30:00-04:00",
-  "polled_at_utc": "2026-06-06T20:30:24.195915+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-06_04_45PM.pdf",
+  "fetched_slot": "2026-06-06T16:45:00-04:00",
+  "polled_at_utc": "2026-06-06T20:45:20.828878+00:00"
 }
