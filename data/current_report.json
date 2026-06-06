@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/06/26 02:00 PM",
+  "report_ts": "06/06/26 02:15 PM",
   "page_count": 2,
-  "raw_line_count": 21,
+  "raw_line_count": 23,
   "teams": [
     {
       "team_full": "Seattle Storm",
@@ -80,6 +80,30 @@
         {
           "name_last_first": "King, Liatu",
           "name": "Liatu King",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        }
+      ]
+    },
+    {
+      "team_full": "Golden State Valkyries",
+      "team_abbr": "GSV",
+      "game_date": "06/06/2026",
+      "game_time": "03:00(ET)",
+      "matchup": "GSV@LVA",
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Prechtel, Ashten",
+          "name": "Ashten Prechtel",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Sowah, Miela",
+          "name": "Miela Sowah",
           "status": "Out",
           "reason": "Coach's Decision",
           "reason_category": "rest_coach"
@@ -220,7 +244,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-06_02_00PM.pdf",
-  "fetched_slot": "2026-06-06T14:00:00-04:00",
-  "polled_at_utc": "2026-06-06T18:00:23.902788+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-06_02_15PM.pdf",
+  "fetched_slot": "2026-06-06T14:15:00-04:00",
+  "polled_at_utc": "2026-06-06T18:15:24.426567+00:00"
 }
