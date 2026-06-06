@@ -5773,5 +5773,24 @@
     "from_reason": "Injury/Illness - Left Foot; Sprain",
     "to_reason": "-",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-06-06T23:00:24.169164+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Back; Back",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-06T23:00:24.169164+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Anneli Maley",
+    "status": "Out",
+    "reason": "Coach's Decision - Developmental Player",
+    "reason_category": "rest_coach"
   }
 ]
