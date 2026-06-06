@@ -5623,5 +5623,15 @@
     "to_status": "Probable",
     "reason": "Injury/Illness - Left Leg; Leftleg",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-06T16:00:25.588223+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Sabrina Ionescu",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Back; Soreness",
+    "reason_category": "injury"
   }
 ]

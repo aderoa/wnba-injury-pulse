@@ -37,8 +37,8 @@
   "IND": {
     "team_full": "Indiana Fever",
     "submitted": true,
-    "last_submitted_ts": "2026-06-06T15:51:38.239116+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-06_11_45AM.pdf",
+    "last_submitted_ts": "2026-06-06T16:00:25.588223+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-06_12_00PM.pdf",
     "game_dates": [
       "06/06/2026"
     ],
@@ -93,8 +93,8 @@
   "LVA": {
     "team_full": "Las Vegas Aces",
     "submitted": true,
-    "last_submitted_ts": "2026-06-06T15:51:38.239116+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-06_11_45AM.pdf",
+    "last_submitted_ts": "2026-06-06T16:00:25.588223+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-06_12_00PM.pdf",
     "game_dates": [
       "06/06/2026"
     ],
@@ -128,8 +128,8 @@
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-06-06T15:51:38.239116+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-06_11_45AM.pdf",
+    "last_submitted_ts": "2026-06-06T16:00:25.588223+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-06_12_00PM.pdf",
     "game_dates": [
       "06/06/2026"
     ],
@@ -149,8 +149,8 @@
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-06-06T15:51:38.239116+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-06_11_45AM.pdf",
+    "last_submitted_ts": "2026-06-06T16:00:25.588223+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-06_12_00PM.pdf",
     "game_dates": [
       "06/06/2026"
     ],
@@ -250,7 +250,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-06-06T15:51:38.239116+00:00"
+    "last_seen_pending_ts": "2026-06-06T16:00:25.588223+00:00"
   },
   "PDX": {
     "team_full": "Portland Fire",
@@ -272,13 +272,13 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-06-06T15:51:38.239116+00:00"
+    "last_seen_pending_ts": "2026-06-06T16:00:25.588223+00:00"
   },
   "SEA": {
     "team_full": "Seattle Storm",
     "submitted": true,
-    "last_submitted_ts": "2026-06-06T15:51:38.239116+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-06_11_45AM.pdf",
+    "last_submitted_ts": "2026-06-06T16:00:25.588223+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-06_12_00PM.pdf",
     "game_dates": [
       "06/06/2026"
     ],
@@ -347,8 +347,8 @@
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-06-06T15:51:38.239116+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-06_11_45AM.pdf",
+    "last_submitted_ts": "2026-06-06T16:00:25.588223+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-06_12_00PM.pdf",
     "game_dates": [
       "06/06/2026"
     ],
@@ -359,7 +359,7 @@
       {
         "name_last_first": "Ionescu, Sabrina",
         "name": "Sabrina Ionescu",
-        "status": "Questionable",
+        "status": "Out",
         "reason": "Injury/Illness - Back; Soreness",
         "reason_category": "injury"
       }
@@ -368,8 +368,8 @@
   "WAS": {
     "team_full": "Washington Mystics",
     "submitted": true,
-    "last_submitted_ts": "2026-06-06T15:51:38.239116+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-06_11_45AM.pdf",
+    "last_submitted_ts": "2026-06-06T16:00:25.588223+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-06_12_00PM.pdf",
     "game_dates": [
       "06/06/2026"
     ],
@@ -449,6 +449,6 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-06-06T15:51:38.239116+00:00"
+    "last_seen_pending_ts": "2026-06-06T16:00:25.588223+00:00"
   }
 }
