@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/05/26 09:15 PM",
+  "report_ts": "06/05/26 09:30 PM",
   "page_count": 2,
-  "raw_line_count": 33,
+  "raw_line_count": 34,
   "teams": [
     {
       "team_full": "Connecticut Sun",
@@ -162,6 +162,23 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Knee; Arthroscopy",
           "reason_category": "injury"
+        }
+      ]
+    },
+    {
+      "team_full": "Portland Fire",
+      "team_abbr": "PDX",
+      "game_date": "06/05/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "PHX@PDX",
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Harrison, Jordan",
+          "name": "Jordan Harrison",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -341,7 +358,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-05_09_15PM.pdf",
-  "fetched_slot": "2026-06-05T21:15:00-04:00",
-  "polled_at_utc": "2026-06-06T01:15:24.934486+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-05_09_30PM.pdf",
+  "fetched_slot": "2026-06-05T21:30:00-04:00",
+  "polled_at_utc": "2026-06-06T01:30:22.679796+00:00"
 }
