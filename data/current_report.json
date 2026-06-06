@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/06/26 05:15 PM",
+  "report_ts": "06/06/26 05:30 PM",
   "page_count": 2,
-  "raw_line_count": 30,
+  "raw_line_count": 31,
   "teams": [
     {
       "team_full": "Seattle Storm",
@@ -150,6 +150,13 @@
       "submitted": true,
       "players": [
         {
+          "name_last_first": "Austin, Shakira",
+          "name": "Shakira Austin",
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
+        },
+        {
           "name_last_first": "Betts, Lauren",
           "name": "Lauren Betts",
           "status": "Available",
@@ -160,8 +167,8 @@
           "name_last_first": "Citron, Sonia",
           "name": "Sonia Citron",
           "status": "Available",
-          "reason": "Injury/Illness - Left Foot; Sprain",
-          "reason_category": "injury"
+          "reason": "-",
+          "reason_category": "other"
         },
         {
           "name_last_first": "Littlepage-Buggs, Darianna",
@@ -308,7 +315,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-06_05_15PM.pdf",
-  "fetched_slot": "2026-06-06T17:15:00-04:00",
-  "polled_at_utc": "2026-06-06T21:15:23.036492+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-06_05_30PM.pdf",
+  "fetched_slot": "2026-06-06T17:30:00-04:00",
+  "polled_at_utc": "2026-06-06T21:30:24.651931+00:00"
 }
