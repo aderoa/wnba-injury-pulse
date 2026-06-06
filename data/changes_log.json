@@ -5507,5 +5507,35 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Left Knee; Left Knee",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-06T00:15:25.924615+00:00",
+    "type": "reason_change",
+    "team_abbr": "LVA",
+    "player": "Chennedy Carter",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Leg; leftleg",
+    "to_reason": "Injury/Illness - Left Leg; Leftleg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-06T00:15:25.924615+00:00",
+    "type": "reason_change",
+    "team_abbr": "LVA",
+    "player": "Dana Evans",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Leg; leftleg",
+    "to_reason": "Injury/Illness - Left Leg; Leftleg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-06T00:15:25.924615+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Jewell Loyd",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Leg; Leftleg",
+    "reason_category": "injury"
   }
 ]
