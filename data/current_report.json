@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/06/26 04:45 PM",
+  "report_ts": "06/06/26 05:00 PM",
   "page_count": 2,
-  "raw_line_count": 24,
+  "raw_line_count": 29,
   "teams": [
     {
       "team_full": "Seattle Storm",
@@ -229,8 +229,58 @@
       "game_date": "06/07/2026",
       "game_time": "03:00(ET)",
       "matchup": "CHI@TOR",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Carrington, DiJonai",
+          "name": "DiJonai Carrington",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Foot; Left Foot",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Jackson, Rickea",
+          "name": "Rickea Jackson",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Left Knee",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Jaquez, Gabriela",
+          "name": "Gabriela Jaquez",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Knee; Left Knee",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Vandersloot, Courtney",
+          "name": "Courtney Vandersloot",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; Right Knee",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "TorontoTempo Fagbenle, Temi",
+          "name": "Temi TorontoTempo Fagbenle",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Shoulder; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Harrison, Isabelle",
+          "name": "Isabelle Harrison",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Hand; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Rice, Kiki",
+          "name": "Kiki Rice",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; Injury",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Portland Fire",
@@ -251,7 +301,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-06_04_45PM.pdf",
-  "fetched_slot": "2026-06-06T16:45:00-04:00",
-  "polled_at_utc": "2026-06-06T20:45:20.828878+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-06_05_00PM.pdf",
+  "fetched_slot": "2026-06-06T17:00:00-04:00",
+  "polled_at_utc": "2026-06-06T21:00:26.815680+00:00"
 }

@@ -4,6 +4,15 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-06-06 21:00 UTC
+
+- **Temi TorontoTempo Fagbenle** (CHI) newly listed as **Out** — Injury/Illness - Right Shoulder; Injury
+- **Isabelle Harrison** (CHI) newly listed as **Questionable** — Injury/Illness - Right Hand; Injury
+- **Kiki Rice** (CHI) newly listed as **Out** — Injury/Illness - Left Ankle; Injury
+- **Aicha Coulibaly** (CHI) cleared (was Out)
+- **Maddy Westbeld** (CHI) cleared (was Out)
+- **Gabriela Jaquez** (CHI): **Out** → **Questionable** — Injury/Illness - Left Knee; Left Knee
+
 ## 2026-06-06 20:45 UTC
 
 - **Amy Okonkwo** (ATL) newly listed as **Out** — Coach's Decision

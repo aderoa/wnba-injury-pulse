@@ -5672,5 +5672,58 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-06T21:00:26.815680+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Temi TorontoTempo Fagbenle",
+    "status": "Out",
+    "reason": "Injury/Illness - Right Shoulder; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-06T21:00:26.815680+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Isabelle Harrison",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Right Hand; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-06T21:00:26.815680+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Kiki Rice",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Ankle; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-06T21:00:26.815680+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Aicha Coulibaly",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-06T21:00:26.815680+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Maddy Westbeld",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-06T21:00:26.815680+00:00",
+    "type": "status_change",
+    "team_abbr": "CHI",
+    "player": "Gabriela Jaquez",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Knee; Left Knee",
+    "reason_category": "injury"
   }
 ]
