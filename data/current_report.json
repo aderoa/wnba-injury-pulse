@@ -1,5 +1,5 @@
 {
-  "report_ts": "06/06/26 12:00 PM",
+  "report_ts": "06/06/26 12:15 PM",
   "page_count": 2,
   "raw_line_count": 21,
   "teams": [
@@ -28,16 +28,16 @@
         {
           "name_last_first": "Mair, Taina",
           "name": "Taina Mair",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
         },
         {
           "name_last_first": "Thierry, Taylor",
           "name": "Taylor Thierry",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
         }
       ]
     },
@@ -220,7 +220,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-06_12_00PM.pdf",
-  "fetched_slot": "2026-06-06T12:00:00-04:00",
-  "polled_at_utc": "2026-06-06T16:00:25.588223+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-06_12_15PM.pdf",
+  "fetched_slot": "2026-06-06T12:15:00-04:00",
+  "polled_at_utc": "2026-06-06T16:15:21.405138+00:00"
 }

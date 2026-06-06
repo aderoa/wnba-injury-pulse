@@ -5633,5 +5633,25 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Back; Soreness",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-06T16:15:21.405138+00:00",
+    "type": "status_change",
+    "team_abbr": "SEA",
+    "player": "Taina Mair",
+    "from_status": "Out",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-06-06T16:15:21.405138+00:00",
+    "type": "status_change",
+    "team_abbr": "SEA",
+    "player": "Taylor Thierry",
+    "from_status": "Out",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
   }
 ]
