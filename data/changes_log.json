@@ -5725,5 +5725,34 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Left Knee; Left Knee",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-06T21:15:23.036492+00:00",
+    "type": "added",
+    "team_abbr": "WAS",
+    "player": "Darianna Littlepage-Buggs",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-06T21:15:23.036492+00:00",
+    "type": "status_change",
+    "team_abbr": "WAS",
+    "player": "Sonia Citron",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Foot; Sprain",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-06T21:15:23.036492+00:00",
+    "type": "status_change",
+    "team_abbr": "WAS",
+    "player": "Lauren Betts",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
   }
 ]
