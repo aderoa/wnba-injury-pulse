@@ -5901,5 +5901,14 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - General; Illness",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-07T19:45:29.282918+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Serah Williams",
+    "status": "Out",
+    "reason": "Injury/Illness - N/A; Illness",
+    "reason_category": "injury"
   }
 ]
