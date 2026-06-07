@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/07/26 01:45 PM",
+  "report_ts": "06/07/26 02:00 PM",
   "page_count": 1,
-  "raw_line_count": 15,
+  "raw_line_count": 17,
   "teams": [
     {
       "team_full": "Chicago Sky",
@@ -19,6 +19,13 @@
           "reason_category": "injury"
         },
         {
+          "name_last_first": "Coulibaly, Aicha",
+          "name": "Aicha Coulibaly",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Jackson, Rickea",
           "name": "Rickea Jackson",
           "status": "Out",
@@ -28,7 +35,7 @@
         {
           "name_last_first": "Jaquez, Gabriela",
           "name": "Gabriela Jaquez",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Left Knee; Left Knee",
           "reason_category": "injury"
         },
@@ -38,6 +45,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Right Knee; Right Knee",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Westbeld, Maddy",
+          "name": "Maddy Westbeld",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         },
         {
           "name_last_first": "TorontoTempo Fagbenle, Temi",
@@ -141,7 +155,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-07_01_45PM.pdf",
-  "fetched_slot": "2026-06-07T13:45:00-04:00",
-  "polled_at_utc": "2026-06-07T17:45:30.109536+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-07_02_00PM.pdf",
+  "fetched_slot": "2026-06-07T14:00:00-04:00",
+  "polled_at_utc": "2026-06-07T18:00:31.764647+00:00"
 }

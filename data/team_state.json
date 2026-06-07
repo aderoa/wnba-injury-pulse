@@ -68,7 +68,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-06-07T17:45:30.109536+00:00"
+    "last_seen_pending_ts": "2026-06-07T18:00:31.764647+00:00"
   },
   "PHX": {
     "team_full": "Phoenix Mercury",
@@ -139,7 +139,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-06-07T17:45:30.109536+00:00"
+    "last_seen_pending_ts": "2026-06-07T18:00:31.764647+00:00"
   },
   "ATL": {
     "team_full": "Atlanta Dream",
@@ -221,8 +221,8 @@
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-06-07T17:45:30.109536+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-07_01_45PM.pdf",
+    "last_submitted_ts": "2026-06-07T18:00:31.764647+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-07_02_00PM.pdf",
     "game_dates": [
       "06/07/2026"
     ],
@@ -238,6 +238,13 @@
         "reason_category": "injury"
       },
       {
+        "name_last_first": "Coulibaly, Aicha",
+        "name": "Aicha Coulibaly",
+        "status": "Out",
+        "reason": "Coach's Decision",
+        "reason_category": "rest_coach"
+      },
+      {
         "name_last_first": "Jackson, Rickea",
         "name": "Rickea Jackson",
         "status": "Out",
@@ -247,7 +254,7 @@
       {
         "name_last_first": "Jaquez, Gabriela",
         "name": "Gabriela Jaquez",
-        "status": "Questionable",
+        "status": "Available",
         "reason": "Injury/Illness - Left Knee; Left Knee",
         "reason_category": "injury"
       },
@@ -257,6 +264,13 @@
         "status": "Out",
         "reason": "Injury/Illness - Right Knee; Right Knee",
         "reason_category": "injury"
+      },
+      {
+        "name_last_first": "Westbeld, Maddy",
+        "name": "Maddy Westbeld",
+        "status": "Out",
+        "reason": "Coach's Decision",
+        "reason_category": "rest_coach"
       },
       {
         "name_last_first": "TorontoTempo Fagbenle, Temi",
@@ -284,8 +298,8 @@
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-06-07T17:45:30.109536+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-07_01_45PM.pdf",
+    "last_submitted_ts": "2026-06-07T18:00:31.764647+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-07_02_00PM.pdf",
     "game_dates": [
       "06/07/2026"
     ],
@@ -350,7 +364,7 @@
         "reason_category": "other"
       }
     ],
-    "last_seen_pending_ts": "2026-06-07T17:45:30.109536+00:00"
+    "last_seen_pending_ts": "2026-06-07T18:00:31.764647+00:00"
   },
   "CON": {
     "team_full": "Connecticut Sun",
@@ -379,7 +393,7 @@
         "reason_category": "procedural"
       }
     ],
-    "last_seen_pending_ts": "2026-06-07T17:45:30.109536+00:00"
+    "last_seen_pending_ts": "2026-06-07T18:00:31.764647+00:00"
   },
   "NYL": {
     "team_full": "New York Liberty",
@@ -408,7 +422,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-06-07T17:45:30.109536+00:00"
+    "last_seen_pending_ts": "2026-06-07T18:00:31.764647+00:00"
   },
   "WAS": {
     "team_full": "Washington Mystics",
@@ -451,7 +465,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-06-07T17:45:30.109536+00:00"
+    "last_seen_pending_ts": "2026-06-07T18:00:31.764647+00:00"
   },
   "GSV": {
     "team_full": "Golden State Valkyries",
