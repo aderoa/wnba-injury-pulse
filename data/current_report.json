@@ -1,5 +1,5 @@
 {
-  "report_ts": "06/07/26 05:45 PM",
+  "report_ts": "06/07/26 06:00 PM",
   "page_count": 2,
   "raw_line_count": 20,
   "teams": [
@@ -118,9 +118,9 @@
         {
           "name_last_first": "Ziegler, Laura",
           "name": "Laura Ziegler",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
         }
       ]
     },
@@ -208,7 +208,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-07_05_45PM.pdf",
-  "fetched_slot": "2026-06-07T17:45:00-04:00",
-  "polled_at_utc": "2026-06-07T21:45:30.994406+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-07_06_00PM.pdf",
+  "fetched_slot": "2026-06-07T18:00:00-04:00",
+  "polled_at_utc": "2026-06-07T22:00:29.626115+00:00"
 }

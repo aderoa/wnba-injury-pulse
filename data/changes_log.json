@@ -5961,5 +5961,15 @@
     "player": "Kelsey Plum",
     "previous_status": "Available",
     "previous_reason": "Injury/Illness - Right Ankle; RAnkle"
+  },
+  {
+    "ts": "2026-06-07T22:00:29.626115+00:00",
+    "type": "status_change",
+    "team_abbr": "LAS",
+    "player": "Laura Ziegler",
+    "from_status": "Out",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
   }
 ]
