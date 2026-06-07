@@ -5836,5 +5836,15 @@
     "player": "Jordan Harrison",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-07T14:30:30.000559+00:00",
+    "type": "status_change",
+    "team_abbr": "CHI",
+    "player": "Isabelle Harrison",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Hand; Injury",
+    "reason_category": "injury"
   }
 ]

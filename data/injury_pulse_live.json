@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-06-07T14:22:23.317466+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-07_10_15AM.pdf",
-  "report_ts": "06/07/26 10:15 AM",
+  "polled_at_utc": "2026-06-07T14:30:30.000559+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-07_10_30AM.pdf",
+  "report_ts": "06/07/26 10:30 AM",
   "all_players": [
     {
       "name": "Aaliyah Edwards",
@@ -101,7 +101,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; Right Knee",
       "reason_category": "injury",
-      "last_updated": "2026-06-07T14:22:23.317466+00:00"
+      "last_updated": "2026-06-07T14:30:30.000559+00:00"
     },
     {
       "name": "Dana Evans",
@@ -128,7 +128,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Foot; Left Foot",
       "reason_category": "injury",
-      "last_updated": "2026-06-07T14:22:23.317466+00:00"
+      "last_updated": "2026-06-07T14:30:30.000559+00:00"
     },
     {
       "name": "Dorka Juhasz",
@@ -200,7 +200,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Ankle; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-06-07T14:22:23.317466+00:00"
+      "last_updated": "2026-06-07T14:30:30.000559+00:00"
     },
     {
       "name": "Laura Ziegler",
@@ -263,7 +263,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; Left Knee",
       "reason_category": "injury",
-      "last_updated": "2026-06-07T14:22:23.317466+00:00"
+      "last_updated": "2026-06-07T14:30:30.000559+00:00"
     },
     {
       "name": "Sabrina Ionescu",
@@ -290,7 +290,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Shoulder; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-06-07T14:22:23.317466+00:00"
+      "last_updated": "2026-06-07T14:30:30.000559+00:00"
     },
     {
       "name": "Gabriela Jaquez",
@@ -299,16 +299,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Left Knee; Left Knee",
       "reason_category": "injury",
-      "last_updated": "2026-06-07T14:22:23.317466+00:00"
-    },
-    {
-      "name": "Isabelle Harrison",
-      "team_abbr": "CHI",
-      "team_full": "Chicago Sky",
-      "status": "Questionable",
-      "reason": "Injury/Illness - Right Hand; Injury",
-      "reason_category": "injury",
-      "last_updated": "2026-06-07T14:22:23.317466+00:00"
+      "last_updated": "2026-06-07T14:30:30.000559+00:00"
     },
     {
       "name": "Karlie Samuelson",
@@ -317,7 +308,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Right Achilles; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-06-07T14:22:23.317466+00:00"
+      "last_updated": "2026-06-07T14:30:30.000559+00:00"
     },
     {
       "name": "SarahAshlee Barker",
@@ -326,7 +317,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Right Quad; Contusion",
       "reason_category": "injury",
-      "last_updated": "2026-06-07T14:22:23.317466+00:00"
+      "last_updated": "2026-06-07T14:30:30.000559+00:00"
     },
     {
       "name": "Caitlin Clark",
@@ -336,6 +327,15 @@
       "reason": "Injury/Illness - Back; Back",
       "reason_category": "injury",
       "last_updated": "2026-06-07T03:45:25.604513+00:00"
+    },
+    {
+      "name": "Isabelle Harrison",
+      "team_abbr": "CHI",
+      "team_full": "Chicago Sky",
+      "status": "Available",
+      "reason": "Injury/Illness - Right Hand; Injury",
+      "reason_category": "injury",
+      "last_updated": "2026-06-07T14:30:30.000559+00:00"
     },
     {
       "name": "Jewell Loyd",
@@ -430,7 +430,7 @@
     {
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
-      "last_submitted_ts": "2026-06-07T14:22:23.317466+00:00",
+      "last_submitted_ts": "2026-06-07T14:30:30.000559+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "CHI@TOR"
@@ -474,7 +474,7 @@
         {
           "name_last_first": "Harrison, Isabelle",
           "name": "Isabelle Harrison",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Right Hand; Injury",
           "reason_category": "injury"
         },
@@ -491,7 +491,7 @@
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
       "last_submitted_ts": "2026-06-06T03:54:01.581997+00:00",
-      "last_seen_pending_ts": "2026-06-07T14:22:23.317466+00:00",
+      "last_seen_pending_ts": "2026-06-07T14:30:30.000559+00:00",
       "matchups": [
         "CON@CHI"
       ],
@@ -573,7 +573,7 @@
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
       "last_submitted_ts": "2026-06-07T03:45:25.604513+00:00",
-      "last_seen_pending_ts": "2026-06-07T14:22:23.317466+00:00",
+      "last_seen_pending_ts": "2026-06-07T14:30:30.000559+00:00",
       "matchups": [
         "IND@NYL"
       ],
@@ -630,7 +630,7 @@
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
       "last_submitted_ts": "2026-06-07T03:45:25.604513+00:00",
-      "last_seen_pending_ts": "2026-06-07T14:22:23.317466+00:00",
+      "last_seen_pending_ts": "2026-06-07T14:30:30.000559+00:00",
       "matchups": [
         "GSV@LVA"
       ],
@@ -708,7 +708,7 @@
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
       "last_submitted_ts": "2026-06-07T03:45:25.604513+00:00",
-      "last_seen_pending_ts": "2026-06-07T14:22:23.317466+00:00",
+      "last_seen_pending_ts": "2026-06-07T14:30:30.000559+00:00",
       "matchups": [
         "IND@NYL"
       ],
@@ -732,7 +732,7 @@
     {
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
-      "last_submitted_ts": "2026-06-07T14:22:23.317466+00:00",
+      "last_submitted_ts": "2026-06-07T14:30:30.000559+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "PDX@LAS"
@@ -790,7 +790,7 @@
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
       "last_submitted_ts": "2026-06-07T03:45:25.604513+00:00",
-      "last_seen_pending_ts": "2026-06-07T14:22:23.317466+00:00",
+      "last_seen_pending_ts": "2026-06-07T14:30:30.000559+00:00",
       "matchups": [
         "SEA@MIN"
       ],
@@ -829,7 +829,7 @@
       "team_abbr": "WAS",
       "team_full": "Washington Mystics",
       "last_submitted_ts": "2026-06-07T03:45:25.604513+00:00",
-      "last_seen_pending_ts": "2026-06-07T14:22:23.317466+00:00",
+      "last_seen_pending_ts": "2026-06-07T14:30:30.000559+00:00",
       "matchups": [
         "WAS@ATL"
       ],
@@ -866,6 +866,16 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-06-07T14:30:30.000559+00:00",
+      "type": "status_change",
+      "team_abbr": "CHI",
+      "player": "Isabelle Harrison",
+      "from_status": "Questionable",
+      "to_status": "Available",
+      "reason": "Injury/Illness - Right Hand; Injury",
+      "reason_category": "injury"
+    },
     {
       "ts": "2026-06-06T23:45:22.880462+00:00",
       "type": "cleared",
@@ -3095,16 +3105,6 @@
       "from_status": "Probable",
       "to_status": "Out",
       "reason": "Injury/Illness - Illness; Illness",
-      "reason_category": "injury"
-    },
-    {
-      "ts": "2026-05-28T15:30:22.714080+00:00",
-      "type": "status_change",
-      "team_abbr": "DAL",
-      "player": "Alanna Smith",
-      "from_status": "Probable",
-      "to_status": "Doubtful",
-      "reason": "Injury/Illness - Illness; illness",
       "reason_category": "injury"
     }
   ]
