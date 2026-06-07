@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/07/26 02:00 PM",
-  "page_count": 1,
-  "raw_line_count": 17,
+  "report_ts": "06/07/26 02:15 PM",
+  "page_count": 2,
+  "raw_line_count": 18,
   "teams": [
     {
       "team_full": "Chicago Sky",
@@ -133,8 +133,23 @@
       "game_date": "06/08/2026",
       "game_time": "07:00(ET)",
       "matchup": "NYL@CON",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Burke, Kennedy",
+          "name": "Kennedy Burke",
+          "status": "Questionable",
+          "reason": "Injury/Illness - General; Illness",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Griner, Brittney",
+          "name": "Brittney Griner",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Rib; Strain",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Seattle Storm",
@@ -155,7 +170,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-07_02_00PM.pdf",
-  "fetched_slot": "2026-06-07T14:00:00-04:00",
-  "polled_at_utc": "2026-06-07T18:00:31.764647+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-07_02_15PM.pdf",
+  "fetched_slot": "2026-06-07T14:15:00-04:00",
+  "polled_at_utc": "2026-06-07T18:15:30.663851+00:00"
 }

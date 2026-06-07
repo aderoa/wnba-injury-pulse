@@ -5874,5 +5874,32 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Left Knee; Left Knee",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-07T18:15:30.663851+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Brittney Griner",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Rib; Strain",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-07T18:15:30.663851+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Aaliyah Edwards",
+    "previous_status": "Out",
+    "previous_reason": "Concussion Protocol"
+  },
+  {
+    "ts": "2026-06-07T18:15:30.663851+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Kennedy Burke",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - General; Illness",
+    "reason_category": "injury"
   }
 ]
