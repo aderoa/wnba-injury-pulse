@@ -1,5 +1,5 @@
 {
-  "report_ts": "06/07/26 04:45 PM",
+  "report_ts": "06/07/26 05:00 PM",
   "page_count": 2,
   "raw_line_count": 19,
   "teams": [
@@ -113,17 +113,23 @@
       "game_date": "06/08/2026",
       "game_time": "07:00(ET)",
       "matchup": "IND@WAS",
-      "submitted": false,
-      "players": []
-    },
-    {
-      "team_full": "Washington Mystics",
-      "team_abbr": "WAS",
-      "game_date": "06/08/2026",
-      "game_time": "07:00(ET)",
-      "matchup": "IND@WAS",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Boston, Aliyah",
+          "name": "Aliyah Boston",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Leg; Lower",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Clark, Caitlin",
+          "name": "Caitlin Clark",
+          "status": "Probable",
+          "reason": "Injury/Illness - Back; Back",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "New York Liberty",
@@ -131,8 +137,16 @@
       "game_date": "06/08/2026",
       "game_time": "07:00(ET)",
       "matchup": "NYL@CON",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Ionescu, Sabrina",
+          "name": "Sabrina Ionescu",
+          "status": "Out",
+          "reason": "Injury/Illness - Back; Soreness",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Connecticut Sun",
@@ -177,7 +191,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-07_04_45PM.pdf",
-  "fetched_slot": "2026-06-07T16:45:00-04:00",
-  "polled_at_utc": "2026-06-07T20:45:31.423305+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-07_05_00PM.pdf",
+  "fetched_slot": "2026-06-07T17:00:00-04:00",
+  "polled_at_utc": "2026-06-07T21:00:32.596904+00:00"
 }
