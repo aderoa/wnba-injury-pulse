@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/08/26 05:30 PM",
+  "report_ts": "06/08/26 05:45 PM",
   "page_count": 2,
-  "raw_line_count": 24,
+  "raw_line_count": 27,
   "teams": [
     {
       "team_full": "Indiana Fever",
@@ -41,6 +41,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Back; Soreness",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Maley, Anneli",
+          "name": "Anneli Maley",
+          "status": "Out",
+          "reason": "Coach's Decision - Developmental Player",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -143,8 +150,16 @@
       "game_date": "06/09/2026",
       "game_time": "07:00(ET)",
       "matchup": "ATL@CHI",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Jones, Brionna",
+          "name": "Brionna Jones",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; N/A",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Chicago Sky",
@@ -214,7 +229,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-08_05_30PM.pdf",
-  "fetched_slot": "2026-06-08T17:30:00-04:00",
-  "polled_at_utc": "2026-06-08T21:30:27.943138+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-08_05_45PM.pdf",
+  "fetched_slot": "2026-06-08T17:45:00-04:00",
+  "polled_at_utc": "2026-06-08T21:45:28.628814+00:00"
 }
