@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/08/26 02:15 PM",
+  "report_ts": "06/08/26 02:30 PM",
   "page_count": 2,
-  "raw_line_count": 21,
+  "raw_line_count": 22,
   "teams": [
     {
       "team_full": "Indiana Fever",
@@ -55,7 +55,7 @@
         {
           "name_last_first": "Burke, Kennedy",
           "name": "Kennedy Burke",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - General; Illness",
           "reason_category": "injury"
         },
@@ -64,6 +64,13 @@
           "name": "Brittney Griner",
           "status": "Out",
           "reason": "Injury/Illness - Left Rib; Strain",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Morrow, Aneesah",
+          "name": "Aneesah Morrow",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Leg; Strain",
           "reason_category": "injury"
         }
       ]
@@ -185,7 +192,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-08_02_15PM.pdf",
-  "fetched_slot": "2026-06-08T14:15:00-04:00",
-  "polled_at_utc": "2026-06-08T18:15:32.792244+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-08_02_30PM.pdf",
+  "fetched_slot": "2026-06-08T14:30:00-04:00",
+  "polled_at_utc": "2026-06-08T18:30:42.190239+00:00"
 }
