@@ -6000,5 +6000,53 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Right Achilles; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-08T00:00:32.030736+00:00",
+    "type": "status_change",
+    "team_abbr": "SEA",
+    "player": "Taina Mair",
+    "from_status": "Available",
+    "to_status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-08T00:00:32.030736+00:00",
+    "type": "status_change",
+    "team_abbr": "SEA",
+    "player": "Taylor Thierry",
+    "from_status": "Available",
+    "to_status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-08T00:00:32.030736+00:00",
+    "type": "cleared",
+    "team_abbr": "LVA",
+    "player": "Jewell Loyd",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Left Leg; Leftleg"
+  },
+  {
+    "ts": "2026-06-08T00:00:32.030736+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Chennedy Carter",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Leg; leftlegis",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-08T00:00:32.030736+00:00",
+    "type": "reason_change",
+    "team_abbr": "LVA",
+    "player": "Dana Evans",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Leg; Leftleg",
+    "to_reason": "injured. Injury/Illness - Left Leg; leftlegis injured.",
+    "reason_category": "injury"
   }
 ]
