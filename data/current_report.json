@@ -1,136 +1,8 @@
 {
-  "report_ts": "06/07/26 11:45 PM",
+  "report_ts": "06/08/26 12:00 AM",
   "page_count": 2,
-  "raw_line_count": 29,
+  "raw_line_count": 21,
   "teams": [
-    {
-      "team_full": "Chicago Sky",
-      "team_abbr": "CHI",
-      "game_date": "06/07/2026",
-      "game_time": "03:00(ET)",
-      "matchup": "CHI@TOR",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Carrington, DiJonai",
-          "name": "DiJonai Carrington",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Foot; Left Foot",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Coulibaly, Aicha",
-          "name": "Aicha Coulibaly",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Jackson, Rickea",
-          "name": "Rickea Jackson",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Knee; Left Knee",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Jaquez, Gabriela",
-          "name": "Gabriela Jaquez",
-          "status": "Available",
-          "reason": "Injury/Illness - Left Knee; Left Knee",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Vandersloot, Courtney",
-          "name": "Courtney Vandersloot",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee; Right Knee",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Westbeld, Maddy",
-          "name": "Maddy Westbeld",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "TorontoTempo Fagbenle, Temi",
-          "name": "Temi TorontoTempo Fagbenle",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Shoulder; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Harrison, Isabelle",
-          "name": "Isabelle Harrison",
-          "status": "Available",
-          "reason": "Injury/Illness - Right Hand; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Rice, Kiki",
-          "name": "Kiki Rice",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Ankle; Injury",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Portland Fire",
-      "team_abbr": "PDX",
-      "game_date": "06/07/2026",
-      "game_time": "07:00(ET)",
-      "matchup": "PDX@LAS",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Barker, SarahAshlee",
-          "name": "SarahAshlee Barker",
-          "status": "Available",
-          "reason": "Injury/Illness - Right Quad; Contusion",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Harrison, Jordan",
-          "name": "Jordan Harrison",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Samuelson, Karlie",
-          "name": "Karlie Samuelson",
-          "status": "Available",
-          "reason": "Injury/Illness - Right Achilles; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Williams, Serah",
-          "name": "Serah Williams",
-          "status": "Out",
-          "reason": "Injury/Illness - N/A; Illness",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Los Angeles Sparks",
-      "team_abbr": "LAS",
-      "game_date": "06/07/2026",
-      "game_time": "07:00(ET)",
-      "matchup": "PDX@LAS",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Ziegler, Laura",
-          "name": "Laura Ziegler",
-          "status": "Available",
-          "reason": "-",
-          "reason_category": "other"
-        }
-      ]
-    },
     {
       "team_full": "Indiana Fever",
       "team_abbr": "IND",
@@ -257,9 +129,63 @@
           "reason_category": "injury"
         }
       ]
+    },
+    {
+      "team_full": "Atlanta Dream",
+      "team_abbr": "ATL",
+      "game_date": "06/09/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "ATL@CHI",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Chicago Sky",
+      "team_abbr": "CHI",
+      "game_date": "06/09/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "ATL@CHI",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Dallas Wings",
+      "team_abbr": "DAL",
+      "game_date": "06/09/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "DAL@MIN",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Minnesota Lynx",
+      "team_abbr": "MIN",
+      "game_date": "06/09/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "DAL@MIN",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Phoenix Mercury",
+      "team_abbr": "PHX",
+      "game_date": "06/09/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "PHX@GSV",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Golden State Valkyries",
+      "team_abbr": "GSV",
+      "game_date": "06/09/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "PHX@GSV",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-07_11_45PM.pdf",
-  "fetched_slot": "2026-06-07T23:45:00-04:00",
-  "polled_at_utc": "2026-06-08T03:45:32.677637+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-08_12_00AM.pdf",
+  "fetched_slot": "2026-06-08T00:00:00-04:00",
+  "polled_at_utc": "2026-06-08T04:00:29.386237+00:00"
 }
