@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/08/26 07:00 PM",
+  "report_ts": "06/08/26 07:15 PM",
   "page_count": 2,
-  "raw_line_count": 35,
+  "raw_line_count": 37,
   "teams": [
     {
       "team_full": "Indiana Fever",
@@ -35,6 +35,23 @@
         {
           "name_last_first": "Pissott, Justine",
           "name": "Justine Pissott",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        }
+      ]
+    },
+    {
+      "team_full": "Washington Mystics",
+      "team_abbr": "WAS",
+      "game_date": "06/08/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "IND@WAS",
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Littlepage-Buggs, Darianna",
+          "name": "Darianna Littlepage-Buggs",
           "status": "Out",
           "reason": "Coach's Decision",
           "reason_category": "rest_coach"
@@ -308,7 +325,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-08_07_00PM.pdf",
-  "fetched_slot": "2026-06-08T19:00:00-04:00",
-  "polled_at_utc": "2026-06-08T23:14:09.552193+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-08_07_15PM.pdf",
+  "fetched_slot": "2026-06-08T19:15:00-04:00",
+  "polled_at_utc": "2026-06-08T23:15:29.180699+00:00"
 }

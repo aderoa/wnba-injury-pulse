@@ -6280,5 +6280,29 @@
     "status": "Out",
     "reason": "Injury/Illness - Ilness; Illness",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-08T23:15:29.180699+00:00",
+    "type": "cleared",
+    "team_abbr": "WAS",
+    "player": "Shakira Austin",
+    "previous_status": "Available",
+    "previous_reason": "-"
+  },
+  {
+    "ts": "2026-06-08T23:15:29.180699+00:00",
+    "type": "cleared",
+    "team_abbr": "WAS",
+    "player": "Lauren Betts",
+    "previous_status": "Available",
+    "previous_reason": "-"
+  },
+  {
+    "ts": "2026-06-08T23:15:29.180699+00:00",
+    "type": "cleared",
+    "team_abbr": "WAS",
+    "player": "Sonia Citron",
+    "previous_status": "Available",
+    "previous_reason": "-"
   }
 ]
