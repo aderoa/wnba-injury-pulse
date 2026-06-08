@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/08/26 05:45 PM",
+  "report_ts": "06/08/26 06:00 PM",
   "page_count": 2,
-  "raw_line_count": 27,
+  "raw_line_count": 31,
   "teams": [
     {
       "team_full": "Indiana Fever",
@@ -198,8 +198,30 @@
       "game_date": "06/09/2026",
       "game_time": "08:00(ET)",
       "matchup": "DAL@MIN",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Kuier, Awak",
+          "name": "Awak Kuier",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Wrist; n/a",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sims, Odyssey",
+          "name": "Odyssey Sims",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; n/a",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Yueru, Li",
+          "name": "Li Yueru",
+          "status": "Probable",
+          "reason": "Injury/Illness - Left Ankle; n/a",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Minnesota Lynx",
@@ -207,8 +229,30 @@
       "game_date": "06/09/2026",
       "game_time": "08:00(ET)",
       "matchup": "DAL@MIN",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Cechova, Emma",
+          "name": "Emma Cechova",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; Right Knee",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Collier, Napheesa",
+          "name": "Napheesa Collier",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; Left Ankle",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Juhasz, Dorka",
+          "name": "Dorka Juhasz",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Foot; Right Foot",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Phoenix Mercury",
@@ -229,7 +273,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-08_05_45PM.pdf",
-  "fetched_slot": "2026-06-08T17:45:00-04:00",
-  "polled_at_utc": "2026-06-08T21:52:54.980162+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-08_06_00PM.pdf",
+  "fetched_slot": "2026-06-08T18:00:00-04:00",
+  "polled_at_utc": "2026-06-08T22:00:28.595769+00:00"
 }

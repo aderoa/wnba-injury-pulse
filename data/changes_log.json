@@ -6152,5 +6152,68 @@
     "player": "Amy Okonkwo",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-08T22:00:28.595769+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Odyssey Sims",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Ankle; n/a",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-08T22:00:28.595769+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Costanza Verona",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-08T22:00:28.595769+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Li Yueru",
+    "from_status": "Out",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Left Ankle; n/a",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-08T22:00:28.595769+00:00",
+    "type": "reason_change",
+    "team_abbr": "DAL",
+    "player": "Awak Kuier",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Rightwrist; wrist",
+    "to_reason": "Injury/Illness - Right Wrist; n/a",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-08T22:00:28.595769+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Eliska Hamzova",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-08T22:00:28.595769+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Liatu King",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-08T22:00:28.595769+00:00",
+    "type": "reason_change",
+    "team_abbr": "MIN",
+    "player": "Dorka Juhasz",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Right Foot; Rightfoot",
+    "to_reason": "Injury/Illness - Right Foot; Right Foot",
+    "reason_category": "injury"
   }
 ]
