@@ -1,5 +1,5 @@
 {
-  "report_ts": "06/08/26 06:30 PM",
+  "report_ts": "06/08/26 06:45 PM",
   "page_count": 2,
   "raw_line_count": 35,
   "teams": [
@@ -54,6 +54,13 @@
           "name": "Sabrina Ionescu",
           "status": "Out",
           "reason": "Injury/Illness - Back; Soreness",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Jones, Jonquel",
+          "name": "Jonquel Jones",
+          "status": "Out",
+          "reason": "Injury/Illness - Ilness; Illness",
           "reason_category": "injury"
         },
         {
@@ -301,7 +308,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-08_06_30PM.pdf",
-  "fetched_slot": "2026-06-08T18:30:00-04:00",
-  "polled_at_utc": "2026-06-08T22:30:29.126369+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-08_06_45PM.pdf",
+  "fetched_slot": "2026-06-08T18:45:00-04:00",
+  "polled_at_utc": "2026-06-08T22:45:30.647217+00:00"
 }
