@@ -33,13 +33,13 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-06-08T21:00:29.613336+00:00"
+    "last_seen_pending_ts": "2026-06-08T21:15:28.671711+00:00"
   },
   "IND": {
     "team_full": "Indiana Fever",
     "submitted": true,
-    "last_submitted_ts": "2026-06-08T21:00:29.613336+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-08_05_00PM.pdf",
+    "last_submitted_ts": "2026-06-08T21:15:28.671711+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-08_05_15PM.pdf",
     "game_dates": [
       "06/08/2026"
     ],
@@ -97,13 +97,13 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-06-08T21:00:29.613336+00:00"
+    "last_seen_pending_ts": "2026-06-08T21:15:28.671711+00:00"
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
     "submitted": true,
-    "last_submitted_ts": "2026-06-08T21:00:29.613336+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-08_05_00PM.pdf",
+    "last_submitted_ts": "2026-06-08T21:15:28.671711+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-08_05_15PM.pdf",
     "game_dates": [
       "06/08/2026"
     ],
@@ -154,7 +154,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-06-08T21:00:29.613336+00:00"
+    "last_seen_pending_ts": "2026-06-08T21:15:28.671711+00:00"
   },
   "MIN": {
     "team_full": "Minnesota Lynx",
@@ -204,18 +204,18 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-06-08T21:00:29.613336+00:00"
+    "last_seen_pending_ts": "2026-06-08T21:15:28.671711+00:00"
   },
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-06-08T03:45:32.677637+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-07_11_45PM.pdf",
+    "last_submitted_ts": "2026-06-08T21:15:28.671711+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-08_05_15PM.pdf",
     "game_dates": [
-      "06/07/2026"
+      "06/09/2026"
     ],
     "matchups": [
-      "CHI@TOR"
+      "ATL@CHI"
     ],
     "players": [
       {
@@ -226,23 +226,9 @@
         "reason_category": "injury"
       },
       {
-        "name_last_first": "Coulibaly, Aicha",
-        "name": "Aicha Coulibaly",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
-      },
-      {
         "name_last_first": "Jackson, Rickea",
         "name": "Rickea Jackson",
         "status": "Out",
-        "reason": "Injury/Illness - Left Knee; Left Knee",
-        "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Jaquez, Gabriela",
-        "name": "Gabriela Jaquez",
-        "status": "Available",
         "reason": "Injury/Illness - Left Knee; Left Knee",
         "reason_category": "injury"
       },
@@ -252,37 +238,8 @@
         "status": "Out",
         "reason": "Injury/Illness - Right Knee; Right Knee",
         "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Westbeld, Maddy",
-        "name": "Maddy Westbeld",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
-      },
-      {
-        "name_last_first": "TorontoTempo Fagbenle, Temi",
-        "name": "Temi TorontoTempo Fagbenle",
-        "status": "Out",
-        "reason": "Injury/Illness - Right Shoulder; Injury",
-        "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Harrison, Isabelle",
-        "name": "Isabelle Harrison",
-        "status": "Available",
-        "reason": "Injury/Illness - Right Hand; Injury",
-        "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Rice, Kiki",
-        "name": "Kiki Rice",
-        "status": "Out",
-        "reason": "Injury/Illness - Left Ankle; Injury",
-        "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-06-08T21:00:29.613336+00:00"
+    ]
   },
   "PDX": {
     "team_full": "Portland Fire",
@@ -329,8 +286,8 @@
   "SEA": {
     "team_full": "Seattle Storm",
     "submitted": true,
-    "last_submitted_ts": "2026-06-08T21:00:29.613336+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-08_05_00PM.pdf",
+    "last_submitted_ts": "2026-06-08T21:15:28.671711+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-08_05_15PM.pdf",
     "game_dates": [
       "06/08/2026"
     ],
@@ -362,17 +319,17 @@
       {
         "name_last_first": "Thierry, Taylor",
         "name": "Taylor Thierry",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
+        "status": "Available",
+        "reason": "-",
+        "reason_category": "other"
       }
     ]
   },
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-06-08T21:00:29.613336+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-08_05_00PM.pdf",
+    "last_submitted_ts": "2026-06-08T21:15:28.671711+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-08_05_15PM.pdf",
     "game_dates": [
       "06/08/2026"
     ],
@@ -406,8 +363,8 @@
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-06-08T21:00:29.613336+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-08_05_00PM.pdf",
+    "last_submitted_ts": "2026-06-08T21:15:28.671711+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-08_05_15PM.pdf",
     "game_dates": [
       "06/08/2026"
     ],
@@ -494,7 +451,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-06-08T21:00:29.613336+00:00"
+    "last_seen_pending_ts": "2026-06-08T21:15:28.671711+00:00"
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",

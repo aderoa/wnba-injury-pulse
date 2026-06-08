@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/08/26 05:00 PM",
+  "report_ts": "06/08/26 05:15 PM",
   "page_count": 2,
-  "raw_line_count": 22,
+  "raw_line_count": 24,
   "teams": [
     {
       "team_full": "Indiana Fever",
@@ -107,9 +107,9 @@
         {
           "name_last_first": "Thierry, Taylor",
           "name": "Taylor Thierry",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
         }
       ]
     },
@@ -152,8 +152,30 @@
       "game_date": "06/09/2026",
       "game_time": "07:00(ET)",
       "matchup": "ATL@CHI",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Carrington, DiJonai",
+          "name": "DiJonai Carrington",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Foot; Left Foot",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Jackson, Rickea",
+          "name": "Rickea Jackson",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Left Knee",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Vandersloot, Courtney",
+          "name": "Courtney Vandersloot",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; Right Knee",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Dallas Wings",
@@ -192,7 +214,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-08_05_00PM.pdf",
-  "fetched_slot": "2026-06-08T17:00:00-04:00",
-  "polled_at_utc": "2026-06-08T21:00:29.613336+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-08_05_15PM.pdf",
+  "fetched_slot": "2026-06-08T17:15:00-04:00",
+  "polled_at_utc": "2026-06-08T21:15:28.671711+00:00"
 }
