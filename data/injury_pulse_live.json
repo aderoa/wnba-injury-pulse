@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-06-08T19:00:29.149618+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-08_03_00PM.pdf",
-  "report_ts": "06/08/26 03:00 PM",
+  "polled_at_utc": "2026-06-08T19:15:27.796385+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-08_03_15PM.pdf",
+  "report_ts": "06/08/26 03:15 PM",
   "all_players": [
     {
       "name": "Aicha Coulibaly",
@@ -38,7 +38,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; Strain",
       "reason_category": "injury",
-      "last_updated": "2026-06-08T19:00:29.149618+00:00"
+      "last_updated": "2026-06-08T19:15:27.796385+00:00"
     },
     {
       "name": "Ashten Prechtel",
@@ -74,7 +74,16 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Rib; Strain",
       "reason_category": "injury",
-      "last_updated": "2026-06-08T19:00:29.149618+00:00"
+      "last_updated": "2026-06-08T19:15:27.796385+00:00"
+    },
+    {
+      "name": "Chennedy Carter",
+      "team_abbr": "LVA",
+      "team_full": "Las Vegas Aces",
+      "status": "Out",
+      "reason": "Injury/Illness - Left Leg; leftlegis",
+      "reason_category": "injury",
+      "last_updated": "2026-06-08T19:15:27.796385+00:00"
     },
     {
       "name": "Costanza Verona",
@@ -101,7 +110,7 @@
       "status": "Out",
       "reason": "injured. Injury/Illness - Left Leg; leftlegis injured.",
       "reason_category": "injury",
-      "last_updated": "2026-06-08T19:00:29.149618+00:00"
+      "last_updated": "2026-06-08T19:15:27.796385+00:00"
     },
     {
       "name": "Darianna Littlepage-Buggs",
@@ -155,7 +164,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Foot; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-06-08T19:00:29.149618+00:00"
+      "last_updated": "2026-06-08T19:15:27.796385+00:00"
     },
     {
       "name": "Jordan Harrison",
@@ -191,7 +200,7 @@
       "status": "Out",
       "reason": "Not With Team",
       "reason_category": "offcourt",
-      "last_updated": "2026-06-08T19:00:29.149618+00:00"
+      "last_updated": "2026-06-08T19:15:27.796385+00:00"
     },
     {
       "name": "Li Yueru",
@@ -254,7 +263,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Back; Soreness",
       "reason_category": "injury",
-      "last_updated": "2026-06-08T19:00:29.149618+00:00"
+      "last_updated": "2026-06-08T19:15:27.796385+00:00"
     },
     {
       "name": "Sami Whitcomb",
@@ -281,7 +290,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-06-08T19:00:29.149618+00:00"
+      "last_updated": "2026-06-08T19:15:27.796385+00:00"
     },
     {
       "name": "Taylor Thierry",
@@ -290,7 +299,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-06-08T19:00:29.149618+00:00"
+      "last_updated": "2026-06-08T19:15:27.796385+00:00"
     },
     {
       "name": "Temi TorontoTempo Fagbenle",
@@ -308,16 +317,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Right Leg; Lower",
       "reason_category": "injury",
-      "last_updated": "2026-06-08T19:00:29.149618+00:00"
-    },
-    {
-      "name": "Chennedy Carter",
-      "team_abbr": "LVA",
-      "team_full": "Las Vegas Aces",
-      "status": "Questionable",
-      "reason": "Injury/Illness - Left Leg; leftlegis",
-      "reason_category": "injury",
-      "last_updated": "2026-06-08T19:00:29.149618+00:00"
+      "last_updated": "2026-06-08T19:15:27.796385+00:00"
     },
     {
       "name": "Caitlin Clark",
@@ -326,7 +326,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Back; Back",
       "reason_category": "injury",
-      "last_updated": "2026-06-08T19:00:29.149618+00:00"
+      "last_updated": "2026-06-08T19:15:27.796385+00:00"
     },
     {
       "name": "Gabriela Jaquez",
@@ -362,7 +362,7 @@
       "status": "Available",
       "reason": "Injury/Illness - General; Illness",
       "reason_category": "injury",
-      "last_updated": "2026-06-08T19:00:29.149618+00:00"
+      "last_updated": "2026-06-08T19:15:27.796385+00:00"
     },
     {
       "name": "Laura Ziegler",
@@ -415,7 +415,7 @@
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
       "last_submitted_ts": "2026-06-07T03:45:25.604513+00:00",
-      "last_seen_pending_ts": "2026-06-08T19:00:29.149618+00:00",
+      "last_seen_pending_ts": "2026-06-08T19:15:27.796385+00:00",
       "matchups": [
         "WAS@ATL"
       ],
@@ -440,7 +440,7 @@
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
       "last_submitted_ts": "2026-06-08T03:45:32.677637+00:00",
-      "last_seen_pending_ts": "2026-06-08T19:00:29.149618+00:00",
+      "last_seen_pending_ts": "2026-06-08T19:15:27.796385+00:00",
       "matchups": [
         "CHI@TOR"
       ],
@@ -513,7 +513,7 @@
     {
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
-      "last_submitted_ts": "2026-06-08T19:00:29.149618+00:00",
+      "last_submitted_ts": "2026-06-08T19:15:27.796385+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "NYL@CON"
@@ -546,7 +546,7 @@
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
       "last_submitted_ts": "2026-06-06T03:54:01.581997+00:00",
-      "last_seen_pending_ts": "2026-06-08T19:00:29.149618+00:00",
+      "last_seen_pending_ts": "2026-06-08T19:15:27.796385+00:00",
       "matchups": [
         "DAL@LAS"
       ],
@@ -578,7 +578,7 @@
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
       "last_submitted_ts": "2026-06-07T03:45:25.604513+00:00",
-      "last_seen_pending_ts": "2026-06-08T19:00:29.149618+00:00",
+      "last_seen_pending_ts": "2026-06-08T19:15:27.796385+00:00",
       "matchups": [
         "GSV@LVA"
       ],
@@ -602,7 +602,7 @@
     {
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
-      "last_submitted_ts": "2026-06-08T19:00:29.149618+00:00",
+      "last_submitted_ts": "2026-06-08T19:15:27.796385+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "IND@WAS"
@@ -645,7 +645,7 @@
     {
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
-      "last_submitted_ts": "2026-06-08T19:00:29.149618+00:00",
+      "last_submitted_ts": "2026-06-08T19:15:27.796385+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "SEA@LVA"
@@ -654,7 +654,7 @@
         {
           "name_last_first": "Carter, Chennedy",
           "name": "Chennedy Carter",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Left Leg; leftlegis",
           "reason_category": "injury"
         },
@@ -671,7 +671,7 @@
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
       "last_submitted_ts": "2026-06-07T03:45:25.604513+00:00",
-      "last_seen_pending_ts": "2026-06-08T19:00:29.149618+00:00",
+      "last_seen_pending_ts": "2026-06-08T19:15:27.796385+00:00",
       "matchups": [
         "SEA@MIN"
       ],
@@ -716,7 +716,7 @@
     {
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
-      "last_submitted_ts": "2026-06-08T19:00:29.149618+00:00",
+      "last_submitted_ts": "2026-06-08T19:15:27.796385+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "NYL@CON"
@@ -774,7 +774,7 @@
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
       "last_submitted_ts": "2026-06-06T03:54:01.581997+00:00",
-      "last_seen_pending_ts": "2026-06-08T19:00:29.149618+00:00",
+      "last_seen_pending_ts": "2026-06-08T19:15:27.796385+00:00",
       "matchups": [
         "PHX@PDX"
       ],
@@ -805,7 +805,7 @@
     {
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
-      "last_submitted_ts": "2026-06-08T19:00:29.149618+00:00",
+      "last_submitted_ts": "2026-06-08T19:15:27.796385+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "SEA@LVA"
@@ -882,6 +882,16 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-06-08T19:15:27.796385+00:00",
+      "type": "status_change",
+      "team_abbr": "LVA",
+      "player": "Chennedy Carter",
+      "from_status": "Questionable",
+      "to_status": "Out",
+      "reason": "Injury/Illness - Left Leg; leftlegis",
+      "reason_category": "injury"
+    },
     {
       "ts": "2026-06-08T18:30:42.190239+00:00",
       "type": "status_change",
@@ -3124,15 +3134,6 @@
       "player": "Jordan Harrison",
       "previous_status": "Out",
       "previous_reason": "Coach's Decision"
-    },
-    {
-      "ts": "2026-05-28T23:30:21.973680+00:00",
-      "type": "added",
-      "team_abbr": "PDX",
-      "player": "Teja Oblak",
-      "status": "Questionable",
-      "reason": "Injury/Illness - Right Quad; Injury",
-      "reason_category": "injury"
     }
   ]
 }

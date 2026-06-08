@@ -1,5 +1,5 @@
 {
-  "report_ts": "06/08/26 03:00 PM",
+  "report_ts": "06/08/26 03:15 PM",
   "page_count": 2,
   "raw_line_count": 22,
   "teams": [
@@ -124,7 +124,7 @@
         {
           "name_last_first": "Carter, Chennedy",
           "name": "Chennedy Carter",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Left Leg; leftlegis",
           "reason_category": "injury"
         },
@@ -192,7 +192,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-08_03_00PM.pdf",
-  "fetched_slot": "2026-06-08T15:00:00-04:00",
-  "polled_at_utc": "2026-06-08T19:00:29.149618+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-08_03_15PM.pdf",
+  "fetched_slot": "2026-06-08T15:15:00-04:00",
+  "polled_at_utc": "2026-06-08T19:15:27.796385+00:00"
 }

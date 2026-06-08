@@ -6067,5 +6067,15 @@
     "to_status": "Available",
     "reason": "Injury/Illness - General; Illness",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-08T19:15:27.796385+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Chennedy Carter",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Leg; leftlegis",
+    "reason_category": "injury"
   }
 ]
