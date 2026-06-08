@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/08/26 06:15 PM",
+  "report_ts": "06/08/26 06:30 PM",
   "page_count": 2,
-  "raw_line_count": 31,
+  "raw_line_count": 35,
   "teams": [
     {
       "team_full": "Indiana Fever",
@@ -14,16 +14,30 @@
         {
           "name_last_first": "Boston, Aliyah",
           "name": "Aliyah Boston",
-          "status": "Questionable",
-          "reason": "Injury/Illness - Right Leg; Lower",
-          "reason_category": "injury"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
         },
         {
           "name_last_first": "Clark, Caitlin",
           "name": "Caitlin Clark",
-          "status": "Probable",
-          "reason": "Injury/Illness - Back; Back",
-          "reason_category": "injury"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
+        },
+        {
+          "name_last_first": "Hall, Bree",
+          "name": "Bree Hall",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Pissott, Justine",
+          "name": "Justine Pissott",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -74,11 +88,25 @@
           "reason_category": "injury"
         },
         {
+          "name_last_first": "Jackson, Ashlon",
+          "name": "Ashlon Jackson",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Morrow, Aneesah",
           "name": "Aneesah Morrow",
           "status": "Out",
           "reason": "Injury/Illness - Left Leg; Strain",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "VanLith, Hailey",
+          "name": "Hailey VanLith",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -273,7 +301,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-08_06_15PM.pdf",
-  "fetched_slot": "2026-06-08T18:15:00-04:00",
-  "polled_at_utc": "2026-06-08T22:15:29.687090+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-08_06_30PM.pdf",
+  "fetched_slot": "2026-06-08T18:30:00-04:00",
+  "polled_at_utc": "2026-06-08T22:30:29.126369+00:00"
 }

@@ -6215,5 +6215,61 @@
     "from_reason": "Injury/Illness - Right Foot; Rightfoot",
     "to_reason": "Injury/Illness - Right Foot; Right Foot",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-08T22:30:29.126369+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Bree Hall",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-08T22:30:29.126369+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Justine Pissott",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-08T22:30:29.126369+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-06-08T22:30:29.126369+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Aliyah Boston",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-06-08T22:30:29.126369+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Ashlon Jackson",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-08T22:30:29.126369+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Hailey VanLith",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
