@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/08/26 07:45 PM",
+  "report_ts": "06/08/26 08:00 PM",
   "page_count": 2,
-  "raw_line_count": 37,
+  "raw_line_count": 41,
   "teams": [
     {
       "team_full": "Indiana Fever",
@@ -312,8 +312,30 @@
       "game_date": "06/09/2026",
       "game_time": "10:00(ET)",
       "matchup": "PHX@GSV",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Copper, Kahleah",
+          "name": "Kahleah Copper",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Hip;-",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Thomas, Alyssa",
+          "name": "Alyssa Thomas",
+          "status": "Probable",
+          "reason": "Injury/Illness - Left Calf;-",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Whitcomb, Sami",
+          "name": "Sami Whitcomb",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Arthroscopy",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Golden State Valkyries",
@@ -325,7 +347,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-08_07_45PM.pdf",
-  "fetched_slot": "2026-06-08T19:45:00-04:00",
-  "polled_at_utc": "2026-06-08T23:45:27.006885+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-08_08_00PM.pdf",
+  "fetched_slot": "2026-06-08T20:00:00-04:00",
+  "polled_at_utc": "2026-06-09T00:00:30.039081+00:00"
 }

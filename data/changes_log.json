@@ -6304,5 +6304,25 @@
     "player": "Sonia Citron",
     "previous_status": "Available",
     "previous_reason": "-"
+  },
+  {
+    "ts": "2026-06-09T00:00:30.039081+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "Alyssa Thomas",
+    "from_status": "Out",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Left Calf;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-09T00:00:30.039081+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "Kahleah Copper",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Hip;-",
+    "reason_category": "injury"
   }
 ]
