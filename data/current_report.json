@@ -1,201 +1,8 @@
 {
-  "report_ts": "06/08/26 11:45 PM",
+  "report_ts": "06/09/26 12:00 AM",
   "page_count": 2,
-  "raw_line_count": 40,
+  "raw_line_count": 19,
   "teams": [
-    {
-      "team_full": "Indiana Fever",
-      "team_abbr": "IND",
-      "game_date": "06/08/2026",
-      "game_time": "07:00(ET)",
-      "matchup": "IND@WAS",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Boston, Aliyah",
-          "name": "Aliyah Boston",
-          "status": "Available",
-          "reason": "-",
-          "reason_category": "other"
-        },
-        {
-          "name_last_first": "Clark, Caitlin",
-          "name": "Caitlin Clark",
-          "status": "Available",
-          "reason": "-",
-          "reason_category": "other"
-        },
-        {
-          "name_last_first": "Hall, Bree",
-          "name": "Bree Hall",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Pissott, Justine",
-          "name": "Justine Pissott",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Washington Mystics",
-      "team_abbr": "WAS",
-      "game_date": "06/08/2026",
-      "game_time": "07:00(ET)",
-      "matchup": "IND@WAS",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Littlepage-Buggs, Darianna",
-          "name": "Darianna Littlepage-Buggs",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "New York Liberty",
-      "team_abbr": "NYL",
-      "game_date": "06/08/2026",
-      "game_time": "07:00(ET)",
-      "matchup": "NYL@CON",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Ionescu, Sabrina",
-          "name": "Sabrina Ionescu",
-          "status": "Out",
-          "reason": "Injury/Illness - Back; Soreness",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Jones, Jonquel",
-          "name": "Jonquel Jones",
-          "status": "Out",
-          "reason": "Injury/Illness - Ilness; Illness",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Maley, Anneli",
-          "name": "Anneli Maley",
-          "status": "Out",
-          "reason": "Coach's Decision - Developmental Player",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Connecticut Sun",
-      "team_abbr": "CON",
-      "game_date": "06/08/2026",
-      "game_time": "07:00(ET)",
-      "matchup": "NYL@CON",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Burke, Kennedy",
-          "name": "Kennedy Burke",
-          "status": "Available",
-          "reason": "Injury/Illness - General; Illness",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Griner, Brittney",
-          "name": "Brittney Griner",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Rib; Strain",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Jackson, Ashlon",
-          "name": "Ashlon Jackson",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Morrow, Aneesah",
-          "name": "Aneesah Morrow",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Leg; Strain",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "VanLith, Hailey",
-          "name": "Hailey VanLith",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Seattle Storm",
-      "team_abbr": "SEA",
-      "game_date": "06/08/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "SEA@LVA",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Brown, Lexie",
-          "name": "Lexie Brown",
-          "status": "Out",
-          "reason": "Not With Team",
-          "reason_category": "offcourt"
-        },
-        {
-          "name_last_first": "Magbegor, Ezi",
-          "name": "Ezi Magbegor",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Foot; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Mair, Taina",
-          "name": "Taina Mair",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Thierry, Taylor",
-          "name": "Taylor Thierry",
-          "status": "Available",
-          "reason": "-",
-          "reason_category": "other"
-        }
-      ]
-    },
-    {
-      "team_full": "Las Vegas Aces",
-      "team_abbr": "LVA",
-      "game_date": "06/08/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "SEA@LVA",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Carter, Chennedy",
-          "name": "Chennedy Carter",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Leg; leftlegis",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Evans, Dana",
-          "name": "Dana Evans",
-          "status": "Out",
-          "reason": "injured. Injury/Illness - Left Leg; leftlegis injured.",
-          "reason_category": "injury"
-        }
-      ]
-    },
     {
       "team_full": "Atlanta Dream",
       "team_abbr": "ATL",
@@ -336,9 +143,36 @@
           "reason_category": "injury"
         }
       ]
+    },
+    {
+      "team_full": "Connecticut Sun",
+      "team_abbr": "CON",
+      "game_date": "06/10/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "CON@TOR",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Los Angeles Sparks",
+      "team_abbr": "LAS",
+      "game_date": "06/10/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "LAS@SEA",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Seattle Storm",
+      "team_abbr": "SEA",
+      "game_date": "06/10/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "LAS@SEA",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-08_11_45PM.pdf",
-  "fetched_slot": "2026-06-08T23:45:00-04:00",
-  "polled_at_utc": "2026-06-09T03:45:28.616524+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-09_12_00AM.pdf",
+  "fetched_slot": "2026-06-09T00:00:00-04:00",
+  "polled_at_utc": "2026-06-09T04:00:33.492012+00:00"
 }
