@@ -1,5 +1,5 @@
 {
-  "report_ts": "06/09/26 07:00 PM",
+  "report_ts": "06/09/26 07:15 PM",
   "page_count": 2,
   "raw_line_count": 27,
   "teams": [
@@ -159,14 +159,14 @@
         {
           "name_last_first": "Copper, Kahleah",
           "name": "Kahleah Copper",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Left Hip;-",
           "reason_category": "injury"
         },
         {
           "name_last_first": "Thomas, Alyssa",
           "name": "Alyssa Thomas",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness - Left Calf;-",
           "reason_category": "injury"
         },
@@ -243,7 +243,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-09_07_00PM.pdf",
-  "fetched_slot": "2026-06-09T19:00:00-04:00",
-  "polled_at_utc": "2026-06-09T23:00:28.376519+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-09_07_15PM.pdf",
+  "fetched_slot": "2026-06-09T19:15:00-04:00",
+  "polled_at_utc": "2026-06-09T23:15:27.423385+00:00"
 }

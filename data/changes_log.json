@@ -6433,5 +6433,25 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-09T23:15:27.423385+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "Kahleah Copper",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Hip;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-09T23:15:27.423385+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "Alyssa Thomas",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Calf;-",
+    "reason_category": "injury"
   }
 ]
