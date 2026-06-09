@@ -6415,5 +6415,23 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Left Ankle; n/a",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-09T23:00:28.376519+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Eliska Hamzova",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-09T23:00:28.376519+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Liatu King",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]

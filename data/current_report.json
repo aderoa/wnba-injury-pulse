@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/09/26 06:45 PM",
+  "report_ts": "06/09/26 07:00 PM",
   "page_count": 2,
-  "raw_line_count": 25,
+  "raw_line_count": 27,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -126,11 +126,25 @@
           "reason_category": "injury"
         },
         {
+          "name_last_first": "Hamzova, Eliska",
+          "name": "Eliska Hamzova",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Juhasz, Dorka",
           "name": "Dorka Juhasz",
           "status": "Out",
           "reason": "Injury/Illness - Right Foot; Right Foot",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "King, Liatu",
+          "name": "Liatu King",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -229,7 +243,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-09_06_45PM.pdf",
-  "fetched_slot": "2026-06-09T18:45:00-04:00",
-  "polled_at_utc": "2026-06-09T22:45:28.711665+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-09_07_00PM.pdf",
+  "fetched_slot": "2026-06-09T19:00:00-04:00",
+  "polled_at_utc": "2026-06-09T23:00:28.376519+00:00"
 }
