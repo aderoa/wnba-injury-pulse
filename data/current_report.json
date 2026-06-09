@@ -1,5 +1,5 @@
 {
-  "report_ts": "06/09/26 06:15 PM",
+  "report_ts": "06/09/26 06:30 PM",
   "page_count": 2,
   "raw_line_count": 25,
   "teams": [
@@ -97,7 +97,7 @@
         {
           "name_last_first": "Yueru, Li",
           "name": "Li Yueru",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness - Left Ankle; n/a",
           "reason_category": "injury"
         }
@@ -229,7 +229,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-09_06_15PM.pdf",
-  "fetched_slot": "2026-06-09T18:15:00-04:00",
-  "polled_at_utc": "2026-06-09T22:15:27.265226+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-09_06_30PM.pdf",
+  "fetched_slot": "2026-06-09T18:30:00-04:00",
+  "polled_at_utc": "2026-06-09T22:30:26.991330+00:00"
 }
