@@ -4,6 +4,13 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-06-09 20:15 UTC
+
+- **Kennedy Burke** (CON) cleared (was Available)
+- **Ashlon Jackson** (CON) cleared (was Out)
+- **Hailey VanLith** (CON, Out): reason updated (Coach's Decision → Injury/Illness - Left Ankle; Contusion)
+- **Brittney Griner** (CON): **Out** → **Questionable** — Injury/Illness - Left Rib; Strain
+
 ## 2026-06-09 00:00 UTC
 
 - **Alyssa Thomas** (PHX): **Out** → **Probable** — Injury/Illness - Left Calf;-

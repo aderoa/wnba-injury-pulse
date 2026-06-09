@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/09/26 04:00 PM",
+  "report_ts": "06/09/26 04:15 PM",
   "page_count": 2,
-  "raw_line_count": 19,
+  "raw_line_count": 21,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -150,8 +150,30 @@
       "game_date": "06/10/2026",
       "game_time": "07:00(ET)",
       "matchup": "CON@TOR",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Griner, Brittney",
+          "name": "Brittney Griner",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Rib; Strain",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Morrow, Aneesah",
+          "name": "Aneesah Morrow",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Leg; Strain",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "VanLith, Hailey",
+          "name": "Hailey VanLith",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; Contusion",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Los Angeles Sparks",
@@ -172,7 +194,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-09_04_00PM.pdf",
-  "fetched_slot": "2026-06-09T16:00:00-04:00",
-  "polled_at_utc": "2026-06-09T20:00:36.719996+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-09_04_15PM.pdf",
+  "fetched_slot": "2026-06-09T16:15:00-04:00",
+  "polled_at_utc": "2026-06-09T20:15:39.095090+00:00"
 }
