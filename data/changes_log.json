@@ -6378,5 +6378,32 @@
     "status": "Out",
     "reason": "Injury/Illness - Left Ankle; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-09T22:00:33.767143+00:00",
+    "type": "added",
+    "team_abbr": "ATL",
+    "player": "Amy Okonkwo",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-09T22:00:33.767143+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Aicha Coulibaly",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-09T22:00:33.767143+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Maddy Westbeld",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
