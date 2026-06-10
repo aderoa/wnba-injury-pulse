@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/10/26 04:45 PM",
+  "report_ts": "06/10/26 05:00 PM",
   "page_count": 1,
-  "raw_line_count": 15,
+  "raw_line_count": 17,
   "teams": [
     {
       "team_full": "Connecticut Sun",
@@ -78,8 +78,30 @@
       "game_date": "06/11/2026",
       "game_time": "07:00(ET)",
       "matchup": "CHI@IND",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Carrington, DiJonai",
+          "name": "DiJonai Carrington",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Foot; Left Foot",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Jackson, Rickea",
+          "name": "Rickea Jackson",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Left Knee",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Vandersloot, Courtney",
+          "name": "Courtney Vandersloot",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; Right Knee",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Indiana Fever",
@@ -96,8 +118,16 @@
       "game_date": "06/11/2026",
       "game_time": "07:30(ET)",
       "matchup": "NYL@ATL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Ionescu, Sabrina",
+          "name": "Sabrina Ionescu",
+          "status": "Out",
+          "reason": "Injury/Illness - Back; Soreness",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Atlanta Dream",
@@ -153,7 +183,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-10_04_45PM.pdf",
-  "fetched_slot": "2026-06-10T16:45:00-04:00",
-  "polled_at_utc": "2026-06-10T20:45:46.675040+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-10_05_00PM.pdf",
+  "fetched_slot": "2026-06-10T17:00:00-04:00",
+  "polled_at_utc": "2026-06-10T21:00:48.705146+00:00"
 }

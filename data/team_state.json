@@ -33,7 +33,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-06-10T20:45:46.675040+00:00"
+    "last_seen_pending_ts": "2026-06-10T21:00:48.705146+00:00"
   },
   "IND": {
     "team_full": "Indiana Fever",
@@ -76,7 +76,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-06-10T20:45:46.675040+00:00"
+    "last_seen_pending_ts": "2026-06-10T21:00:48.705146+00:00"
   },
   "PHX": {
     "team_full": "Phoenix Mercury",
@@ -126,7 +126,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-06-10T20:45:46.675040+00:00"
+    "last_seen_pending_ts": "2026-06-10T21:00:48.705146+00:00"
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
@@ -155,13 +155,13 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-06-10T20:45:46.675040+00:00"
+    "last_seen_pending_ts": "2026-06-10T21:00:48.705146+00:00"
   },
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-06-10T20:45:46.675040+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-10_04_45PM.pdf",
+    "last_submitted_ts": "2026-06-10T21:00:48.705146+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-10_05_00PM.pdf",
     "game_dates": [
       "06/11/2026"
     ],
@@ -230,13 +230,13 @@
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-06-10T03:45:26.611855+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-09_11_45PM.pdf",
+    "last_submitted_ts": "2026-06-10T21:00:48.705146+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-10_05_00PM.pdf",
     "game_dates": [
-      "06/09/2026"
+      "06/11/2026"
     ],
     "matchups": [
-      "ATL@CHI"
+      "CHI@IND"
     ],
     "players": [
       {
@@ -245,13 +245,6 @@
         "status": "Out",
         "reason": "Injury/Illness - Left Foot; Left Foot",
         "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Coulibaly, Aicha",
-        "name": "Aicha Coulibaly",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
       },
       {
         "name_last_first": "Jackson, Rickea",
@@ -266,16 +259,8 @@
         "status": "Out",
         "reason": "Injury/Illness - Right Knee; Right Knee",
         "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Westbeld, Maddy",
-        "name": "Maddy Westbeld",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
       }
-    ],
-    "last_seen_pending_ts": "2026-06-10T20:45:46.675040+00:00"
+    ]
   },
   "PDX": {
     "team_full": "Portland Fire",
@@ -318,13 +303,13 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-06-10T20:45:46.675040+00:00"
+    "last_seen_pending_ts": "2026-06-10T21:00:48.705146+00:00"
   },
   "SEA": {
     "team_full": "Seattle Storm",
     "submitted": true,
-    "last_submitted_ts": "2026-06-10T20:45:46.675040+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-10_04_45PM.pdf",
+    "last_submitted_ts": "2026-06-10T21:00:48.705146+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-10_05_00PM.pdf",
     "game_dates": [
       "06/10/2026"
     ],
@@ -351,8 +336,8 @@
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-06-10T20:45:46.675040+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-10_04_45PM.pdf",
+    "last_submitted_ts": "2026-06-10T21:00:48.705146+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-10_05_00PM.pdf",
     "game_dates": [
       "06/10/2026"
     ],
@@ -400,13 +385,13 @@
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-06-09T03:45:28.616524+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-08_11_45PM.pdf",
+    "last_submitted_ts": "2026-06-10T21:00:48.705146+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-10_05_00PM.pdf",
     "game_dates": [
-      "06/08/2026"
+      "06/11/2026"
     ],
     "matchups": [
-      "NYL@CON"
+      "NYL@ATL"
     ],
     "players": [
       {
@@ -415,23 +400,8 @@
         "status": "Out",
         "reason": "Injury/Illness - Back; Soreness",
         "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Jones, Jonquel",
-        "name": "Jonquel Jones",
-        "status": "Out",
-        "reason": "Injury/Illness - Ilness; Illness",
-        "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Maley, Anneli",
-        "name": "Anneli Maley",
-        "status": "Out",
-        "reason": "Coach's Decision - Developmental Player",
-        "reason_category": "rest_coach"
       }
-    ],
-    "last_seen_pending_ts": "2026-06-10T20:45:46.675040+00:00"
+    ]
   },
   "WAS": {
     "team_full": "Washington Mystics",
