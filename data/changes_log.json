@@ -6469,5 +6469,33 @@
     "player": "Taylor Thierry",
     "previous_status": "Available",
     "previous_reason": "-"
+  },
+  {
+    "ts": "2026-06-10T01:15:28.831699+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Marta Suarez",
+    "status": "Out",
+    "reason": "Coach's Decision - Developmental Player",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-10T01:15:28.831699+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Kiana Williams",
+    "status": "Out",
+    "reason": "Arthroscopy Coach's Decision - Developmental Player",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-10T01:15:28.831699+00:00",
+    "type": "reason_change",
+    "team_abbr": "PHX",
+    "player": "Sami Whitcomb",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Knee; Arthroscopy",
+    "to_reason": "Injury/Illness - Left Knee;",
+    "reason_category": "injury"
   }
 ]

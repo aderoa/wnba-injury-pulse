@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/09/26 09:00 PM",
+  "report_ts": "06/09/26 09:15 PM",
   "page_count": 2,
-  "raw_line_count": 27,
+  "raw_line_count": 35,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -164,6 +164,13 @@
           "reason_category": "injury"
         },
         {
+          "name_last_first": "Suarez, Marta",
+          "name": "Marta Suarez",
+          "status": "Out",
+          "reason": "Coach's Decision - Developmental Player",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Thomas, Alyssa",
           "name": "Alyssa Thomas",
           "status": "Available",
@@ -174,8 +181,39 @@
           "name_last_first": "Whitcomb, Sami",
           "name": "Sami Whitcomb",
           "status": "Out",
-          "reason": "Injury/Illness - Left Knee; Arthroscopy",
+          "reason": "Injury/Illness - Left Knee;",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Williams, Kiana",
+          "name": "Kiana Williams",
+          "status": "Out",
+          "reason": "Arthroscopy Coach's Decision - Developmental Player",
+          "reason_category": "rest_coach"
+        }
+      ]
+    },
+    {
+      "team_full": "Golden State Valkyries",
+      "team_abbr": "GSV",
+      "game_date": "06/09/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "PHX@GSV",
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Prechtel, Ashten",
+          "name": "Ashten Prechtel",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Sowah, Miela",
+          "name": "Miela Sowah",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -249,7 +287,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-09_09_00PM.pdf",
-  "fetched_slot": "2026-06-09T21:00:00-04:00",
-  "polled_at_utc": "2026-06-10T01:00:36.363482+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-09_09_15PM.pdf",
+  "fetched_slot": "2026-06-09T21:15:00-04:00",
+  "polled_at_utc": "2026-06-10T01:15:28.831699+00:00"
 }
