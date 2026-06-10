@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-06-10T23:15:43.555106+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-10_07_15PM.pdf",
-  "report_ts": "06/10/26 07:15 PM",
+  "polled_at_utc": "2026-06-10T23:30:46.478326+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-10_07_30PM.pdf",
+  "report_ts": "06/10/26 07:30 PM",
   "all_players": [
     {
       "name": "Aneesah Morrow",
@@ -11,7 +11,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; Strain",
       "reason_category": "injury",
-      "last_updated": "2026-06-10T23:15:43.555106+00:00"
+      "last_updated": "2026-06-10T23:30:46.478326+00:00"
     },
     {
       "name": "Ashten Prechtel",
@@ -29,7 +29,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-06-10T23:15:43.555106+00:00"
+      "last_updated": "2026-06-10T23:30:46.478326+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -38,7 +38,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Rib; Strain",
       "reason_category": "injury",
-      "last_updated": "2026-06-10T23:15:43.555106+00:00"
+      "last_updated": "2026-06-10T23:30:46.478326+00:00"
     },
     {
       "name": "Chennedy Carter",
@@ -56,7 +56,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; Right Knee",
       "reason_category": "injury",
-      "last_updated": "2026-06-10T23:15:43.555106+00:00"
+      "last_updated": "2026-06-10T23:30:46.478326+00:00"
     },
     {
       "name": "Dana Evans",
@@ -83,7 +83,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Foot; Left Foot",
       "reason_category": "injury",
-      "last_updated": "2026-06-10T23:15:43.555106+00:00"
+      "last_updated": "2026-06-10T23:30:46.478326+00:00"
     },
     {
       "name": "Dorka Juhasz",
@@ -119,7 +119,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Foot; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-06-10T23:15:43.555106+00:00"
+      "last_updated": "2026-06-10T23:30:46.478326+00:00"
     },
     {
       "name": "Hailey VanLith",
@@ -128,7 +128,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Ankle; Contusion",
       "reason_category": "injury",
-      "last_updated": "2026-06-10T23:15:43.555106+00:00"
+      "last_updated": "2026-06-10T23:30:46.478326+00:00"
     },
     {
       "name": "Jordan Harrison",
@@ -146,7 +146,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Ankle; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-06-10T23:15:43.555106+00:00"
+      "last_updated": "2026-06-10T23:30:46.478326+00:00"
     },
     {
       "name": "Liatu King",
@@ -182,7 +182,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Ankle; n/a",
       "reason_category": "injury",
-      "last_updated": "2026-06-10T23:15:43.555106+00:00"
+      "last_updated": "2026-06-10T23:30:46.478326+00:00"
     },
     {
       "name": "Rickea Jackson",
@@ -191,7 +191,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; Left Knee",
       "reason_category": "injury",
-      "last_updated": "2026-06-10T23:15:43.555106+00:00"
+      "last_updated": "2026-06-10T23:30:46.478326+00:00"
     },
     {
       "name": "Sabrina Ionescu",
@@ -200,7 +200,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Back; Soreness",
       "reason_category": "injury",
-      "last_updated": "2026-06-10T23:15:43.555106+00:00"
+      "last_updated": "2026-06-10T23:30:46.478326+00:00"
     },
     {
       "name": "Sami Whitcomb",
@@ -209,7 +209,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; Arthroscopy",
       "reason_category": "injury",
-      "last_updated": "2026-06-10T23:15:43.555106+00:00"
+      "last_updated": "2026-06-10T23:30:46.478326+00:00"
     },
     {
       "name": "Serah Williams",
@@ -227,7 +227,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-06-10T23:15:43.555106+00:00"
+      "last_updated": "2026-06-10T23:30:46.478326+00:00"
     },
     {
       "name": "Temi TorontoTempo Fagbenle",
@@ -236,7 +236,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Shoulder; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-06-10T23:15:43.555106+00:00"
+      "last_updated": "2026-06-10T23:30:46.478326+00:00"
     },
     {
       "name": "Sophie Cunningham",
@@ -245,7 +245,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Right Elbow; Elbow",
       "reason_category": "injury",
-      "last_updated": "2026-06-10T23:15:43.555106+00:00"
+      "last_updated": "2026-06-10T23:30:46.478326+00:00"
     },
     {
       "name": "Awak Kuier",
@@ -254,7 +254,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Right Wrist; n/a",
       "reason_category": "injury",
-      "last_updated": "2026-06-10T23:15:43.555106+00:00"
+      "last_updated": "2026-06-10T23:30:46.478326+00:00"
     },
     {
       "name": "Caitlin Clark",
@@ -263,7 +263,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - back; Back",
       "reason_category": "injury",
-      "last_updated": "2026-06-10T23:15:43.555106+00:00"
+      "last_updated": "2026-06-10T23:30:46.478326+00:00"
     },
     {
       "name": "Karlie Samuelson",
@@ -297,7 +297,7 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-06-10T23:15:43.555106+00:00",
+      "last_submitted_ts": "2026-06-10T23:30:46.478326+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "NYL@ATL"
@@ -315,7 +315,7 @@
     {
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
-      "last_submitted_ts": "2026-06-10T23:15:43.555106+00:00",
+      "last_submitted_ts": "2026-06-10T23:30:46.478326+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "CHI@IND"
@@ -347,7 +347,7 @@
     {
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
-      "last_submitted_ts": "2026-06-10T23:15:43.555106+00:00",
+      "last_submitted_ts": "2026-06-10T23:30:46.478326+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "CON@TOR"
@@ -393,7 +393,7 @@
     {
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
-      "last_submitted_ts": "2026-06-10T23:15:43.555106+00:00",
+      "last_submitted_ts": "2026-06-10T23:30:46.478326+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "PHX@DAL"
@@ -443,7 +443,7 @@
     {
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
-      "last_submitted_ts": "2026-06-10T23:15:43.555106+00:00",
+      "last_submitted_ts": "2026-06-10T23:30:46.478326+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "CHI@IND"
@@ -487,7 +487,7 @@
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
       "last_submitted_ts": "2026-06-09T03:45:28.616524+00:00",
-      "last_seen_pending_ts": "2026-06-10T23:15:43.555106+00:00",
+      "last_seen_pending_ts": "2026-06-10T23:30:46.478326+00:00",
       "matchups": [
         "SEA@LVA"
       ],
@@ -557,7 +557,7 @@
     {
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
-      "last_submitted_ts": "2026-06-10T23:15:43.555106+00:00",
+      "last_submitted_ts": "2026-06-10T23:30:46.478326+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "NYL@ATL"
@@ -576,7 +576,7 @@
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
       "last_submitted_ts": "2026-06-08T03:45:32.677637+00:00",
-      "last_seen_pending_ts": "2026-06-10T23:15:43.555106+00:00",
+      "last_seen_pending_ts": "2026-06-10T23:30:46.478326+00:00",
       "matchups": [
         "PDX@LAS"
       ],
@@ -614,7 +614,7 @@
     {
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
-      "last_submitted_ts": "2026-06-10T23:15:43.555106+00:00",
+      "last_submitted_ts": "2026-06-10T23:30:46.478326+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "PHX@DAL"
@@ -632,7 +632,7 @@
     {
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
-      "last_submitted_ts": "2026-06-10T23:15:43.555106+00:00",
+      "last_submitted_ts": "2026-06-10T23:30:46.478326+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "LAS@SEA"
