@@ -1,5 +1,5 @@
 {
-  "report_ts": "06/10/26 04:30 PM",
+  "report_ts": "06/10/26 04:45 PM",
   "page_count": 1,
   "raw_line_count": 15,
   "teams": [
@@ -105,8 +105,16 @@
       "game_date": "06/11/2026",
       "game_time": "07:30(ET)",
       "matchup": "NYL@ATL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Jones, Brionna",
+          "name": "Brionna Jones",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; N/A",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Phoenix Mercury",
@@ -145,7 +153,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-10_04_30PM.pdf",
-  "fetched_slot": "2026-06-10T16:30:00-04:00",
-  "polled_at_utc": "2026-06-10T20:30:45.943637+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-10_04_45PM.pdf",
+  "fetched_slot": "2026-06-10T16:45:00-04:00",
+  "polled_at_utc": "2026-06-10T20:45:46.675040+00:00"
 }
