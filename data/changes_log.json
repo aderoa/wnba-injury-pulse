@@ -6590,5 +6590,65 @@
     "to_status": "Probable",
     "reason": "Injury/Illness - back; Back",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-10T22:00:42.839593+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Kahleah Copper",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Left Hip;-"
+  },
+  {
+    "ts": "2026-06-10T22:00:42.839593+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Marta Suarez",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental Player"
+  },
+  {
+    "ts": "2026-06-10T22:00:42.839593+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Alyssa Thomas",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Left Calf;-"
+  },
+  {
+    "ts": "2026-06-10T22:00:42.839593+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Kiana Williams",
+    "previous_status": "Out",
+    "previous_reason": "Arthroscopy Coach's Decision - Developmental Player"
+  },
+  {
+    "ts": "2026-06-10T22:00:42.839593+00:00",
+    "type": "reason_change",
+    "team_abbr": "PHX",
+    "player": "Sami Whitcomb",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Knee;",
+    "to_reason": "Injury/Illness - Left Knee; Arthroscopy",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-10T22:00:42.839593+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Li Yueru",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Left Ankle; n/a"
+  },
+  {
+    "ts": "2026-06-10T22:00:42.839593+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Awak Kuier",
+    "from_status": "Out",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Right Wrist; n/a",
+    "reason_category": "injury"
   }
 ]

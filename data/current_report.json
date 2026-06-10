@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/10/26 05:45 PM",
+  "report_ts": "06/10/26 06:00 PM",
   "page_count": 2,
-  "raw_line_count": 18,
+  "raw_line_count": 21,
   "teams": [
     {
       "team_full": "Connecticut Sun",
@@ -167,8 +167,16 @@
       "game_date": "06/11/2026",
       "game_time": "09:00(ET)",
       "matchup": "PHX@DAL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Whitcomb, Sami",
+          "name": "Sami Whitcomb",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Arthroscopy",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Dallas Wings",
@@ -176,8 +184,23 @@
       "game_date": "06/11/2026",
       "game_time": "09:00(ET)",
       "matchup": "PHX@DAL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Kuier, Awak",
+          "name": "Awak Kuier",
+          "status": "Probable",
+          "reason": "Injury/Illness - Right Wrist; n/a",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sims, Odyssey",
+          "name": "Odyssey Sims",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; n/a",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Las Vegas Aces",
@@ -198,7 +221,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-10_05_45PM.pdf",
-  "fetched_slot": "2026-06-10T17:45:00-04:00",
-  "polled_at_utc": "2026-06-10T21:45:47.139940+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-10_06_00PM.pdf",
+  "fetched_slot": "2026-06-10T18:00:00-04:00",
+  "polled_at_utc": "2026-06-10T22:00:42.839593+00:00"
 }
