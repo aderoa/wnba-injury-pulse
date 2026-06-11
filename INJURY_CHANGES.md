@@ -4,6 +4,14 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-06-11 00:00 UTC
+
+- **Carla Leite** (PDX) newly listed as **Questionable** — Injury/Illness - Left Quad; Contusion
+- **SarahAshlee Barker** (PDX) cleared (was Available)
+- **Jordan Harrison** (PDX) cleared (was Out)
+- **Karlie Samuelson** (PDX) cleared (was Available)
+- **Serah Williams** (PDX) cleared (was Out)
+
 ## 2026-06-10 22:00 UTC
 
 - **Kahleah Copper** (PHX) cleared (was Available)
