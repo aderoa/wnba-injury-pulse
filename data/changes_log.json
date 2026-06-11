@@ -6691,5 +6691,25 @@
     "player": "Serah Williams",
     "previous_status": "Out",
     "previous_reason": "Injury/Illness - N/A; Illness"
+  },
+  {
+    "ts": "2026-06-11T00:15:42.556854+00:00",
+    "type": "reason_change",
+    "team_abbr": "LVA",
+    "player": "Dana Evans",
+    "status": "Out",
+    "from_reason": "injured. Injury/Illness - Left Leg; leftlegis injured.",
+    "to_reason": "Injury/Illness - Left Leg; leftleg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-11T00:15:42.556854+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Chennedy Carter",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Leg; leftleg",
+    "reason_category": "injury"
   }
 ]
