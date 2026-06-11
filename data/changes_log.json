@@ -6711,5 +6711,24 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Left Leg; leftleg",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-11T01:15:44.338444+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Kate Martin",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-11T01:15:44.338444+00:00",
+    "type": "status_change",
+    "team_abbr": "LAS",
+    "player": "Laura Ziegler",
+    "from_status": "Available",
+    "to_status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
