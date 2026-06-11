@@ -1,101 +1,8 @@
 {
-  "report_ts": "06/10/26 11:45 PM",
+  "report_ts": "06/11/26 12:00 AM",
   "page_count": 2,
-  "raw_line_count": 23,
+  "raw_line_count": 19,
   "teams": [
-    {
-      "team_full": "Connecticut Sun",
-      "team_abbr": "CON",
-      "game_date": "06/10/2026",
-      "game_time": "07:00(ET)",
-      "matchup": "CON@TOR",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Griner, Brittney",
-          "name": "Brittney Griner",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Rib; Strain",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Morrow, Aneesah",
-          "name": "Aneesah Morrow",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Leg; Strain",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "VanLith, Hailey",
-          "name": "Hailey VanLith",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Ankle; Contusion",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "TorontoTempo Fagbenle, Temi",
-          "name": "Temi TorontoTempo Fagbenle",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Shoulder; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Rice, Kiki",
-          "name": "Kiki Rice",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Ankle; Injury",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Los Angeles Sparks",
-      "team_abbr": "LAS",
-      "game_date": "06/10/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "LAS@SEA",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Martin, Kate",
-          "name": "Kate Martin",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Ziegler, Laura",
-          "name": "Laura Ziegler",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Seattle Storm",
-      "team_abbr": "SEA",
-      "game_date": "06/10/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "LAS@SEA",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Magbegor, Ezi",
-          "name": "Ezi Magbegor",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Foot; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Mair, Taina",
-          "name": "Taina Mair",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
     {
       "team_full": "Chicago Sky",
       "team_abbr": "CHI",
@@ -266,9 +173,45 @@
           "reason_category": "injury"
         }
       ]
+    },
+    {
+      "team_full": "Portland Fire",
+      "team_abbr": "PDX",
+      "game_date": "06/12/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "TOR@WAS",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Washington Mystics",
+      "team_abbr": "WAS",
+      "game_date": "06/12/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "TOR@WAS",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Golden State Valkyries",
+      "team_abbr": "GSV",
+      "game_date": "06/12/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "GSV@SEA",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Seattle Storm",
+      "team_abbr": "SEA",
+      "game_date": "06/12/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "GSV@SEA",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-10_11_45PM.pdf",
-  "fetched_slot": "2026-06-10T23:45:00-04:00",
-  "polled_at_utc": "2026-06-11T03:45:44.020452+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-11_12_00AM.pdf",
+  "fetched_slot": "2026-06-11T00:00:00-04:00",
+  "polled_at_utc": "2026-06-11T04:00:41.980047+00:00"
 }
