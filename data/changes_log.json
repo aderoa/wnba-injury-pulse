@@ -6740,5 +6740,25 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Right Wrist; n/a",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-11T20:46:00.184194+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-06-11T20:46:00.184194+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Sophie Cunningham",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Elbow; Elbow",
+    "reason_category": "injury"
   }
 ]
