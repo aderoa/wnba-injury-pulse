@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/11/26 05:30 PM",
+  "report_ts": "06/11/26 05:45 PM",
   "page_count": 2,
-  "raw_line_count": 23,
+  "raw_line_count": 24,
   "teams": [
     {
       "team_full": "Chicago Sky",
@@ -55,6 +55,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Right Elbow; Elbow",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Pissott, Justine",
+          "name": "Justine Pissott",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -241,7 +248,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-11_05_30PM.pdf",
-  "fetched_slot": "2026-06-11T17:30:00-04:00",
-  "polled_at_utc": "2026-06-11T21:31:10.921257+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-11_05_45PM.pdf",
+  "fetched_slot": "2026-06-11T17:45:00-04:00",
+  "polled_at_utc": "2026-06-11T21:46:02.168984+00:00"
 }
