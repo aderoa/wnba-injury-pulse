@@ -6760,5 +6760,49 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Right Elbow; Elbow",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-11T21:01:15.922837+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Temi TorontoTempo Fagbenle",
+    "status": "Probable",
+    "reason": "Injury/Illness - Right Shoulder; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-11T21:01:15.922837+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Kiki Rice",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Ankle; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-11T21:01:15.922837+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Nyara Sabally",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Right Hamstring; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-11T21:01:15.922837+00:00",
+    "type": "added",
+    "team_abbr": "WAS",
+    "player": "Kiki Iriafen",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Rightankle; Sprain",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-11T21:01:15.922837+00:00",
+    "type": "cleared",
+    "team_abbr": "WAS",
+    "player": "Darianna Littlepage-Buggs",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]

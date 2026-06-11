@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/11/26 04:45 PM",
+  "report_ts": "06/11/26 05:00 PM",
   "page_count": 2,
-  "raw_line_count": 19,
+  "raw_line_count": 23,
   "teams": [
     {
       "team_full": "Chicago Sky",
@@ -180,8 +180,30 @@
       "game_date": "06/12/2026",
       "game_time": "07:30(ET)",
       "matchup": "TOR@WAS",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "TorontoTempo Fagbenle, Temi",
+          "name": "Temi TorontoTempo Fagbenle",
+          "status": "Probable",
+          "reason": "Injury/Illness - Right Shoulder; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Rice, Kiki",
+          "name": "Kiki Rice",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sabally, Nyara",
+          "name": "Nyara Sabally",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Hamstring; Injury",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Washington Mystics",
@@ -189,8 +211,16 @@
       "game_date": "06/12/2026",
       "game_time": "07:30(ET)",
       "matchup": "TOR@WAS",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Iriafen, Kiki",
+          "name": "Kiki Iriafen",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Rightankle; Sprain",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Golden State Valkyries",
@@ -211,7 +241,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-11_04_45PM.pdf",
-  "fetched_slot": "2026-06-11T16:45:00-04:00",
-  "polled_at_utc": "2026-06-11T20:46:00.184194+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-11_05_00PM.pdf",
+  "fetched_slot": "2026-06-11T17:00:00-04:00",
+  "polled_at_utc": "2026-06-11T21:01:15.922837+00:00"
 }
