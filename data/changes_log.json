@@ -6850,5 +6850,43 @@
     "from_reason": "Injury/Illness - Right Foot; Injury",
     "to_reason": "Injury/Illness - Right Foot; N/A",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-12T00:16:02.253724+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Marta Suarez",
+    "status": "Out",
+    "reason": "Coach's Decision - Developmental",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-12T00:16:02.253724+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Kiana Williams",
+    "status": "Out",
+    "reason": "Arthroscopy Coach's Decision - Developmental Player",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-12T00:16:02.253724+00:00",
+    "type": "reason_change",
+    "team_abbr": "PHX",
+    "player": "Sami Whitcomb",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Knee; Arthroscopy",
+    "to_reason": "Player Injury/Illness - Left Knee;",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-12T00:16:02.253724+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Chennedy Carter",
+    "from_status": "Questionable",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Left Leg; leftleg",
+    "reason_category": "injury"
   }
 ]
