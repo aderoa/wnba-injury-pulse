@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/11/26 11:30 PM",
+  "report_ts": "06/11/26 11:45 PM",
   "page_count": 2,
-  "raw_line_count": 36,
+  "raw_line_count": 37,
   "teams": [
     {
       "team_full": "Chicago Sky",
@@ -220,6 +220,13 @@
           "status": "Available",
           "reason": "Injury/Illness - Left Quad; Contusion",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Puoch, Nyadiew",
+          "name": "Nyadiew Puoch",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; Sprain",
+          "reason_category": "injury"
         }
       ]
     },
@@ -296,7 +303,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-11_11_30PM.pdf",
-  "fetched_slot": "2026-06-11T23:30:00-04:00",
-  "polled_at_utc": "2026-06-12T03:31:01.190420+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-11_11_45PM.pdf",
+  "fetched_slot": "2026-06-11T23:45:00-04:00",
+  "polled_at_utc": "2026-06-12T03:46:05.828576+00:00"
 }
