@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/12/26 06:30 PM",
+  "report_ts": "06/12/26 06:45 PM",
   "page_count": 1,
-  "raw_line_count": 17,
+  "raw_line_count": 18,
   "teams": [
     {
       "team_full": "Washington Mystics",
@@ -14,9 +14,16 @@
         {
           "name_last_first": "Iriafen, Kiki",
           "name": "Kiki Iriafen",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Rightankle; Sprain",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Littlepage-Buggs, Darianna",
+          "name": "Darianna Littlepage-Buggs",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -140,7 +147,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-12_06_30PM.pdf",
-  "fetched_slot": "2026-06-12T18:30:00-04:00",
-  "polled_at_utc": "2026-06-12T22:31:04.612722+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-12_06_45PM.pdf",
+  "fetched_slot": "2026-06-12T18:45:00-04:00",
+  "polled_at_utc": "2026-06-12T22:45:59.142936+00:00"
 }

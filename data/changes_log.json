@@ -6986,5 +6986,24 @@
     "to_status": "Probable",
     "reason": "Injury/Illness - Back; Back",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-12T22:45:59.142936+00:00",
+    "type": "added",
+    "team_abbr": "WAS",
+    "player": "Darianna Littlepage-Buggs",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-12T22:45:59.142936+00:00",
+    "type": "status_change",
+    "team_abbr": "WAS",
+    "player": "Kiki Iriafen",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Rightankle; Sprain",
+    "reason_category": "injury"
   }
 ]
