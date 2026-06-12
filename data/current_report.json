@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/11/26 09:15 PM",
+  "report_ts": "06/11/26 09:30 PM",
   "page_count": 2,
-  "raw_line_count": 35,
+  "raw_line_count": 36,
   "teams": [
     {
       "team_full": "Chicago Sky",
@@ -186,7 +186,7 @@
         {
           "name_last_first": "Carter, Chennedy",
           "name": "Chennedy Carter",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness - Left Leg; leftleg",
           "reason_category": "injury"
         },
@@ -207,6 +207,13 @@
       "matchup": "LVA@PDX",
       "submitted": true,
       "players": [
+        {
+          "name_last_first": "Harrison, Jordan",
+          "name": "Jordan Harrison",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
         {
           "name_last_first": "Leite, Carla",
           "name": "Carla Leite",
@@ -289,7 +296,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-11_09_15PM.pdf",
-  "fetched_slot": "2026-06-11T21:15:00-04:00",
-  "polled_at_utc": "2026-06-12T01:15:59.014534+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-11_09_30PM.pdf",
+  "fetched_slot": "2026-06-11T21:30:00-04:00",
+  "polled_at_utc": "2026-06-12T01:31:05.479351+00:00"
 }
