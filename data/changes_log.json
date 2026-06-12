@@ -7005,5 +7005,57 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Rightankle; Sprain",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-12T23:46:05.019654+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Jordan Harrison",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-12T23:46:05.019654+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Temi TorontoTempo Fagbenle",
+    "previous_status": "Probable",
+    "previous_reason": "Injury/Illness - Right Shoulder; Injury"
+  },
+  {
+    "ts": "2026-06-12T23:46:05.019654+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Kiki Rice",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Ankle; Injury"
+  },
+  {
+    "ts": "2026-06-12T23:46:05.019654+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Nyara Sabally",
+    "previous_status": "Questionable",
+    "previous_reason": "Injury/Illness - Right Hamstring; Injury"
+  },
+  {
+    "ts": "2026-06-12T23:46:05.019654+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Carla Leite",
+    "from_status": "Available",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Left Quad; Contusion",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-12T23:46:05.019654+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Nyadiew Puoch",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Ankle; Sprain",
+    "reason_category": "injury"
   }
 ]
