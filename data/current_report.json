@@ -1,5 +1,5 @@
 {
-  "report_ts": "06/12/26 03:30 PM",
+  "report_ts": "06/12/26 03:45 PM",
   "page_count": 1,
   "raw_line_count": 16,
   "teams": [
@@ -59,8 +59,16 @@
       "game_date": "06/13/2026",
       "game_time": "06:00(ET)",
       "matchup": "IND@CON",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "VanLith, Hailey",
+          "name": "Hailey VanLith",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; Contusion",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Minnesota Lynx",
@@ -117,7 +125,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-12_03_30PM.pdf",
-  "fetched_slot": "2026-06-12T15:30:00-04:00",
-  "polled_at_utc": "2026-06-12T19:31:02.202221+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-12_03_45PM.pdf",
+  "fetched_slot": "2026-06-12T15:45:00-04:00",
+  "polled_at_utc": "2026-06-12T19:45:59.421463+00:00"
 }

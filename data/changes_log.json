@@ -6926,5 +6926,37 @@
     "status": "Out",
     "reason": "Injury/Illness - Left Ankle; Sprain",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-12T19:45:59.421463+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Brittney Griner",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Rib; Strain"
+  },
+  {
+    "ts": "2026-06-12T19:45:59.421463+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Aneesah Morrow",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Leg; Strain"
+  },
+  {
+    "ts": "2026-06-12T19:45:59.421463+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Temi TorontoTempo Fagbenle",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Right Shoulder; Injury"
+  },
+  {
+    "ts": "2026-06-12T19:45:59.421463+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Kiki Rice",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Ankle; Injury"
   }
 ]

@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-06-12T19:31:02.202221+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-12_03_30PM.pdf",
-  "report_ts": "06/12/26 03:30 PM",
+  "polled_at_utc": "2026-06-12T19:45:59.421463+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-12_03_45PM.pdf",
+  "report_ts": "06/12/26 03:45 PM",
   "all_players": [
     {
       "name": "Amy Okonkwo",
@@ -12,15 +12,6 @@
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
       "last_updated": "2026-06-12T03:46:05.828576+00:00"
-    },
-    {
-      "name": "Aneesah Morrow",
-      "team_abbr": "CON",
-      "team_full": "Connecticut Sun",
-      "status": "Out",
-      "reason": "Injury/Illness - Left Leg; Strain",
-      "reason_category": "injury",
-      "last_updated": "2026-06-11T03:45:44.020452+00:00"
     },
     {
       "name": "Anneli Maley",
@@ -48,15 +39,6 @@
       "reason": "Injury/Illness - Right Knee; N/A",
       "reason_category": "injury",
       "last_updated": "2026-06-12T03:46:05.828576+00:00"
-    },
-    {
-      "name": "Brittney Griner",
-      "team_abbr": "CON",
-      "team_full": "Connecticut Sun",
-      "status": "Out",
-      "reason": "Injury/Illness - Left Rib; Strain",
-      "reason_category": "injury",
-      "last_updated": "2026-06-11T03:45:44.020452+00:00"
     },
     {
       "name": "Courtney Vandersloot",
@@ -119,7 +101,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Foot; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-06-12T19:31:02.202221+00:00"
+      "last_updated": "2026-06-12T19:45:59.421463+00:00"
     },
     {
       "name": "Hailey VanLith",
@@ -128,7 +110,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Ankle; Contusion",
       "reason_category": "injury",
-      "last_updated": "2026-06-11T03:45:44.020452+00:00"
+      "last_updated": "2026-06-12T19:45:59.421463+00:00"
     },
     {
       "name": "Jordan Harrison",
@@ -174,15 +156,6 @@
       "reason": "Injury/Illness - Left Ankle; Injury",
       "reason_category": "injury",
       "last_updated": "2026-06-12T03:46:05.828576+00:00"
-    },
-    {
-      "name": "Kiki Rice",
-      "team_abbr": "CON",
-      "team_full": "Connecticut Sun",
-      "status": "Out",
-      "reason": "Injury/Illness - Left Ankle; Injury",
-      "reason_category": "injury",
-      "last_updated": "2026-06-11T03:45:44.020452+00:00"
     },
     {
       "name": "Laura Ziegler",
@@ -299,16 +272,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-06-12T19:31:02.202221+00:00"
-    },
-    {
-      "name": "Temi TorontoTempo Fagbenle",
-      "team_abbr": "CON",
-      "team_full": "Connecticut Sun",
-      "status": "Out",
-      "reason": "Injury/Illness - Right Shoulder; Injury",
-      "reason_category": "injury",
-      "last_updated": "2026-06-11T03:45:44.020452+00:00"
+      "last_updated": "2026-06-12T19:45:59.421463+00:00"
     },
     {
       "name": "Kiki Iriafen",
@@ -317,7 +281,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Rightankle; Sprain",
       "reason_category": "injury",
-      "last_updated": "2026-06-12T19:31:02.202221+00:00"
+      "last_updated": "2026-06-12T19:45:59.421463+00:00"
     },
     {
       "name": "Nyara Sabally",
@@ -442,45 +406,17 @@
     {
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
-      "last_submitted_ts": "2026-06-11T03:45:44.020452+00:00",
-      "last_seen_pending_ts": "2026-06-12T19:31:02.202221+00:00",
+      "last_submitted_ts": "2026-06-12T19:45:59.421463+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "CON@TOR"
+        "IND@CON"
       ],
       "players": [
-        {
-          "name_last_first": "Griner, Brittney",
-          "name": "Brittney Griner",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Rib; Strain",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Morrow, Aneesah",
-          "name": "Aneesah Morrow",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Leg; Strain",
-          "reason_category": "injury"
-        },
         {
           "name_last_first": "VanLith, Hailey",
           "name": "Hailey VanLith",
           "status": "Out",
           "reason": "Injury/Illness - Left Ankle; Contusion",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "TorontoTempo Fagbenle, Temi",
-          "name": "Temi TorontoTempo Fagbenle",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Shoulder; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Rice, Kiki",
-          "name": "Kiki Rice",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Ankle; Injury",
           "reason_category": "injury"
         }
       ]
@@ -489,7 +425,7 @@
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
       "last_submitted_ts": "2026-06-12T03:46:05.828576+00:00",
-      "last_seen_pending_ts": "2026-06-12T19:31:02.202221+00:00",
+      "last_seen_pending_ts": "2026-06-12T19:45:59.421463+00:00",
       "matchups": [
         "PHX@DAL"
       ],
@@ -539,7 +475,7 @@
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
       "last_submitted_ts": "2026-06-12T03:46:05.828576+00:00",
-      "last_seen_pending_ts": "2026-06-12T19:31:02.202221+00:00",
+      "last_seen_pending_ts": "2026-06-12T19:45:59.421463+00:00",
       "matchups": [
         "CHI@IND"
       ],
@@ -571,7 +507,7 @@
       "team_abbr": "LAS",
       "team_full": "Los Angeles Sparks",
       "last_submitted_ts": "2026-06-11T03:45:44.020452+00:00",
-      "last_seen_pending_ts": "2026-06-12T19:31:02.202221+00:00",
+      "last_seen_pending_ts": "2026-06-12T19:45:59.421463+00:00",
       "matchups": [
         "LAS@SEA"
       ],
@@ -596,7 +532,7 @@
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
       "last_submitted_ts": "2026-06-12T03:46:05.828576+00:00",
-      "last_seen_pending_ts": "2026-06-12T19:31:02.202221+00:00",
+      "last_seen_pending_ts": "2026-06-12T19:45:59.421463+00:00",
       "matchups": [
         "LVA@PDX"
       ],
@@ -621,7 +557,7 @@
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
       "last_submitted_ts": "2026-06-10T03:45:26.611855+00:00",
-      "last_seen_pending_ts": "2026-06-12T19:31:02.202221+00:00",
+      "last_seen_pending_ts": "2026-06-12T19:45:59.421463+00:00",
       "matchups": [
         "DAL@MIN"
       ],
@@ -692,7 +628,7 @@
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
       "last_submitted_ts": "2026-06-12T03:46:05.828576+00:00",
-      "last_seen_pending_ts": "2026-06-12T19:31:02.202221+00:00",
+      "last_seen_pending_ts": "2026-06-12T19:45:59.421463+00:00",
       "matchups": [
         "LVA@PDX",
         "TOR@WAS"
@@ -746,7 +682,7 @@
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
       "last_submitted_ts": "2026-06-12T03:46:05.828576+00:00",
-      "last_seen_pending_ts": "2026-06-12T19:31:02.202221+00:00",
+      "last_seen_pending_ts": "2026-06-12T19:45:59.421463+00:00",
       "matchups": [
         "PHX@DAL"
       ],
@@ -777,7 +713,7 @@
     {
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
-      "last_submitted_ts": "2026-06-12T19:31:02.202221+00:00",
+      "last_submitted_ts": "2026-06-12T19:45:59.421463+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "GSV@SEA"
@@ -802,7 +738,7 @@
     {
       "team_abbr": "WAS",
       "team_full": "Washington Mystics",
-      "last_submitted_ts": "2026-06-12T19:31:02.202221+00:00",
+      "last_submitted_ts": "2026-06-12T19:45:59.421463+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "TOR@WAS"
@@ -819,6 +755,38 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-06-12T19:45:59.421463+00:00",
+      "type": "cleared",
+      "team_abbr": "CON",
+      "player": "Kiki Rice",
+      "previous_status": "Out",
+      "previous_reason": "Injury/Illness - Left Ankle; Injury"
+    },
+    {
+      "ts": "2026-06-12T19:45:59.421463+00:00",
+      "type": "cleared",
+      "team_abbr": "CON",
+      "player": "Temi TorontoTempo Fagbenle",
+      "previous_status": "Out",
+      "previous_reason": "Injury/Illness - Right Shoulder; Injury"
+    },
+    {
+      "ts": "2026-06-12T19:45:59.421463+00:00",
+      "type": "cleared",
+      "team_abbr": "CON",
+      "player": "Aneesah Morrow",
+      "previous_status": "Out",
+      "previous_reason": "Injury/Illness - Left Leg; Strain"
+    },
+    {
+      "ts": "2026-06-12T19:45:59.421463+00:00",
+      "type": "cleared",
+      "team_abbr": "CON",
+      "player": "Brittney Griner",
+      "previous_status": "Out",
+      "previous_reason": "Injury/Illness - Left Rib; Strain"
+    },
     {
       "ts": "2026-06-12T03:46:05.828576+00:00",
       "type": "added",
@@ -3031,40 +2999,6 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach"
-    },
-    {
-      "ts": "2026-06-02T01:16:05.470144+00:00",
-      "type": "added",
-      "team_abbr": "MIN",
-      "player": "Eliska Hamzova",
-      "status": "Out",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach"
-    },
-    {
-      "ts": "2026-06-02T00:16:01.089242+00:00",
-      "type": "cleared",
-      "team_abbr": "GSV",
-      "player": "Miela Sowah",
-      "previous_status": "Out",
-      "previous_reason": "Coach's Decision"
-    },
-    {
-      "ts": "2026-06-02T00:16:01.089242+00:00",
-      "type": "cleared",
-      "team_abbr": "GSV",
-      "player": "Ashten Prechtel",
-      "previous_status": "Out",
-      "previous_reason": "Coach's Decision"
-    },
-    {
-      "ts": "2026-06-02T00:16:01.089242+00:00",
-      "type": "added",
-      "team_abbr": "GSV",
-      "player": "Veronica Burton",
-      "status": "Questionable",
-      "reason": "Injury/Illness - Right Quad; Contusion",
-      "reason_category": "injury"
     }
   ]
 }
