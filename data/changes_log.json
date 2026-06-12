@@ -6840,5 +6840,15 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-12T00:01:05.114629+00:00",
+    "type": "reason_change",
+    "team_abbr": "SEA",
+    "player": "Ezi Magbegor",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Right Foot; Injury",
+    "to_reason": "Injury/Illness - Right Foot; N/A",
+    "reason_category": "injury"
   }
 ]
