@@ -6958,5 +6958,33 @@
     "player": "Kiki Rice",
     "previous_status": "Out",
     "previous_reason": "Injury/Illness - Left Ankle; Injury"
+  },
+  {
+    "ts": "2026-06-12T21:16:05.631816+00:00",
+    "type": "cleared",
+    "team_abbr": "IND",
+    "player": "Justine Pissott",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-12T21:16:05.631816+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Sophie Cunningham",
+    "from_status": "Out",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Right Elbow; Elbow",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-12T21:16:05.631816+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Available",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Back; Back",
+    "reason_category": "injury"
   }
 ]

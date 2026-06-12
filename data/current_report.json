@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/12/26 05:00 PM",
+  "report_ts": "06/12/26 05:15 PM",
   "page_count": 1,
-  "raw_line_count": 16,
+  "raw_line_count": 17,
   "teams": [
     {
       "team_full": "Washington Mystics",
@@ -50,8 +50,23 @@
       "game_date": "06/13/2026",
       "game_time": "06:00(ET)",
       "matchup": "IND@CON",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Clark, Caitlin",
+          "name": "Caitlin Clark",
+          "status": "Probable",
+          "reason": "Injury/Illness - Back; Back",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Cunningham, Sophie",
+          "name": "Sophie Cunningham",
+          "status": "Probable",
+          "reason": "Injury/Illness - Right Elbow; Elbow",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Connecticut Sun",
@@ -125,7 +140,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-12_05_00PM.pdf",
-  "fetched_slot": "2026-06-12T17:00:00-04:00",
-  "polled_at_utc": "2026-06-12T21:01:06.966458+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-12_05_15PM.pdf",
+  "fetched_slot": "2026-06-12T17:15:00-04:00",
+  "polled_at_utc": "2026-06-12T21:16:05.631816+00:00"
 }
