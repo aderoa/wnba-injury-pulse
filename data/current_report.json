@@ -1,266 +1,8 @@
 {
-  "report_ts": "06/11/26 11:45 PM",
-  "page_count": 2,
-  "raw_line_count": 37,
+  "report_ts": "06/12/26 12:00 AM",
+  "page_count": 1,
+  "raw_line_count": 16,
   "teams": [
-    {
-      "team_full": "Chicago Sky",
-      "team_abbr": "CHI",
-      "game_date": "06/11/2026",
-      "game_time": "07:00(ET)",
-      "matchup": "CHI@IND",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Carrington, DiJonai",
-          "name": "DiJonai Carrington",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Foot; Left Foot",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Jackson, Rickea",
-          "name": "Rickea Jackson",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Knee; Left Knee",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Vandersloot, Courtney",
-          "name": "Courtney Vandersloot",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee; Right Knee",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Westbeld, Maddy",
-          "name": "Maddy Westbeld",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Indiana Fever",
-      "team_abbr": "IND",
-      "game_date": "06/11/2026",
-      "game_time": "07:00(ET)",
-      "matchup": "CHI@IND",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Clark, Caitlin",
-          "name": "Caitlin Clark",
-          "status": "Available",
-          "reason": "-",
-          "reason_category": "other"
-        },
-        {
-          "name_last_first": "Cunningham, Sophie",
-          "name": "Sophie Cunningham",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Elbow; Elbow",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Pissott, Justine",
-          "name": "Justine Pissott",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "New York Liberty",
-      "team_abbr": "NYL",
-      "game_date": "06/11/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "NYL@ATL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Ionescu, Sabrina",
-          "name": "Sabrina Ionescu",
-          "status": "Out",
-          "reason": "Injury/Illness - Back; Soreness",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Maley, Anneli",
-          "name": "Anneli Maley",
-          "status": "Out",
-          "reason": "Coach's Decision - Developmental Player",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Atlanta Dream",
-      "team_abbr": "ATL",
-      "game_date": "06/11/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "NYL@ATL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Jones, Brionna",
-          "name": "Brionna Jones",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee; N/A",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Okonkwo, Amy",
-          "name": "Amy Okonkwo",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Phoenix Mercury",
-      "team_abbr": "PHX",
-      "game_date": "06/11/2026",
-      "game_time": "09:00(ET)",
-      "matchup": "PHX@DAL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Suarez, Marta",
-          "name": "Marta Suarez",
-          "status": "Out",
-          "reason": "Coach's Decision - Developmental",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Whitcomb, Sami",
-          "name": "Sami Whitcomb",
-          "status": "Out",
-          "reason": "Player Injury/Illness - Left Knee;",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Williams, Kiana",
-          "name": "Kiana Williams",
-          "status": "Out",
-          "reason": "Arthroscopy Coach's Decision - Developmental Player",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Dallas Wings",
-      "team_abbr": "DAL",
-      "game_date": "06/11/2026",
-      "game_time": "09:00(ET)",
-      "matchup": "PHX@DAL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Kuier, Awak",
-          "name": "Awak Kuier",
-          "status": "Available",
-          "reason": "Injury/Illness - Right Wrist; n/a",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Sims, Odyssey",
-          "name": "Odyssey Sims",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Ankle; n/a",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Las Vegas Aces",
-      "team_abbr": "LVA",
-      "game_date": "06/11/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "LVA@PDX",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Carter, Chennedy",
-          "name": "Chennedy Carter",
-          "status": "Available",
-          "reason": "Injury/Illness - Left Leg; leftleg",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Evans, Dana",
-          "name": "Dana Evans",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Leg; leftleg",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Portland Fire",
-      "team_abbr": "PDX",
-      "game_date": "06/11/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "LVA@PDX",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Harrison, Jordan",
-          "name": "Jordan Harrison",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Leite, Carla",
-          "name": "Carla Leite",
-          "status": "Available",
-          "reason": "Injury/Illness - Left Quad; Contusion",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Puoch, Nyadiew",
-          "name": "Nyadiew Puoch",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Ankle; Sprain",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Portland Fire",
-      "team_abbr": "PDX",
-      "game_date": "06/12/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "TOR@WAS",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "TorontoTempo Fagbenle, Temi",
-          "name": "Temi TorontoTempo Fagbenle",
-          "status": "Probable",
-          "reason": "Injury/Illness - Right Shoulder; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Rice, Kiki",
-          "name": "Kiki Rice",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Ankle; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Sabally, Nyara",
-          "name": "Nyara Sabally",
-          "status": "Questionable",
-          "reason": "Injury/Illness - Right Hamstring; Injury",
-          "reason_category": "injury"
-        }
-      ]
-    },
     {
       "team_full": "Washington Mystics",
       "team_abbr": "WAS",
@@ -301,9 +43,81 @@
           "reason_category": "rest_coach"
         }
       ]
+    },
+    {
+      "team_full": "Indiana Fever",
+      "team_abbr": "IND",
+      "game_date": "06/13/2026",
+      "game_time": "06:00(ET)",
+      "matchup": "IND@CON",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Connecticut Sun",
+      "team_abbr": "CON",
+      "game_date": "06/13/2026",
+      "game_time": "06:00(ET)",
+      "matchup": "IND@CON",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Minnesota Lynx",
+      "team_abbr": "MIN",
+      "game_date": "06/13/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "MIN@LVA",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Las Vegas Aces",
+      "team_abbr": "LVA",
+      "game_date": "06/13/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "MIN@LVA",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Dallas Wings",
+      "team_abbr": "DAL",
+      "game_date": "06/13/2026",
+      "game_time": "08:30(ET)",
+      "matchup": "DAL@PDX",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Portland Fire",
+      "team_abbr": "PDX",
+      "game_date": "06/13/2026",
+      "game_time": "08:30(ET)",
+      "matchup": "DAL@PDX",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Los Angeles Sparks",
+      "team_abbr": "LAS",
+      "game_date": "06/13/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "LAS@PHX",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Phoenix Mercury",
+      "team_abbr": "PHX",
+      "game_date": "06/13/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "LAS@PHX",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-11_11_45PM.pdf",
-  "fetched_slot": "2026-06-11T23:45:00-04:00",
-  "polled_at_utc": "2026-06-12T03:46:05.828576+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-12_12_00AM.pdf",
+  "fetched_slot": "2026-06-12T00:00:00-04:00",
+  "polled_at_utc": "2026-06-12T04:01:02.396169+00:00"
 }
