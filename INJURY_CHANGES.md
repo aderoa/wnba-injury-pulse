@@ -4,6 +4,10 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-06-12 02:15 UTC
+
+- **Carla Leite** (PDX): **Questionable** → **Available** — Injury/Illness - Left Quad; Contusion
+
 ## 2026-06-12 01:31 UTC
 
 - **Chennedy Carter** (LVA): **Probable** → **Available** — Injury/Illness - Left Leg; leftleg
