@@ -7226,5 +7226,15 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Right Ankle; n/a",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-13T22:16:00.233859+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Nyadiew Puoch",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Ankle; Sprain",
+    "reason_category": "injury"
   }
 ]
