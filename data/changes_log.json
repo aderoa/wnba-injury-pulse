@@ -7172,5 +7172,31 @@
     "to_status": "Available",
     "reason": "-",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-06-13T20:45:56.672654+00:00",
+    "type": "added",
+    "team_abbr": "ATL",
+    "player": "Kiki TorontoTempo Rice",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Ankle; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-13T20:45:56.672654+00:00",
+    "type": "added",
+    "team_abbr": "ATL",
+    "player": "Nyara Sabally",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Right Hamstring; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-13T20:45:56.672654+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Amy Okonkwo",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]
