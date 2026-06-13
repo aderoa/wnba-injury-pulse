@@ -7216,5 +7216,15 @@
     "from_reason": "Injury/Illness - Rightankle; Sprain",
     "to_reason": "Injury/Illness - Right Ankle; Sprain",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-13T21:31:01.077922+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Paige Bueckers",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Ankle; n/a",
+    "reason_category": "injury"
   }
 ]
