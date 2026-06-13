@@ -1,80 +1,8 @@
 {
-  "report_ts": "06/12/26 11:45 PM",
-  "page_count": 2,
-  "raw_line_count": 25,
+  "report_ts": "06/13/26 12:00 AM",
+  "page_count": 1,
+  "raw_line_count": 18,
   "teams": [
-    {
-      "team_full": "Washington Mystics",
-      "team_abbr": "WAS",
-      "game_date": "06/12/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "TOR@WAS",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Iriafen, Kiki",
-          "name": "Kiki Iriafen",
-          "status": "Out",
-          "reason": "Injury/Illness - Rightankle; Sprain",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Littlepage-Buggs, Darianna",
-          "name": "Darianna Littlepage-Buggs",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Golden State Valkyries",
-      "team_abbr": "GSV",
-      "game_date": "06/12/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "GSV@SEA",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Prechtel, Ashten",
-          "name": "Ashten Prechtel",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Sowah, Miela",
-          "name": "Miela Sowah",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Seattle Storm",
-      "team_abbr": "SEA",
-      "game_date": "06/12/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "GSV@SEA",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Magbegor, Ezi",
-          "name": "Ezi Magbegor",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Foot; N/A",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Mair, Taina",
-          "name": "Taina Mair",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
     {
       "team_full": "Indiana Fever",
       "team_abbr": "IND",
@@ -228,9 +156,36 @@
           "reason_category": "injury"
         }
       ]
+    },
+    {
+      "team_full": "Atlanta Dream",
+      "team_abbr": "ATL",
+      "game_date": "06/14/2026",
+      "game_time": "03:00(ET)",
+      "matchup": "ATL@TOR",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Washington Mystics",
+      "team_abbr": "WAS",
+      "game_date": "06/14/2026",
+      "game_time": "03:00(ET)",
+      "matchup": "WAS@NYL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "New York Liberty",
+      "team_abbr": "NYL",
+      "game_date": "06/14/2026",
+      "game_time": "03:00(ET)",
+      "matchup": "WAS@NYL",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-12_11_45PM.pdf",
-  "fetched_slot": "2026-06-12T23:45:00-04:00",
-  "polled_at_utc": "2026-06-13T03:45:58.551921+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-13_12_00AM.pdf",
+  "fetched_slot": "2026-06-13T00:00:00-04:00",
+  "polled_at_utc": "2026-06-13T04:01:04.181211+00:00"
 }
