@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/13/26 04:45 PM",
+  "report_ts": "06/13/26 05:00 PM",
   "page_count": 2,
-  "raw_line_count": 23,
+  "raw_line_count": 22,
   "teams": [
     {
       "team_full": "Indiana Fever",
@@ -208,20 +208,19 @@
       "game_date": "06/14/2026",
       "game_time": "03:00(ET)",
       "matchup": "WAS@NYL",
-      "submitted": false,
-      "players": []
-    },
-    {
-      "team_full": "New York Liberty",
-      "team_abbr": "NYL",
-      "game_date": "06/14/2026",
-      "game_time": "03:00(ET)",
-      "matchup": "WAS@NYL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Iriafen, Kiki",
+          "name": "Kiki Iriafen",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Ankle; Sprain",
+          "reason_category": "injury"
+        }
+      ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-13_04_45PM.pdf",
-  "fetched_slot": "2026-06-13T16:45:00-04:00",
-  "polled_at_utc": "2026-06-13T20:45:56.672654+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-13_05_00PM.pdf",
+  "fetched_slot": "2026-06-13T17:00:00-04:00",
+  "polled_at_utc": "2026-06-13T21:00:58.035603+00:00"
 }
