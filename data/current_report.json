@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/12/26 09:00 PM",
+  "report_ts": "06/12/26 09:15 PM",
   "page_count": 2,
-  "raw_line_count": 23,
+  "raw_line_count": 25,
   "teams": [
     {
       "team_full": "Washington Mystics",
@@ -21,6 +21,30 @@
         {
           "name_last_first": "Littlepage-Buggs, Darianna",
           "name": "Darianna Littlepage-Buggs",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        }
+      ]
+    },
+    {
+      "team_full": "Golden State Valkyries",
+      "team_abbr": "GSV",
+      "game_date": "06/12/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "GSV@SEA",
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Prechtel, Ashten",
+          "name": "Ashten Prechtel",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Sowah, Miela",
+          "name": "Miela Sowah",
           "status": "Out",
           "reason": "Coach's Decision",
           "reason_category": "rest_coach"
@@ -206,7 +230,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-12_09_00PM.pdf",
-  "fetched_slot": "2026-06-12T21:00:00-04:00",
-  "polled_at_utc": "2026-06-13T01:00:58.520035+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-12_09_15PM.pdf",
+  "fetched_slot": "2026-06-12T21:15:00-04:00",
+  "polled_at_utc": "2026-06-13T01:16:00.378449+00:00"
 }
