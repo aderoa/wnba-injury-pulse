@@ -7057,5 +7057,82 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Left Ankle; Sprain",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-13T00:01:00.457433+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Eliska Hamzova",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-13T00:01:00.457433+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Liatu King",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-13T00:01:00.457433+00:00",
+    "type": "cleared",
+    "team_abbr": "LVA",
+    "player": "Chennedy Carter",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Left Leg; leftleg"
+  },
+  {
+    "ts": "2026-06-13T00:01:00.457433+00:00",
+    "type": "reason_change",
+    "team_abbr": "LVA",
+    "player": "Dana Evans",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Leg; leftleg",
+    "to_reason": "Injury/Illness - Left Leg; Leftleg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-13T00:01:00.457433+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Paige Bueckers",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Right Ankle; n/a",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-13T00:01:00.457433+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Awak Kuier",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Right Wrist; n/a"
+  },
+  {
+    "ts": "2026-06-13T00:01:00.457433+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Marta Suarez",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental"
+  },
+  {
+    "ts": "2026-06-13T00:01:00.457433+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Kiana Williams",
+    "previous_status": "Out",
+    "previous_reason": "Arthroscopy Coach's Decision - Developmental Player"
+  },
+  {
+    "ts": "2026-06-13T00:01:00.457433+00:00",
+    "type": "reason_change",
+    "team_abbr": "PHX",
+    "player": "Sami Whitcomb",
+    "status": "Out",
+    "from_reason": "Player Injury/Illness - Left Knee;",
+    "to_reason": "Injury/Illness - Left Knee; Arthroscopy",
+    "reason_category": "injury"
   }
 ]

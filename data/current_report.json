@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/12/26 07:45 PM",
+  "report_ts": "06/12/26 08:00 PM",
   "page_count": 2,
-  "raw_line_count": 19,
+  "raw_line_count": 23,
   "teams": [
     {
       "team_full": "Washington Mystics",
@@ -98,8 +98,30 @@
       "game_date": "06/13/2026",
       "game_time": "08:00(ET)",
       "matchup": "MIN@LVA",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Cechova, Emma",
+          "name": "Emma Cechova",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; Right Knee",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Collier, Napheesa",
+          "name": "Napheesa Collier",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; Left Ankle",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Juhasz, Dorka",
+          "name": "Dorka Juhasz",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Foot; Right Foot",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Las Vegas Aces",
@@ -107,8 +129,16 @@
       "game_date": "06/13/2026",
       "game_time": "08:00(ET)",
       "matchup": "MIN@LVA",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Evans, Dana",
+          "name": "Dana Evans",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Leg; Leftleg",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Dallas Wings",
@@ -116,8 +146,23 @@
       "game_date": "06/13/2026",
       "game_time": "08:30(ET)",
       "matchup": "DAL@PDX",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Bueckers, Paige",
+          "name": "Paige Bueckers",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Ankle; n/a",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sims, Odyssey",
+          "name": "Odyssey Sims",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; n/a",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Portland Fire",
@@ -144,25 +189,24 @@
       ]
     },
     {
-      "team_full": "Los Angeles Sparks",
-      "team_abbr": "LAS",
-      "game_date": "06/13/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "LAS@PHX",
-      "submitted": false,
-      "players": []
-    },
-    {
       "team_full": "Phoenix Mercury",
       "team_abbr": "PHX",
       "game_date": "06/13/2026",
       "game_time": "10:00(ET)",
       "matchup": "LAS@PHX",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Whitcomb, Sami",
+          "name": "Sami Whitcomb",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Arthroscopy",
+          "reason_category": "injury"
+        }
+      ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-12_07_45PM.pdf",
-  "fetched_slot": "2026-06-12T19:45:00-04:00",
-  "polled_at_utc": "2026-06-12T23:46:05.019654+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-12_08_00PM.pdf",
+  "fetched_slot": "2026-06-12T20:00:00-04:00",
+  "polled_at_utc": "2026-06-13T00:01:00.457433+00:00"
 }
