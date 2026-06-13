@@ -7236,5 +7236,14 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Left Ankle; Sprain",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-13T23:15:57.953848+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Eliska Hamzova",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
