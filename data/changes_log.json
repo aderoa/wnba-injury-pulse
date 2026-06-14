@@ -7291,5 +7291,14 @@
     "from_reason": "Injury/Illness - Left Knee; Arthroscopy",
     "to_reason": "Injury/Illness - Left Knee;",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-14T17:45:17.403424+00:00",
+    "type": "added",
+    "team_abbr": "ATL",
+    "player": "Amy Okonkwo",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
