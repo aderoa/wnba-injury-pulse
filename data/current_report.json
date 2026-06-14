@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/13/26 07:45 PM",
+  "report_ts": "06/13/26 08:00 PM",
   "page_count": 2,
-  "raw_line_count": 23,
+  "raw_line_count": 24,
   "teams": [
     {
       "team_full": "Indiana Fever",
@@ -146,9 +146,16 @@
       "submitted": true,
       "players": [
         {
+          "name_last_first": "Harrison, Jordan",
+          "name": "Jordan Harrison",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Leite, Carla",
           "name": "Carla Leite",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness - Left Quad; Contusion",
           "reason_category": "injury"
         },
@@ -227,7 +234,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-13_07_45PM.pdf",
-  "fetched_slot": "2026-06-13T19:45:00-04:00",
-  "polled_at_utc": "2026-06-13T23:48:23.955076+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-13_08_00PM.pdf",
+  "fetched_slot": "2026-06-13T20:00:00-04:00",
+  "polled_at_utc": "2026-06-14T00:01:04.321290+00:00"
 }
