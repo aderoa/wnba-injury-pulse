@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-06-14T20:30:16.018747+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_04_30PM.pdf",
-  "report_ts": "06/14/26 04:30 PM",
+  "polled_at_utc": "2026-06-14T20:45:18.368668+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_04_45PM.pdf",
+  "report_ts": "06/14/26 04:45 PM",
   "all_players": [
     {
       "name": "Amy Okonkwo",
@@ -11,7 +11,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-06-14T20:30:16.018747+00:00"
+      "last_updated": "2026-06-14T20:45:18.368668+00:00"
     },
     {
       "name": "Anneli Maley",
@@ -20,7 +20,7 @@
       "status": "Out",
       "reason": "Player Coach's Decision - Developmental Player",
       "reason_category": "rest_coach",
-      "last_updated": "2026-06-14T20:30:16.018747+00:00"
+      "last_updated": "2026-06-14T20:45:18.368668+00:00"
     },
     {
       "name": "Ashten Prechtel",
@@ -47,7 +47,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-06-14T20:30:16.018747+00:00"
+      "last_updated": "2026-06-14T20:45:18.368668+00:00"
     },
     {
       "name": "Courtney Vandersloot",
@@ -74,7 +74,7 @@
       "status": "Out",
       "reason": "Coach's Decision - Development",
       "reason_category": "rest_coach",
-      "last_updated": "2026-06-14T20:30:16.018747+00:00"
+      "last_updated": "2026-06-14T20:45:18.368668+00:00"
     },
     {
       "name": "DiJonai Carrington",
@@ -164,7 +164,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Ankle; Sprain",
       "reason_category": "injury",
-      "last_updated": "2026-06-14T20:30:16.018747+00:00"
+      "last_updated": "2026-06-14T20:45:18.368668+00:00"
     },
     {
       "name": "Kiki TorontoTempo Rice",
@@ -173,7 +173,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Ankle; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-06-14T20:30:16.018747+00:00"
+      "last_updated": "2026-06-14T20:45:18.368668+00:00"
     },
     {
       "name": "Laura Ziegler",
@@ -200,7 +200,7 @@
       "status": "Out",
       "reason": "Player Coach's Decision - Developmental",
       "reason_category": "rest_coach",
-      "last_updated": "2026-06-14T20:30:16.018747+00:00"
+      "last_updated": "2026-06-14T20:45:18.368668+00:00"
     },
     {
       "name": "Miela Sowah",
@@ -236,7 +236,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Hamstring; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-06-14T20:30:16.018747+00:00"
+      "last_updated": "2026-06-14T20:45:18.368668+00:00"
     },
     {
       "name": "Odyssey Sims",
@@ -315,7 +315,7 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-06-14T20:30:16.018747+00:00",
+      "last_submitted_ts": "2026-06-14T20:45:18.368668+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "ATL@TOR"
@@ -412,7 +412,7 @@
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
       "last_submitted_ts": "2026-06-14T03:45:18.457665+00:00",
-      "last_seen_pending_ts": "2026-06-14T20:30:16.018747+00:00",
+      "last_seen_pending_ts": "2026-06-14T20:45:18.368668+00:00",
       "matchups": [
         "DAL@PDX"
       ],
@@ -437,7 +437,7 @@
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
       "last_submitted_ts": "2026-06-13T03:45:58.551921+00:00",
-      "last_seen_pending_ts": "2026-06-14T20:30:16.018747+00:00",
+      "last_seen_pending_ts": "2026-06-14T20:45:18.368668+00:00",
       "matchups": [
         "GSV@SEA"
       ],
@@ -501,7 +501,7 @@
       "team_abbr": "LAS",
       "team_full": "Los Angeles Sparks",
       "last_submitted_ts": "2026-06-14T03:45:18.457665+00:00",
-      "last_seen_pending_ts": "2026-06-14T20:30:16.018747+00:00",
+      "last_seen_pending_ts": "2026-06-14T20:45:18.368668+00:00",
       "matchups": [
         "LAS@PHX"
       ],
@@ -519,7 +519,7 @@
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
       "last_submitted_ts": "2026-06-14T03:45:18.457665+00:00",
-      "last_seen_pending_ts": "2026-06-14T20:30:16.018747+00:00",
+      "last_seen_pending_ts": "2026-06-14T20:45:18.368668+00:00",
       "matchups": [
         "MIN@LVA"
       ],
@@ -537,7 +537,7 @@
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
       "last_submitted_ts": "2026-06-14T03:45:18.457665+00:00",
-      "last_seen_pending_ts": "2026-06-14T20:30:16.018747+00:00",
+      "last_seen_pending_ts": "2026-06-14T20:45:18.368668+00:00",
       "matchups": [
         "MIN@LVA"
       ],
@@ -575,7 +575,7 @@
     {
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
-      "last_submitted_ts": "2026-06-14T20:30:16.018747+00:00",
+      "last_submitted_ts": "2026-06-14T20:45:18.368668+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "WAS@NYL"
@@ -601,7 +601,7 @@
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
       "last_submitted_ts": "2026-06-14T03:45:18.457665+00:00",
-      "last_seen_pending_ts": "2026-06-14T20:30:16.018747+00:00",
+      "last_seen_pending_ts": "2026-06-14T20:45:18.368668+00:00",
       "matchups": [
         "DAL@PDX"
       ],
@@ -682,7 +682,7 @@
     {
       "team_abbr": "WAS",
       "team_full": "Washington Mystics",
-      "last_submitted_ts": "2026-06-14T20:30:16.018747+00:00",
+      "last_submitted_ts": "2026-06-14T20:45:18.368668+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "WAS@NYL"
