@@ -7346,5 +7346,49 @@
     "from_reason": "Coach's Decision - Developmental Player",
     "to_reason": "Player Coach's Decision - Developmental Player",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-14T21:30:20.649264+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Karlie Samuelson",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Left Adductor; Tightness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-14T21:30:20.649264+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Holly Winterburn",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Right Foot; Sprain",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-14T21:30:20.649264+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Jordan Harrison",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-14T21:30:20.649264+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Carla Leite",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Left Quad; Contusion"
+  },
+  {
+    "ts": "2026-06-14T21:30:20.649264+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Nyadiew Puoch",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Ankle; Sprain",
+    "reason_category": "injury"
   }
 ]

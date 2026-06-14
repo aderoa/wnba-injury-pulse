@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/14/26 05:15 PM",
-  "page_count": 1,
-  "raw_line_count": 22,
+  "report_ts": "06/14/26 05:30 PM",
+  "page_count": 2,
+  "raw_line_count": 26,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -113,8 +113,30 @@
       "game_date": "06/15/2026",
       "game_time": "08:00(ET)",
       "matchup": "PDX@MIN",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Puoch, Nyadiew",
+          "name": "Nyadiew Puoch",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Ankle; Sprain",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Samuelson, Karlie",
+          "name": "Karlie Samuelson",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Adductor; Tightness",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Winterburn, Holly",
+          "name": "Holly Winterburn",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Foot; Sprain",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Minnesota Lynx",
@@ -144,7 +166,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_05_15PM.pdf",
-  "fetched_slot": "2026-06-14T17:15:00-04:00",
-  "polled_at_utc": "2026-06-14T21:15:17.174043+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_05_30PM.pdf",
+  "fetched_slot": "2026-06-14T17:30:00-04:00",
+  "polled_at_utc": "2026-06-14T21:30:20.649264+00:00"
 }
