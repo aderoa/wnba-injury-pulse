@@ -7264,5 +7264,13 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Left Quad; Contusion",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-14T00:46:00.698230+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Kate Martin",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]

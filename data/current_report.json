@@ -1,5 +1,5 @@
 {
-  "report_ts": "06/13/26 08:30 PM",
+  "report_ts": "06/13/26 08:45 PM",
   "page_count": 2,
   "raw_line_count": 24,
   "teams": [
@@ -169,6 +169,23 @@
       ]
     },
     {
+      "team_full": "Los Angeles Sparks",
+      "team_abbr": "LAS",
+      "game_date": "06/13/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "LAS@PHX",
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Ziegler, Laura",
+          "name": "Laura Ziegler",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        }
+      ]
+    },
+    {
       "team_full": "Phoenix Mercury",
       "team_abbr": "PHX",
       "game_date": "06/13/2026",
@@ -234,7 +251,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-13_08_30PM.pdf",
-  "fetched_slot": "2026-06-13T20:30:00-04:00",
-  "polled_at_utc": "2026-06-14T00:30:57.592243+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-13_08_45PM.pdf",
+  "fetched_slot": "2026-06-13T20:45:00-04:00",
+  "polled_at_utc": "2026-06-14T00:46:00.698230+00:00"
 }
