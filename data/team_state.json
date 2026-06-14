@@ -2,19 +2,19 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-06-14T03:45:18.457665+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-13_11_45PM.pdf",
+    "last_submitted_ts": "2026-06-14T22:00:17.982387+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_06_00PM.pdf",
     "game_dates": [
-      "06/13/2026"
+      "06/15/2026"
     ],
     "matchups": [
-      "DAL@PDX"
+      "LVA@DAL"
     ],
     "players": [
       {
         "name_last_first": "Bueckers, Paige",
         "name": "Paige Bueckers",
-        "status": "Out",
+        "status": "Probable",
         "reason": "Injury/Illness - Right Ankle; n/a",
         "reason_category": "injury"
       },
@@ -25,8 +25,7 @@
         "reason": "Injury/Illness - Left Ankle; n/a",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-06-14T21:45:19.696411+00:00"
+    ]
   },
   "IND": {
     "team_full": "Indiana Fever",
@@ -101,8 +100,8 @@
   "LVA": {
     "team_full": "Las Vegas Aces",
     "submitted": true,
-    "last_submitted_ts": "2026-06-14T21:45:19.696411+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_05_45PM.pdf",
+    "last_submitted_ts": "2026-06-14T22:00:17.982387+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_06_00PM.pdf",
     "game_dates": [
       "06/15/2026"
     ],
@@ -129,8 +128,8 @@
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-06-14T21:45:19.696411+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_05_45PM.pdf",
+    "last_submitted_ts": "2026-06-14T22:00:17.982387+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_06_00PM.pdf",
     "game_dates": [
       "06/14/2026"
     ],
@@ -171,13 +170,13 @@
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-06-14T03:45:18.457665+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-13_11_45PM.pdf",
+    "last_submitted_ts": "2026-06-14T22:00:17.982387+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_06_00PM.pdf",
     "game_dates": [
-      "06/13/2026"
+      "06/15/2026"
     ],
     "matchups": [
-      "MIN@LVA"
+      "PDX@MIN"
     ],
     "players": [
       {
@@ -195,21 +194,13 @@
         "reason_category": "injury"
       },
       {
-        "name_last_first": "Hamzova, Eliska",
-        "name": "Eliska Hamzova",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
-      },
-      {
         "name_last_first": "Juhasz, Dorka",
         "name": "Dorka Juhasz",
         "status": "Out",
         "reason": "Injury/Illness - Right Foot; Right Foot",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-06-14T21:45:19.696411+00:00"
+    ]
   },
   "CHI": {
     "team_full": "Chicago Sky",
@@ -256,8 +247,8 @@
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-06-14T21:45:19.696411+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_05_45PM.pdf",
+    "last_submitted_ts": "2026-06-14T22:00:17.982387+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_06_00PM.pdf",
     "game_dates": [
       "06/15/2026"
     ],
@@ -340,8 +331,8 @@
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-06-14T21:45:19.696411+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_05_45PM.pdf",
+    "last_submitted_ts": "2026-06-14T22:00:17.982387+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_06_00PM.pdf",
     "game_dates": [
       "06/14/2026"
     ],
@@ -368,8 +359,8 @@
   "WAS": {
     "team_full": "Washington Mystics",
     "submitted": true,
-    "last_submitted_ts": "2026-06-14T21:45:19.696411+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_05_45PM.pdf",
+    "last_submitted_ts": "2026-06-14T22:00:17.982387+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_06_00PM.pdf",
     "game_dates": [
       "06/14/2026"
     ],
@@ -420,7 +411,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-06-14T21:45:19.696411+00:00"
+    "last_seen_pending_ts": "2026-06-14T22:00:17.982387+00:00"
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",
@@ -442,6 +433,6 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-06-14T21:45:19.696411+00:00"
+    "last_seen_pending_ts": "2026-06-14T22:00:17.982387+00:00"
   }
 }

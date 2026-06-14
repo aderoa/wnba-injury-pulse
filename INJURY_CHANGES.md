@@ -4,6 +4,11 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-06-14 22:00 UTC
+
+- **Paige Bueckers** (DAL): **Out** → **Probable** — Injury/Illness - Right Ankle; n/a
+- **Eliska Hamzova** (MIN) cleared (was Out)
+
 ## 2026-06-14 21:45 UTC
 
 - **Chennedy Carter** (LVA) newly listed as **Out** — Injury/Illness - n/a; NWT - illness

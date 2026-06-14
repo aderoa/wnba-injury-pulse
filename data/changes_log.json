@@ -7409,5 +7409,23 @@
     "from_reason": "Injury/Illness - Left Leg; Leftleg",
     "to_reason": "Injury/Illness - Left Leg; injured",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-14T22:00:17.982387+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Paige Bueckers",
+    "from_status": "Out",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Right Ankle; n/a",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-14T22:00:17.982387+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Eliska Hamzova",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]
