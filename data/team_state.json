@@ -26,7 +26,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-06-14T18:00:22.699721+00:00"
+    "last_seen_pending_ts": "2026-06-14T18:15:22.942850+00:00"
   },
   "IND": {
     "team_full": "Indiana Fever",
@@ -118,13 +118,13 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-06-14T18:00:22.699721+00:00"
+    "last_seen_pending_ts": "2026-06-14T18:15:22.942850+00:00"
   },
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-06-14T18:00:22.699721+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_02_00PM.pdf",
+    "last_submitted_ts": "2026-06-14T18:15:22.942850+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_02_15PM.pdf",
     "game_dates": [
       "06/14/2026"
     ],
@@ -203,7 +203,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-06-14T18:00:22.699721+00:00"
+    "last_seen_pending_ts": "2026-06-14T18:15:22.942850+00:00"
   },
   "CHI": {
     "team_full": "Chicago Sky",
@@ -281,7 +281,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-06-14T18:00:22.699721+00:00"
+    "last_seen_pending_ts": "2026-06-14T18:15:22.942850+00:00"
   },
   "SEA": {
     "team_full": "Seattle Storm",
@@ -335,37 +335,36 @@
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-06-12T03:46:05.828576+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-11_11_45PM.pdf",
+    "last_submitted_ts": "2026-06-14T18:15:22.942850+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_02_15PM.pdf",
     "game_dates": [
-      "06/11/2026"
+      "06/14/2026"
     ],
     "matchups": [
-      "NYL@ATL"
+      "WAS@NYL"
     ],
     "players": [
       {
-        "name_last_first": "Ionescu, Sabrina",
-        "name": "Sabrina Ionescu",
+        "name_last_first": "Fauthoux, Marine",
+        "name": "Marine Fauthoux",
         "status": "Out",
-        "reason": "Injury/Illness - Back; Soreness",
-        "reason_category": "injury"
+        "reason": "Player Coach's Decision - Developmental",
+        "reason_category": "rest_coach"
       },
       {
         "name_last_first": "Maley, Anneli",
         "name": "Anneli Maley",
         "status": "Out",
-        "reason": "Coach's Decision - Developmental Player",
+        "reason": "Player Coach's Decision - Developmental Player",
         "reason_category": "rest_coach"
       }
-    ],
-    "last_seen_pending_ts": "2026-06-13T20:45:56.672654+00:00"
+    ]
   },
   "WAS": {
     "team_full": "Washington Mystics",
     "submitted": true,
-    "last_submitted_ts": "2026-06-14T18:00:22.699721+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_02_00PM.pdf",
+    "last_submitted_ts": "2026-06-14T18:15:22.942850+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_02_15PM.pdf",
     "game_dates": [
       "06/14/2026"
     ],
@@ -379,6 +378,13 @@
         "status": "Out",
         "reason": "Injury/Illness - Right Ankle; Sprain",
         "reason_category": "injury"
+      },
+      {
+        "name_last_first": "Littlepage-Buggs, Darianna",
+        "name": "Darianna Littlepage-Buggs",
+        "status": "Out",
+        "reason": "Coach's Decision - Development",
+        "reason_category": "rest_coach"
       }
     ]
   },
@@ -409,7 +415,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-06-14T18:00:22.699721+00:00"
+    "last_seen_pending_ts": "2026-06-14T18:15:22.942850+00:00"
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",
@@ -431,6 +437,6 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-06-14T18:00:22.699721+00:00"
+    "last_seen_pending_ts": "2026-06-14T18:15:22.942850+00:00"
   }
 }

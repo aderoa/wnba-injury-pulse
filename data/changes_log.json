@@ -7310,5 +7310,41 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Right Hamstring; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-14T18:15:22.942850+00:00",
+    "type": "added",
+    "team_abbr": "WAS",
+    "player": "Darianna Littlepage-Buggs",
+    "status": "Out",
+    "reason": "Coach's Decision - Development",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-14T18:15:22.942850+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Marine Fauthoux",
+    "status": "Out",
+    "reason": "Player Coach's Decision - Developmental",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-14T18:15:22.942850+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Sabrina Ionescu",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Back; Soreness"
+  },
+  {
+    "ts": "2026-06-14T18:15:22.942850+00:00",
+    "type": "reason_change",
+    "team_abbr": "NYL",
+    "player": "Anneli Maley",
+    "status": "Out",
+    "from_reason": "Coach's Decision - Developmental Player",
+    "to_reason": "Player Coach's Decision - Developmental Player",
+    "reason_category": "rest_coach"
   }
 ]
