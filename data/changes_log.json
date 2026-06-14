@@ -7390,5 +7390,24 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Left Ankle; Sprain",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-14T21:45:19.696411+00:00",
+    "type": "added",
+    "team_abbr": "LVA",
+    "player": "Chennedy Carter",
+    "status": "Out",
+    "reason": "Injury/Illness - n/a; NWT - illness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-14T21:45:19.696411+00:00",
+    "type": "reason_change",
+    "team_abbr": "LVA",
+    "player": "Dana Evans",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Leg; Leftleg",
+    "to_reason": "Injury/Illness - Left Leg; injured",
+    "reason_category": "injury"
   }
 ]

@@ -26,7 +26,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-06-14T21:40:35.200148+00:00"
+    "last_seen_pending_ts": "2026-06-14T21:45:19.696411+00:00"
   },
   "IND": {
     "team_full": "Indiana Fever",
@@ -101,30 +101,36 @@
   "LVA": {
     "team_full": "Las Vegas Aces",
     "submitted": true,
-    "last_submitted_ts": "2026-06-14T03:45:18.457665+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-13_11_45PM.pdf",
+    "last_submitted_ts": "2026-06-14T21:45:19.696411+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_05_45PM.pdf",
     "game_dates": [
-      "06/13/2026"
+      "06/15/2026"
     ],
     "matchups": [
-      "MIN@LVA"
+      "LVA@DAL"
     ],
     "players": [
+      {
+        "name_last_first": "Carter, Chennedy",
+        "name": "Chennedy Carter",
+        "status": "Out",
+        "reason": "Injury/Illness - n/a; NWT - illness",
+        "reason_category": "injury"
+      },
       {
         "name_last_first": "Evans, Dana",
         "name": "Dana Evans",
         "status": "Out",
-        "reason": "Injury/Illness - Left Leg; Leftleg",
+        "reason": "Injury/Illness - Left Leg; injured",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-06-14T21:40:35.200148+00:00"
+    ]
   },
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-06-14T21:40:35.200148+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_05_30PM.pdf",
+    "last_submitted_ts": "2026-06-14T21:45:19.696411+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_05_45PM.pdf",
     "game_dates": [
       "06/14/2026"
     ],
@@ -203,7 +209,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-06-14T21:40:35.200148+00:00"
+    "last_seen_pending_ts": "2026-06-14T21:45:19.696411+00:00"
   },
   "CHI": {
     "team_full": "Chicago Sky",
@@ -250,8 +256,8 @@
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-06-14T21:40:35.200148+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_05_30PM.pdf",
+    "last_submitted_ts": "2026-06-14T21:45:19.696411+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_05_45PM.pdf",
     "game_dates": [
       "06/15/2026"
     ],
@@ -334,8 +340,8 @@
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-06-14T21:40:35.200148+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_05_30PM.pdf",
+    "last_submitted_ts": "2026-06-14T21:45:19.696411+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_05_45PM.pdf",
     "game_dates": [
       "06/14/2026"
     ],
@@ -362,8 +368,8 @@
   "WAS": {
     "team_full": "Washington Mystics",
     "submitted": true,
-    "last_submitted_ts": "2026-06-14T21:40:35.200148+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_05_30PM.pdf",
+    "last_submitted_ts": "2026-06-14T21:45:19.696411+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_05_45PM.pdf",
     "game_dates": [
       "06/14/2026"
     ],
@@ -414,7 +420,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-06-14T21:40:35.200148+00:00"
+    "last_seen_pending_ts": "2026-06-14T21:45:19.696411+00:00"
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",
@@ -436,6 +442,6 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-06-14T21:40:35.200148+00:00"
+    "last_seen_pending_ts": "2026-06-14T21:45:19.696411+00:00"
   }
 }

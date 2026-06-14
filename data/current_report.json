@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/14/26 05:30 PM",
+  "report_ts": "06/14/26 05:45 PM",
   "page_count": 2,
-  "raw_line_count": 26,
+  "raw_line_count": 27,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -95,8 +95,23 @@
       "game_date": "06/15/2026",
       "game_time": "08:00(ET)",
       "matchup": "LVA@DAL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Carter, Chennedy",
+          "name": "Chennedy Carter",
+          "status": "Out",
+          "reason": "Injury/Illness - n/a; NWT - illness",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Evans, Dana",
+          "name": "Dana Evans",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Leg; injured",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Dallas Wings",
@@ -166,7 +181,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_05_30PM.pdf",
-  "fetched_slot": "2026-06-14T17:30:00-04:00",
-  "polled_at_utc": "2026-06-14T21:40:35.200148+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_05_45PM.pdf",
+  "fetched_slot": "2026-06-14T17:45:00-04:00",
+  "polled_at_utc": "2026-06-14T21:45:19.696411+00:00"
 }
