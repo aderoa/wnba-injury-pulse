@@ -26,7 +26,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-06-14T17:45:17.403424+00:00"
+    "last_seen_pending_ts": "2026-06-14T18:00:22.699721+00:00"
   },
   "IND": {
     "team_full": "Indiana Fever",
@@ -118,13 +118,13 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-06-14T17:45:17.403424+00:00"
+    "last_seen_pending_ts": "2026-06-14T18:00:22.699721+00:00"
   },
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-06-14T17:45:17.403424+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_01_45PM.pdf",
+    "last_submitted_ts": "2026-06-14T18:00:22.699721+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_02_00PM.pdf",
     "game_dates": [
       "06/14/2026"
     ],
@@ -156,7 +156,7 @@
       {
         "name_last_first": "Sabally, Nyara",
         "name": "Nyara Sabally",
-        "status": "Questionable",
+        "status": "Out",
         "reason": "Injury/Illness - Right Hamstring; Injury",
         "reason_category": "injury"
       }
@@ -203,7 +203,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-06-14T17:45:17.403424+00:00"
+    "last_seen_pending_ts": "2026-06-14T18:00:22.699721+00:00"
   },
   "CHI": {
     "team_full": "Chicago Sky",
@@ -281,7 +281,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-06-14T17:45:17.403424+00:00"
+    "last_seen_pending_ts": "2026-06-14T18:00:22.699721+00:00"
   },
   "SEA": {
     "team_full": "Seattle Storm",
@@ -364,8 +364,8 @@
   "WAS": {
     "team_full": "Washington Mystics",
     "submitted": true,
-    "last_submitted_ts": "2026-06-14T17:45:17.403424+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_01_45PM.pdf",
+    "last_submitted_ts": "2026-06-14T18:00:22.699721+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_02_00PM.pdf",
     "game_dates": [
       "06/14/2026"
     ],
@@ -409,7 +409,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-06-14T17:45:17.403424+00:00"
+    "last_seen_pending_ts": "2026-06-14T18:00:22.699721+00:00"
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",
@@ -431,6 +431,6 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-06-14T17:45:17.403424+00:00"
+    "last_seen_pending_ts": "2026-06-14T18:00:22.699721+00:00"
   }
 }

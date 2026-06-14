@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-06-14T17:45:17.403424+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_01_45PM.pdf",
-  "report_ts": "06/14/26 01:45 PM",
+  "polled_at_utc": "2026-06-14T18:00:22.699721+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_02_00PM.pdf",
+  "report_ts": "06/14/26 02:00 PM",
   "all_players": [
     {
       "name": "Amy Okonkwo",
@@ -11,7 +11,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-06-14T17:45:17.403424+00:00"
+      "last_updated": "2026-06-14T18:00:22.699721+00:00"
     },
     {
       "name": "Anneli Maley",
@@ -47,7 +47,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-06-14T17:45:17.403424+00:00"
+      "last_updated": "2026-06-14T18:00:22.699721+00:00"
     },
     {
       "name": "Courtney Vandersloot",
@@ -155,7 +155,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Ankle; Sprain",
       "reason_category": "injury",
-      "last_updated": "2026-06-14T17:45:17.403424+00:00"
+      "last_updated": "2026-06-14T18:00:22.699721+00:00"
     },
     {
       "name": "Kiki TorontoTempo Rice",
@@ -164,7 +164,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Ankle; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-06-14T17:45:17.403424+00:00"
+      "last_updated": "2026-06-14T18:00:22.699721+00:00"
     },
     {
       "name": "Laura Ziegler",
@@ -210,6 +210,15 @@
       "reason": "Injury/Illness - Left Ankle; Sprain",
       "reason_category": "injury",
       "last_updated": "2026-06-14T03:45:18.457665+00:00"
+    },
+    {
+      "name": "Nyara Sabally",
+      "team_abbr": "ATL",
+      "team_full": "Atlanta Dream",
+      "status": "Out",
+      "reason": "Injury/Illness - Right Hamstring; Injury",
+      "reason_category": "injury",
+      "last_updated": "2026-06-14T18:00:22.699721+00:00"
     },
     {
       "name": "Odyssey Sims",
@@ -266,15 +275,6 @@
       "last_updated": "2026-06-13T03:45:58.551921+00:00"
     },
     {
-      "name": "Nyara Sabally",
-      "team_abbr": "ATL",
-      "team_full": "Atlanta Dream",
-      "status": "Questionable",
-      "reason": "Injury/Illness - Right Hamstring; Injury",
-      "reason_category": "injury",
-      "last_updated": "2026-06-14T17:45:17.403424+00:00"
-    },
-    {
       "name": "Caitlin Clark",
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
@@ -306,7 +306,7 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-06-14T17:45:17.403424+00:00",
+      "last_submitted_ts": "2026-06-14T18:00:22.699721+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "ATL@TOR"
@@ -336,7 +336,7 @@
         {
           "name_last_first": "Sabally, Nyara",
           "name": "Nyara Sabally",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Right Hamstring; Injury",
           "reason_category": "injury"
         }
@@ -403,7 +403,7 @@
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
       "last_submitted_ts": "2026-06-14T03:45:18.457665+00:00",
-      "last_seen_pending_ts": "2026-06-14T17:45:17.403424+00:00",
+      "last_seen_pending_ts": "2026-06-14T18:00:22.699721+00:00",
       "matchups": [
         "DAL@PDX"
       ],
@@ -428,7 +428,7 @@
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
       "last_submitted_ts": "2026-06-13T03:45:58.551921+00:00",
-      "last_seen_pending_ts": "2026-06-14T17:45:17.403424+00:00",
+      "last_seen_pending_ts": "2026-06-14T18:00:22.699721+00:00",
       "matchups": [
         "GSV@SEA"
       ],
@@ -492,7 +492,7 @@
       "team_abbr": "LAS",
       "team_full": "Los Angeles Sparks",
       "last_submitted_ts": "2026-06-14T03:45:18.457665+00:00",
-      "last_seen_pending_ts": "2026-06-14T17:45:17.403424+00:00",
+      "last_seen_pending_ts": "2026-06-14T18:00:22.699721+00:00",
       "matchups": [
         "LAS@PHX"
       ],
@@ -510,7 +510,7 @@
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
       "last_submitted_ts": "2026-06-14T03:45:18.457665+00:00",
-      "last_seen_pending_ts": "2026-06-14T17:45:17.403424+00:00",
+      "last_seen_pending_ts": "2026-06-14T18:00:22.699721+00:00",
       "matchups": [
         "MIN@LVA"
       ],
@@ -528,7 +528,7 @@
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
       "last_submitted_ts": "2026-06-14T03:45:18.457665+00:00",
-      "last_seen_pending_ts": "2026-06-14T17:45:17.403424+00:00",
+      "last_seen_pending_ts": "2026-06-14T18:00:22.699721+00:00",
       "matchups": [
         "MIN@LVA"
       ],
@@ -592,7 +592,7 @@
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
       "last_submitted_ts": "2026-06-14T03:45:18.457665+00:00",
-      "last_seen_pending_ts": "2026-06-14T17:45:17.403424+00:00",
+      "last_seen_pending_ts": "2026-06-14T18:00:22.699721+00:00",
       "matchups": [
         "DAL@PDX"
       ],
@@ -673,7 +673,7 @@
     {
       "team_abbr": "WAS",
       "team_full": "Washington Mystics",
-      "last_submitted_ts": "2026-06-14T17:45:17.403424+00:00",
+      "last_submitted_ts": "2026-06-14T18:00:22.699721+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "WAS@NYL"
@@ -690,6 +690,16 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-06-14T18:00:22.699721+00:00",
+      "type": "status_change",
+      "team_abbr": "ATL",
+      "player": "Nyara Sabally",
+      "from_status": "Questionable",
+      "to_status": "Out",
+      "reason": "Injury/Illness - Right Hamstring; Injury",
+      "reason_category": "injury"
+    },
     {
       "ts": "2026-06-14T17:45:17.403424+00:00",
       "type": "added",
@@ -2925,15 +2935,6 @@
       "type": "added",
       "team_abbr": "PHX",
       "player": "Marta Suarez",
-      "status": "Out",
-      "reason": "Player Coach's Decision - Developmental",
-      "reason_category": "rest_coach"
-    },
-    {
-      "ts": "2026-06-04T01:00:46.595428+00:00",
-      "type": "added",
-      "team_abbr": "PHX",
-      "player": "Shay Ciezki",
       "status": "Out",
       "reason": "Player Coach's Decision - Developmental",
       "reason_category": "rest_coach"

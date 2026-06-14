@@ -7300,5 +7300,15 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-14T18:00:22.699721+00:00",
+    "type": "status_change",
+    "team_abbr": "ATL",
+    "player": "Nyara Sabally",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Hamstring; Injury",
+    "reason_category": "injury"
   }
 ]
