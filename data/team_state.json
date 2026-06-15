@@ -2,8 +2,8 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-06-15T20:30:28.838916+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_04_30PM.pdf",
+    "last_submitted_ts": "2026-06-15T20:45:23.144076+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_04_45PM.pdf",
     "game_dates": [
       "06/15/2026"
     ],
@@ -68,7 +68,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-06-15T20:30:28.838916+00:00"
+    "last_seen_pending_ts": "2026-06-15T20:45:23.144076+00:00"
   },
   "PHX": {
     "team_full": "Phoenix Mercury",
@@ -101,8 +101,8 @@
   "LVA": {
     "team_full": "Las Vegas Aces",
     "submitted": true,
-    "last_submitted_ts": "2026-06-15T20:30:28.838916+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_04_30PM.pdf",
+    "last_submitted_ts": "2026-06-15T20:45:23.144076+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_04_45PM.pdf",
     "game_dates": [
       "06/15/2026"
     ],
@@ -178,8 +178,8 @@
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-06-15T20:30:28.838916+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_04_30PM.pdf",
+    "last_submitted_ts": "2026-06-15T20:45:23.144076+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_04_45PM.pdf",
     "game_dates": [
       "06/15/2026",
       "06/16/2026"
@@ -208,6 +208,20 @@
         "name": "Dorka Juhasz",
         "status": "Out",
         "reason": "Injury/Illness - Right Foot; Right Foot",
+        "reason_category": "injury"
+      },
+      {
+        "name_last_first": "TorontoTempo Rice, Kiki",
+        "name": "Kiki TorontoTempo Rice",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Ankle; Injury",
+        "reason_category": "injury"
+      },
+      {
+        "name_last_first": "Sabally, Nyara",
+        "name": "Nyara Sabally",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Hamstring; Injury",
         "reason_category": "injury"
       }
     ]
@@ -257,8 +271,8 @@
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-06-15T20:30:28.838916+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_04_30PM.pdf",
+    "last_submitted_ts": "2026-06-15T20:45:23.144076+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_04_45PM.pdf",
     "game_dates": [
       "06/15/2026"
     ],

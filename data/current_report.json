@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/15/26 04:30 PM",
+  "report_ts": "06/15/26 04:45 PM",
   "page_count": 1,
-  "raw_line_count": 15,
+  "raw_line_count": 18,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -126,8 +126,23 @@
       "game_date": "06/16/2026",
       "game_time": "07:00(ET)",
       "matchup": "TOR@IND",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "TorontoTempo Rice, Kiki",
+          "name": "Kiki TorontoTempo Rice",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sabally, Nyara",
+          "name": "Nyara Sabally",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Hamstring; Injury",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Indiana Fever",
@@ -139,7 +154,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_04_30PM.pdf",
-  "fetched_slot": "2026-06-15T16:30:00-04:00",
-  "polled_at_utc": "2026-06-15T20:30:28.838916+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_04_45PM.pdf",
+  "fetched_slot": "2026-06-15T16:45:00-04:00",
+  "polled_at_utc": "2026-06-15T20:45:23.144076+00:00"
 }
