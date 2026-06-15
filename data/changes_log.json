@@ -7497,5 +7497,15 @@
     "to_status": "Probable",
     "reason": "Injury/Illness - Back; Back",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-15T22:15:22.500259+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Paige Bueckers",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Ankle; n/a",
+    "reason_category": "injury"
   }
 ]

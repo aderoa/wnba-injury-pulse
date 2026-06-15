@@ -1,5 +1,5 @@
 {
-  "report_ts": "06/15/26 06:00 PM",
+  "report_ts": "06/15/26 06:15 PM",
   "page_count": 1,
   "raw_line_count": 19,
   "teams": [
@@ -45,7 +45,7 @@
         {
           "name_last_first": "Bueckers, Paige",
           "name": "Paige Bueckers",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness - Right Ankle; n/a",
           "reason_category": "injury"
         },
@@ -169,7 +169,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_06_00PM.pdf",
-  "fetched_slot": "2026-06-15T18:00:00-04:00",
-  "polled_at_utc": "2026-06-15T22:00:24.602188+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_06_15PM.pdf",
+  "fetched_slot": "2026-06-15T18:15:00-04:00",
+  "polled_at_utc": "2026-06-15T22:15:22.500259+00:00"
 }
