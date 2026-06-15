@@ -4,6 +4,13 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-06-15 23:00 UTC
+
+- **Jordan Harrison** (PDX) newly listed as **Out** — Coach's Decision
+- **Karlie Samuelson** (PDX): **Questionable** → **Out** — Injury/Illness - Left Adductor; Tightness
+- **Nyadiew Puoch** (PDX): **Questionable** → **Available** — Injury/Illness - Left Ankle; Sprain
+- **Holly Winterburn** (PDX): **Questionable** → **Available** — Injury/Illness - Right Foot; Sprain
+
 ## 2026-06-15 22:45 UTC
 
 - **Liatu King** (MIN) newly listed as **Out** — Coach's Decision

@@ -2,8 +2,8 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-06-15T22:45:24.849700+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_06_45PM.pdf",
+    "last_submitted_ts": "2026-06-15T23:00:27.313659+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_07_00PM.pdf",
     "game_dates": [
       "06/15/2026"
     ],
@@ -30,8 +30,8 @@
   "IND": {
     "team_full": "Indiana Fever",
     "submitted": true,
-    "last_submitted_ts": "2026-06-15T22:45:24.849700+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_06_45PM.pdf",
+    "last_submitted_ts": "2026-06-15T23:00:27.313659+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_07_00PM.pdf",
     "game_dates": [
       "06/16/2026"
     ],
@@ -86,8 +86,8 @@
   "LVA": {
     "team_full": "Las Vegas Aces",
     "submitted": true,
-    "last_submitted_ts": "2026-06-15T22:45:24.849700+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_06_45PM.pdf",
+    "last_submitted_ts": "2026-06-15T23:00:27.313659+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_07_00PM.pdf",
     "game_dates": [
       "06/15/2026"
     ],
@@ -163,8 +163,8 @@
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-06-15T22:45:24.849700+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_06_45PM.pdf",
+    "last_submitted_ts": "2026-06-15T23:00:27.313659+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_07_00PM.pdf",
     "game_dates": [
       "06/15/2026",
       "06/16/2026"
@@ -263,8 +263,8 @@
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-06-15T22:45:24.849700+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_06_45PM.pdf",
+    "last_submitted_ts": "2026-06-15T23:00:27.313659+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_07_00PM.pdf",
     "game_dates": [
       "06/15/2026"
     ],
@@ -273,23 +273,30 @@
     ],
     "players": [
       {
+        "name_last_first": "Harrison, Jordan",
+        "name": "Jordan Harrison",
+        "status": "Out",
+        "reason": "Coach's Decision",
+        "reason_category": "rest_coach"
+      },
+      {
         "name_last_first": "Puoch, Nyadiew",
         "name": "Nyadiew Puoch",
-        "status": "Questionable",
+        "status": "Available",
         "reason": "Injury/Illness - Left Ankle; Sprain",
         "reason_category": "injury"
       },
       {
         "name_last_first": "Samuelson, Karlie",
         "name": "Karlie Samuelson",
-        "status": "Questionable",
+        "status": "Out",
         "reason": "Injury/Illness - Left Adductor; Tightness",
         "reason_category": "injury"
       },
       {
         "name_last_first": "Winterburn, Holly",
         "name": "Holly Winterburn",
-        "status": "Questionable",
+        "status": "Available",
         "reason": "Injury/Illness - Right Foot; Sprain",
         "reason_category": "injury"
       }

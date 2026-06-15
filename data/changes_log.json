@@ -7516,5 +7516,44 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-15T23:00:27.313659+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Jordan Harrison",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-15T23:00:27.313659+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Karlie Samuelson",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Adductor; Tightness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-15T23:00:27.313659+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Nyadiew Puoch",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Ankle; Sprain",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-15T23:00:27.313659+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Holly Winterburn",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Foot; Sprain",
+    "reason_category": "injury"
   }
 ]
