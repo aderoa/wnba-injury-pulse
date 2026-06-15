@@ -1,94 +1,8 @@
 {
-  "report_ts": "06/14/26 11:45 PM",
-  "page_count": 2,
-  "raw_line_count": 28,
+  "report_ts": "06/15/26 12:15 AM",
+  "page_count": 1,
+  "raw_line_count": 14,
   "teams": [
-    {
-      "team_full": "Atlanta Dream",
-      "team_abbr": "ATL",
-      "game_date": "06/14/2026",
-      "game_time": "03:00(ET)",
-      "matchup": "ATL@TOR",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Jones, Brionna",
-          "name": "Brionna Jones",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee; N/A",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Okonkwo, Amy",
-          "name": "Amy Okonkwo",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "TorontoTempo Rice, Kiki",
-          "name": "Kiki TorontoTempo Rice",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Ankle; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Sabally, Nyara",
-          "name": "Nyara Sabally",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Hamstring; Injury",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Washington Mystics",
-      "team_abbr": "WAS",
-      "game_date": "06/14/2026",
-      "game_time": "03:00(ET)",
-      "matchup": "WAS@NYL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Iriafen, Kiki",
-          "name": "Kiki Iriafen",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Ankle; Sprain",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Littlepage-Buggs, Darianna",
-          "name": "Darianna Littlepage-Buggs",
-          "status": "Out",
-          "reason": "Coach's Decision - Development",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "New York Liberty",
-      "team_abbr": "NYL",
-      "game_date": "06/14/2026",
-      "game_time": "03:00(ET)",
-      "matchup": "WAS@NYL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Fauthoux, Marine",
-          "name": "Marine Fauthoux",
-          "status": "Out",
-          "reason": "Player Coach's Decision - Developmental",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Maley, Anneli",
-          "name": "Anneli Maley",
-          "status": "Out",
-          "reason": "Player Coach's Decision - Developmental Player",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
     {
       "team_full": "Las Vegas Aces",
       "team_abbr": "LVA",
@@ -198,9 +112,27 @@
           "reason_category": "injury"
         }
       ]
+    },
+    {
+      "team_full": "Minnesota Lynx",
+      "team_abbr": "MIN",
+      "game_date": "06/16/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "TOR@IND",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Indiana Fever",
+      "team_abbr": "IND",
+      "game_date": "06/16/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "TOR@IND",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-14_11_45PM.pdf",
-  "fetched_slot": "2026-06-14T23:45:00-04:00",
-  "polled_at_utc": "2026-06-15T04:00:16.072441+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_12_15AM.pdf",
+  "fetched_slot": "2026-06-15T00:15:00-04:00",
+  "polled_at_utc": "2026-06-15T04:15:25.255082+00:00"
 }
