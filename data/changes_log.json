@@ -7507,5 +7507,14 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Right Ankle; n/a",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-15T22:45:24.849700+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Liatu King",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]

@@ -2,8 +2,8 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-06-15T22:34:19.828899+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_06_30PM.pdf",
+    "last_submitted_ts": "2026-06-15T22:45:24.849700+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_06_45PM.pdf",
     "game_dates": [
       "06/15/2026"
     ],
@@ -30,8 +30,8 @@
   "IND": {
     "team_full": "Indiana Fever",
     "submitted": true,
-    "last_submitted_ts": "2026-06-15T22:34:19.828899+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_06_30PM.pdf",
+    "last_submitted_ts": "2026-06-15T22:45:24.849700+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_06_45PM.pdf",
     "game_dates": [
       "06/16/2026"
     ],
@@ -86,8 +86,8 @@
   "LVA": {
     "team_full": "Las Vegas Aces",
     "submitted": true,
-    "last_submitted_ts": "2026-06-15T22:34:19.828899+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_06_30PM.pdf",
+    "last_submitted_ts": "2026-06-15T22:45:24.849700+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_06_45PM.pdf",
     "game_dates": [
       "06/15/2026"
     ],
@@ -163,8 +163,8 @@
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-06-15T22:34:19.828899+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_06_30PM.pdf",
+    "last_submitted_ts": "2026-06-15T22:45:24.849700+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_06_45PM.pdf",
     "game_dates": [
       "06/15/2026",
       "06/16/2026"
@@ -194,6 +194,13 @@
         "status": "Out",
         "reason": "Injury/Illness - Right Foot; Right Foot",
         "reason_category": "injury"
+      },
+      {
+        "name_last_first": "King, Liatu",
+        "name": "Liatu King",
+        "status": "Out",
+        "reason": "Coach's Decision",
+        "reason_category": "rest_coach"
       },
       {
         "name_last_first": "TorontoTempo Rice, Kiki",
@@ -256,8 +263,8 @@
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-06-15T22:34:19.828899+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_06_30PM.pdf",
+    "last_submitted_ts": "2026-06-15T22:45:24.849700+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_06_45PM.pdf",
     "game_dates": [
       "06/15/2026"
     ],
