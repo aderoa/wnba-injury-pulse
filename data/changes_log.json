@@ -7555,5 +7555,14 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Right Foot; Sprain",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-15T23:15:16.873282+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Costanza Verona",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
