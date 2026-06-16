@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/16/26 06:15 PM",
+  "report_ts": "06/16/26 06:30 PM",
   "page_count": 2,
-  "raw_line_count": 23,
+  "raw_line_count": 25,
   "teams": [
     {
       "team_full": "Indiana Fever",
@@ -19,11 +19,25 @@
           "reason_category": "other"
         },
         {
+          "name_last_first": "Hall, Bree",
+          "name": "Bree Hall",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Johnson, Raven",
           "name": "Raven Johnson",
           "status": "Available",
           "reason": "-",
           "reason_category": "other"
+        },
+        {
+          "name_last_first": "Pissott, Justine",
+          "name": "Justine Pissott",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -189,7 +203,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-16_06_15PM.pdf",
-  "fetched_slot": "2026-06-16T18:15:00-04:00",
-  "polled_at_utc": "2026-06-16T22:16:39.450693+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-16_06_30PM.pdf",
+  "fetched_slot": "2026-06-16T18:30:00-04:00",
+  "polled_at_utc": "2026-06-16T22:30:42.301045+00:00"
 }

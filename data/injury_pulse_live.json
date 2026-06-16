@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-06-16T22:16:39.450693+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-16_06_15PM.pdf",
-  "report_ts": "06/16/26 06:15 PM",
+  "polled_at_utc": "2026-06-16T22:30:42.301045+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-16_06_30PM.pdf",
+  "report_ts": "06/16/26 06:30 PM",
   "all_players": [
     {
       "name": "Amy Okonkwo",
@@ -21,6 +21,15 @@
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
       "last_updated": "2026-06-16T03:45:18.669987+00:00"
+    },
+    {
+      "name": "Bree Hall",
+      "team_abbr": "IND",
+      "team_full": "Indiana Fever",
+      "status": "Out",
+      "reason": "Coach's Decision",
+      "reason_category": "rest_coach",
+      "last_updated": "2026-06-16T22:30:42.301045+00:00"
     },
     {
       "name": "Brionna Jones",
@@ -56,7 +65,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; Right Knee",
       "reason_category": "injury",
-      "last_updated": "2026-06-16T22:16:39.450693+00:00"
+      "last_updated": "2026-06-16T22:30:42.301045+00:00"
     },
     {
       "name": "Dana Evans",
@@ -74,7 +83,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Foot; Left Foot",
       "reason_category": "injury",
-      "last_updated": "2026-06-16T22:16:39.450693+00:00"
+      "last_updated": "2026-06-16T22:30:42.301045+00:00"
     },
     {
       "name": "Dorka Juhasz",
@@ -110,7 +119,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Ankle; Contusion",
       "reason_category": "injury",
-      "last_updated": "2026-06-16T22:16:39.450693+00:00"
+      "last_updated": "2026-06-16T22:30:42.301045+00:00"
     },
     {
       "name": "Janiah Barker",
@@ -129,6 +138,15 @@
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
       "last_updated": "2026-06-16T03:45:18.669987+00:00"
+    },
+    {
+      "name": "Justine Pissott",
+      "team_abbr": "IND",
+      "team_full": "Indiana Fever",
+      "status": "Out",
+      "reason": "Coach's Decision",
+      "reason_category": "rest_coach",
+      "last_updated": "2026-06-16T22:30:42.301045+00:00"
     },
     {
       "name": "Karlie Samuelson",
@@ -236,7 +254,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; Left Knee",
       "reason_category": "injury",
-      "last_updated": "2026-06-16T22:16:39.450693+00:00"
+      "last_updated": "2026-06-16T22:30:42.301045+00:00"
     },
     {
       "name": "Sami Whitcomb",
@@ -263,7 +281,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Left Knee; Management",
       "reason_category": "injury",
-      "last_updated": "2026-06-16T22:16:39.450693+00:00"
+      "last_updated": "2026-06-16T22:30:42.301045+00:00"
     },
     {
       "name": "Kiki Iriafen",
@@ -272,7 +290,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Right Ankle; Sprain",
       "reason_category": "injury",
-      "last_updated": "2026-06-16T22:16:39.450693+00:00"
+      "last_updated": "2026-06-16T22:30:42.301045+00:00"
     },
     {
       "name": "Shakira Austin",
@@ -281,7 +299,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Knee; Soreness",
       "reason_category": "injury",
-      "last_updated": "2026-06-16T22:16:39.450693+00:00"
+      "last_updated": "2026-06-16T22:30:42.301045+00:00"
     },
     {
       "name": "Caitlin Clark",
@@ -290,7 +308,7 @@
       "status": "Available",
       "reason": "-",
       "reason_category": "other",
-      "last_updated": "2026-06-16T22:16:39.450693+00:00"
+      "last_updated": "2026-06-16T22:30:42.301045+00:00"
     },
     {
       "name": "Holly Winterburn",
@@ -326,7 +344,7 @@
       "status": "Available",
       "reason": "-",
       "reason_category": "other",
-      "last_updated": "2026-06-16T22:16:39.450693+00:00"
+      "last_updated": "2026-06-16T22:30:42.301045+00:00"
     }
   ],
   "teams": [
@@ -372,7 +390,7 @@
     {
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
-      "last_submitted_ts": "2026-06-16T22:16:39.450693+00:00",
+      "last_submitted_ts": "2026-06-16T22:30:42.301045+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "NYL@CHI"
@@ -404,7 +422,7 @@
     {
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
-      "last_submitted_ts": "2026-06-16T22:16:39.450693+00:00",
+      "last_submitted_ts": "2026-06-16T22:30:42.301045+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "WAS@CON"
@@ -423,7 +441,7 @@
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
       "last_submitted_ts": "2026-06-16T03:45:18.669987+00:00",
-      "last_seen_pending_ts": "2026-06-16T22:16:39.450693+00:00",
+      "last_seen_pending_ts": "2026-06-16T22:30:42.301045+00:00",
       "matchups": [
         "LVA@DAL"
       ],
@@ -455,7 +473,7 @@
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
       "last_submitted_ts": "2026-06-16T03:45:18.669987+00:00",
-      "last_seen_pending_ts": "2026-06-16T22:16:39.450693+00:00",
+      "last_seen_pending_ts": "2026-06-16T22:30:42.301045+00:00",
       "matchups": [
         "LAS@GSV",
         "TOR@IND"
@@ -494,7 +512,7 @@
     {
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
-      "last_submitted_ts": "2026-06-16T22:16:39.450693+00:00",
+      "last_submitted_ts": "2026-06-16T22:30:42.301045+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "TOR@IND"
@@ -508,11 +526,25 @@
           "reason_category": "other"
         },
         {
+          "name_last_first": "Hall, Bree",
+          "name": "Bree Hall",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Johnson, Raven",
           "name": "Raven Johnson",
           "status": "Available",
           "reason": "-",
           "reason_category": "other"
+        },
+        {
+          "name_last_first": "Pissott, Justine",
+          "name": "Justine Pissott",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -520,7 +552,7 @@
       "team_abbr": "LAS",
       "team_full": "Los Angeles Sparks",
       "last_submitted_ts": "2026-06-16T03:45:18.669987+00:00",
-      "last_seen_pending_ts": "2026-06-16T22:16:39.450693+00:00",
+      "last_seen_pending_ts": "2026-06-16T22:30:42.301045+00:00",
       "matchups": [
         "LAS@GSV"
       ],
@@ -538,7 +570,7 @@
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
       "last_submitted_ts": "2026-06-16T03:45:18.669987+00:00",
-      "last_seen_pending_ts": "2026-06-16T22:16:39.450693+00:00",
+      "last_seen_pending_ts": "2026-06-16T22:30:42.301045+00:00",
       "matchups": [
         "LVA@DAL"
       ],
@@ -570,7 +602,7 @@
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
       "last_submitted_ts": "2026-06-16T03:45:18.669987+00:00",
-      "last_seen_pending_ts": "2026-06-16T22:16:39.450693+00:00",
+      "last_seen_pending_ts": "2026-06-16T22:30:42.301045+00:00",
       "matchups": [
         "PDX@MIN"
       ],
@@ -608,7 +640,7 @@
     {
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
-      "last_submitted_ts": "2026-06-16T22:16:39.450693+00:00",
+      "last_submitted_ts": "2026-06-16T22:30:42.301045+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "NYL@CHI"
@@ -627,7 +659,7 @@
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
       "last_submitted_ts": "2026-06-16T03:45:18.669987+00:00",
-      "last_seen_pending_ts": "2026-06-16T22:16:39.450693+00:00",
+      "last_seen_pending_ts": "2026-06-16T22:30:42.301045+00:00",
       "matchups": [
         "PDX@MIN"
       ],
@@ -666,7 +698,7 @@
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
       "last_submitted_ts": "2026-06-14T03:45:18.457665+00:00",
-      "last_seen_pending_ts": "2026-06-16T22:16:39.450693+00:00",
+      "last_seen_pending_ts": "2026-06-16T22:30:42.301045+00:00",
       "matchups": [
         "LAS@PHX"
       ],
@@ -691,7 +723,7 @@
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
       "last_submitted_ts": "2026-06-13T03:45:58.551921+00:00",
-      "last_seen_pending_ts": "2026-06-16T22:16:39.450693+00:00",
+      "last_seen_pending_ts": "2026-06-16T22:30:42.301045+00:00",
       "matchups": [
         "GSV@SEA"
       ],
@@ -715,7 +747,7 @@
     {
       "team_abbr": "WAS",
       "team_full": "Washington Mystics",
-      "last_submitted_ts": "2026-06-16T22:16:39.450693+00:00",
+      "last_submitted_ts": "2026-06-16T22:30:42.301045+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "WAS@CON"
@@ -739,6 +771,24 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-06-16T22:30:42.301045+00:00",
+      "type": "added",
+      "team_abbr": "IND",
+      "player": "Justine Pissott",
+      "status": "Out",
+      "reason": "Coach's Decision",
+      "reason_category": "rest_coach"
+    },
+    {
+      "ts": "2026-06-16T22:30:42.301045+00:00",
+      "type": "added",
+      "team_abbr": "IND",
+      "player": "Bree Hall",
+      "status": "Out",
+      "reason": "Coach's Decision",
+      "reason_category": "rest_coach"
+    },
     {
       "ts": "2026-06-16T22:00:43.130652+00:00",
       "type": "cleared",
@@ -2981,24 +3031,6 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach"
-    },
-    {
-      "ts": "2026-06-05T22:00:25.828125+00:00",
-      "type": "reason_change",
-      "team_abbr": "MIN",
-      "player": "Dorka Juhasz",
-      "status": "Out",
-      "from_reason": "Injury/Illness - Right Foot; Right Foot",
-      "to_reason": "Injury/Illness - Right Foot; Rightfoot",
-      "reason_category": "injury"
-    },
-    {
-      "ts": "2026-06-05T22:00:25.828125+00:00",
-      "type": "cleared",
-      "team_abbr": "MIN",
-      "player": "Liatu King",
-      "previous_status": "Out",
-      "previous_reason": "Coach's Decision"
     }
   ]
 }
