@@ -7642,5 +7642,32 @@
     "status": "Out",
     "reason": "Injury/Illness - Right Hamstring; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-16T20:45:43.922382+00:00",
+    "type": "added",
+    "team_abbr": "WAS",
+    "player": "Shakira Austin",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Knee; Soreness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-16T20:45:43.922382+00:00",
+    "type": "cleared",
+    "team_abbr": "WAS",
+    "player": "Darianna Littlepage-Buggs",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Development"
+  },
+  {
+    "ts": "2026-06-16T20:45:43.922382+00:00",
+    "type": "status_change",
+    "team_abbr": "WAS",
+    "player": "Kiki Iriafen",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Right Ankle; Sprain",
+    "reason_category": "injury"
   }
 ]

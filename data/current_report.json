@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/16/26 04:30 PM",
-  "page_count": 1,
-  "raw_line_count": 18,
+  "report_ts": "06/16/26 04:45 PM",
+  "page_count": 2,
+  "raw_line_count": 19,
   "teams": [
     {
       "team_full": "Indiana Fever",
@@ -33,8 +33,23 @@
       "game_date": "06/17/2026",
       "game_time": "07:00(ET)",
       "matchup": "WAS@CON",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Austin, Shakira",
+          "name": "Shakira Austin",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Knee; Soreness",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Iriafen, Kiki",
+          "name": "Kiki Iriafen",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Ankle; Sprain",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Connecticut Sun",
@@ -42,8 +57,16 @@
       "game_date": "06/17/2026",
       "game_time": "07:00(ET)",
       "matchup": "WAS@CON",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "VanLith, Hailey",
+          "name": "Hailey VanLith",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; Contusion",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "New York Liberty",
@@ -136,7 +159,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-16_04_30PM.pdf",
-  "fetched_slot": "2026-06-16T16:30:00-04:00",
-  "polled_at_utc": "2026-06-16T20:30:46.032232+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-16_04_45PM.pdf",
+  "fetched_slot": "2026-06-16T16:45:00-04:00",
+  "polled_at_utc": "2026-06-16T20:45:43.922382+00:00"
 }
