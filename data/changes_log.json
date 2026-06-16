@@ -7689,5 +7689,38 @@
     "to_status": "Available",
     "reason": "-",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-06-16T22:00:43.130652+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Betnijah Laney-Hamilton",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Left Knee; Management",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-16T22:00:43.130652+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Marine Fauthoux",
+    "previous_status": "Out",
+    "previous_reason": "Player Coach's Decision - Developmental"
+  },
+  {
+    "ts": "2026-06-16T22:00:43.130652+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Anneli Maley",
+    "previous_status": "Out",
+    "previous_reason": "Player Coach's Decision - Developmental Player"
+  },
+  {
+    "ts": "2026-06-16T22:00:43.130652+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Maddy Westbeld",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]
