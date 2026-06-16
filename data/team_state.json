@@ -32,13 +32,14 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-06-16T04:00:47.375488+00:00"
   },
   "IND": {
     "team_full": "Indiana Fever",
     "submitted": true,
-    "last_submitted_ts": "2026-06-16T03:45:18.669987+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_11_45PM.pdf",
+    "last_submitted_ts": "2026-06-16T04:00:47.375488+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-16_12_00AM.pdf",
     "game_dates": [
       "06/16/2026"
     ],
@@ -88,7 +89,8 @@
         "reason": "Arthroscopy Coach's Decision - Developmental Player",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-06-16T04:00:47.375488+00:00"
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
@@ -123,7 +125,8 @@
         "reason": "Injury/Illness - Left Leg; injured",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-06-16T04:00:47.375488+00:00"
   },
   "ATL": {
     "team_full": "Atlanta Dream",
@@ -207,7 +210,8 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-06-16T04:00:47.375488+00:00"
   },
   "CHI": {
     "team_full": "Chicago Sky",
@@ -249,7 +253,8 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-06-16T04:00:47.375488+00:00"
   },
   "PDX": {
     "team_full": "Portland Fire",
@@ -291,7 +296,8 @@
         "reason": "Injury/Illness - Right Foot; Sprain",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-06-16T04:00:47.375488+00:00"
   },
   "SEA": {
     "team_full": "Seattle Storm",
@@ -319,7 +325,8 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-06-16T04:00:47.375488+00:00"
   },
   "CON": {
     "team_full": "Connecticut Sun",
@@ -340,7 +347,8 @@
         "reason": "Injury/Illness - Left Ankle; Contusion",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-06-16T04:00:47.375488+00:00"
   },
   "NYL": {
     "team_full": "New York Liberty",
@@ -368,7 +376,8 @@
         "reason": "Player Coach's Decision - Developmental Player",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-06-16T04:00:47.375488+00:00"
   },
   "WAS": {
     "team_full": "Washington Mystics",
@@ -396,7 +405,8 @@
         "reason": "Coach's Decision - Development",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-06-16T04:00:47.375488+00:00"
   },
   "GSV": {
     "team_full": "Golden State Valkyries",
@@ -440,7 +450,8 @@
         "reason": "Injury/Illness - Right Hamstring; Injury",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-06-16T04:00:47.375488+00:00"
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",
@@ -461,6 +472,7 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-06-16T04:00:47.375488+00:00"
   }
 }
