@@ -7608,5 +7608,39 @@
     "status": "Out",
     "reason": "Injury/Illness - Right Hamstring; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-16T01:15:19.025214+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Kiki TorontoTempo Rice",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Ankle; Injury"
+  },
+  {
+    "ts": "2026-06-16T01:15:19.025214+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Nyara Sabally",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Right Hamstring; Injury"
+  },
+  {
+    "ts": "2026-06-16T01:15:19.025214+00:00",
+    "type": "added",
+    "team_abbr": "GSV",
+    "player": "Kiki TorontoTempo Rice",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Ankle; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-16T01:15:19.025214+00:00",
+    "type": "added",
+    "team_abbr": "GSV",
+    "player": "Nyara Sabally",
+    "status": "Out",
+    "reason": "Injury/Illness - Right Hamstring; Injury",
+    "reason_category": "injury"
   }
 ]
