@@ -1,5 +1,5 @@
 {
-  "report_ts": "06/15/26 08:45 PM",
+  "report_ts": "06/15/26 09:00 PM",
   "page_count": 2,
   "raw_line_count": 22,
   "teams": [
@@ -142,8 +142,25 @@
       ]
     },
     {
-      "team_full": "Minnesota Lynx",
-      "team_abbr": "MIN",
+      "team_full": "Los Angeles Sparks",
+      "team_abbr": "LAS",
+      "game_date": "06/15/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "LAS@GSV",
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Ziegler, Laura",
+          "name": "Laura Ziegler",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        }
+      ]
+    },
+    {
+      "team_full": "Los Angeles Sparks",
+      "team_abbr": "LAS",
       "game_date": "06/16/2026",
       "game_time": "07:00(ET)",
       "matchup": "TOR@IND",
@@ -190,7 +207,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_08_45PM.pdf",
-  "fetched_slot": "2026-06-15T20:45:00-04:00",
-  "polled_at_utc": "2026-06-16T00:45:20.653152+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-15_09_00PM.pdf",
+  "fetched_slot": "2026-06-15T21:00:00-04:00",
+  "polled_at_utc": "2026-06-16T01:00:19.830965+00:00"
 }
