@@ -7740,5 +7740,39 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-16T23:30:41.265023+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Paige Bueckers",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Right Ankle; n/a"
+  },
+  {
+    "ts": "2026-06-16T23:30:41.265023+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Costanza Verona",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-16T23:30:41.265023+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Kiana Williams",
+    "previous_status": "Out",
+    "previous_reason": "Arthroscopy Coach's Decision - Developmental Player"
+  },
+  {
+    "ts": "2026-06-16T23:30:41.265023+00:00",
+    "type": "reason_change",
+    "team_abbr": "PHX",
+    "player": "Sami Whitcomb",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Knee;",
+    "to_reason": "Injury/Illness - Left Knee; Arthroscopy",
+    "reason_category": "injury"
   }
 ]
