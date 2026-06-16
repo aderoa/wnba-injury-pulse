@@ -7669,5 +7669,25 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Right Ankle; Sprain",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-16T21:00:50.994908+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-06-16T21:00:50.994908+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Raven Johnson",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
   }
 ]
