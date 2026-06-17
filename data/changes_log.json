@@ -7902,5 +7902,15 @@
     "player": "Laura Ziegler",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-17T20:00:36.695294+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Janiah Barker",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Leg; R.Leg",
+    "reason_category": "injury"
   }
 ]
