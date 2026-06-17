@@ -7979,5 +7979,43 @@
     "to_status": "Probable",
     "reason": "Injury/Illness - Back; Back",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-17T22:15:34.484953+00:00",
+    "type": "added",
+    "team_abbr": "WAS",
+    "player": "Darianna Littlepage-Buggs",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-17T22:15:34.484953+00:00",
+    "type": "status_change",
+    "team_abbr": "WAS",
+    "player": "Shakira Austin",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Knee; Soreness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-17T22:15:34.484953+00:00",
+    "type": "status_change",
+    "team_abbr": "WAS",
+    "player": "Kiki Iriafen",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Ankle; Sprain",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-17T22:15:34.484953+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Ashlon Jackson",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]

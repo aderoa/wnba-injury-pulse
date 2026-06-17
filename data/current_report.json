@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/17/26 06:00 PM",
+  "report_ts": "06/17/26 06:15 PM",
   "page_count": 2,
-  "raw_line_count": 34,
+  "raw_line_count": 36,
   "teams": [
     {
       "team_full": "Washington Mystics",
@@ -14,16 +14,23 @@
         {
           "name_last_first": "Austin, Shakira",
           "name": "Shakira Austin",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Knee; Soreness",
           "reason_category": "injury"
         },
         {
           "name_last_first": "Iriafen, Kiki",
           "name": "Kiki Iriafen",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Right Ankle; Sprain",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Littlepage-Buggs, Darianna",
+          "name": "Darianna Littlepage-Buggs",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -35,6 +42,13 @@
       "matchup": "WAS@CON",
       "submitted": true,
       "players": [
+        {
+          "name_last_first": "Jackson, Ashlon",
+          "name": "Ashlon Jackson",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
         {
           "name_last_first": "VanLith, Hailey",
           "name": "Hailey VanLith",
@@ -316,7 +330,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-17_06_00PM.pdf",
-  "fetched_slot": "2026-06-17T18:00:00-04:00",
-  "polled_at_utc": "2026-06-17T22:00:39.490726+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-17_06_15PM.pdf",
+  "fetched_slot": "2026-06-17T18:15:00-04:00",
+  "polled_at_utc": "2026-06-17T22:15:34.484953+00:00"
 }
