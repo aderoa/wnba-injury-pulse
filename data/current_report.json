@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/16/26 08:00 PM",
+  "report_ts": "06/16/26 08:15 PM",
   "page_count": 2,
-  "raw_line_count": 37,
+  "raw_line_count": 39,
   "teams": [
     {
       "team_full": "Indiana Fever",
@@ -148,15 +148,6 @@
       ]
     },
     {
-      "team_full": "Golden State Valkyries",
-      "team_abbr": "GSV",
-      "game_date": "06/17/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "DAL@GSV",
-      "submitted": false,
-      "players": []
-    },
-    {
       "team_full": "Las Vegas Aces",
       "team_abbr": "LVA",
       "game_date": "06/17/2026",
@@ -248,8 +239,23 @@
       "game_date": "06/17/2026",
       "game_time": "10:00(ET)",
       "matchup": "MIN@LAS",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Brink, Cameron",
+          "name": "Cameron Brink",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; LAnkle",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Plum, Kelsey",
+          "name": "Kelsey Plum",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Lower Leg; L Lower Leg",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Seattle Storm",
@@ -307,7 +313,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-16_08_00PM.pdf",
-  "fetched_slot": "2026-06-16T20:00:00-04:00",
-  "polled_at_utc": "2026-06-17T00:00:36.085496+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-16_08_15PM.pdf",
+  "fetched_slot": "2026-06-16T20:15:00-04:00",
+  "polled_at_utc": "2026-06-17T00:15:44.400473+00:00"
 }

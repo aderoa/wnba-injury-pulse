@@ -4,6 +4,12 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-06-17 00:15 UTC
+
+- **Cameron Brink** (LAS) newly listed as **Out** — Injury/Illness - Left Ankle; LAnkle
+- **Kelsey Plum** (LAS) newly listed as **Questionable** — Injury/Illness - Left Lower Leg; L Lower Leg
+- **Laura Ziegler** (LAS) cleared (was Out)
+
 ## 2026-06-17 00:00 UTC
 
 - **Jewell Loyd** (LVA) newly listed as **Questionable** — Injury/Illness - N/a; Illness

@@ -7876,5 +7876,31 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Right Foot; Sprain",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-17T00:15:44.400473+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Cameron Brink",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Ankle; LAnkle",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-17T00:15:44.400473+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Kelsey Plum",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Left Lower Leg; L Lower Leg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-17T00:15:44.400473+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Laura Ziegler",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]
