@@ -1,46 +1,8 @@
 {
-  "report_ts": "06/16/26 11:45 PM",
+  "report_ts": "06/17/26 12:00 AM",
   "page_count": 2,
-  "raw_line_count": 39,
+  "raw_line_count": 33,
   "teams": [
-    {
-      "team_full": "Indiana Fever",
-      "team_abbr": "IND",
-      "game_date": "06/16/2026",
-      "game_time": "07:00(ET)",
-      "matchup": "TOR@IND",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Clark, Caitlin",
-          "name": "Caitlin Clark",
-          "status": "Available",
-          "reason": "-",
-          "reason_category": "other"
-        },
-        {
-          "name_last_first": "Hall, Bree",
-          "name": "Bree Hall",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Johnson, Raven",
-          "name": "Raven Johnson",
-          "status": "Available",
-          "reason": "-",
-          "reason_category": "other"
-        },
-        {
-          "name_last_first": "Pissott, Justine",
-          "name": "Justine Pissott",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
     {
       "team_full": "Washington Mystics",
       "team_abbr": "WAS",
@@ -311,9 +273,27 @@
           "reason_category": "injury"
         }
       ]
+    },
+    {
+      "team_full": "Atlanta Dream",
+      "team_abbr": "ATL",
+      "game_date": "06/18/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "ATL@IND",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Indiana Fever",
+      "team_abbr": "IND",
+      "game_date": "06/18/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "ATL@IND",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-16_11_45PM.pdf",
-  "fetched_slot": "2026-06-16T23:45:00-04:00",
-  "polled_at_utc": "2026-06-17T03:45:40.682250+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-17_12_00AM.pdf",
+  "fetched_slot": "2026-06-17T00:00:00-04:00",
+  "polled_at_utc": "2026-06-17T04:00:43.726862+00:00"
 }
