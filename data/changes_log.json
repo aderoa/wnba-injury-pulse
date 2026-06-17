@@ -8036,5 +8036,33 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-17T23:15:42.575729+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Marine Fauthoux",
+    "status": "Out",
+    "reason": "Coach's Decision - Developmental",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-17T23:15:42.575729+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Anneli Maley",
+    "status": "Out",
+    "reason": "Management Coach's Decision - Developmental Player",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-17T23:15:42.575729+00:00",
+    "type": "reason_change",
+    "team_abbr": "NYL",
+    "player": "Betnijah Laney-Hamilton",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Knee; Management",
+    "to_reason": "Player Injury/Illness - Left Knee;",
+    "reason_category": "injury"
   }
 ]

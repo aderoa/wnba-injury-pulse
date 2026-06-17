@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/17/26 07:00 PM",
+  "report_ts": "06/17/26 07:15 PM",
   "page_count": 2,
-  "raw_line_count": 37,
+  "raw_line_count": 43,
   "teams": [
     {
       "team_full": "Washington Mystics",
@@ -67,11 +67,25 @@
       "submitted": true,
       "players": [
         {
+          "name_last_first": "Fauthoux, Marine",
+          "name": "Marine Fauthoux",
+          "status": "Out",
+          "reason": "Coach's Decision - Developmental",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Laney-Hamilton, Betnijah",
           "name": "Betnijah Laney-Hamilton",
           "status": "Out",
-          "reason": "Injury/Illness - Left Knee; Management",
+          "reason": "Player Injury/Illness - Left Knee;",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Maley, Anneli",
+          "name": "Anneli Maley",
+          "status": "Out",
+          "reason": "Management Coach's Decision - Developmental Player",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -337,7 +351,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-17_07_00PM.pdf",
-  "fetched_slot": "2026-06-17T19:00:00-04:00",
-  "polled_at_utc": "2026-06-17T23:10:21.074977+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-17_07_15PM.pdf",
+  "fetched_slot": "2026-06-17T19:15:00-04:00",
+  "polled_at_utc": "2026-06-17T23:15:42.575729+00:00"
 }
