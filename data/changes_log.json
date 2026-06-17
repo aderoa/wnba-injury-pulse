@@ -7774,5 +7774,107 @@
     "from_reason": "Injury/Illness - Left Knee;",
     "to_reason": "Injury/Illness - Left Knee; Arthroscopy",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-17T00:00:36.085496+00:00",
+    "type": "added",
+    "team_abbr": "LVA",
+    "player": "Jewell Loyd",
+    "status": "Questionable",
+    "reason": "Injury/Illness - N/a; Illness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-17T00:00:36.085496+00:00",
+    "type": "reason_change",
+    "team_abbr": "LVA",
+    "player": "Chennedy Carter",
+    "status": "Out",
+    "from_reason": "Injury/Illness - n/a; NWT - illness",
+    "to_reason": "Injury/Illness - N/a; NWT - Illness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-17T00:00:36.085496+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Janiah Barker",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Right Leg; R.Leg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-17T00:00:36.085496+00:00",
+    "type": "reason_change",
+    "team_abbr": "LVA",
+    "player": "Dana Evans",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Leg; injured",
+    "to_reason": "Injury/Illness - Left Leg; L.Leg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-17T00:00:36.085496+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Liatu King",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-17T00:00:36.085496+00:00",
+    "type": "added",
+    "team_abbr": "SEA",
+    "player": "Jordan Horston",
+    "status": "Out",
+    "reason": "Injury/Illness - Right Foot; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-17T00:00:36.085496+00:00",
+    "type": "reason_change",
+    "team_abbr": "SEA",
+    "player": "Ezi Magbegor",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Right Foot; N/A",
+    "to_reason": "Injury/Illness - Right Foot; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-17T00:00:36.085496+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Jordan Harrison",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-17T00:00:36.085496+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Nyadiew Puoch",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Left Ankle; Sprain"
+  },
+  {
+    "ts": "2026-06-17T00:00:36.085496+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Karlie Samuelson",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Adductor; Tightness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-17T00:00:36.085496+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Holly Winterburn",
+    "from_status": "Available",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Right Foot; Sprain",
+    "reason_category": "injury"
   }
 ]

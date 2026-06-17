@@ -4,6 +4,20 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-06-17 00:00 UTC
+
+- **Jewell Loyd** (LVA) newly listed as **Questionable** — Injury/Illness - N/a; Illness
+- **Chennedy Carter** (LVA, Out): reason updated (Injury/Illness - n/a; NWT - illness → Injury/Illness - N/a; NWT - Illness)
+- **Janiah Barker** (LVA): **Out** → **Questionable** — Injury/Illness - Right Leg; R.Leg
+- **Dana Evans** (LVA, Out): reason updated (Injury/Illness - Left Leg; injured → Injury/Illness - Left Leg; L.Leg)
+- **Liatu King** (MIN) cleared (was Out)
+- **Jordan Horston** (SEA) newly listed as **Out** — Injury/Illness - Right Foot; Injury
+- **Ezi Magbegor** (SEA, Out): reason updated (Injury/Illness - Right Foot; N/A → Injury/Illness - Right Foot; Injury)
+- **Jordan Harrison** (PDX) cleared (was Out)
+- **Nyadiew Puoch** (PDX) cleared (was Available)
+- **Karlie Samuelson** (PDX): **Out** → **Questionable** — Injury/Illness - Left Adductor; Tightness
+- **Holly Winterburn** (PDX): **Available** → **Questionable** — Injury/Illness - Right Foot; Sprain
+
 ## 2026-06-16 23:30 UTC
 
 - **Paige Bueckers** (DAL) cleared (was Available)
