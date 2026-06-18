@@ -8102,5 +8102,72 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-18T01:15:38.793272+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Marta Suarez",
+    "status": "Out",
+    "reason": "Coach's Decision - Developmental",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-18T01:15:38.793272+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Kiana Williams",
+    "status": "Out",
+    "reason": "Arthroscopy Coach's Decision - Developmental Player",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-18T01:15:38.793272+00:00",
+    "type": "reason_change",
+    "team_abbr": "PHX",
+    "player": "Sami Whitcomb",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Knee; Arthroscopy",
+    "to_reason": "Player Injury/Illness - Left Knee;",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-18T01:15:38.793272+00:00",
+    "type": "status_change",
+    "team_abbr": "SEA",
+    "player": "Taina Mair",
+    "from_status": "Out",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-06-18T01:15:38.793272+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Jordan Harrison",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-18T01:15:38.793272+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Karlie Samuelson",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Adductor; Tightness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-18T01:15:38.793272+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Holly Winterburn",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Foot; Sprain",
+    "reason_category": "injury"
   }
 ]
