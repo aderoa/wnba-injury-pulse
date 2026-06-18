@@ -4,6 +4,19 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-06-18 21:00 UTC
+
+- **Kiki TorontoTempo Rice** (IND) newly listed as **Out** — Injury/Illness - Left Ankle; Injury
+- **Nyara Sabally** (IND) newly listed as **Questionable** — Injury/Illness - Right Hamstring; Injury
+- **Brittney Sykes** (IND) newly listed as **Out** — Injury/Illness - Left Foot; Injury
+- **Ashlon Jackson** (CON) cleared (was Out)
+- **Kiki Iriafen** (WAS) cleared (was Out)
+- **Darianna Littlepage-Buggs** (WAS) cleared (was Out)
+- **Shakira Austin** (WAS): **Out** → **Questionable** — Injury/Illness - Bilateral Knee;
+- **Marine Fauthoux** (NYL) cleared (was Out)
+- **Anneli Maley** (NYL) cleared (was Out)
+- **Betnijah Laney-Hamilton** (NYL): **Out** → **Questionable** — Soreness Injury/Illness - Left Knee; Management
+
 ## 2026-06-18 02:45 UTC
 
 - **Costanza Verona** (DAL) newly listed as **Out** — Coach's Decision

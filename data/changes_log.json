@@ -8194,5 +8194,92 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-18T21:00:38.452274+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Kiki TorontoTempo Rice",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Ankle; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-18T21:00:38.452274+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Nyara Sabally",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Right Hamstring; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-18T21:00:38.452274+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Brittney Sykes",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Foot; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-18T21:00:38.452274+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Ashlon Jackson",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-18T21:00:38.452274+00:00",
+    "type": "cleared",
+    "team_abbr": "WAS",
+    "player": "Kiki Iriafen",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Right Ankle; Sprain"
+  },
+  {
+    "ts": "2026-06-18T21:00:38.452274+00:00",
+    "type": "cleared",
+    "team_abbr": "WAS",
+    "player": "Darianna Littlepage-Buggs",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-18T21:00:38.452274+00:00",
+    "type": "status_change",
+    "team_abbr": "WAS",
+    "player": "Shakira Austin",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Bilateral Knee;",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-18T21:00:38.452274+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Marine Fauthoux",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental"
+  },
+  {
+    "ts": "2026-06-18T21:00:38.452274+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Anneli Maley",
+    "previous_status": "Out",
+    "previous_reason": "Management Coach's Decision - Developmental Player"
+  },
+  {
+    "ts": "2026-06-18T21:00:38.452274+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Betnijah Laney-Hamilton",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Soreness Injury/Illness - Left Knee; Management",
+    "reason_category": "injury"
   }
 ]
