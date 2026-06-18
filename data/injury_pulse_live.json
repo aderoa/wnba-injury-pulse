@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-06-18T12:45:38.926352+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-18_08_45AM.pdf",
-  "report_ts": "06/18/26 08:45 AM",
+  "polled_at_utc": "2026-06-18T13:00:50.333848+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-18_09_00AM.pdf",
+  "report_ts": "06/18/26 09:00 AM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -11,7 +11,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-06-18T12:45:38.926352+00:00"
+      "last_updated": "2026-06-18T13:00:50.333848+00:00"
     },
     {
       "name": "Anneli Maley",
@@ -56,7 +56,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-06-18T12:45:38.926352+00:00"
+      "last_updated": "2026-06-18T13:00:50.333848+00:00"
     },
     {
       "name": "Cameron Brink",
@@ -317,7 +317,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Back; Back",
       "reason_category": "injury",
-      "last_updated": "2026-06-18T12:45:38.926352+00:00"
+      "last_updated": "2026-06-18T13:00:50.333848+00:00"
     },
     {
       "name": "Holly Winterburn",
@@ -360,7 +360,7 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-06-18T12:45:38.926352+00:00",
+      "last_submitted_ts": "2026-06-18T13:00:50.333848+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "ATL@IND"
@@ -425,7 +425,7 @@
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
       "last_submitted_ts": "2026-06-18T03:45:37.539599+00:00",
-      "last_seen_pending_ts": "2026-06-18T12:45:38.926352+00:00",
+      "last_seen_pending_ts": "2026-06-18T13:00:50.333848+00:00",
       "matchups": [
         "WAS@CON"
       ],
@@ -475,7 +475,7 @@
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
       "last_submitted_ts": "2026-06-18T03:45:37.539599+00:00",
-      "last_seen_pending_ts": "2026-06-18T12:45:38.926352+00:00",
+      "last_seen_pending_ts": "2026-06-18T13:00:50.333848+00:00",
       "matchups": [
         "DAL@GSV"
       ],
@@ -499,7 +499,7 @@
     {
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
-      "last_submitted_ts": "2026-06-18T12:45:38.926352+00:00",
+      "last_submitted_ts": "2026-06-18T13:00:50.333848+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "ATL@IND",
@@ -590,7 +590,7 @@
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
       "last_submitted_ts": "2026-06-18T03:45:37.539599+00:00",
-      "last_seen_pending_ts": "2026-06-18T12:45:38.926352+00:00",
+      "last_seen_pending_ts": "2026-06-18T13:00:50.333848+00:00",
       "matchups": [
         "MIN@LAS"
       ],
@@ -629,7 +629,7 @@
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
       "last_submitted_ts": "2026-06-18T03:45:37.539599+00:00",
-      "last_seen_pending_ts": "2026-06-18T12:45:38.926352+00:00",
+      "last_seen_pending_ts": "2026-06-18T13:00:50.333848+00:00",
       "matchups": [
         "NYL@CHI"
       ],
@@ -757,7 +757,7 @@
       "team_abbr": "WAS",
       "team_full": "Washington Mystics",
       "last_submitted_ts": "2026-06-18T03:45:37.539599+00:00",
-      "last_seen_pending_ts": "2026-06-18T12:45:38.926352+00:00",
+      "last_seen_pending_ts": "2026-06-18T13:00:50.333848+00:00",
       "matchups": [
         "WAS@CON"
       ],
