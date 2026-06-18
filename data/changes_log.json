@@ -8064,5 +8064,15 @@
     "from_reason": "Injury/Illness - Left Knee; Management",
     "to_reason": "Player Injury/Illness - Left Knee;",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-18T00:30:40.648600+00:00",
+    "type": "status_change",
+    "team_abbr": "LAS",
+    "player": "Kelsey Plum",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Lower Leg; L Lower Leg",
+    "reason_category": "injury"
   }
 ]
