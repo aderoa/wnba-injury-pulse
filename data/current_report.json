@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/17/26 08:30 PM",
-  "page_count": 2,
-  "raw_line_count": 43,
+  "report_ts": "06/17/26 08:45 PM",
+  "page_count": 3,
+  "raw_line_count": 45,
   "teams": [
     {
       "team_full": "Washington Mystics",
@@ -176,7 +176,7 @@
         {
           "name_last_first": "Loyd, Jewell",
           "name": "Jewell Loyd",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - N/a; Illness",
           "reason_category": "injury"
         }
@@ -227,6 +227,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Right Foot; Right Foot",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "King, Liatu",
+          "name": "Liatu King",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -251,6 +258,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Lower Leg; L Lower Leg",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Ziegler, Laura",
+          "name": "Laura Ziegler",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -351,7 +365,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-17_08_30PM.pdf",
-  "fetched_slot": "2026-06-17T20:30:00-04:00",
-  "polled_at_utc": "2026-06-18T00:30:40.648600+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-17_08_45PM.pdf",
+  "fetched_slot": "2026-06-17T20:45:00-04:00",
+  "polled_at_utc": "2026-06-18T00:45:37.301180+00:00"
 }
