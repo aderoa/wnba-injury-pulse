@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/17/26 09:15 PM",
+  "report_ts": "06/17/26 09:30 PM",
   "page_count": 3,
-  "raw_line_count": 51,
+  "raw_line_count": 54,
   "teams": [
     {
       "team_full": "Washington Mystics",
@@ -141,6 +141,30 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Ankle; n/a",
           "reason_category": "injury"
+        }
+      ]
+    },
+    {
+      "team_full": "Golden State Valkyries",
+      "team_abbr": "GSV",
+      "game_date": "06/17/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "DAL@GSV",
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Prechtel, Ashten",
+          "name": "Ashten Prechtel",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Sowah, Miela",
+          "name": "Miela Sowah",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -386,7 +410,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-17_09_15PM.pdf",
-  "fetched_slot": "2026-06-17T21:15:00-04:00",
-  "polled_at_utc": "2026-06-18T01:15:38.793272+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-17_09_30PM.pdf",
+  "fetched_slot": "2026-06-17T21:30:00-04:00",
+  "polled_at_utc": "2026-06-18T01:30:47.721717+00:00"
 }
