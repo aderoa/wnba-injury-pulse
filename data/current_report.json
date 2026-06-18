@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/17/26 10:30 PM",
+  "report_ts": "06/17/26 10:45 PM",
   "page_count": 3,
-  "raw_line_count": 54,
+  "raw_line_count": 55,
   "teams": [
     {
       "team_full": "Washington Mystics",
@@ -141,6 +141,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Ankle; n/a",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Verona, Costanza",
+          "name": "Costanza Verona",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -410,7 +417,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-17_10_30PM.pdf",
-  "fetched_slot": "2026-06-17T22:30:00-04:00",
-  "polled_at_utc": "2026-06-18T02:30:40.561808+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-17_10_45PM.pdf",
+  "fetched_slot": "2026-06-17T22:45:00-04:00",
+  "polled_at_utc": "2026-06-18T02:45:36.493009+00:00"
 }
