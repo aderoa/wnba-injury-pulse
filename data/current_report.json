@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/18/26 06:15 PM",
+  "report_ts": "06/18/26 06:30 PM",
   "page_count": 1,
-  "raw_line_count": 17,
+  "raw_line_count": 20,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -24,6 +24,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Knee; N/A",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Okonkwo, Amy",
+          "name": "Amy Okonkwo",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -38,9 +45,23 @@
         {
           "name_last_first": "Clark, Caitlin",
           "name": "Caitlin Clark",
-          "status": "Probable",
-          "reason": "Injury/Illness - Back; Back",
-          "reason_category": "injury"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
+        },
+        {
+          "name_last_first": "Hall, Bree",
+          "name": "Bree Hall",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Pissott, Justine",
+          "name": "Justine Pissott",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -145,7 +166,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-18_06_15PM.pdf",
-  "fetched_slot": "2026-06-18T18:15:00-04:00",
-  "polled_at_utc": "2026-06-18T22:22:13.432280+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-18_06_30PM.pdf",
+  "fetched_slot": "2026-06-18T18:30:00-04:00",
+  "polled_at_utc": "2026-06-18T22:30:42.308171+00:00"
 }

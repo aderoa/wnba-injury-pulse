@@ -8281,5 +8281,42 @@
     "to_status": "Questionable",
     "reason": "Soreness Injury/Illness - Left Knee; Management",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-18T22:30:42.308171+00:00",
+    "type": "added",
+    "team_abbr": "ATL",
+    "player": "Amy Okonkwo",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-18T22:30:42.308171+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Bree Hall",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-18T22:30:42.308171+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Justine Pissott",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-18T22:30:42.308171+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
   }
 ]
