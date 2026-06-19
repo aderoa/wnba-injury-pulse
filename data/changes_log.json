@@ -8384,5 +8384,31 @@
     "to_status": "Probable",
     "reason": "Injury/Illness - Back; Back",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-19T21:45:11.303869+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Alysha Clark",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Leftleg; n/a",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-19T21:45:11.303869+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Alanna Smith",
+    "status": "Questionable",
+    "reason": "Injury/Illness - illness; illness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-19T21:45:11.303869+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Costanza Verona",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]
