@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-06-19T21:00:27.873530+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-19_05_00PM.pdf",
-  "report_ts": "06/19/26 05:00 PM",
+  "polled_at_utc": "2026-06-19T21:15:28.466322+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-19_05_15PM.pdf",
+  "report_ts": "06/19/26 05:15 PM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -11,7 +11,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-06-19T21:00:27.873530+00:00"
+      "last_updated": "2026-06-19T21:15:28.466322+00:00"
     },
     {
       "name": "Ashten Prechtel",
@@ -23,31 +23,13 @@
       "last_updated": "2026-06-18T03:45:37.539599+00:00"
     },
     {
-      "name": "Bree Hall",
-      "team_abbr": "IND",
-      "team_full": "Indiana Fever",
-      "status": "Out",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach",
-      "last_updated": "2026-06-19T03:45:34.669394+00:00"
-    },
-    {
       "name": "Brionna Jones",
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-06-19T21:00:27.873530+00:00"
-    },
-    {
-      "name": "Brittney Sykes",
-      "team_abbr": "IND",
-      "team_full": "Indiana Fever",
-      "status": "Out",
-      "reason": "Injury/Illness - Left Foot; Injury",
-      "reason_category": "injury",
-      "last_updated": "2026-06-19T03:45:34.669394+00:00"
+      "last_updated": "2026-06-19T21:15:28.466322+00:00"
     },
     {
       "name": "Cameron Brink",
@@ -110,7 +92,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Foot; Right Foot",
       "reason_category": "injury",
-      "last_updated": "2026-06-19T21:00:27.873530+00:00"
+      "last_updated": "2026-06-19T21:15:28.466322+00:00"
     },
     {
       "name": "Emma Cechova",
@@ -119,7 +101,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; Right Knee",
       "reason_category": "injury",
-      "last_updated": "2026-06-19T21:00:27.873530+00:00"
+      "last_updated": "2026-06-19T21:15:28.466322+00:00"
     },
     {
       "name": "Ezi Magbegor",
@@ -137,7 +119,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Ankle; Contusion",
       "reason_category": "injury",
-      "last_updated": "2026-06-19T21:00:27.873530+00:00"
+      "last_updated": "2026-06-19T21:15:28.466322+00:00"
     },
     {
       "name": "Janiah Barker",
@@ -167,15 +149,6 @@
       "last_updated": "2026-06-18T03:45:37.539599+00:00"
     },
     {
-      "name": "Justine Pissott",
-      "team_abbr": "IND",
-      "team_full": "Indiana Fever",
-      "status": "Out",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach",
-      "last_updated": "2026-06-19T03:45:34.669394+00:00"
-    },
-    {
       "name": "Kelsey Plum",
       "team_abbr": "LAS",
       "team_full": "Los Angeles Sparks",
@@ -192,15 +165,6 @@
       "reason": "Arthroscopy Coach's Decision - Developmental Player",
       "reason_category": "rest_coach",
       "last_updated": "2026-06-18T03:45:37.539599+00:00"
-    },
-    {
-      "name": "Kiki TorontoTempo Rice",
-      "team_abbr": "IND",
-      "team_full": "Indiana Fever",
-      "status": "Out",
-      "reason": "Injury/Illness - Left Ankle; Injury",
-      "reason_category": "injury",
-      "last_updated": "2026-06-19T03:45:34.669394+00:00"
     },
     {
       "name": "Laura Ziegler",
@@ -245,7 +209,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Ankle; Left Ankle",
       "reason_category": "injury",
-      "last_updated": "2026-06-19T21:00:27.873530+00:00"
+      "last_updated": "2026-06-19T21:15:28.466322+00:00"
     },
     {
       "name": "Odyssey Sims",
@@ -281,16 +245,7 @@
       "status": "Questionable",
       "reason": "Soreness Injury/Illness - Left Knee; Management",
       "reason_category": "injury",
-      "last_updated": "2026-06-19T21:00:27.873530+00:00"
-    },
-    {
-      "name": "Nyara Sabally",
-      "team_abbr": "IND",
-      "team_full": "Indiana Fever",
-      "status": "Questionable",
-      "reason": "Injury/Illness - Right Hamstring; Injury",
-      "reason_category": "injury",
-      "last_updated": "2026-06-19T03:45:34.669394+00:00"
+      "last_updated": "2026-06-19T21:15:28.466322+00:00"
     },
     {
       "name": "Shakira Austin",
@@ -299,16 +254,16 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Bilateral Knee;",
       "reason_category": "injury",
-      "last_updated": "2026-06-19T21:00:27.873530+00:00"
+      "last_updated": "2026-06-19T21:15:28.466322+00:00"
     },
     {
       "name": "Caitlin Clark",
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
-      "status": "Available",
-      "reason": "-",
-      "reason_category": "other",
-      "last_updated": "2026-06-19T03:45:34.669394+00:00"
+      "status": "Probable",
+      "reason": "Injury/Illness - Back; Back",
+      "reason_category": "injury",
+      "last_updated": "2026-06-19T21:15:28.466322+00:00"
     },
     {
       "name": "Holly Winterburn",
@@ -351,7 +306,7 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-06-19T21:00:27.873530+00:00",
+      "last_submitted_ts": "2026-06-19T21:15:28.466322+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "IND@ATL"
@@ -377,7 +332,7 @@
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
       "last_submitted_ts": "2026-06-18T03:45:37.539599+00:00",
-      "last_seen_pending_ts": "2026-06-19T21:00:27.873530+00:00",
+      "last_seen_pending_ts": "2026-06-19T21:15:28.466322+00:00",
       "matchups": [
         "NYL@CHI"
       ],
@@ -415,7 +370,7 @@
     {
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
-      "last_submitted_ts": "2026-06-19T21:00:27.873530+00:00",
+      "last_submitted_ts": "2026-06-19T21:15:28.466322+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "TOR@CON"
@@ -434,7 +389,7 @@
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
       "last_submitted_ts": "2026-06-18T03:45:37.539599+00:00",
-      "last_seen_pending_ts": "2026-06-19T21:00:27.873530+00:00",
+      "last_seen_pending_ts": "2026-06-19T21:15:28.466322+00:00",
       "matchups": [
         "DAL@GSV"
       ],
@@ -483,53 +438,17 @@
     {
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
-      "last_submitted_ts": "2026-06-19T03:45:34.669394+00:00",
-      "last_seen_pending_ts": "2026-06-19T21:00:27.873530+00:00",
+      "last_submitted_ts": "2026-06-19T21:15:28.466322+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "ATL@IND",
-        "TOR@CON"
+        "IND@ATL"
       ],
       "players": [
         {
           "name_last_first": "Clark, Caitlin",
           "name": "Caitlin Clark",
-          "status": "Available",
-          "reason": "-",
-          "reason_category": "other"
-        },
-        {
-          "name_last_first": "Hall, Bree",
-          "name": "Bree Hall",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Pissott, Justine",
-          "name": "Justine Pissott",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "TorontoTempo Rice, Kiki",
-          "name": "Kiki TorontoTempo Rice",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Ankle; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Sabally, Nyara",
-          "name": "Nyara Sabally",
-          "status": "Questionable",
-          "reason": "Injury/Illness - Right Hamstring; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Sykes, Brittney",
-          "name": "Brittney Sykes",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Foot; Injury",
+          "status": "Probable",
+          "reason": "Injury/Illness - Back; Back",
           "reason_category": "injury"
         }
       ]
@@ -608,7 +527,7 @@
     {
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
-      "last_submitted_ts": "2026-06-19T21:00:27.873530+00:00",
+      "last_submitted_ts": "2026-06-19T21:15:28.466322+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "MIN@GSV"
@@ -640,7 +559,7 @@
     {
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
-      "last_submitted_ts": "2026-06-19T21:00:27.873530+00:00",
+      "last_submitted_ts": "2026-06-19T21:15:28.466322+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "WAS@NYL"
@@ -691,7 +610,7 @@
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
       "last_submitted_ts": "2026-06-18T03:45:37.539599+00:00",
-      "last_seen_pending_ts": "2026-06-19T21:00:27.873530+00:00",
+      "last_seen_pending_ts": "2026-06-19T21:15:28.466322+00:00",
       "matchups": [
         "LVA@PHX"
       ],
@@ -723,7 +642,7 @@
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
       "last_submitted_ts": "2026-06-18T03:45:37.539599+00:00",
-      "last_seen_pending_ts": "2026-06-19T21:00:27.873530+00:00",
+      "last_seen_pending_ts": "2026-06-19T21:15:28.466322+00:00",
       "matchups": [
         "SEA@PDX"
       ],
@@ -754,7 +673,7 @@
     {
       "team_abbr": "WAS",
       "team_full": "Washington Mystics",
-      "last_submitted_ts": "2026-06-19T21:00:27.873530+00:00",
+      "last_submitted_ts": "2026-06-19T21:15:28.466322+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "WAS@NYL"
@@ -771,6 +690,56 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-06-19T21:15:28.466322+00:00",
+      "type": "status_change",
+      "team_abbr": "IND",
+      "player": "Caitlin Clark",
+      "from_status": "Available",
+      "to_status": "Probable",
+      "reason": "Injury/Illness - Back; Back",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-06-19T21:15:28.466322+00:00",
+      "type": "cleared",
+      "team_abbr": "IND",
+      "player": "Brittney Sykes",
+      "previous_status": "Out",
+      "previous_reason": "Injury/Illness - Left Foot; Injury"
+    },
+    {
+      "ts": "2026-06-19T21:15:28.466322+00:00",
+      "type": "cleared",
+      "team_abbr": "IND",
+      "player": "Nyara Sabally",
+      "previous_status": "Questionable",
+      "previous_reason": "Injury/Illness - Right Hamstring; Injury"
+    },
+    {
+      "ts": "2026-06-19T21:15:28.466322+00:00",
+      "type": "cleared",
+      "team_abbr": "IND",
+      "player": "Kiki TorontoTempo Rice",
+      "previous_status": "Out",
+      "previous_reason": "Injury/Illness - Left Ankle; Injury"
+    },
+    {
+      "ts": "2026-06-19T21:15:28.466322+00:00",
+      "type": "cleared",
+      "team_abbr": "IND",
+      "player": "Justine Pissott",
+      "previous_status": "Out",
+      "previous_reason": "Coach's Decision"
+    },
+    {
+      "ts": "2026-06-19T21:15:28.466322+00:00",
+      "type": "cleared",
+      "team_abbr": "IND",
+      "player": "Bree Hall",
+      "previous_status": "Out",
+      "previous_reason": "Coach's Decision"
+    },
     {
       "ts": "2026-06-19T21:00:27.873530+00:00",
       "type": "cleared",
@@ -2960,55 +2929,6 @@
       "player": "Amy Okonkwo",
       "previous_status": "Out",
       "previous_reason": "Coach's Decision"
-    },
-    {
-      "ts": "2026-06-08T21:45:28.628814+00:00",
-      "type": "added",
-      "team_abbr": "NYL",
-      "player": "Anneli Maley",
-      "status": "Out",
-      "reason": "Coach's Decision - Developmental Player",
-      "reason_category": "rest_coach"
-    },
-    {
-      "ts": "2026-06-08T21:15:28.671711+00:00",
-      "type": "cleared",
-      "team_abbr": "CHI",
-      "player": "Kiki Rice",
-      "previous_status": "Out",
-      "previous_reason": "Injury/Illness - Left Ankle; Injury"
-    },
-    {
-      "ts": "2026-06-08T21:15:28.671711+00:00",
-      "type": "cleared",
-      "team_abbr": "CHI",
-      "player": "Isabelle Harrison",
-      "previous_status": "Available",
-      "previous_reason": "Injury/Illness - Right Hand; Injury"
-    },
-    {
-      "ts": "2026-06-08T21:15:28.671711+00:00",
-      "type": "cleared",
-      "team_abbr": "CHI",
-      "player": "Temi TorontoTempo Fagbenle",
-      "previous_status": "Out",
-      "previous_reason": "Injury/Illness - Right Shoulder; Injury"
-    },
-    {
-      "ts": "2026-06-08T21:15:28.671711+00:00",
-      "type": "cleared",
-      "team_abbr": "CHI",
-      "player": "Maddy Westbeld",
-      "previous_status": "Out",
-      "previous_reason": "Coach's Decision"
-    },
-    {
-      "ts": "2026-06-08T21:15:28.671711+00:00",
-      "type": "cleared",
-      "team_abbr": "CHI",
-      "player": "Gabriela Jaquez",
-      "previous_status": "Available",
-      "previous_reason": "Injury/Illness - Left Knee; Left Knee"
     }
   ]
 }

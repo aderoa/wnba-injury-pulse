@@ -1,5 +1,5 @@
 {
-  "report_ts": "06/19/26 05:00 PM",
+  "report_ts": "06/19/26 05:15 PM",
   "page_count": 2,
   "raw_line_count": 22,
   "teams": [
@@ -91,8 +91,16 @@
       "game_date": "06/20/2026",
       "game_time": "01:00(ET)",
       "matchup": "IND@ATL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Clark, Caitlin",
+          "name": "Caitlin Clark",
+          "status": "Probable",
+          "reason": "Injury/Illness - Back; Back",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Atlanta Dream",
@@ -155,7 +163,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-19_05_00PM.pdf",
-  "fetched_slot": "2026-06-19T17:00:00-04:00",
-  "polled_at_utc": "2026-06-19T21:00:27.873530+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-19_05_15PM.pdf",
+  "fetched_slot": "2026-06-19T17:15:00-04:00",
+  "polled_at_utc": "2026-06-19T21:15:28.466322+00:00"
 }
