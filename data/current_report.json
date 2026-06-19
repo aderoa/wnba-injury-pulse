@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/19/26 04:45 PM",
-  "page_count": 1,
-  "raw_line_count": 21,
+  "report_ts": "06/19/26 05:00 PM",
+  "page_count": 2,
+  "raw_line_count": 22,
   "teams": [
     {
       "team_full": "Connecticut Sun",
@@ -100,8 +100,23 @@
       "game_date": "06/20/2026",
       "game_time": "01:00(ET)",
       "matchup": "IND@ATL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Jones, Brionna",
+          "name": "Brionna Jones",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; N/A",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Nye, Aaliyah",
+          "name": "Aaliyah Nye",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; N/A",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Seattle Storm",
@@ -140,7 +155,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-19_04_45PM.pdf",
-  "fetched_slot": "2026-06-19T16:45:00-04:00",
-  "polled_at_utc": "2026-06-19T20:45:27.055862+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-19_05_00PM.pdf",
+  "fetched_slot": "2026-06-19T17:00:00-04:00",
+  "polled_at_utc": "2026-06-19T21:00:27.873530+00:00"
 }
