@@ -8438,5 +8438,13 @@
     "to_status": "Out",
     "reason": "Player Injury/Illness - Left Knee;",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-19T22:30:28.345246+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Maddy Westbeld",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]
