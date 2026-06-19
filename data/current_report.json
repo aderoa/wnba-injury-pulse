@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/19/26 06:30 PM",
+  "report_ts": "06/19/26 06:45 PM",
   "page_count": 2,
-  "raw_line_count": 32,
+  "raw_line_count": 31,
   "teams": [
     {
       "team_full": "Connecticut Sun",
@@ -31,9 +31,16 @@
         {
           "name_last_first": "Austin, Shakira",
           "name": "Shakira Austin",
-          "status": "Questionable",
-          "reason": "Injury/Illness - Bilateral Knee;",
-          "reason_category": "injury"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
+        },
+        {
+          "name_last_first": "Littlepage-Buggs, Darianna",
+          "name": "Darianna Littlepage-Buggs",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -49,7 +56,7 @@
           "name_last_first": "Fauthoux, Marine",
           "name": "Marine Fauthoux",
           "status": "Out",
-          "reason": "Soreness Coach's Decision - Developmental",
+          "reason": "Coach's Decision - Developmental",
           "reason_category": "rest_coach"
         },
         {
@@ -221,7 +228,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-19_06_30PM.pdf",
-  "fetched_slot": "2026-06-19T18:30:00-04:00",
-  "polled_at_utc": "2026-06-19T22:40:17.879581+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-19_06_45PM.pdf",
+  "fetched_slot": "2026-06-19T18:45:00-04:00",
+  "polled_at_utc": "2026-06-19T22:45:29.246801+00:00"
 }
