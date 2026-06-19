@@ -8410,5 +8410,33 @@
     "player": "Costanza Verona",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-19T22:00:30.081973+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Marine Fauthoux",
+    "status": "Out",
+    "reason": "Soreness Coach's Decision - Developmental",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-19T22:00:30.081973+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Anneli Maley",
+    "status": "Out",
+    "reason": "Management Coach's Decision - Developmental Player",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-19T22:00:30.081973+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Betnijah Laney-Hamilton",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Player Injury/Illness - Left Knee;",
+    "reason_category": "injury"
   }
 ]
