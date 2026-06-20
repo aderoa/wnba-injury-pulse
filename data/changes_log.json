@@ -8585,5 +8585,24 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Left Hamstring;-",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-20T18:15:29.865260+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Marta Suarez",
+    "status": "Out",
+    "reason": "Coach's Decision - Developmental",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-20T18:15:29.865260+00:00",
+    "type": "reason_change",
+    "team_abbr": "PHX",
+    "player": "Sami Whitcomb",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Knee; Arthroscopy",
+    "to_reason": "Player Injury/Illness - Left Knee; Arthroscopy",
+    "reason_category": "injury"
   }
 ]
