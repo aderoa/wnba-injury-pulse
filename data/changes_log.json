@@ -8650,5 +8650,15 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-20T23:00:35.287999+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Costanza Verona",
+    "from_status": "Out",
+    "to_status": "Available",
+    "reason": "Injury/Illness - n/a; development",
+    "reason_category": "injury"
   }
 ]
