@@ -2,8 +2,8 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-06-20T09:45:28.640323+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-20_05_45AM.pdf",
+    "last_submitted_ts": "2026-06-20T10:00:33.259114+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-20_06_00AM.pdf",
     "game_dates": [
       "06/20/2026"
     ],
@@ -37,8 +37,8 @@
   "IND": {
     "team_full": "Indiana Fever",
     "submitted": true,
-    "last_submitted_ts": "2026-06-20T09:45:28.640323+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-20_05_45AM.pdf",
+    "last_submitted_ts": "2026-06-20T10:00:33.259114+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-20_06_00AM.pdf",
     "game_dates": [
       "06/20/2026"
     ],
@@ -58,8 +58,8 @@
   "PHX": {
     "team_full": "Phoenix Mercury",
     "submitted": true,
-    "last_submitted_ts": "2026-06-20T09:45:28.640323+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-20_05_45AM.pdf",
+    "last_submitted_ts": "2026-06-20T10:00:33.259114+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-20_06_00AM.pdf",
     "game_dates": [
       "06/20/2026"
     ],
@@ -131,13 +131,13 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-06-20T09:45:28.640323+00:00"
+    "last_seen_pending_ts": "2026-06-20T10:00:33.259114+00:00"
   },
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-06-20T09:45:28.640323+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-20_05_45AM.pdf",
+    "last_submitted_ts": "2026-06-20T10:00:33.259114+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-20_06_00AM.pdf",
     "game_dates": [
       "06/20/2026"
     ],
@@ -202,13 +202,13 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-06-20T09:45:28.640323+00:00"
+    "last_seen_pending_ts": "2026-06-20T10:00:33.259114+00:00"
   },
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-06-20T09:45:28.640323+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-20_05_45AM.pdf",
+    "last_submitted_ts": "2026-06-20T10:00:33.259114+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-20_06_00AM.pdf",
     "game_dates": [
       "06/20/2026"
     ],
@@ -277,8 +277,8 @@
   "SEA": {
     "team_full": "Seattle Storm",
     "submitted": true,
-    "last_submitted_ts": "2026-06-20T09:45:28.640323+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-20_05_45AM.pdf",
+    "last_submitted_ts": "2026-06-20T10:00:33.259114+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-20_06_00AM.pdf",
     "game_dates": [
       "06/20/2026"
     ],
@@ -364,7 +364,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-06-20T09:45:28.640323+00:00"
+    "last_seen_pending_ts": "2026-06-20T10:00:33.259114+00:00"
   },
   "WAS": {
     "team_full": "Washington Mystics",
@@ -393,7 +393,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-06-20T09:45:28.640323+00:00"
+    "last_seen_pending_ts": "2026-06-20T10:00:33.259114+00:00"
   },
   "GSV": {
     "team_full": "Golden State Valkyries",
@@ -422,7 +422,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-06-20T09:45:28.640323+00:00"
+    "last_seen_pending_ts": "2026-06-20T10:00:33.259114+00:00"
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",
@@ -458,6 +458,6 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-06-20T09:45:28.640323+00:00"
+    "last_seen_pending_ts": "2026-06-20T10:00:33.259114+00:00"
   }
 }
