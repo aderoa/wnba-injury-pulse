@@ -8641,5 +8641,14 @@
     "to_status": "Available",
     "reason": "Injury/Illness - illness; illness",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-20T22:45:33.125283+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Aicha Coulibaly",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
