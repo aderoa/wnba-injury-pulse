@@ -1,5 +1,5 @@
 {
-  "report_ts": "06/20/26 12:15 PM",
+  "report_ts": "06/20/26 12:30 PM",
   "page_count": 2,
   "raw_line_count": 26,
   "teams": [
@@ -107,7 +107,7 @@
         {
           "name_last_first": "AkoaMakani, Monique",
           "name": "Monique AkoaMakani",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Left Hamstring;-",
           "reason_category": "injury"
         },
@@ -244,7 +244,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-20_12_15PM.pdf",
-  "fetched_slot": "2026-06-20T12:15:00-04:00",
-  "polled_at_utc": "2026-06-20T16:15:27.387317+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-20_12_30PM.pdf",
+  "fetched_slot": "2026-06-20T12:30:00-04:00",
+  "polled_at_utc": "2026-06-20T16:30:31.142221+00:00"
 }
