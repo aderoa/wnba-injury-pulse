@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/19/26 09:15 PM",
+  "report_ts": "06/19/26 09:30 PM",
   "page_count": 2,
-  "raw_line_count": 38,
+  "raw_line_count": 40,
   "teams": [
     {
       "team_full": "Connecticut Sun",
@@ -110,6 +110,30 @@
           "status": "Out",
           "reason": "Injury/Illness - Right Foot; Right Foot",
           "reason_category": "injury"
+        }
+      ]
+    },
+    {
+      "team_full": "Golden State Valkyries",
+      "team_abbr": "GSV",
+      "game_date": "06/19/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "MIN@GSV",
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Prechtel, Ashten",
+          "name": "Ashten Prechtel",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Sowah, Miela",
+          "name": "Miela Sowah",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -279,7 +303,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-19_09_15PM.pdf",
-  "fetched_slot": "2026-06-19T21:15:00-04:00",
-  "polled_at_utc": "2026-06-20T01:15:29.904882+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-19_09_30PM.pdf",
+  "fetched_slot": "2026-06-19T21:30:00-04:00",
+  "polled_at_utc": "2026-06-20T01:30:27.049657+00:00"
 }
