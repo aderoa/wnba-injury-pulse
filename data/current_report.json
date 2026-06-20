@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/19/26 08:30 PM",
+  "report_ts": "06/19/26 08:45 PM",
   "page_count": 2,
-  "raw_line_count": 37,
+  "raw_line_count": 38,
   "teams": [
     {
       "team_full": "Connecticut Sun",
@@ -96,6 +96,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Ankle; Left Ankle",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Hamzova, Eliska",
+          "name": "Eliska Hamzova",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         },
         {
           "name_last_first": "Juhasz, Dorka",
@@ -272,7 +279,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-19_08_30PM.pdf",
-  "fetched_slot": "2026-06-19T20:30:00-04:00",
-  "polled_at_utc": "2026-06-20T00:30:29.310293+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-19_08_45PM.pdf",
+  "fetched_slot": "2026-06-19T20:45:00-04:00",
+  "polled_at_utc": "2026-06-20T00:45:30.318893+00:00"
 }
