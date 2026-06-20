@@ -8475,5 +8475,59 @@
     "from_reason": "Soreness Coach's Decision - Developmental",
     "to_reason": "Coach's Decision - Developmental",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-20T00:00:29.779353+00:00",
+    "type": "status_change",
+    "team_abbr": "SEA",
+    "player": "Taina Mair",
+    "from_status": "Available",
+    "to_status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-20T00:00:29.779353+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Monique AkoaMakani",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Left Hamstring;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-20T00:00:29.779353+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Jovana Nogic",
+    "status": "Out",
+    "reason": "Not With Team",
+    "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-06-20T00:00:29.779353+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Marta Suarez",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental"
+  },
+  {
+    "ts": "2026-06-20T00:00:29.779353+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Kiana Williams",
+    "previous_status": "Out",
+    "previous_reason": "Arthroscopy Coach's Decision - Developmental Player"
+  },
+  {
+    "ts": "2026-06-20T00:00:29.779353+00:00",
+    "type": "reason_change",
+    "team_abbr": "PHX",
+    "player": "Sami Whitcomb",
+    "status": "Out",
+    "from_reason": "Player Injury/Illness - Left Knee;",
+    "to_reason": "Injury/Illness - Left Knee; Arthroscopy",
+    "reason_category": "injury"
   }
 ]
