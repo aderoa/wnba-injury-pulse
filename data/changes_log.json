@@ -8612,5 +8612,34 @@
     "player": "Eliska Hamzova",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-20T22:30:32.574690+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Costanza Verona",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-20T22:30:32.574690+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Alysha Clark",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Leftleg; n/a",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-20T22:30:32.574690+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Alanna Smith",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - illness; illness",
+    "reason_category": "injury"
   }
 ]
