@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/20/26 05:30 PM",
+  "report_ts": "06/20/26 05:45 PM",
   "page_count": 2,
-  "raw_line_count": 29,
+  "raw_line_count": 30,
   "teams": [
     {
       "team_full": "Indiana Fever",
@@ -215,22 +215,35 @@
       "players": []
     },
     {
-      "team_full": "Washington Mystics",
-      "team_abbr": "WAS",
-      "game_date": "06/21/2026",
-      "game_time": "06:00(ET)",
-      "matchup": "WAS@MIN",
-      "submitted": false,
-      "players": []
-    },
-    {
       "team_full": "Minnesota Lynx",
       "team_abbr": "MIN",
       "game_date": "06/21/2026",
       "game_time": "06:00(ET)",
       "matchup": "WAS@MIN",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Cechova, Emma",
+          "name": "Emma Cechova",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; Right Knee",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Collier, Napheesa",
+          "name": "Napheesa Collier",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; Left Ankle",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Juhasz, Dorka",
+          "name": "Dorka Juhasz",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Foot; Right Foot",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "New York Liberty",
@@ -251,7 +264,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-20_05_30PM.pdf",
-  "fetched_slot": "2026-06-20T17:30:00-04:00",
-  "polled_at_utc": "2026-06-20T21:30:34.505180+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-20_05_45PM.pdf",
+  "fetched_slot": "2026-06-20T17:45:00-04:00",
+  "polled_at_utc": "2026-06-20T21:45:33.525580+00:00"
 }
