@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/20/26 11:30 AM",
+  "report_ts": "06/20/26 11:45 AM",
   "page_count": 2,
-  "raw_line_count": 23,
+  "raw_line_count": 26,
   "teams": [
     {
       "team_full": "Indiana Fever",
@@ -14,9 +14,23 @@
         {
           "name_last_first": "Clark, Caitlin",
           "name": "Caitlin Clark",
-          "status": "Probable",
-          "reason": "Injury/Illness - Back; Back",
-          "reason_category": "injury"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
+        },
+        {
+          "name_last_first": "Hall, Bree",
+          "name": "Bree Hall",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Pissott, Justine",
+          "name": "Justine Pissott",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -41,6 +55,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Knee; N/A",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Okonkwo, Amy",
+          "name": "Amy Okonkwo",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -223,7 +244,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-20_11_30AM.pdf",
-  "fetched_slot": "2026-06-20T11:30:00-04:00",
-  "polled_at_utc": "2026-06-20T15:30:30.465507+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-20_11_45AM.pdf",
+  "fetched_slot": "2026-06-20T11:45:00-04:00",
+  "polled_at_utc": "2026-06-20T15:45:30.336781+00:00"
 }
