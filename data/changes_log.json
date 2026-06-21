@@ -8898,5 +8898,14 @@
     "player": "Shakira Austin",
     "previous_status": "Available",
     "previous_reason": "-"
+  },
+  {
+    "ts": "2026-06-21T22:45:31.955652+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Kate Martin",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
