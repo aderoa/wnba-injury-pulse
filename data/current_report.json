@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/21/26 07:30 PM",
+  "report_ts": "06/21/26 07:45 PM",
   "page_count": 2,
-  "raw_line_count": 32,
+  "raw_line_count": 34,
   "teams": [
     {
       "team_full": "Golden State Valkyries",
@@ -301,8 +301,30 @@
       "game_date": "06/22/2026",
       "game_time": "10:00(ET)",
       "matchup": "DAL@SEA",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Clark, Alysha",
+          "name": "Alysha Clark",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Leg; n/a",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sims, Odyssey",
+          "name": "Odyssey Sims",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; n/a",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Smith, Alanna",
+          "name": "Alanna Smith",
+          "status": "Out",
+          "reason": "Injury/Illness - Face; n/a",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Seattle Storm",
@@ -314,7 +336,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-21_07_30PM.pdf",
-  "fetched_slot": "2026-06-21T19:30:00-04:00",
-  "polled_at_utc": "2026-06-21T23:30:28.655642+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-21_07_45PM.pdf",
+  "fetched_slot": "2026-06-21T19:45:00-04:00",
+  "polled_at_utc": "2026-06-21T23:45:42.734119+00:00"
 }
