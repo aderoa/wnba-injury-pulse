@@ -8749,5 +8749,33 @@
     "to_status": "Out",
     "reason": "Injury/Illness - n/a; illness",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-21T19:30:35.665673+00:00",
+    "type": "added",
+    "team_abbr": "GSV",
+    "player": "Ashten Prechtel",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-21T19:30:35.665673+00:00",
+    "type": "added",
+    "team_abbr": "GSV",
+    "player": "Miela Sowah",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-21T19:30:35.665673+00:00",
+    "type": "status_change",
+    "team_abbr": "GSV",
+    "player": "Tiffany Hayes",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
   }
 ]

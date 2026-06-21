@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-06-21T19:15:33.544064+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-21_03_15PM.pdf",
-  "report_ts": "06/21/26 03:15 PM",
+  "polled_at_utc": "2026-06-21T19:30:35.665673+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-21_03_30PM.pdf",
+  "report_ts": "06/21/26 03:30 PM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -50,6 +50,15 @@
       "last_updated": "2026-06-20T03:45:29.797719+00:00"
     },
     {
+      "name": "Ashten Prechtel",
+      "team_abbr": "GSV",
+      "team_full": "Golden State Valkyries",
+      "status": "Out",
+      "reason": "Coach's Decision",
+      "reason_category": "rest_coach",
+      "last_updated": "2026-06-21T19:30:35.665673+00:00"
+    },
+    {
       "name": "Betnijah Laney-Hamilton",
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
@@ -83,7 +92,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Ankle; LAnkle",
       "reason_category": "injury",
-      "last_updated": "2026-06-21T19:15:33.544064+00:00"
+      "last_updated": "2026-06-21T19:30:35.665673+00:00"
     },
     {
       "name": "Chennedy Carter",
@@ -92,7 +101,7 @@
       "status": "Out",
       "reason": "Injury/Illness - n/a; illness",
       "reason_category": "injury",
-      "last_updated": "2026-06-21T19:15:33.544064+00:00"
+      "last_updated": "2026-06-21T19:30:35.665673+00:00"
     },
     {
       "name": "Courtney Vandersloot",
@@ -110,7 +119,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; leftleg",
       "reason_category": "injury",
-      "last_updated": "2026-06-21T19:15:33.544064+00:00"
+      "last_updated": "2026-06-21T19:30:35.665673+00:00"
     },
     {
       "name": "Darianna Littlepage-Buggs",
@@ -137,7 +146,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Foot; Right Foot",
       "reason_category": "injury",
-      "last_updated": "2026-06-21T19:15:33.544064+00:00"
+      "last_updated": "2026-06-21T19:30:35.665673+00:00"
     },
     {
       "name": "Emma Cechova",
@@ -146,7 +155,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; Right Knee",
       "reason_category": "injury",
-      "last_updated": "2026-06-21T19:15:33.544064+00:00"
+      "last_updated": "2026-06-21T19:30:35.665673+00:00"
     },
     {
       "name": "Ezi Magbegor",
@@ -173,7 +182,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Leg; rightleg",
       "reason_category": "injury",
-      "last_updated": "2026-06-21T19:15:33.544064+00:00"
+      "last_updated": "2026-06-21T19:30:35.665673+00:00"
     },
     {
       "name": "Jordan Harrison",
@@ -230,6 +239,15 @@
       "last_updated": "2026-06-21T03:45:31.224054+00:00"
     },
     {
+      "name": "Miela Sowah",
+      "team_abbr": "GSV",
+      "team_full": "Golden State Valkyries",
+      "status": "Out",
+      "reason": "Coach's Decision",
+      "reason_category": "rest_coach",
+      "last_updated": "2026-06-21T19:30:35.665673+00:00"
+    },
+    {
       "name": "Monique AkoaMakani",
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
@@ -245,7 +263,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Ankle; Left Ankle",
       "reason_category": "injury",
-      "last_updated": "2026-06-21T19:15:33.544064+00:00"
+      "last_updated": "2026-06-21T19:30:35.665673+00:00"
     },
     {
       "name": "Odyssey Sims",
@@ -282,15 +300,6 @@
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
       "last_updated": "2026-06-21T03:45:31.224054+00:00"
-    },
-    {
-      "name": "Tiffany Hayes",
-      "team_abbr": "GSV",
-      "team_full": "Golden State Valkyries",
-      "status": "Questionable",
-      "reason": "Injury/Illness - Leftfoot; Contusion",
-      "reason_category": "injury",
-      "last_updated": "2026-06-21T19:15:33.544064+00:00"
     },
     {
       "name": "Alanna Smith",
@@ -345,6 +354,15 @@
       "reason": "-",
       "reason_category": "other",
       "last_updated": "2026-06-20T03:45:29.797719+00:00"
+    },
+    {
+      "name": "Tiffany Hayes",
+      "team_abbr": "GSV",
+      "team_full": "Golden State Valkyries",
+      "status": "Available",
+      "reason": "-",
+      "reason_category": "other",
+      "last_updated": "2026-06-21T19:30:35.665673+00:00"
     }
   ],
   "teams": [
@@ -352,7 +370,7 @@
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
       "last_submitted_ts": "2026-06-21T03:45:31.224054+00:00",
-      "last_seen_pending_ts": "2026-06-21T19:15:33.544064+00:00",
+      "last_seen_pending_ts": "2026-06-21T19:30:35.665673+00:00",
       "matchups": [
         "IND@ATL"
       ],
@@ -384,7 +402,7 @@
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
       "last_submitted_ts": "2026-06-21T03:45:31.224054+00:00",
-      "last_seen_pending_ts": "2026-06-21T19:15:33.544064+00:00",
+      "last_seen_pending_ts": "2026-06-21T19:30:35.665673+00:00",
       "matchups": [
         "CHI@DAL"
       ],
@@ -423,7 +441,7 @@
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
       "last_submitted_ts": "2026-06-20T03:45:29.797719+00:00",
-      "last_seen_pending_ts": "2026-06-21T19:15:33.544064+00:00",
+      "last_seen_pending_ts": "2026-06-21T19:30:35.665673+00:00",
       "matchups": [
         "TOR@CON"
       ],
@@ -441,7 +459,7 @@
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
       "last_submitted_ts": "2026-06-21T03:45:31.224054+00:00",
-      "last_seen_pending_ts": "2026-06-21T19:15:33.544064+00:00",
+      "last_seen_pending_ts": "2026-06-21T19:30:35.665673+00:00",
       "matchups": [
         "CHI@DAL"
       ],
@@ -479,7 +497,7 @@
     {
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
-      "last_submitted_ts": "2026-06-21T19:15:33.544064+00:00",
+      "last_submitted_ts": "2026-06-21T19:30:35.665673+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "GSV@LVA"
@@ -488,9 +506,23 @@
         {
           "name_last_first": "Hayes, Tiffany",
           "name": "Tiffany Hayes",
-          "status": "Questionable",
-          "reason": "Injury/Illness - Leftfoot; Contusion",
-          "reason_category": "injury"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
+        },
+        {
+          "name_last_first": "Prechtel, Ashten",
+          "name": "Ashten Prechtel",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Sowah, Miela",
+          "name": "Miela Sowah",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -498,7 +530,7 @@
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
       "last_submitted_ts": "2026-06-21T03:45:31.224054+00:00",
-      "last_seen_pending_ts": "2026-06-21T19:15:33.544064+00:00",
+      "last_seen_pending_ts": "2026-06-21T19:30:35.665673+00:00",
       "matchups": [
         "IND@ATL"
       ],
@@ -529,7 +561,7 @@
     {
       "team_abbr": "LAS",
       "team_full": "Los Angeles Sparks",
-      "last_submitted_ts": "2026-06-21T19:15:33.544064+00:00",
+      "last_submitted_ts": "2026-06-21T19:30:35.665673+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "NYL@LAS"
@@ -547,7 +579,7 @@
     {
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
-      "last_submitted_ts": "2026-06-21T19:15:33.544064+00:00",
+      "last_submitted_ts": "2026-06-21T19:30:35.665673+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "GSV@LVA"
@@ -579,7 +611,7 @@
     {
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
-      "last_submitted_ts": "2026-06-21T19:15:33.544064+00:00",
+      "last_submitted_ts": "2026-06-21T19:30:35.665673+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "WAS@MIN"
@@ -676,7 +708,7 @@
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
       "last_submitted_ts": "2026-06-21T03:45:31.224054+00:00",
-      "last_seen_pending_ts": "2026-06-21T19:15:33.544064+00:00",
+      "last_seen_pending_ts": "2026-06-21T19:30:35.665673+00:00",
       "matchups": [
         "SEA@PHX"
       ],
@@ -715,7 +747,7 @@
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
       "last_submitted_ts": "2026-06-21T03:45:31.224054+00:00",
-      "last_seen_pending_ts": "2026-06-21T19:15:33.544064+00:00",
+      "last_seen_pending_ts": "2026-06-21T19:30:35.665673+00:00",
       "matchups": [
         "SEA@PHX"
       ],
@@ -770,6 +802,34 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-06-21T19:30:35.665673+00:00",
+      "type": "status_change",
+      "team_abbr": "GSV",
+      "player": "Tiffany Hayes",
+      "from_status": "Questionable",
+      "to_status": "Available",
+      "reason": "-",
+      "reason_category": "other"
+    },
+    {
+      "ts": "2026-06-21T19:30:35.665673+00:00",
+      "type": "added",
+      "team_abbr": "GSV",
+      "player": "Miela Sowah",
+      "status": "Out",
+      "reason": "Coach's Decision",
+      "reason_category": "rest_coach"
+    },
+    {
+      "ts": "2026-06-21T19:30:35.665673+00:00",
+      "type": "added",
+      "team_abbr": "GSV",
+      "player": "Ashten Prechtel",
+      "status": "Out",
+      "reason": "Coach's Decision",
+      "reason_category": "rest_coach"
+    },
     {
       "ts": "2026-06-21T19:00:30.208773+00:00",
       "type": "status_change",
@@ -2987,30 +3047,6 @@
       "player": "Jonquel Jones",
       "previous_status": "Out",
       "previous_reason": "Injury/Illness - Ilness; Illness"
-    },
-    {
-      "ts": "2026-06-10T21:00:48.705146+00:00",
-      "type": "cleared",
-      "team_abbr": "CHI",
-      "player": "Maddy Westbeld",
-      "previous_status": "Out",
-      "previous_reason": "Coach's Decision"
-    },
-    {
-      "ts": "2026-06-10T21:00:48.705146+00:00",
-      "type": "cleared",
-      "team_abbr": "CHI",
-      "player": "Aicha Coulibaly",
-      "previous_status": "Out",
-      "previous_reason": "Coach's Decision"
-    },
-    {
-      "ts": "2026-06-10T20:45:46.675040+00:00",
-      "type": "cleared",
-      "team_abbr": "ATL",
-      "player": "Amy Okonkwo",
-      "previous_status": "Out",
-      "previous_reason": "Coach's Decision"
     }
   ]
 }

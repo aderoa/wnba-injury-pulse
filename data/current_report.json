@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/21/26 03:15 PM",
-  "page_count": 1,
-  "raw_line_count": 16,
+  "report_ts": "06/21/26 03:30 PM",
+  "page_count": 2,
+  "raw_line_count": 18,
   "teams": [
     {
       "team_full": "Golden State Valkyries",
@@ -14,9 +14,23 @@
         {
           "name_last_first": "Hayes, Tiffany",
           "name": "Tiffany Hayes",
-          "status": "Questionable",
-          "reason": "Injury/Illness - Leftfoot; Contusion",
-          "reason_category": "injury"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
+        },
+        {
+          "name_last_first": "Prechtel, Ashten",
+          "name": "Ashten Prechtel",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Sowah, Miela",
+          "name": "Miela Sowah",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -172,7 +186,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-21_03_15PM.pdf",
-  "fetched_slot": "2026-06-21T15:15:00-04:00",
-  "polled_at_utc": "2026-06-21T19:15:33.544064+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-21_03_30PM.pdf",
+  "fetched_slot": "2026-06-21T15:30:00-04:00",
+  "polled_at_utc": "2026-06-21T19:30:35.665673+00:00"
 }
