@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/21/26 04:45 PM",
+  "report_ts": "06/21/26 05:00 PM",
   "page_count": 2,
-  "raw_line_count": 27,
+  "raw_line_count": 30,
   "teams": [
     {
       "team_full": "Golden State Valkyries",
@@ -236,8 +236,23 @@
       "game_date": "06/22/2026",
       "game_time": "08:00(ET)",
       "matchup": "PHX@IND",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "AkoaMakani, Monique",
+          "name": "Monique AkoaMakani",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Hamstring;-",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Whitcomb, Sami",
+          "name": "Sami Whitcomb",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Arthroscopy",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Indiana Fever",
@@ -245,8 +260,16 @@
       "game_date": "06/22/2026",
       "game_time": "08:00(ET)",
       "matchup": "PHX@IND",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Clark, Caitlin",
+          "name": "Caitlin Clark",
+          "status": "Probable",
+          "reason": "Injury/Illness - Back; Back",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Dallas Wings",
@@ -267,7 +290,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-21_04_45PM.pdf",
-  "fetched_slot": "2026-06-21T16:45:00-04:00",
-  "polled_at_utc": "2026-06-21T20:45:30.520926+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-21_05_00PM.pdf",
+  "fetched_slot": "2026-06-21T17:00:00-04:00",
+  "polled_at_utc": "2026-06-21T21:00:32.934485+00:00"
 }
