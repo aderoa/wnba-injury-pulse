@@ -4,6 +4,16 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-06-21 20:45 UTC
+
+- **Eliska Hamzova** (MIN) newly listed as **Out** — Coach's Decision
+- **Liatu King** (MIN) newly listed as **Out** — Coach's Decision
+- **Aicha Coulibaly** (CHI) cleared (was Out)
+- **Kiki TorontoTempo Rice** (CON) newly listed as **Out** — Injury/Illness - Left Ankle; Injury
+- **Nyara Sabally** (CON) newly listed as **Questionable** — Injury/Illness - Right Hamstring; Injury
+- **Brittney Sykes** (CON) newly listed as **Out** — Injury/Illness - Left Foot; Injury
+- **Amy Okonkwo** (ATL) cleared (was Out)
+
 ## 2026-06-21 19:30 UTC
 
 - **Ashten Prechtel** (GSV) newly listed as **Out** — Coach's Decision

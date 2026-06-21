@@ -8777,5 +8777,66 @@
     "to_status": "Available",
     "reason": "-",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-06-21T20:45:30.520926+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Eliska Hamzova",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-21T20:45:30.520926+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Liatu King",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-21T20:45:30.520926+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Aicha Coulibaly",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-21T20:45:30.520926+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Kiki TorontoTempo Rice",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Ankle; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-21T20:45:30.520926+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Nyara Sabally",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Right Hamstring; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-21T20:45:30.520926+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Brittney Sykes",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Foot; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-21T20:45:30.520926+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Amy Okonkwo",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]
