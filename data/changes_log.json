@@ -8739,5 +8739,15 @@
     "player": "Miela Sowah",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-21T19:00:30.208773+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Chennedy Carter",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - n/a; illness",
+    "reason_category": "injury"
   }
 ]
