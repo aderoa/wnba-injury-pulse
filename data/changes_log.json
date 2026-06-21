@@ -8660,5 +8660,59 @@
     "to_status": "Available",
     "reason": "Injury/Illness - n/a; development",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-21T00:00:30.171914+00:00",
+    "type": "cleared",
+    "team_abbr": "LVA",
+    "player": "Jewell Loyd",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - N/a; Illness"
+  },
+  {
+    "ts": "2026-06-21T00:00:30.171914+00:00",
+    "type": "reason_change",
+    "team_abbr": "LVA",
+    "player": "Dana Evans",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Leg; L.Leg",
+    "to_reason": "Injury/Illness - Left Leg; leftleg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-21T00:00:30.171914+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Chennedy Carter",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - n/a; illness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-21T00:00:30.171914+00:00",
+    "type": "reason_change",
+    "team_abbr": "LVA",
+    "player": "Janiah Barker",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Right Leg; R.Leg",
+    "to_reason": "Injury/Illness - Right Leg; rightleg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-21T00:00:30.171914+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Kelsey Plum",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Lower Leg; L Lower Leg"
+  },
+  {
+    "ts": "2026-06-21T00:00:30.171914+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Laura Ziegler",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]

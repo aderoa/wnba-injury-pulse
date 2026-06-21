@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/20/26 07:45 PM",
+  "report_ts": "06/20/26 08:00 PM",
   "page_count": 2,
-  "raw_line_count": 32,
+  "raw_line_count": 33,
   "teams": [
     {
       "team_full": "Indiana Fever",
@@ -225,8 +225,30 @@
       "game_date": "06/21/2026",
       "game_time": "04:00(ET)",
       "matchup": "GSV@LVA",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Barker, Janiah",
+          "name": "Janiah Barker",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Leg; rightleg",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Carter, Chennedy",
+          "name": "Chennedy Carter",
+          "status": "Questionable",
+          "reason": "Injury/Illness - n/a; illness",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Evans, Dana",
+          "name": "Dana Evans",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Leg; leftleg",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Minnesota Lynx",
@@ -260,25 +282,24 @@
       ]
     },
     {
-      "team_full": "New York Liberty",
-      "team_abbr": "NYL",
-      "game_date": "06/21/2026",
-      "game_time": "08:00(ET)",
-      "matchup": "NYL@LAS",
-      "submitted": false,
-      "players": []
-    },
-    {
       "team_full": "Los Angeles Sparks",
       "team_abbr": "LAS",
       "game_date": "06/21/2026",
       "game_time": "08:00(ET)",
       "matchup": "NYL@LAS",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Brink, Cameron",
+          "name": "Cameron Brink",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; LAnkle",
+          "reason_category": "injury"
+        }
+      ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-20_07_45PM.pdf",
-  "fetched_slot": "2026-06-20T19:45:00-04:00",
-  "polled_at_utc": "2026-06-20T23:46:12.860981+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-20_08_00PM.pdf",
+  "fetched_slot": "2026-06-20T20:00:00-04:00",
+  "polled_at_utc": "2026-06-21T00:00:30.171914+00:00"
 }
