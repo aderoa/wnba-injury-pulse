@@ -8944,5 +8944,15 @@
     "status": "Questionable",
     "reason": "Injury/Illness - Right Foot; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-22T21:45:28.982134+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Nyara Sabally",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Hamstring; Injury",
+    "reason_category": "injury"
   }
 ]

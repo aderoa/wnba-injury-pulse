@@ -1,5 +1,5 @@
 {
-  "report_ts": "06/22/26 05:30 PM",
+  "report_ts": "06/22/26 05:45 PM",
   "page_count": 2,
   "raw_line_count": 25,
   "teams": [
@@ -69,7 +69,7 @@
         {
           "name_last_first": "Sabally, Nyara",
           "name": "Nyara Sabally",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Right Hamstring; Injury",
           "reason_category": "injury"
         },
@@ -235,7 +235,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-22_05_30PM.pdf",
-  "fetched_slot": "2026-06-22T17:30:00-04:00",
-  "polled_at_utc": "2026-06-22T21:30:32.997411+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-22_05_45PM.pdf",
+  "fetched_slot": "2026-06-22T17:45:00-04:00",
+  "polled_at_utc": "2026-06-22T21:45:28.982134+00:00"
 }
