@@ -8935,5 +8935,14 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Face; n/a",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-22T00:00:30.577803+00:00",
+    "type": "added",
+    "team_abbr": "SEA",
+    "player": "Jade Melbourne",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Right Foot; Injury",
+    "reason_category": "injury"
   }
 ]
