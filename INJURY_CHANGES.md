@@ -4,6 +4,10 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-06-22 22:00 UTC
+
+- **Aicha Coulibaly** (CHI) newly listed as **Out** — Coach's Decision
+
 ## 2026-06-22 21:45 UTC
 
 - **Nyara Sabally** (CON): **Questionable** → **Available** — Injury/Illness - Right Hamstring; Injury

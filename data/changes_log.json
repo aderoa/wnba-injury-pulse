@@ -8954,5 +8954,14 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Right Hamstring; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-22T22:00:30.261010+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Aicha Coulibaly",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
