@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/22/26 07:00 PM",
+  "report_ts": "06/22/26 07:15 PM",
   "page_count": 2,
-  "raw_line_count": 26,
+  "raw_line_count": 31,
   "teams": [
     {
       "team_full": "Chicago Sky",
@@ -129,10 +129,17 @@
           "reason_category": "injury"
         },
         {
+          "name_last_first": "Suarez, Marta",
+          "name": "Marta Suarez",
+          "status": "Out",
+          "reason": "Coach's Decision - Developmental",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Whitcomb, Sami",
           "name": "Sami Whitcomb",
           "status": "Out",
-          "reason": "Injury/Illness - Left Knee; Arthroscopy",
+          "reason": "Player Injury/Illness - Left Knee; Arthroscopy",
           "reason_category": "injury"
         }
       ]
@@ -148,9 +155,23 @@
         {
           "name_last_first": "Clark, Caitlin",
           "name": "Caitlin Clark",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness - Back; Back",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Hall, Bree",
+          "name": "Bree Hall",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Pissott, Justine",
+          "name": "Justine Pissott",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -242,7 +263,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-22_07_00PM.pdf",
-  "fetched_slot": "2026-06-22T19:00:00-04:00",
-  "polled_at_utc": "2026-06-22T23:00:31.969458+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-22_07_15PM.pdf",
+  "fetched_slot": "2026-06-22T19:15:00-04:00",
+  "polled_at_utc": "2026-06-22T23:15:28.150072+00:00"
 }
