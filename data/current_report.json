@@ -1,156 +1,8 @@
 {
-  "report_ts": "06/21/26 11:45 PM",
+  "report_ts": "06/22/26 12:00 AM",
   "page_count": 2,
-  "raw_line_count": 37,
+  "raw_line_count": 25,
   "teams": [
-    {
-      "team_full": "Golden State Valkyries",
-      "team_abbr": "GSV",
-      "game_date": "06/21/2026",
-      "game_time": "04:00(ET)",
-      "matchup": "GSV@LVA",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Hayes, Tiffany",
-          "name": "Tiffany Hayes",
-          "status": "Available",
-          "reason": "-",
-          "reason_category": "other"
-        },
-        {
-          "name_last_first": "Prechtel, Ashten",
-          "name": "Ashten Prechtel",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Sowah, Miela",
-          "name": "Miela Sowah",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Las Vegas Aces",
-      "team_abbr": "LVA",
-      "game_date": "06/21/2026",
-      "game_time": "04:00(ET)",
-      "matchup": "GSV@LVA",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Barker, Janiah",
-          "name": "Janiah Barker",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Leg; rightleg",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Carter, Chennedy",
-          "name": "Chennedy Carter",
-          "status": "Out",
-          "reason": "Injury/Illness - n/a; illness",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Evans, Dana",
-          "name": "Dana Evans",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Leg; leftleg",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Washington Mystics",
-      "team_abbr": "WAS",
-      "game_date": "06/21/2026",
-      "game_time": "06:00(ET)",
-      "matchup": "WAS@MIN",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Littlepage-Buggs, Darianna",
-          "name": "Darianna Littlepage-Buggs",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Minnesota Lynx",
-      "team_abbr": "MIN",
-      "game_date": "06/21/2026",
-      "game_time": "06:00(ET)",
-      "matchup": "WAS@MIN",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Cechova, Emma",
-          "name": "Emma Cechova",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee; Right Knee",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Collier, Napheesa",
-          "name": "Napheesa Collier",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Ankle; Left Ankle",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Hamzova, Eliska",
-          "name": "Eliska Hamzova",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Juhasz, Dorka",
-          "name": "Dorka Juhasz",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Foot; Right Foot",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "King, Liatu",
-          "name": "Liatu King",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Los Angeles Sparks",
-      "team_abbr": "LAS",
-      "game_date": "06/21/2026",
-      "game_time": "08:00(ET)",
-      "matchup": "NYL@LAS",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Brink, Cameron",
-          "name": "Cameron Brink",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Ankle; LAnkle",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Martin, Kate",
-          "name": "Kate Martin",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
     {
       "team_full": "Chicago Sky",
       "team_abbr": "CHI",
@@ -363,9 +215,27 @@
           "reason_category": "injury"
         }
       ]
+    },
+    {
+      "team_full": "New York Liberty",
+      "team_abbr": "NYL",
+      "game_date": "06/23/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "NYL@LVA",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Las Vegas Aces",
+      "team_abbr": "LVA",
+      "game_date": "06/23/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "NYL@LVA",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-21_11_45PM.pdf",
-  "fetched_slot": "2026-06-21T23:45:00-04:00",
-  "polled_at_utc": "2026-06-22T03:45:32.438507+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-22_12_00AM.pdf",
+  "fetched_slot": "2026-06-22T00:00:00-04:00",
+  "polled_at_utc": "2026-06-22T04:00:33.796048+00:00"
 }
