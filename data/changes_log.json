@@ -9069,5 +9069,24 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Left Leg; n/a",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-23T01:15:28.300655+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Saniya Rivers",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Ankle; Sprain",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-23T01:15:28.300655+00:00",
+    "type": "status_change",
+    "team_abbr": "SEA",
+    "player": "Taina Mair",
+    "from_status": "Out",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
   }
 ]
