@@ -9050,5 +9050,24 @@
     "from_reason": "Injury/Illness - Right Leg; rightleg",
     "to_reason": "Injury/Illness - Right Leg; legonthe right",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-23T01:00:30.554103+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Haley Jones",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-23T01:00:30.554103+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Alysha Clark",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Leg; n/a",
+    "reason_category": "injury"
   }
 ]
