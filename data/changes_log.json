@@ -9212,5 +9212,13 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Left Foot; Inflammation",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-23T21:30:30.580848+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Aicha Coulibaly",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]
