@@ -9088,5 +9088,15 @@
     "to_status": "Available",
     "reason": "-",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-06-23T20:45:30.808860+00:00",
+    "type": "status_change",
+    "team_abbr": "WAS",
+    "player": "Darianna Littlepage-Buggs",
+    "from_status": "Out",
+    "to_status": "Available",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
