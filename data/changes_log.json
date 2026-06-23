@@ -9010,5 +9010,45 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Back; Back",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-23T00:00:32.126647+00:00",
+    "type": "status_change",
+    "team_abbr": "SEA",
+    "player": "Jade Melbourne",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Foot; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-23T00:00:32.126647+00:00",
+    "type": "reason_change",
+    "team_abbr": "LVA",
+    "player": "Dana Evans",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Leg; leftleg",
+    "to_reason": "Injury/Illness - Left Leg; legonthe left",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-23T00:00:32.126647+00:00",
+    "type": "reason_change",
+    "team_abbr": "LVA",
+    "player": "Chennedy Carter",
+    "status": "Out",
+    "from_reason": "Injury/Illness - n/a; illness",
+    "to_reason": "Injury/Illness - N/a; illness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-23T00:00:32.126647+00:00",
+    "type": "reason_change",
+    "team_abbr": "LVA",
+    "player": "Janiah Barker",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Right Leg; rightleg",
+    "to_reason": "Injury/Illness - Right Leg; legonthe right",
+    "reason_category": "injury"
   }
 ]
