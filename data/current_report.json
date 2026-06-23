@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/23/26 05:00 PM",
-  "page_count": 1,
-  "raw_line_count": 21,
+  "report_ts": "06/23/26 05:15 PM",
+  "page_count": 2,
+  "raw_line_count": 24,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -136,8 +136,23 @@
       "game_date": "06/24/2026",
       "game_time": "08:00(ET)",
       "matchup": "PDX@CHI",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Leite, Carla",
+          "name": "Carla Leite",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Ankle; Sprain",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Samuelson, Karlie",
+          "name": "Karlie Samuelson",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Foot; Inflammation",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Chicago Sky",
@@ -167,7 +182,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-23_05_00PM.pdf",
-  "fetched_slot": "2026-06-23T17:00:00-04:00",
-  "polled_at_utc": "2026-06-23T21:00:29.782117+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-23_05_15PM.pdf",
+  "fetched_slot": "2026-06-23T17:15:00-04:00",
+  "polled_at_utc": "2026-06-23T21:15:29.377659+00:00"
 }
