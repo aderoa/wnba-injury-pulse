@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/24/26 06:30 PM",
+  "report_ts": "06/24/26 06:45 PM",
   "page_count": 2,
-  "raw_line_count": 34,
+  "raw_line_count": 36,
   "teams": [
     {
       "team_full": "Minnesota Lynx",
@@ -59,9 +59,9 @@
         {
           "name_last_first": "Littlepage-Buggs, Darianna",
           "name": "Darianna Littlepage-Buggs",
-          "status": "Available",
-          "reason": "-",
-          "reason_category": "other"
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -136,16 +136,30 @@
       "submitted": true,
       "players": [
         {
+          "name_last_first": "Feagin, Sania",
+          "name": "Sania Feagin",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Harrison, Jordan",
+          "name": "Jordan Harrison",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Leite, Carla",
           "name": "Carla Leite",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Right Ankle; Sprain",
           "reason_category": "injury"
         },
         {
           "name_last_first": "Samuelson, Karlie",
           "name": "Karlie Samuelson",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Left Foot; Inflammation",
           "reason_category": "injury"
         }
@@ -288,7 +302,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-24_06_30PM.pdf",
-  "fetched_slot": "2026-06-24T18:30:00-04:00",
-  "polled_at_utc": "2026-06-24T22:30:28.406485+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-24_06_45PM.pdf",
+  "fetched_slot": "2026-06-24T18:45:00-04:00",
+  "polled_at_utc": "2026-06-24T22:45:28.799401+00:00"
 }

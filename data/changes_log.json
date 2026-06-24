@@ -9348,5 +9348,53 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-24T22:45:28.799401+00:00",
+    "type": "status_change",
+    "team_abbr": "WAS",
+    "player": "Darianna Littlepage-Buggs",
+    "from_status": "Available",
+    "to_status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-24T22:45:28.799401+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Sania Feagin",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-24T22:45:28.799401+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Jordan Harrison",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-24T22:45:28.799401+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Karlie Samuelson",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Foot; Inflammation",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-24T22:45:28.799401+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Carla Leite",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Ankle; Sprain",
+    "reason_category": "injury"
   }
 ]
