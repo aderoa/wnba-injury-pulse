@@ -9267,5 +9267,40 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Left Foot;-",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-24T21:00:33.095297+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Kelsey Plum",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Lower Leg; L Lower Leg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-24T21:00:33.095297+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Kiki TorontoTempo Rice",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Ankle; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-24T21:00:33.095297+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Brittney Sykes",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Foot; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-24T21:00:33.095297+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Kate Martin",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]

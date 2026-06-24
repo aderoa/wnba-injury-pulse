@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/24/26 04:45 PM",
+  "report_ts": "06/24/26 05:00 PM",
   "page_count": 2,
-  "raw_line_count": 26,
+  "raw_line_count": 30,
   "teams": [
     {
       "team_full": "Minnesota Lynx",
@@ -191,8 +191,37 @@
       "game_date": "06/25/2026",
       "game_time": "07:00(ET)",
       "matchup": "LAS@TOR",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Brink, Cameron",
+          "name": "Cameron Brink",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; LAnkle",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Plum, Kelsey",
+          "name": "Kelsey Plum",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Lower Leg; L Lower Leg",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "TorontoTempo Rice, Kiki",
+          "name": "Kiki TorontoTempo Rice",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sykes, Brittney",
+          "name": "Brittney Sykes",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Foot; Injury",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Dallas Wings",
@@ -231,7 +260,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-24_04_45PM.pdf",
-  "fetched_slot": "2026-06-24T16:45:00-04:00",
-  "polled_at_utc": "2026-06-24T20:51:31.827328+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-24_05_00PM.pdf",
+  "fetched_slot": "2026-06-24T17:00:00-04:00",
+  "polled_at_utc": "2026-06-24T21:00:33.095297+00:00"
 }
