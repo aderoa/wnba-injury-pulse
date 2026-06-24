@@ -40,13 +40,13 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-06-24T15:00:30.080329+00:00"
+    "last_seen_pending_ts": "2026-06-24T15:15:32.924724+00:00"
   },
   "IND": {
     "team_full": "Indiana Fever",
     "submitted": true,
-    "last_submitted_ts": "2026-06-24T15:00:30.080329+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-24_11_00AM.pdf",
+    "last_submitted_ts": "2026-06-24T15:15:32.924724+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-24_11_15AM.pdf",
     "game_dates": [
       "06/24/2026"
     ],
@@ -66,8 +66,8 @@
   "PHX": {
     "team_full": "Phoenix Mercury",
     "submitted": true,
-    "last_submitted_ts": "2026-06-24T15:00:30.080329+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-24_11_00AM.pdf",
+    "last_submitted_ts": "2026-06-24T15:15:32.924724+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-24_11_15AM.pdf",
     "game_dates": [
       "06/24/2026"
     ],
@@ -132,13 +132,13 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-06-24T15:00:30.080329+00:00"
+    "last_seen_pending_ts": "2026-06-24T15:15:32.924724+00:00"
   },
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-06-24T15:00:30.080329+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-24_11_00AM.pdf",
+    "last_submitted_ts": "2026-06-24T15:15:32.924724+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-24_11_15AM.pdf",
     "game_dates": [
       "06/24/2026"
     ],
@@ -165,8 +165,8 @@
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-06-24T15:00:30.080329+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-24_11_00AM.pdf",
+    "last_submitted_ts": "2026-06-24T15:15:32.924724+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-24_11_15AM.pdf",
     "game_dates": [
       "06/24/2026"
     ],
@@ -200,8 +200,8 @@
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-06-24T15:00:30.080329+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-24_11_00AM.pdf",
+    "last_submitted_ts": "2026-06-24T15:15:32.924724+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-24_11_15AM.pdf",
     "game_dates": [
       "06/24/2026"
     ],
@@ -214,6 +214,13 @@
         "name": "DiJonai Carrington",
         "status": "Out",
         "reason": "Injury/Illness - Left Foot; Left Foot",
+        "reason_category": "injury"
+      },
+      {
+        "name_last_first": "Cloud, Natasha",
+        "name": "Natasha Cloud",
+        "status": "Questionable",
+        "reason": "Injury/Illness - N/a; Illness",
         "reason_category": "injury"
       },
       {
@@ -235,8 +242,8 @@
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-06-24T15:00:30.080329+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-24_11_00AM.pdf",
+    "last_submitted_ts": "2026-06-24T15:15:32.924724+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-24_11_15AM.pdf",
     "game_dates": [
       "06/24/2026"
     ],
@@ -301,7 +308,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-06-24T15:00:30.080329+00:00"
+    "last_seen_pending_ts": "2026-06-24T15:15:32.924724+00:00"
   },
   "CON": {
     "team_full": "Connecticut Sun",
@@ -380,13 +387,13 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-06-24T15:00:30.080329+00:00"
+    "last_seen_pending_ts": "2026-06-24T15:15:32.924724+00:00"
   },
   "WAS": {
     "team_full": "Washington Mystics",
     "submitted": true,
-    "last_submitted_ts": "2026-06-24T15:00:30.080329+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-24_11_00AM.pdf",
+    "last_submitted_ts": "2026-06-24T15:15:32.924724+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-24_11_15AM.pdf",
     "game_dates": [
       "06/24/2026"
     ],
@@ -466,6 +473,6 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-06-24T15:00:30.080329+00:00"
+    "last_seen_pending_ts": "2026-06-24T15:15:32.924724+00:00"
   }
 }

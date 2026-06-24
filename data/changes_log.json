@@ -9248,5 +9248,14 @@
     "from_reason": "Injury/Illness - Right Leg; legonthe right",
     "to_reason": "Player Injury/Illness - Right Leg; legonthe right",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-24T15:15:32.924724+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Natasha Cloud",
+    "status": "Questionable",
+    "reason": "Injury/Illness - N/a; Illness",
+    "reason_category": "injury"
   }
 ]

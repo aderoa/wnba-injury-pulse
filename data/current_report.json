@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/24/26 11:00 AM",
+  "report_ts": "06/24/26 11:15 AM",
   "page_count": 2,
-  "raw_line_count": 25,
+  "raw_line_count": 26,
   "teams": [
     {
       "team_full": "Minnesota Lynx",
@@ -139,6 +139,13 @@
           "reason_category": "injury"
         },
         {
+          "name_last_first": "Cloud, Natasha",
+          "name": "Natasha Cloud",
+          "status": "Questionable",
+          "reason": "Injury/Illness - N/a; Illness",
+          "reason_category": "injury"
+        },
+        {
           "name_last_first": "Jackson, Rickea",
           "name": "Rickea Jackson",
           "status": "Out",
@@ -224,7 +231,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-24_11_00AM.pdf",
-  "fetched_slot": "2026-06-24T11:00:00-04:00",
-  "polled_at_utc": "2026-06-24T15:00:30.080329+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-24_11_15AM.pdf",
+  "fetched_slot": "2026-06-24T11:15:00-04:00",
+  "polled_at_utc": "2026-06-24T15:15:32.924724+00:00"
 }
