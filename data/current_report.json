@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/24/26 06:45 PM",
+  "report_ts": "06/24/26 07:00 PM",
   "page_count": 2,
-  "raw_line_count": 36,
+  "raw_line_count": 40,
   "teams": [
     {
       "team_full": "Minnesota Lynx",
@@ -79,6 +79,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Hamstring;-",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Ciezki, Shay",
+          "name": "Shay Ciezki",
+          "status": "Out",
+          "reason": "Coach's Decision - Developmental Player",
+          "reason_category": "rest_coach"
         },
         {
           "name_last_first": "Mack, Natasha",
@@ -183,7 +190,7 @@
         {
           "name_last_first": "Cloud, Natasha",
           "name": "Natasha Cloud",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - N/a; Illness",
           "reason_category": "injury"
         },
@@ -200,6 +207,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Right Knee; Right Knee",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Westbeld, Maddy",
+          "name": "Maddy Westbeld",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -302,7 +316,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-24_06_45PM.pdf",
-  "fetched_slot": "2026-06-24T18:45:00-04:00",
-  "polled_at_utc": "2026-06-24T22:45:28.799401+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-24_07_00PM.pdf",
+  "fetched_slot": "2026-06-24T19:00:00-04:00",
+  "polled_at_utc": "2026-06-24T23:00:29.229066+00:00"
 }
