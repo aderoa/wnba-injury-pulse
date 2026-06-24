@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/24/26 06:15 PM",
+  "report_ts": "06/24/26 06:30 PM",
   "page_count": 2,
-  "raw_line_count": 32,
+  "raw_line_count": 34,
   "teams": [
     {
       "team_full": "Minnesota Lynx",
@@ -110,6 +110,20 @@
           "status": "Available",
           "reason": "-",
           "reason_category": "other"
+        },
+        {
+          "name_last_first": "Hall, Bree",
+          "name": "Bree Hall",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Pissott, Justine",
+          "name": "Justine Pissott",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -274,7 +288,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-24_06_15PM.pdf",
-  "fetched_slot": "2026-06-24T18:15:00-04:00",
-  "polled_at_utc": "2026-06-24T22:21:15.677483+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-24_06_30PM.pdf",
+  "fetched_slot": "2026-06-24T18:30:00-04:00",
+  "polled_at_utc": "2026-06-24T22:30:28.406485+00:00"
 }
