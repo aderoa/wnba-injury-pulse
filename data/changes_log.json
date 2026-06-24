@@ -9302,5 +9302,15 @@
     "player": "Kate Martin",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-24T21:15:31.031371+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
   }
 ]
