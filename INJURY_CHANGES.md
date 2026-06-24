@@ -4,6 +4,12 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-06-24 01:15 UTC
+
+- **Betnijah Laney-Hamilton** (NYL) cleared (was Out)
+- **Anneli Maley** (NYL, Out): reason updated (Management Coach's Decision - Developmental Player → Player Coach's Decision - Developmental)
+- **Janiah Barker** (LVA, Out): reason updated (Injury/Illness - Right Leg; legonthe right → Player Injury/Illness - Right Leg; legonthe right)
+
 ## 2026-06-23 21:30 UTC
 
 - **Aicha Coulibaly** (CHI) cleared (was Out)

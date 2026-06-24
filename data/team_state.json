@@ -44,8 +44,8 @@
   "IND": {
     "team_full": "Indiana Fever",
     "submitted": true,
-    "last_submitted_ts": "2026-06-24T01:00:32.154360+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-23_09_00PM.pdf",
+    "last_submitted_ts": "2026-06-24T01:15:31.833540+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-23_09_15PM.pdf",
     "game_dates": [
       "06/24/2026"
     ],
@@ -65,8 +65,8 @@
   "PHX": {
     "team_full": "Phoenix Mercury",
     "submitted": true,
-    "last_submitted_ts": "2026-06-24T01:00:32.154360+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-23_09_00PM.pdf",
+    "last_submitted_ts": "2026-06-24T01:15:31.833540+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-23_09_15PM.pdf",
     "game_dates": [
       "06/24/2026"
     ],
@@ -100,8 +100,8 @@
   "LVA": {
     "team_full": "Las Vegas Aces",
     "submitted": true,
-    "last_submitted_ts": "2026-06-24T01:00:32.154360+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-23_09_00PM.pdf",
+    "last_submitted_ts": "2026-06-24T01:15:31.833540+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-23_09_15PM.pdf",
     "game_dates": [
       "06/23/2026"
     ],
@@ -113,7 +113,7 @@
         "name_last_first": "Barker, Janiah",
         "name": "Janiah Barker",
         "status": "Out",
-        "reason": "Injury/Illness - Right Leg; legonthe right",
+        "reason": "Player Injury/Illness - Right Leg; legonthe right",
         "reason_category": "injury"
       },
       {
@@ -135,8 +135,8 @@
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-06-24T01:00:32.154360+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-23_09_00PM.pdf",
+    "last_submitted_ts": "2026-06-24T01:15:31.833540+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-23_09_15PM.pdf",
     "game_dates": [
       "06/24/2026"
     ],
@@ -163,8 +163,8 @@
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-06-24T01:00:32.154360+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-23_09_00PM.pdf",
+    "last_submitted_ts": "2026-06-24T01:15:31.833540+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-23_09_15PM.pdf",
     "game_dates": [
       "06/24/2026"
     ],
@@ -198,8 +198,8 @@
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-06-24T01:00:32.154360+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-23_09_00PM.pdf",
+    "last_submitted_ts": "2026-06-24T01:15:31.833540+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-23_09_15PM.pdf",
     "game_dates": [
       "06/24/2026"
     ],
@@ -233,8 +233,8 @@
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-06-24T01:00:32.154360+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-23_09_00PM.pdf",
+    "last_submitted_ts": "2026-06-24T01:15:31.833540+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-23_09_15PM.pdf",
     "game_dates": [
       "06/24/2026"
     ],
@@ -353,13 +353,13 @@
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-06-20T03:45:29.797719+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-19_11_45PM.pdf",
+    "last_submitted_ts": "2026-06-24T01:15:31.833540+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-23_09_15PM.pdf",
     "game_dates": [
-      "06/19/2026"
+      "06/23/2026"
     ],
     "matchups": [
-      "WAS@NYL"
+      "NYL@LVA"
     ],
     "players": [
       {
@@ -370,27 +370,19 @@
         "reason_category": "rest_coach"
       },
       {
-        "name_last_first": "Laney-Hamilton, Betnijah",
-        "name": "Betnijah Laney-Hamilton",
-        "status": "Out",
-        "reason": "Player Injury/Illness - Left Knee;",
-        "reason_category": "injury"
-      },
-      {
         "name_last_first": "Maley, Anneli",
         "name": "Anneli Maley",
         "status": "Out",
-        "reason": "Management Coach's Decision - Developmental Player",
+        "reason": "Player Coach's Decision - Developmental",
         "reason_category": "rest_coach"
       }
-    ],
-    "last_seen_pending_ts": "2026-06-22T23:45:30.231694+00:00"
+    ]
   },
   "WAS": {
     "team_full": "Washington Mystics",
     "submitted": true,
-    "last_submitted_ts": "2026-06-24T01:00:32.154360+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-23_09_00PM.pdf",
+    "last_submitted_ts": "2026-06-24T01:15:31.833540+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-23_09_15PM.pdf",
     "game_dates": [
       "06/24/2026"
     ],

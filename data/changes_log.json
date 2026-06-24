@@ -9220,5 +9220,33 @@
     "player": "Aicha Coulibaly",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-24T01:15:31.833540+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Betnijah Laney-Hamilton",
+    "previous_status": "Out",
+    "previous_reason": "Player Injury/Illness - Left Knee;"
+  },
+  {
+    "ts": "2026-06-24T01:15:31.833540+00:00",
+    "type": "reason_change",
+    "team_abbr": "NYL",
+    "player": "Anneli Maley",
+    "status": "Out",
+    "from_reason": "Management Coach's Decision - Developmental Player",
+    "to_reason": "Player Coach's Decision - Developmental",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-24T01:15:31.833540+00:00",
+    "type": "reason_change",
+    "team_abbr": "LVA",
+    "player": "Janiah Barker",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Right Leg; legonthe right",
+    "to_reason": "Player Injury/Illness - Right Leg; legonthe right",
+    "reason_category": "injury"
   }
 ]
