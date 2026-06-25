@@ -9561,5 +9561,38 @@
     "to_status": "Out",
     "reason": "Concussion Protocol",
     "reason_category": "procedural"
+  },
+  {
+    "ts": "2026-06-25T20:45:29.400034+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Aneesah Morrow",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Leg; Strain",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-25T20:45:29.400034+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Kiki TorontoTempo Rice",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Ankle; Injury"
+  },
+  {
+    "ts": "2026-06-25T20:45:29.400034+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Nyara Sabally",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Right Hamstring; Injury"
+  },
+  {
+    "ts": "2026-06-25T20:45:29.400034+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Brittney Sykes",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Foot; Injury"
   }
 ]
