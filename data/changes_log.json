@@ -9551,5 +9551,15 @@
     "status": "Out",
     "reason": "Rest - Rest",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-06-25T18:30:31.094468+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Satou Sabally",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Concussion Protocol",
+    "reason_category": "procedural"
   }
 ]

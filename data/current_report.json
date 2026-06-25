@@ -1,5 +1,5 @@
 {
-  "report_ts": "06/25/26 02:15 PM",
+  "report_ts": "06/25/26 02:30 PM",
   "page_count": 2,
   "raw_line_count": 25,
   "teams": [
@@ -114,9 +114,9 @@
         {
           "name_last_first": "Sabally, Satou",
           "name": "Satou Sabally",
-          "status": "Questionable",
-          "reason": "Injury/Illness - Head; Head",
-          "reason_category": "injury"
+          "status": "Out",
+          "reason": "Concussion Protocol",
+          "reason_category": "procedural"
         },
         {
           "name_last_first": "Stewart, Breanna",
@@ -213,7 +213,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-25_02_15PM.pdf",
-  "fetched_slot": "2026-06-25T14:15:00-04:00",
-  "polled_at_utc": "2026-06-25T18:15:28.236413+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-25_02_30PM.pdf",
+  "fetched_slot": "2026-06-25T14:30:00-04:00",
+  "polled_at_utc": "2026-06-25T18:30:31.094468+00:00"
 }
