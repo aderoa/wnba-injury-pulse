@@ -4,6 +4,20 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-06-25 00:00 UTC
+
+- **Haley Jones** (DAL) cleared (was Out)
+- **Alysha Clark** (DAL): **Out** → **Probable** — Injury/Illness - Left Leg; n/a
+- **Alanna Smith** (DAL, Out): reason updated (Injury/Illness - Face; n/a → Injury/Illness - N/a; Concussion Protocol)
+- **Chennedy Carter** (LVA, Out): reason updated (Injury/Illness - N/a; illness → Injury/Illness - N/a; Illness)
+- **Janiah Barker** (LVA, Out): reason updated (Player Injury/Illness - Right Leg; legonthe right → Injury/Illness - Right Leg; R.Leg)
+- **Dana Evans** (LVA): **Out** → **Doubtful** — Injury/Illness - Left Leg; L.Leg
+- **Satou Sabally** (NYL) newly listed as **Questionable** — Injury/Illness - Head; Head
+- **Marine Fauthoux** (NYL) cleared (was Out)
+- **Anneli Maley** (NYL) cleared (was Out)
+- **Jade Melbourne** (SEA) cleared (was Out)
+- **Taina Mair** (SEA): **Available** → **Out** — Coach's Decision
+
 ## 2026-06-24 23:00 UTC
 
 - **Shay Ciezki** (PHX) newly listed as **Out** — Coach's Decision - Developmental Player
