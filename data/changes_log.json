@@ -9638,5 +9638,50 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Left Middle Finger; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-25T22:30:30.372327+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Kate Martin",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-25T22:30:30.372327+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Dana Evans",
+    "from_status": "Doubtful",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Leg; L.Leg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-25T22:30:30.372327+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Natasha Cloud",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - N/a; Illness"
+  },
+  {
+    "ts": "2026-06-25T22:30:30.372327+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Maddy Westbeld",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-25T22:30:30.372327+00:00",
+    "type": "status_change",
+    "team_abbr": "CHI",
+    "player": "Courtney Vandersloot",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Right Knee; Right Knee",
+    "reason_category": "injury"
   }
 ]
