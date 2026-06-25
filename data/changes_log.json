@@ -9604,5 +9604,39 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Left Leg; n/a",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-25T21:45:36.903673+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Sania Feagin",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-25T21:45:36.903673+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Jordan Harrison",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-25T21:45:36.903673+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Carla Leite",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Right Ankle; Sprain"
+  },
+  {
+    "ts": "2026-06-25T21:45:36.903673+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Karlie Samuelson",
+    "from_status": "Available",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Middle Finger; Injury",
+    "reason_category": "injury"
   }
 ]
