@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/25/26 02:00 PM",
+  "report_ts": "06/25/26 02:15 PM",
   "page_count": 2,
-  "raw_line_count": 24,
+  "raw_line_count": 25,
   "teams": [
     {
       "team_full": "Los Angeles Sparks",
@@ -117,6 +117,13 @@
           "status": "Questionable",
           "reason": "Injury/Illness - Head; Head",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Stewart, Breanna",
+          "name": "Breanna Stewart",
+          "status": "Out",
+          "reason": "Rest - Rest",
+          "reason_category": "other"
         }
       ]
     },
@@ -206,7 +213,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-25_02_00PM.pdf",
-  "fetched_slot": "2026-06-25T14:00:00-04:00",
-  "polled_at_utc": "2026-06-25T18:00:30.785908+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-25_02_15PM.pdf",
+  "fetched_slot": "2026-06-25T14:15:00-04:00",
+  "polled_at_utc": "2026-06-25T18:15:28.236413+00:00"
 }
