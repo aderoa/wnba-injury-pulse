@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/24/26 09:00 PM",
+  "report_ts": "06/24/26 09:15 PM",
   "page_count": 3,
-  "raw_line_count": 48,
+  "raw_line_count": 50,
   "teams": [
     {
       "team_full": "Minnesota Lynx",
@@ -238,6 +238,37 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Knee; N/A",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Okonkwo, Amy",
+          "name": "Amy Okonkwo",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        }
+      ]
+    },
+    {
+      "team_full": "Golden State Valkyries",
+      "team_abbr": "GSV",
+      "game_date": "06/24/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "ATL@GSV",
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Prechtel, Ashten",
+          "name": "Ashten Prechtel",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Sowah, Miela",
+          "name": "Miela Sowah",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -390,7 +421,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-24_09_00PM.pdf",
-  "fetched_slot": "2026-06-24T21:00:00-04:00",
-  "polled_at_utc": "2026-06-25T01:00:28.486151+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-24_09_15PM.pdf",
+  "fetched_slot": "2026-06-24T21:15:00-04:00",
+  "polled_at_utc": "2026-06-25T01:15:27.029169+00:00"
 }

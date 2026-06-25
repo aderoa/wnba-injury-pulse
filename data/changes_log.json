@@ -9525,5 +9525,22 @@
     "to_status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-25T01:15:27.029169+00:00",
+    "type": "added",
+    "team_abbr": "ATL",
+    "player": "Amy Okonkwo",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-25T01:15:27.029169+00:00",
+    "type": "cleared",
+    "team_abbr": "GSV",
+    "player": "Tiffany Hayes",
+    "previous_status": "Available",
+    "previous_reason": "-"
   }
 ]
