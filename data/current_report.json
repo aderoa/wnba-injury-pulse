@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/25/26 08:00 PM",
+  "report_ts": "06/25/26 08:15 PM",
   "page_count": 2,
-  "raw_line_count": 32,
+  "raw_line_count": 31,
   "teams": [
     {
       "team_full": "Los Angeles Sparks",
@@ -267,18 +267,9 @@
           "reason_category": "injury"
         }
       ]
-    },
-    {
-      "team_full": "Golden State Valkyries",
-      "team_abbr": "GSV",
-      "game_date": "06/26/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "ATL@GSV",
-      "submitted": false,
-      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-25_08_00PM.pdf",
-  "fetched_slot": "2026-06-25T20:00:00-04:00",
-  "polled_at_utc": "2026-06-26T00:00:30.887211+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-25_08_15PM.pdf",
+  "fetched_slot": "2026-06-25T20:15:00-04:00",
+  "polled_at_utc": "2026-06-26T00:15:33.782225+00:00"
 }
