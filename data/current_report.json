@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/26/26 06:15 PM",
+  "report_ts": "06/26/26 06:30 PM",
   "page_count": 2,
-  "raw_line_count": 24,
+  "raw_line_count": 26,
   "teams": [
     {
       "team_full": "Portland Fire",
@@ -36,6 +36,13 @@
           "reason_category": "injury"
         },
         {
+          "name_last_first": "Coulibaly, Aicha",
+          "name": "Aicha Coulibaly",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Jackson, Rickea",
           "name": "Rickea Jackson",
           "status": "Out",
@@ -45,9 +52,16 @@
         {
           "name_last_first": "Vandersloot, Courtney",
           "name": "Courtney Vandersloot",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Right Knee; Right Knee",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Westbeld, Maddy",
+          "name": "Maddy Westbeld",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -218,7 +232,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-26_06_15PM.pdf",
-  "fetched_slot": "2026-06-26T18:15:00-04:00",
-  "polled_at_utc": "2026-06-26T22:15:31.890354+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-26_06_30PM.pdf",
+  "fetched_slot": "2026-06-26T18:30:00-04:00",
+  "polled_at_utc": "2026-06-26T22:30:29.139639+00:00"
 }

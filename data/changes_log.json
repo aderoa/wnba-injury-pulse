@@ -9823,5 +9823,33 @@
     "from_reason": "Injury/Illness - Left Lower Leg; L Lower Leg",
     "to_reason": "Injury/Illness - Left Lower Leg; NWT",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-26T22:30:29.139639+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Aicha Coulibaly",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-26T22:30:29.139639+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Maddy Westbeld",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-26T22:30:29.139639+00:00",
+    "type": "status_change",
+    "team_abbr": "CHI",
+    "player": "Courtney Vandersloot",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Knee; Right Knee",
+    "reason_category": "injury"
   }
 ]
