@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/26/26 06:45 PM",
+  "report_ts": "06/26/26 07:00 PM",
   "page_count": 2,
-  "raw_line_count": 26,
+  "raw_line_count": 27,
   "teams": [
     {
       "team_full": "Portland Fire",
@@ -12,9 +12,16 @@
       "submitted": true,
       "players": [
         {
+          "name_last_first": "Feagin, Sania",
+          "name": "Sania Feagin",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Samuelson, Karlie",
           "name": "Karlie Samuelson",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Left Middle Finger; Injury",
           "reason_category": "injury"
         }
@@ -232,7 +239,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-26_06_45PM.pdf",
-  "fetched_slot": "2026-06-26T18:45:00-04:00",
-  "polled_at_utc": "2026-06-26T22:52:52.233576+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-26_07_00PM.pdf",
+  "fetched_slot": "2026-06-26T19:00:00-04:00",
+  "polled_at_utc": "2026-06-26T23:00:29.407662+00:00"
 }
