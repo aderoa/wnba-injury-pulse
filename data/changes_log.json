@@ -9718,5 +9718,31 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-26T20:45:27.222561+00:00",
+    "type": "cleared",
+    "team_abbr": "IND",
+    "player": "Bree Hall",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-26T20:45:27.222561+00:00",
+    "type": "cleared",
+    "team_abbr": "IND",
+    "player": "Justine Pissott",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-26T20:45:27.222561+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Available",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Back; Back",
+    "reason_category": "injury"
   }
 ]
