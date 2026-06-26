@@ -9744,5 +9744,84 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Back; Back",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-26T21:00:30.521069+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Alyssa Thomas",
+    "status": "Out",
+    "reason": "League Suspension",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-06-26T21:00:30.521069+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Kiki TorontoTempo Rice",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Ankle; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-26T21:00:30.521069+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Brittney Sykes",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Foot; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-26T21:00:30.521069+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Shay Ciezki",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental Player"
+  },
+  {
+    "ts": "2026-06-26T21:00:30.521069+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Kate Martin",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-26T21:00:30.521069+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Kiki TorontoTempo Rice",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Ankle; Injury"
+  },
+  {
+    "ts": "2026-06-26T21:00:30.521069+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Brittney Sykes",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Foot; Injury"
+  },
+  {
+    "ts": "2026-06-26T21:00:30.521069+00:00",
+    "type": "reason_change",
+    "team_abbr": "LAS",
+    "player": "Cameron Brink",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Ankle; LAnkle",
+    "to_reason": "Injury/Illness - Left Ankle; NWT",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-26T21:00:30.521069+00:00",
+    "type": "reason_change",
+    "team_abbr": "LAS",
+    "player": "Kelsey Plum",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Lower Leg; L Lower Leg",
+    "to_reason": "Injury/Illness - Left Lower Leg; NWT",
+    "reason_category": "injury"
   }
 ]

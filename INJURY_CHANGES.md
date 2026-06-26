@@ -4,6 +4,18 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-06-26 21:00 UTC
+
+- **Alyssa Thomas** (PHX) newly listed as **Out** — League Suspension
+- **Kiki TorontoTempo Rice** (PHX) newly listed as **Out** — Injury/Illness - Left Ankle; Injury
+- **Brittney Sykes** (PHX) newly listed as **Out** — Injury/Illness - Left Foot; Injury
+- **Shay Ciezki** (PHX) cleared (was Out)
+- **Kate Martin** (LAS) cleared (was Out)
+- **Kiki TorontoTempo Rice** (LAS) cleared (was Out)
+- **Brittney Sykes** (LAS) cleared (was Out)
+- **Cameron Brink** (LAS, Out): reason updated (Injury/Illness - Left Ankle; LAnkle → Injury/Illness - Left Ankle; NWT)
+- **Kelsey Plum** (LAS, Out): reason updated (Injury/Illness - Left Lower Leg; L Lower Leg → Injury/Illness - Left Lower Leg; NWT)
+
 ## 2026-06-26 20:45 UTC
 
 - **Bree Hall** (IND) cleared (was Out)
