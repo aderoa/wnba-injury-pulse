@@ -4,6 +4,12 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-06-27 22:15 UTC
+
+- **Janiah Barker** (LVA) newly listed as **Out** — Injury/Illness - Right Leg; Rightleg
+- **Chennedy Carter** (LVA) newly listed as **Questionable** — Injury/Illness - N/a; Illness
+- **Dana Evans** (LVA): **Doubtful** → **Out** — Injury/Illness - Left Leg; Leftleg
+
 ## 2026-06-27 21:45 UTC
 
 - **Eliska Hamzova** (MIN) cleared (was Out)
