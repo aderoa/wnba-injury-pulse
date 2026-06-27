@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/27/26 04:00 PM",
+  "report_ts": "06/27/26 04:15 PM",
   "page_count": 2,
-  "raw_line_count": 26,
+  "raw_line_count": 27,
   "teams": [
     {
       "team_full": "Phoenix Mercury",
@@ -16,6 +16,13 @@
           "name": "Monique AkoaMakani",
           "status": "Out",
           "reason": "Injury/Illness - Left Hamstring;-",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Brochant, Noemie",
+          "name": "Noemie Brochant",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle;-",
           "reason_category": "injury"
         },
         {
@@ -246,7 +253,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-27_04_00PM.pdf",
-  "fetched_slot": "2026-06-27T16:00:00-04:00",
-  "polled_at_utc": "2026-06-27T20:10:36.815652+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-27_04_15PM.pdf",
+  "fetched_slot": "2026-06-27T16:15:00-04:00",
+  "polled_at_utc": "2026-06-27T20:15:31.864579+00:00"
 }
