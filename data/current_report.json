@@ -1,5 +1,5 @@
 {
-  "report_ts": "06/27/26 11:00 AM",
+  "report_ts": "06/27/26 11:15 AM",
   "page_count": 2,
   "raw_line_count": 23,
   "teams": [
@@ -178,8 +178,16 @@
       "game_date": "06/28/2026",
       "game_time": "04:00(ET)",
       "matchup": "LVA@CHI",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Evans, Dana",
+          "name": "Dana Evans",
+          "status": "Doubtful",
+          "reason": "Injury/Illness - Left Leg; Leftleg",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Chicago Sky",
@@ -209,7 +217,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-27_11_00AM.pdf",
-  "fetched_slot": "2026-06-27T11:00:00-04:00",
-  "polled_at_utc": "2026-06-27T15:00:28.098462+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-27_11_15AM.pdf",
+  "fetched_slot": "2026-06-27T11:15:00-04:00",
+  "polled_at_utc": "2026-06-27T15:15:26.617157+00:00"
 }

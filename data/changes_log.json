@@ -9879,5 +9879,31 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-27T15:15:26.617157+00:00",
+    "type": "cleared",
+    "team_abbr": "LVA",
+    "player": "Janiah Barker",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Right Leg; R.Leg"
+  },
+  {
+    "ts": "2026-06-27T15:15:26.617157+00:00",
+    "type": "cleared",
+    "team_abbr": "LVA",
+    "player": "Chennedy Carter",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - N/a; Illness"
+  },
+  {
+    "ts": "2026-06-27T15:15:26.617157+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Dana Evans",
+    "from_status": "Out",
+    "to_status": "Doubtful",
+    "reason": "Injury/Illness - Left Leg; Leftleg",
+    "reason_category": "injury"
   }
 ]
