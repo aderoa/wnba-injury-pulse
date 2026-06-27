@@ -9905,5 +9905,31 @@
     "to_status": "Doubtful",
     "reason": "Injury/Illness - Left Leg; Leftleg",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-27T18:45:29.985725+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Marina TorontoTempo Mabrey",
+    "status": "Out",
+    "reason": "Injury/Illness - Neck; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-27T18:45:29.985725+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Kiki Rice",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Ankle; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-27T18:45:29.985725+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Kiki TorontoTempo Rice",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Ankle; Injury"
   }
 ]

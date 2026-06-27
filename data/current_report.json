@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/27/26 02:15 PM",
+  "report_ts": "06/27/26 02:45 PM",
   "page_count": 2,
-  "raw_line_count": 23,
+  "raw_line_count": 24,
   "teams": [
     {
       "team_full": "Phoenix Mercury",
@@ -40,8 +40,15 @@
           "reason_category": "injury"
         },
         {
-          "name_last_first": "TorontoTempo Rice, Kiki",
-          "name": "Kiki TorontoTempo Rice",
+          "name_last_first": "TorontoTempo Mabrey, Marina",
+          "name": "Marina TorontoTempo Mabrey",
+          "status": "Out",
+          "reason": "Injury/Illness - Neck; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Rice, Kiki",
+          "name": "Kiki Rice",
           "status": "Out",
           "reason": "Injury/Illness - Left Ankle; Injury",
           "reason_category": "injury"
@@ -217,7 +224,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-27_02_15PM.pdf",
-  "fetched_slot": "2026-06-27T14:15:00-04:00",
-  "polled_at_utc": "2026-06-27T18:30:30.089712+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-27_02_45PM.pdf",
+  "fetched_slot": "2026-06-27T14:45:00-04:00",
+  "polled_at_utc": "2026-06-27T18:45:29.985725+00:00"
 }
