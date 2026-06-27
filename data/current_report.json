@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/27/26 03:45 PM",
+  "report_ts": "06/27/26 04:00 PM",
   "page_count": 2,
-  "raw_line_count": 24,
+  "raw_line_count": 26,
   "teams": [
     {
       "team_full": "Phoenix Mercury",
@@ -109,8 +109,30 @@
       "game_date": "06/27/2026",
       "game_time": "09:00(ET)",
       "matchup": "ATL@SEA",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Hillmon, Naz",
+          "name": "Naz Hillmon",
+          "status": "Out",
+          "reason": "Rest",
+          "reason_category": "other"
+        },
+        {
+          "name_last_first": "Jones, Brionna",
+          "name": "Brionna Jones",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; N/A",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Nye, Aaliyah",
+          "name": "Aaliyah Nye",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; N/A",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Seattle Storm",
@@ -224,7 +246,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-27_03_45PM.pdf",
-  "fetched_slot": "2026-06-27T15:45:00-04:00",
-  "polled_at_utc": "2026-06-27T20:00:27.727823+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-27_04_00PM.pdf",
+  "fetched_slot": "2026-06-27T16:00:00-04:00",
+  "polled_at_utc": "2026-06-27T20:10:36.815652+00:00"
 }

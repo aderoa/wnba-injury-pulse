@@ -9931,5 +9931,22 @@
     "player": "Kiki TorontoTempo Rice",
     "previous_status": "Out",
     "previous_reason": "Injury/Illness - Left Ankle; Injury"
+  },
+  {
+    "ts": "2026-06-27T20:10:36.815652+00:00",
+    "type": "added",
+    "team_abbr": "ATL",
+    "player": "Naz Hillmon",
+    "status": "Out",
+    "reason": "Rest",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-06-27T20:10:36.815652+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Amy Okonkwo",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]
