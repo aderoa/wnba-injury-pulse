@@ -1,5 +1,5 @@
 {
-  "report_ts": "06/26/26 08:45 PM",
+  "report_ts": "06/26/26 09:00 PM",
   "page_count": 2,
   "raw_line_count": 29,
   "teams": [
@@ -124,6 +124,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Knee; N/A",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Okonkwo, Amy",
+          "name": "Amy Okonkwo",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -261,7 +268,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-26_08_45PM.pdf",
-  "fetched_slot": "2026-06-26T20:45:00-04:00",
-  "polled_at_utc": "2026-06-27T00:45:30.181979+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-26_09_00PM.pdf",
+  "fetched_slot": "2026-06-26T21:00:00-04:00",
+  "polled_at_utc": "2026-06-27T01:00:28.962601+00:00"
 }
