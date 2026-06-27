@@ -9975,5 +9975,73 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Left Middle Finger; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-27T21:30:28.222204+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Alysha Clark",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Left Leg; n/a"
+  },
+  {
+    "ts": "2026-06-27T21:30:28.222204+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Haley Jones",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-27T21:30:28.222204+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Costanza Verona",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-27T21:30:28.222204+00:00",
+    "type": "reason_change",
+    "team_abbr": "DAL",
+    "player": "Alanna Smith",
+    "status": "Out",
+    "from_reason": "Injury/Illness - N/a; Concussion Protocol",
+    "to_reason": "Injury/Illness - N/a; Concussion",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-27T21:30:28.222204+00:00",
+    "type": "reason_change",
+    "team_abbr": "PDX",
+    "player": "Karlie Samuelson",
+    "status": "Questionable",
+    "from_reason": "Injury/Illness - Left Middle Finger; Injury",
+    "to_reason": "Protocol Injury/Illness - Left Middle Finger; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-27T21:30:28.222204+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Aicha Coulibaly",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-27T21:30:28.222204+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Courtney Vandersloot",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Right Knee; Right Knee"
+  },
+  {
+    "ts": "2026-06-27T21:30:28.222204+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Maddy Westbeld",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]
