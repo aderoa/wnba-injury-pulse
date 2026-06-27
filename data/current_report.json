@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/27/26 06:45 PM",
+  "report_ts": "06/27/26 07:00 PM",
   "page_count": 2,
-  "raw_line_count": 36,
+  "raw_line_count": 37,
   "teams": [
     {
       "team_full": "Phoenix Mercury",
@@ -83,6 +83,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Ankle; NWT",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Martin, Kate",
+          "name": "Kate Martin",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         },
         {
           "name_last_first": "Plum, Kelsey",
@@ -318,7 +325,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-27_06_45PM.pdf",
-  "fetched_slot": "2026-06-27T18:45:00-04:00",
-  "polled_at_utc": "2026-06-27T22:45:28.007861+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-27_07_00PM.pdf",
+  "fetched_slot": "2026-06-27T19:00:00-04:00",
+  "polled_at_utc": "2026-06-27T23:00:30.638113+00:00"
 }
