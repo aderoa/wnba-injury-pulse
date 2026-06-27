@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/27/26 07:15 PM",
+  "report_ts": "06/27/26 07:30 PM",
   "page_count": 2,
-  "raw_line_count": 37,
+  "raw_line_count": 38,
   "teams": [
     {
       "team_full": "Phoenix Mercury",
@@ -114,6 +114,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Back; Back",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Pissott, Justine",
+          "name": "Justine Pissott",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -312,8 +319,16 @@
       "game_date": "06/28/2026",
       "game_time": "07:00(ET)",
       "matchup": "NYL@GSV",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Sabally, Satou",
+          "name": "Satou Sabally",
+          "status": "Out",
+          "reason": "Concussion Protocol",
+          "reason_category": "procedural"
+        }
+      ]
     },
     {
       "team_full": "Golden State Valkyries",
@@ -325,7 +340,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-27_07_15PM.pdf",
-  "fetched_slot": "2026-06-27T19:15:00-04:00",
-  "polled_at_utc": "2026-06-27T23:15:27.490948+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-27_07_30PM.pdf",
+  "fetched_slot": "2026-06-27T19:30:00-04:00",
+  "polled_at_utc": "2026-06-27T23:30:28.287459+00:00"
 }
