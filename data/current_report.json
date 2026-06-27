@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/27/26 04:15 PM",
+  "report_ts": "06/27/26 04:30 PM",
   "page_count": 2,
-  "raw_line_count": 27,
+  "raw_line_count": 29,
   "teams": [
     {
       "team_full": "Phoenix Mercury",
@@ -196,8 +196,16 @@
       "game_date": "06/28/2026",
       "game_time": "03:00(ET)",
       "matchup": "PDX@WAS",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Samuelson, Karlie",
+          "name": "Karlie Samuelson",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Middle Finger; Injury",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Washington Mystics",
@@ -253,7 +261,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-27_04_15PM.pdf",
-  "fetched_slot": "2026-06-27T16:15:00-04:00",
-  "polled_at_utc": "2026-06-27T20:15:31.864579+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-27_04_30PM.pdf",
+  "fetched_slot": "2026-06-27T16:30:00-04:00",
+  "polled_at_utc": "2026-06-27T20:30:32.114080+00:00"
 }

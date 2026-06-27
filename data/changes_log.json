@@ -9957,5 +9957,23 @@
     "status": "Out",
     "reason": "Injury/Illness - Left Ankle;-",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-27T20:30:32.114080+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Sania Feagin",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-27T20:30:32.114080+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Karlie Samuelson",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Middle Finger; Injury",
+    "reason_category": "injury"
   }
 ]
