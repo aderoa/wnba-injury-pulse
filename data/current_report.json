@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/27/26 04:30 PM",
+  "report_ts": "06/27/26 04:45 PM",
   "page_count": 2,
-  "raw_line_count": 29,
+  "raw_line_count": 28,
   "teams": [
     {
       "team_full": "Phoenix Mercury",
@@ -208,15 +208,6 @@
       ]
     },
     {
-      "team_full": "Washington Mystics",
-      "team_abbr": "WAS",
-      "game_date": "06/28/2026",
-      "game_time": "03:00(ET)",
-      "matchup": "PDX@WAS",
-      "submitted": false,
-      "players": []
-    },
-    {
       "team_full": "Las Vegas Aces",
       "team_abbr": "LVA",
       "game_date": "06/28/2026",
@@ -261,7 +252,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-27_04_30PM.pdf",
-  "fetched_slot": "2026-06-27T16:30:00-04:00",
-  "polled_at_utc": "2026-06-27T20:30:32.114080+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-27_04_45PM.pdf",
+  "fetched_slot": "2026-06-27T16:45:00-04:00",
+  "polled_at_utc": "2026-06-27T20:45:27.970774+00:00"
 }
