@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/26/26 07:45 PM",
+  "report_ts": "06/26/26 08:00 PM",
   "page_count": 2,
-  "raw_line_count": 27,
+  "raw_line_count": 29,
   "teams": [
     {
       "team_full": "Portland Fire",
@@ -235,11 +235,33 @@
       "game_date": "06/27/2026",
       "game_time": "09:00(ET)",
       "matchup": "ATL@SEA",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Horston, Jordan",
+          "name": "Jordan Horston",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Foot; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Magbegor, Ezi",
+          "name": "Ezi Magbegor",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Foot; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Mair, Taina",
+          "name": "Taina Mair",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        }
+      ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-26_07_45PM.pdf",
-  "fetched_slot": "2026-06-26T19:45:00-04:00",
-  "polled_at_utc": "2026-06-26T23:45:30.270543+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-26_08_00PM.pdf",
+  "fetched_slot": "2026-06-26T20:00:00-04:00",
+  "polled_at_utc": "2026-06-27T00:00:32.417738+00:00"
 }
