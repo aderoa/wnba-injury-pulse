@@ -10213,5 +10213,22 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-28T19:16:07.368931+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Maddy Westbeld",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-06-28T19:16:07.368931+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Rickea Jackson",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Knee; Left Knee"
   }
 ]
