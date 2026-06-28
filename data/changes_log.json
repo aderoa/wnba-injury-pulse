@@ -10121,5 +10121,30 @@
     "player": "Breanna Stewart",
     "previous_status": "Out",
     "previous_reason": "Rest - Rest"
+  },
+  {
+    "ts": "2026-06-28T00:00:29.717759+00:00",
+    "type": "added",
+    "team_abbr": "GSV",
+    "player": "Laeticia Amihere",
+    "status": "Questionable",
+    "reason": "Injury/Illness - NA; Musclespasm",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-06-28T00:00:29.717759+00:00",
+    "type": "cleared",
+    "team_abbr": "GSV",
+    "player": "Ashten Prechtel",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-06-28T00:00:29.717759+00:00",
+    "type": "cleared",
+    "team_abbr": "GSV",
+    "player": "Miela Sowah",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]
