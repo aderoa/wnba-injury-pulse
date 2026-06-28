@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/28/26 02:15 PM",
+  "report_ts": "06/28/26 02:30 PM",
   "page_count": 1,
-  "raw_line_count": 19,
+  "raw_line_count": 20,
   "teams": [
     {
       "team_full": "Minnesota Lynx",
@@ -80,6 +80,13 @@
       "matchup": "PDX@WAS",
       "submitted": true,
       "players": [
+        {
+          "name_last_first": "Feagin, Sania",
+          "name": "Sania Feagin",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
         {
           "name_last_first": "Samuelson, Karlie",
           "name": "Karlie Samuelson",
@@ -179,7 +186,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-28_02_15PM.pdf",
-  "fetched_slot": "2026-06-28T14:15:00-04:00",
-  "polled_at_utc": "2026-06-28T18:16:05.731852+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-28_02_30PM.pdf",
+  "fetched_slot": "2026-06-28T14:30:00-04:00",
+  "polled_at_utc": "2026-06-28T18:31:09.076922+00:00"
 }
