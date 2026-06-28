@@ -10230,5 +10230,15 @@
     "player": "Rickea Jackson",
     "previous_status": "Out",
     "previous_reason": "Injury/Illness - Left Knee; Left Knee"
+  },
+  {
+    "ts": "2026-06-28T19:31:08.491876+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Chennedy Carter",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - N/a; Illness",
+    "reason_category": "injury"
   }
 ]
