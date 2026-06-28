@@ -1,7 +1,7 @@
 {
-  "report_ts": "06/28/26 12:30 PM",
+  "report_ts": "06/28/26 12:45 PM",
   "page_count": 1,
-  "raw_line_count": 17,
+  "raw_line_count": 19,
   "teams": [
     {
       "team_full": "Minnesota Lynx",
@@ -24,6 +24,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Ankle; Left Ankle",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Hamzova, Eliska",
+          "name": "Eliska Hamzova",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         },
         {
           "name_last_first": "Juhasz, Dorka",
@@ -53,8 +60,15 @@
           "name_last_first": "Smith, Alanna",
           "name": "Alanna Smith",
           "status": "Out",
-          "reason": "Injury/Illness - N/a; Concussion",
+          "reason": "Injury/Illness - N/a; Concussion Protocol",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Verona, Costanza",
+          "name": "Costanza Verona",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -70,7 +84,7 @@
           "name_last_first": "Samuelson, Karlie",
           "name": "Karlie Samuelson",
           "status": "Questionable",
-          "reason": "Protocol Injury/Illness - Left Middle Finger; Injury",
+          "reason": "Injury/Illness - Left Middle Finger; Injury",
           "reason_category": "injury"
         }
       ]
@@ -165,7 +179,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-28_12_30PM.pdf",
-  "fetched_slot": "2026-06-28T12:30:00-04:00",
-  "polled_at_utc": "2026-06-28T16:31:08.531648+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-28_12_45PM.pdf",
+  "fetched_slot": "2026-06-28T12:45:00-04:00",
+  "polled_at_utc": "2026-06-28T16:46:07.349702+00:00"
 }

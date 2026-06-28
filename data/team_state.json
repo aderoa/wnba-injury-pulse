@@ -2,8 +2,8 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-06-28T16:31:08.531648+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-28_12_30PM.pdf",
+    "last_submitted_ts": "2026-06-28T16:46:07.349702+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-28_12_45PM.pdf",
     "game_dates": [
       "06/28/2026"
     ],
@@ -22,8 +22,15 @@
         "name_last_first": "Smith, Alanna",
         "name": "Alanna Smith",
         "status": "Out",
-        "reason": "Injury/Illness - N/a; Concussion",
+        "reason": "Injury/Illness - N/a; Concussion Protocol",
         "reason_category": "injury"
+      },
+      {
+        "name_last_first": "Verona, Costanza",
+        "name": "Costanza Verona",
+        "status": "Out",
+        "reason": "Coach's Decision",
+        "reason_category": "rest_coach"
       }
     ]
   },
@@ -128,8 +135,8 @@
   "LVA": {
     "team_full": "Las Vegas Aces",
     "submitted": true,
-    "last_submitted_ts": "2026-06-28T16:31:08.531648+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-28_12_30PM.pdf",
+    "last_submitted_ts": "2026-06-28T16:46:07.349702+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-28_12_45PM.pdf",
     "game_dates": [
       "06/28/2026"
     ],
@@ -198,8 +205,8 @@
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-06-28T16:31:08.531648+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-28_12_30PM.pdf",
+    "last_submitted_ts": "2026-06-28T16:46:07.349702+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-28_12_45PM.pdf",
     "game_dates": [
       "06/28/2026"
     ],
@@ -222,6 +229,13 @@
         "reason_category": "injury"
       },
       {
+        "name_last_first": "Hamzova, Eliska",
+        "name": "Eliska Hamzova",
+        "status": "Out",
+        "reason": "Coach's Decision",
+        "reason_category": "rest_coach"
+      },
+      {
         "name_last_first": "Juhasz, Dorka",
         "name": "Dorka Juhasz",
         "status": "Out",
@@ -233,8 +247,8 @@
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-06-28T16:31:08.531648+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-28_12_30PM.pdf",
+    "last_submitted_ts": "2026-06-28T16:46:07.349702+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-28_12_45PM.pdf",
     "game_dates": [
       "06/28/2026"
     ],
@@ -261,8 +275,8 @@
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-06-28T16:31:08.531648+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-28_12_30PM.pdf",
+    "last_submitted_ts": "2026-06-28T16:46:07.349702+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-28_12_45PM.pdf",
     "game_dates": [
       "06/28/2026"
     ],
@@ -274,7 +288,7 @@
         "name_last_first": "Samuelson, Karlie",
         "name": "Karlie Samuelson",
         "status": "Questionable",
-        "reason": "Protocol Injury/Illness - Left Middle Finger; Injury",
+        "reason": "Injury/Illness - Left Middle Finger; Injury",
         "reason_category": "injury"
       }
     ]
@@ -352,8 +366,8 @@
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-06-28T16:31:08.531648+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-28_12_30PM.pdf",
+    "last_submitted_ts": "2026-06-28T16:46:07.349702+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-28_12_45PM.pdf",
     "game_dates": [
       "06/28/2026"
     ],
@@ -395,8 +409,8 @@
   "GSV": {
     "team_full": "Golden State Valkyries",
     "submitted": true,
-    "last_submitted_ts": "2026-06-28T16:31:08.531648+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-28_12_30PM.pdf",
+    "last_submitted_ts": "2026-06-28T16:46:07.349702+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-28_12_45PM.pdf",
     "game_dates": [
       "06/28/2026"
     ],

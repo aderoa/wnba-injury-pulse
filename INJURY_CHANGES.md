@@ -4,6 +4,13 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-06-28 16:46 UTC
+
+- **Eliska Hamzova** (MIN) newly listed as **Out** — Coach's Decision
+- **Costanza Verona** (DAL) newly listed as **Out** — Coach's Decision
+- **Alanna Smith** (DAL, Out): reason updated (Injury/Illness - N/a; Concussion → Injury/Illness - N/a; Concussion Protocol)
+- **Karlie Samuelson** (PDX, Questionable): reason updated (Protocol Injury/Illness - Left Middle Finger; Injury → Injury/Illness - Left Middle Finger; Injury)
+
 ## 2026-06-28 00:00 UTC
 
 - **Laeticia Amihere** (GSV) newly listed as **Questionable** — Injury/Illness - NA; Musclespasm
