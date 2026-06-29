@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-06-29T12:16:13.366889+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-29_08_15AM.pdf",
-  "report_ts": "06/29/26 08:15 AM",
+  "polled_at_utc": "2026-06-29T12:31:09.305012+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-29_08_30AM.pdf",
+  "report_ts": "06/29/26 08:30 AM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -607,7 +607,7 @@
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
       "last_submitted_ts": "2026-06-29T03:46:07.505281+00:00",
-      "last_seen_pending_ts": "2026-06-29T12:16:13.366889+00:00",
+      "last_seen_pending_ts": "2026-06-29T12:31:09.305012+00:00",
       "matchups": [
         "LVA@CHI"
       ],
@@ -678,7 +678,7 @@
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
       "last_submitted_ts": "2026-06-29T03:46:07.505281+00:00",
-      "last_seen_pending_ts": "2026-06-29T12:16:13.366889+00:00",
+      "last_seen_pending_ts": "2026-06-29T12:31:09.305012+00:00",
       "matchups": [
         "NYL@GSV"
       ],
