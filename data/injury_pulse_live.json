@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-06-29T20:31:06.761180+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-29_04_30PM.pdf",
-  "report_ts": "06/29/26 04:30 PM",
+  "polled_at_utc": "2026-06-29T20:46:12.391530+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-29_04_45PM.pdf",
+  "report_ts": "06/29/26 04:45 PM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -39,15 +39,6 @@
       "reason": "Injury/Illness - Left Leg; Strain",
       "reason_category": "injury",
       "last_updated": "2026-06-27T03:45:29.102938+00:00"
-    },
-    {
-      "name": "Anneli Maley",
-      "team_abbr": "NYL",
-      "team_full": "New York Liberty",
-      "status": "Out",
-      "reason": "Player Coach's Decision - Developmental Player",
-      "reason_category": "rest_coach",
-      "last_updated": "2026-06-29T03:46:07.505281+00:00"
     },
     {
       "name": "Ashten Prechtel",
@@ -257,15 +248,6 @@
       "last_updated": "2026-06-28T03:45:29.228940+00:00"
     },
     {
-      "name": "Marine Fauthoux",
-      "team_abbr": "NYL",
-      "team_full": "New York Liberty",
-      "status": "Out",
-      "reason": "Coach's Decision - Developmental",
-      "reason_category": "rest_coach",
-      "last_updated": "2026-06-29T03:46:07.505281+00:00"
-    },
-    {
       "name": "Miela Sowah",
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
@@ -362,7 +344,7 @@
       "status": "Out",
       "reason": "Concussion Protocol",
       "reason_category": "procedural",
-      "last_updated": "2026-06-29T03:46:07.505281+00:00"
+      "last_updated": "2026-06-29T20:46:12.391530+00:00"
     },
     {
       "name": "Taina Mair",
@@ -607,7 +589,7 @@
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
       "last_submitted_ts": "2026-06-29T03:46:07.505281+00:00",
-      "last_seen_pending_ts": "2026-06-29T20:31:06.761180+00:00",
+      "last_seen_pending_ts": "2026-06-29T20:46:12.391530+00:00",
       "matchups": [
         "LVA@CHI"
       ],
@@ -677,26 +659,12 @@
     {
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
-      "last_submitted_ts": "2026-06-29T03:46:07.505281+00:00",
-      "last_seen_pending_ts": "2026-06-29T20:31:06.761180+00:00",
+      "last_submitted_ts": "2026-06-29T20:46:12.391530+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "NYL@GSV"
+        "LVA@NYL"
       ],
       "players": [
-        {
-          "name_last_first": "Fauthoux, Marine",
-          "name": "Marine Fauthoux",
-          "status": "Out",
-          "reason": "Coach's Decision - Developmental",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Maley, Anneli",
-          "name": "Anneli Maley",
-          "status": "Out",
-          "reason": "Player Coach's Decision - Developmental Player",
-          "reason_category": "rest_coach"
-        },
         {
           "name_last_first": "Sabally, Satou",
           "name": "Satou Sabally",
@@ -850,6 +818,22 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-06-29T20:46:12.391530+00:00",
+      "type": "cleared",
+      "team_abbr": "NYL",
+      "player": "Anneli Maley",
+      "previous_status": "Out",
+      "previous_reason": "Player Coach's Decision - Developmental Player"
+    },
+    {
+      "ts": "2026-06-29T20:46:12.391530+00:00",
+      "type": "cleared",
+      "team_abbr": "NYL",
+      "player": "Marine Fauthoux",
+      "previous_status": "Out",
+      "previous_reason": "Coach's Decision - Developmental"
+    },
     {
       "ts": "2026-06-28T22:31:07.752520+00:00",
       "type": "status_change",
@@ -3081,24 +3065,6 @@
       "from_reason": "Injury/Illness - Left Knee; Management",
       "to_reason": "Player Injury/Illness - Left Knee;",
       "reason_category": "injury"
-    },
-    {
-      "ts": "2026-06-17T23:15:42.575729+00:00",
-      "type": "added",
-      "team_abbr": "NYL",
-      "player": "Anneli Maley",
-      "status": "Out",
-      "reason": "Management Coach's Decision - Developmental Player",
-      "reason_category": "rest_coach"
-    },
-    {
-      "ts": "2026-06-17T23:15:42.575729+00:00",
-      "type": "added",
-      "team_abbr": "NYL",
-      "player": "Marine Fauthoux",
-      "status": "Out",
-      "reason": "Coach's Decision - Developmental",
-      "reason_category": "rest_coach"
     }
   ]
 }

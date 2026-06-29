@@ -10286,5 +10286,21 @@
     "to_status": "Available",
     "reason": "-",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-06-29T20:46:12.391530+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Marine Fauthoux",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental"
+  },
+  {
+    "ts": "2026-06-29T20:46:12.391530+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Anneli Maley",
+    "previous_status": "Out",
+    "previous_reason": "Player Coach's Decision - Developmental Player"
   }
 ]

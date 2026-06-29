@@ -166,7 +166,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-06-29T20:31:06.761180+00:00"
+    "last_seen_pending_ts": "2026-06-29T20:46:12.391530+00:00"
   },
   "ATL": {
     "team_full": "Atlanta Dream",
@@ -374,29 +374,15 @@
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-06-29T03:46:07.505281+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-28_11_45PM.pdf",
+    "last_submitted_ts": "2026-06-29T20:46:12.391530+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-29_04_45PM.pdf",
     "game_dates": [
-      "06/28/2026"
+      "06/30/2026"
     ],
     "matchups": [
-      "NYL@GSV"
+      "LVA@NYL"
     ],
     "players": [
-      {
-        "name_last_first": "Fauthoux, Marine",
-        "name": "Marine Fauthoux",
-        "status": "Out",
-        "reason": "Coach's Decision - Developmental",
-        "reason_category": "rest_coach"
-      },
-      {
-        "name_last_first": "Maley, Anneli",
-        "name": "Anneli Maley",
-        "status": "Out",
-        "reason": "Player Coach's Decision - Developmental Player",
-        "reason_category": "rest_coach"
-      },
       {
         "name_last_first": "Sabally, Satou",
         "name": "Satou Sabally",
@@ -404,8 +390,7 @@
         "reason": "Concussion Protocol",
         "reason_category": "procedural"
       }
-    ],
-    "last_seen_pending_ts": "2026-06-29T20:31:06.761180+00:00"
+    ]
   },
   "WAS": {
     "team_full": "Washington Mystics",
