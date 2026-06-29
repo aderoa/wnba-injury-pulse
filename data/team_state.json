@@ -135,38 +135,37 @@
   "LVA": {
     "team_full": "Las Vegas Aces",
     "submitted": true,
-    "last_submitted_ts": "2026-06-29T03:46:07.505281+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-28_11_45PM.pdf",
+    "last_submitted_ts": "2026-06-29T21:00:47.234705+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-29_05_00PM.pdf",
     "game_dates": [
-      "06/28/2026"
+      "06/30/2026"
     ],
     "matchups": [
-      "LVA@CHI"
+      "LVA@NYL"
     ],
     "players": [
       {
         "name_last_first": "Barker, Janiah",
         "name": "Janiah Barker",
         "status": "Out",
-        "reason": "Injury/Illness - Right Leg; Rightleg",
-        "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Carter, Chennedy",
-        "name": "Chennedy Carter",
-        "status": "Available",
-        "reason": "Injury/Illness - N/a; Illness",
+        "reason": "Injury/Illness - Right Leg; rightleg",
         "reason_category": "injury"
       },
       {
         "name_last_first": "Evans, Dana",
         "name": "Dana Evans",
         "status": "Out",
-        "reason": "Injury/Illness - Left Leg; Leftleg",
+        "reason": "Injury/Illness - Left Leg; leftleg",
+        "reason_category": "injury"
+      },
+      {
+        "name_last_first": "Wilson, A'ja",
+        "name": "A'ja Wilson",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Right Leg; rightleg",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-06-29T20:46:12.391530+00:00"
+    ]
   },
   "ATL": {
     "team_full": "Atlanta Dream",
@@ -374,8 +373,8 @@
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-06-29T20:46:12.391530+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-29_04_45PM.pdf",
+    "last_submitted_ts": "2026-06-29T21:00:47.234705+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-29_05_00PM.pdf",
     "game_dates": [
       "06/30/2026"
     ],

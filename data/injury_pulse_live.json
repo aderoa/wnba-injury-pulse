@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-06-29T20:46:12.391530+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-29_04_45PM.pdf",
-  "report_ts": "06/29/26 04:45 PM",
+  "polled_at_utc": "2026-06-29T21:00:47.234705+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-29_05_00PM.pdf",
+  "report_ts": "06/29/26 05:00 PM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -99,9 +99,9 @@
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
       "status": "Out",
-      "reason": "Injury/Illness - Left Leg; Leftleg",
+      "reason": "Injury/Illness - Left Leg; leftleg",
       "reason_category": "injury",
-      "last_updated": "2026-06-29T03:46:07.505281+00:00"
+      "last_updated": "2026-06-29T21:00:47.234705+00:00"
     },
     {
       "name": "Darianna Littlepage-Buggs",
@@ -171,9 +171,9 @@
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
       "status": "Out",
-      "reason": "Injury/Illness - Right Leg; Rightleg",
+      "reason": "Injury/Illness - Right Leg; rightleg",
       "reason_category": "injury",
-      "last_updated": "2026-06-29T03:46:07.505281+00:00"
+      "last_updated": "2026-06-29T21:00:47.234705+00:00"
     },
     {
       "name": "Jordan Horston",
@@ -344,7 +344,7 @@
       "status": "Out",
       "reason": "Concussion Protocol",
       "reason_category": "procedural",
-      "last_updated": "2026-06-29T20:46:12.391530+00:00"
+      "last_updated": "2026-06-29T21:00:47.234705+00:00"
     },
     {
       "name": "Taina Mair",
@@ -356,13 +356,13 @@
       "last_updated": "2026-06-28T03:45:29.228940+00:00"
     },
     {
-      "name": "Chennedy Carter",
+      "name": "A'ja Wilson",
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
-      "status": "Available",
-      "reason": "Injury/Illness - N/a; Illness",
+      "status": "Questionable",
+      "reason": "Injury/Illness - Right Leg; rightleg",
       "reason_category": "injury",
-      "last_updated": "2026-06-29T03:46:07.505281+00:00"
+      "last_updated": "2026-06-29T21:00:47.234705+00:00"
     },
     {
       "name": "Laeticia Amihere",
@@ -588,31 +588,31 @@
     {
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
-      "last_submitted_ts": "2026-06-29T03:46:07.505281+00:00",
-      "last_seen_pending_ts": "2026-06-29T20:46:12.391530+00:00",
+      "last_submitted_ts": "2026-06-29T21:00:47.234705+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "LVA@CHI"
+        "LVA@NYL"
       ],
       "players": [
         {
           "name_last_first": "Barker, Janiah",
           "name": "Janiah Barker",
           "status": "Out",
-          "reason": "Injury/Illness - Right Leg; Rightleg",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Carter, Chennedy",
-          "name": "Chennedy Carter",
-          "status": "Available",
-          "reason": "Injury/Illness - N/a; Illness",
+          "reason": "Injury/Illness - Right Leg; rightleg",
           "reason_category": "injury"
         },
         {
           "name_last_first": "Evans, Dana",
           "name": "Dana Evans",
           "status": "Out",
-          "reason": "Injury/Illness - Left Leg; Leftleg",
+          "reason": "Injury/Illness - Left Leg; leftleg",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Wilson, A'ja",
+          "name": "A'ja Wilson",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Leg; rightleg",
           "reason_category": "injury"
         }
       ]
@@ -659,7 +659,7 @@
     {
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
-      "last_submitted_ts": "2026-06-29T20:46:12.391530+00:00",
+      "last_submitted_ts": "2026-06-29T21:00:47.234705+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "LVA@NYL"
@@ -818,6 +818,43 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-06-29T21:00:47.234705+00:00",
+      "type": "reason_change",
+      "team_abbr": "LVA",
+      "player": "Dana Evans",
+      "status": "Out",
+      "from_reason": "Injury/Illness - Left Leg; Leftleg",
+      "to_reason": "Injury/Illness - Left Leg; leftleg",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-06-29T21:00:47.234705+00:00",
+      "type": "reason_change",
+      "team_abbr": "LVA",
+      "player": "Janiah Barker",
+      "status": "Out",
+      "from_reason": "Injury/Illness - Right Leg; Rightleg",
+      "to_reason": "Injury/Illness - Right Leg; rightleg",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-06-29T21:00:47.234705+00:00",
+      "type": "cleared",
+      "team_abbr": "LVA",
+      "player": "Chennedy Carter",
+      "previous_status": "Available",
+      "previous_reason": "Injury/Illness - N/a; Illness"
+    },
+    {
+      "ts": "2026-06-29T21:00:47.234705+00:00",
+      "type": "added",
+      "team_abbr": "LVA",
+      "player": "A'ja Wilson",
+      "status": "Questionable",
+      "reason": "Injury/Illness - Right Leg; rightleg",
+      "reason_category": "injury"
+    },
     {
       "ts": "2026-06-29T20:46:12.391530+00:00",
       "type": "cleared",
@@ -3026,45 +3063,6 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach"
-    },
-    {
-      "ts": "2026-06-18T00:45:37.301180+00:00",
-      "type": "added",
-      "team_abbr": "MIN",
-      "player": "Liatu King",
-      "status": "Out",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach"
-    },
-    {
-      "ts": "2026-06-18T00:45:37.301180+00:00",
-      "type": "status_change",
-      "team_abbr": "LVA",
-      "player": "Jewell Loyd",
-      "from_status": "Questionable",
-      "to_status": "Available",
-      "reason": "Injury/Illness - N/a; Illness",
-      "reason_category": "injury"
-    },
-    {
-      "ts": "2026-06-18T00:30:40.648600+00:00",
-      "type": "status_change",
-      "team_abbr": "LAS",
-      "player": "Kelsey Plum",
-      "from_status": "Questionable",
-      "to_status": "Out",
-      "reason": "Injury/Illness - Left Lower Leg; L Lower Leg",
-      "reason_category": "injury"
-    },
-    {
-      "ts": "2026-06-17T23:15:42.575729+00:00",
-      "type": "reason_change",
-      "team_abbr": "NYL",
-      "player": "Betnijah Laney-Hamilton",
-      "status": "Out",
-      "from_reason": "Injury/Illness - Left Knee; Management",
-      "to_reason": "Player Injury/Illness - Left Knee;",
-      "reason_category": "injury"
     }
   ]
 }
