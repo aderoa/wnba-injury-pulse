@@ -1,9 +1,18 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-06-30T13:46:08.491940+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-30_09_45AM.pdf",
-  "report_ts": "06/30/26 09:45 AM",
+  "polled_at_utc": "2026-06-30T14:00:29.723313+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-30_10_00AM.pdf",
+  "report_ts": "06/30/26 10:00 AM",
   "all_players": [
+    {
+      "name": "A'ja Wilson",
+      "team_abbr": "LVA",
+      "team_full": "Las Vegas Aces",
+      "status": "Out",
+      "reason": "Injury/Illness - Right Leg; rightleg",
+      "reason_category": "injury",
+      "last_updated": "2026-06-30T14:00:29.723313+00:00"
+    },
     {
       "name": "Aaliyah Nye",
       "team_abbr": "ATL",
@@ -101,7 +110,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; leftleg",
       "reason_category": "injury",
-      "last_updated": "2026-06-30T13:46:08.491940+00:00"
+      "last_updated": "2026-06-30T14:00:29.723313+00:00"
     },
     {
       "name": "Darianna Littlepage-Buggs",
@@ -173,7 +182,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Leg; rightleg",
       "reason_category": "injury",
-      "last_updated": "2026-06-30T13:46:08.491940+00:00"
+      "last_updated": "2026-06-30T14:00:29.723313+00:00"
     },
     {
       "name": "Jordan Horston",
@@ -344,7 +353,7 @@
       "status": "Out",
       "reason": "Concussion Protocol",
       "reason_category": "procedural",
-      "last_updated": "2026-06-30T13:46:08.491940+00:00"
+      "last_updated": "2026-06-30T14:00:29.723313+00:00"
     },
     {
       "name": "Taina Mair",
@@ -354,15 +363,6 @@
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
       "last_updated": "2026-06-28T03:45:29.228940+00:00"
-    },
-    {
-      "name": "A'ja Wilson",
-      "team_abbr": "LVA",
-      "team_full": "Las Vegas Aces",
-      "status": "Questionable",
-      "reason": "Injury/Illness - Right Leg; rightleg",
-      "reason_category": "injury",
-      "last_updated": "2026-06-30T13:46:08.491940+00:00"
     },
     {
       "name": "Laeticia Amihere",
@@ -588,7 +588,7 @@
     {
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
-      "last_submitted_ts": "2026-06-30T13:46:08.491940+00:00",
+      "last_submitted_ts": "2026-06-30T14:00:29.723313+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "LVA@NYL"
@@ -611,7 +611,7 @@
         {
           "name_last_first": "Wilson, A'ja",
           "name": "A'ja Wilson",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Right Leg; rightleg",
           "reason_category": "injury"
         }
@@ -659,7 +659,7 @@
     {
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
-      "last_submitted_ts": "2026-06-30T13:46:08.491940+00:00",
+      "last_submitted_ts": "2026-06-30T14:00:29.723313+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "LVA@NYL"
@@ -818,6 +818,16 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-06-30T14:00:29.723313+00:00",
+      "type": "status_change",
+      "team_abbr": "LVA",
+      "player": "A'ja Wilson",
+      "from_status": "Questionable",
+      "to_status": "Out",
+      "reason": "Injury/Illness - Right Leg; rightleg",
+      "reason_category": "injury"
+    },
     {
       "ts": "2026-06-29T21:00:47.234705+00:00",
       "type": "reason_change",
@@ -3053,15 +3063,6 @@
       "player": "Marta Suarez",
       "status": "Out",
       "reason": "Coach's Decision - Developmental",
-      "reason_category": "rest_coach"
-    },
-    {
-      "ts": "2026-06-18T00:45:37.301180+00:00",
-      "type": "added",
-      "team_abbr": "LAS",
-      "player": "Laura Ziegler",
-      "status": "Out",
-      "reason": "Coach's Decision",
       "reason_category": "rest_coach"
     }
   ]
