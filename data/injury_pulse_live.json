@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-06-30T05:46:11.142735+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-30_01_45AM.pdf",
-  "report_ts": "06/30/26 01:45 AM",
+  "polled_at_utc": "2026-06-30T06:01:08.095564+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-30_02_00AM.pdf",
+  "report_ts": "06/30/26 02:00 AM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -101,7 +101,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; leftleg",
       "reason_category": "injury",
-      "last_updated": "2026-06-30T05:46:11.142735+00:00"
+      "last_updated": "2026-06-30T06:01:08.095564+00:00"
     },
     {
       "name": "Darianna Littlepage-Buggs",
@@ -173,7 +173,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Leg; rightleg",
       "reason_category": "injury",
-      "last_updated": "2026-06-30T05:46:11.142735+00:00"
+      "last_updated": "2026-06-30T06:01:08.095564+00:00"
     },
     {
       "name": "Jordan Horston",
@@ -344,7 +344,7 @@
       "status": "Out",
       "reason": "Concussion Protocol",
       "reason_category": "procedural",
-      "last_updated": "2026-06-30T05:46:11.142735+00:00"
+      "last_updated": "2026-06-30T06:01:08.095564+00:00"
     },
     {
       "name": "Taina Mair",
@@ -362,7 +362,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Right Leg; rightleg",
       "reason_category": "injury",
-      "last_updated": "2026-06-30T05:46:11.142735+00:00"
+      "last_updated": "2026-06-30T06:01:08.095564+00:00"
     },
     {
       "name": "Laeticia Amihere",
@@ -588,7 +588,7 @@
     {
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
-      "last_submitted_ts": "2026-06-30T05:46:11.142735+00:00",
+      "last_submitted_ts": "2026-06-30T06:01:08.095564+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "LVA@NYL"
@@ -659,7 +659,7 @@
     {
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
-      "last_submitted_ts": "2026-06-30T05:46:11.142735+00:00",
+      "last_submitted_ts": "2026-06-30T06:01:08.095564+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "LVA@NYL"
