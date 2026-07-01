@@ -1,58 +1,64 @@
 {
-  "report_ts": "06/30/26 11:45 PM",
+  "report_ts": "07/01/26 12:00 AM",
   "page_count": 1,
-  "raw_line_count": 4,
+  "raw_line_count": 6,
   "teams": [
     {
-      "team_full": "Las Vegas Aces",
-      "team_abbr": "LVA",
-      "game_date": "06/30/2026",
-      "game_time": "07:00(ET)",
-      "matchup": "LVA@NYL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Barker, Janiah",
-          "name": "Janiah Barker",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Leg; rightleg",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Evans, Dana",
-          "name": "Dana Evans",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Leg; leftleg",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Wilson, A'ja",
-          "name": "A'ja Wilson",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Leg; rightleg",
-          "reason_category": "injury"
-        }
-      ]
+      "team_full": "Atlanta Dream",
+      "team_abbr": "ATL",
+      "game_date": "07/02/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "ATL@WAS",
+      "submitted": false,
+      "players": []
     },
     {
-      "team_full": "New York Liberty",
-      "team_abbr": "NYL",
-      "game_date": "06/30/2026",
-      "game_time": "07:00(ET)",
-      "matchup": "LVA@NYL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Sabally, Satou",
-          "name": "Satou Sabally",
-          "status": "Out",
-          "reason": "Concussion Protocol",
-          "reason_category": "procedural"
-        }
-      ]
+      "team_full": "Washington Mystics",
+      "team_abbr": "WAS",
+      "game_date": "07/02/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "ATL@WAS",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Dallas Wings",
+      "team_abbr": "DAL",
+      "game_date": "07/02/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "DAL@CON",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Connecticut Sun",
+      "team_abbr": "CON",
+      "game_date": "07/02/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "DAL@CON",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Seattle Storm",
+      "team_abbr": "SEA",
+      "game_date": "07/02/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "SEA@PHX",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Phoenix Mercury",
+      "team_abbr": "PHX",
+      "game_date": "07/02/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "SEA@PHX",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-30_11_45PM.pdf",
-  "fetched_slot": "2026-06-30T23:45:00-04:00",
-  "polled_at_utc": "2026-07-01T03:45:27.526914+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-01_12_00AM.pdf",
+  "fetched_slot": "2026-07-01T00:00:00-04:00",
+  "polled_at_utc": "2026-07-01T04:00:28.702332+00:00"
 }
