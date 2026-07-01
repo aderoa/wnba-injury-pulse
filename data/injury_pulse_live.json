@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-07-01T21:45:28.752508+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-01_05_45PM.pdf",
-  "report_ts": "07/01/26 05:45 PM",
+  "polled_at_utc": "2026-07-01T22:00:27.388224+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-01_06_00PM.pdf",
+  "report_ts": "07/01/26 06:00 PM",
   "all_players": [
     {
       "name": "A'ja Wilson",
@@ -20,7 +20,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-07-01T21:45:28.752508+00:00"
+      "last_updated": "2026-07-01T22:00:27.388224+00:00"
     },
     {
       "name": "Alyssa Thomas",
@@ -56,7 +56,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-07-01T21:45:28.752508+00:00"
+      "last_updated": "2026-07-01T22:00:27.388224+00:00"
     },
     {
       "name": "Brittney Sykes",
@@ -326,7 +326,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - N/a; concussion protocol",
       "reason_category": "injury",
-      "last_updated": "2026-07-01T21:45:28.752508+00:00"
+      "last_updated": "2026-07-01T22:00:27.388224+00:00"
     },
     {
       "name": "Georgia Amoore",
@@ -335,7 +335,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Right Knee; Soreness",
       "reason_category": "injury",
-      "last_updated": "2026-07-01T21:45:28.752508+00:00"
+      "last_updated": "2026-07-01T22:00:27.388224+00:00"
     },
     {
       "name": "Sonia Citron",
@@ -344,7 +344,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Right Knee; Soreness",
       "reason_category": "injury",
-      "last_updated": "2026-07-01T21:45:28.752508+00:00"
+      "last_updated": "2026-07-01T22:00:27.388224+00:00"
     },
     {
       "name": "Odyssey Sims",
@@ -353,7 +353,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Left Ankle; leftankle",
       "reason_category": "injury",
-      "last_updated": "2026-07-01T21:45:28.752508+00:00"
+      "last_updated": "2026-07-01T22:00:27.388224+00:00"
     },
     {
       "name": "Laeticia Amihere",
@@ -369,7 +369,7 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-07-01T21:45:28.752508+00:00",
+      "last_submitted_ts": "2026-07-01T22:00:27.388224+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "ATL@WAS"
@@ -451,7 +451,7 @@
     {
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
-      "last_submitted_ts": "2026-07-01T21:45:28.752508+00:00",
+      "last_submitted_ts": "2026-07-01T22:00:27.388224+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "DAL@CON"
@@ -680,7 +680,7 @@
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
       "last_submitted_ts": "2026-06-28T03:45:29.228940+00:00",
-      "last_seen_pending_ts": "2026-07-01T21:45:28.752508+00:00",
+      "last_seen_pending_ts": "2026-07-01T22:00:27.388224+00:00",
       "matchups": [
         "PHX@TOR"
       ],
@@ -747,7 +747,7 @@
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
       "last_submitted_ts": "2026-06-28T03:45:29.228940+00:00",
-      "last_seen_pending_ts": "2026-07-01T21:45:28.752508+00:00",
+      "last_seen_pending_ts": "2026-07-01T22:00:27.388224+00:00",
       "matchups": [
         "ATL@SEA"
       ],
@@ -778,7 +778,7 @@
     {
       "team_abbr": "WAS",
       "team_full": "Washington Mystics",
-      "last_submitted_ts": "2026-07-01T21:45:28.752508+00:00",
+      "last_submitted_ts": "2026-07-01T22:00:27.388224+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "ATL@WAS"
