@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-07-01T23:44:26.011386+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-01_07_30PM.pdf",
-  "report_ts": "07/01/26 07:30 PM",
+  "polled_at_utc": "2026-07-01T23:45:28.345991+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-01_07_45PM.pdf",
+  "report_ts": "07/01/26 07:45 PM",
   "all_players": [
     {
       "name": "A'ja Wilson",
@@ -20,7 +20,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-07-01T23:44:26.011386+00:00"
+      "last_updated": "2026-07-01T23:45:28.345991+00:00"
     },
     {
       "name": "Alyssa Thomas",
@@ -56,7 +56,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-07-01T23:44:26.011386+00:00"
+      "last_updated": "2026-07-01T23:45:28.345991+00:00"
     },
     {
       "name": "Brittney Sykes",
@@ -131,15 +131,6 @@
       "last_updated": "2026-06-29T03:46:07.505281+00:00"
     },
     {
-      "name": "Ezi Magbegor",
-      "team_abbr": "SEA",
-      "team_full": "Seattle Storm",
-      "status": "Out",
-      "reason": "Injury/Illness - Right Foot; Injury",
-      "reason_category": "injury",
-      "last_updated": "2026-06-28T03:45:29.228940+00:00"
-    },
-    {
       "name": "Hailey VanLith",
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
@@ -156,15 +147,6 @@
       "reason": "Injury/Illness - Right Leg; rightleg",
       "reason_category": "injury",
       "last_updated": "2026-07-01T03:45:27.526914+00:00"
-    },
-    {
-      "name": "Jordan Horston",
-      "team_abbr": "SEA",
-      "team_full": "Seattle Storm",
-      "status": "Out",
-      "reason": "Injury/Illness - Right Foot; Injury",
-      "reason_category": "injury",
-      "last_updated": "2026-06-28T03:45:29.228940+00:00"
     },
     {
       "name": "Justine Pissott",
@@ -317,7 +299,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-06-28T03:45:29.228940+00:00"
+      "last_updated": "2026-07-01T23:45:28.345991+00:00"
     },
     {
       "name": "Alanna Smith",
@@ -326,7 +308,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - N/a; concussion protocol",
       "reason_category": "injury",
-      "last_updated": "2026-07-01T23:44:26.011386+00:00"
+      "last_updated": "2026-07-01T23:45:28.345991+00:00"
     },
     {
       "name": "Georgia Amoore",
@@ -335,7 +317,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Right Knee; Soreness",
       "reason_category": "injury",
-      "last_updated": "2026-07-01T23:44:26.011386+00:00"
+      "last_updated": "2026-07-01T23:45:28.345991+00:00"
     },
     {
       "name": "Sonia Citron",
@@ -344,7 +326,16 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Right Knee; Soreness",
       "reason_category": "injury",
-      "last_updated": "2026-07-01T23:44:26.011386+00:00"
+      "last_updated": "2026-07-01T23:45:28.345991+00:00"
+    },
+    {
+      "name": "Ezi Magbegor",
+      "team_abbr": "SEA",
+      "team_full": "Seattle Storm",
+      "status": "Probable",
+      "reason": "Injury/Illness - Right Foot; Injury",
+      "reason_category": "injury",
+      "last_updated": "2026-07-01T23:45:28.345991+00:00"
     },
     {
       "name": "Odyssey Sims",
@@ -353,7 +344,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Left Ankle; leftankle",
       "reason_category": "injury",
-      "last_updated": "2026-07-01T23:44:26.011386+00:00"
+      "last_updated": "2026-07-01T23:45:28.345991+00:00"
     },
     {
       "name": "Laeticia Amihere",
@@ -369,7 +360,7 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-07-01T23:44:26.011386+00:00",
+      "last_submitted_ts": "2026-07-01T23:45:28.345991+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "ATL@WAS"
@@ -451,7 +442,7 @@
     {
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
-      "last_submitted_ts": "2026-07-01T23:44:26.011386+00:00",
+      "last_submitted_ts": "2026-07-01T23:45:28.345991+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "DAL@CON"
@@ -680,7 +671,7 @@
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
       "last_submitted_ts": "2026-06-28T03:45:29.228940+00:00",
-      "last_seen_pending_ts": "2026-07-01T23:44:26.011386+00:00",
+      "last_seen_pending_ts": "2026-07-01T23:45:28.345991+00:00",
       "matchups": [
         "PHX@TOR"
       ],
@@ -746,23 +737,16 @@
     {
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
-      "last_submitted_ts": "2026-06-28T03:45:29.228940+00:00",
-      "last_seen_pending_ts": "2026-07-01T23:44:26.011386+00:00",
+      "last_submitted_ts": "2026-07-01T23:45:28.345991+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "ATL@SEA"
+        "SEA@PHX"
       ],
       "players": [
         {
-          "name_last_first": "Horston, Jordan",
-          "name": "Jordan Horston",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Foot; Injury",
-          "reason_category": "injury"
-        },
-        {
           "name_last_first": "Magbegor, Ezi",
           "name": "Ezi Magbegor",
-          "status": "Out",
+          "status": "Probable",
           "reason": "Injury/Illness - Right Foot; Injury",
           "reason_category": "injury"
         },
@@ -778,7 +762,7 @@
     {
       "team_abbr": "WAS",
       "team_full": "Washington Mystics",
-      "last_submitted_ts": "2026-07-01T23:44:26.011386+00:00",
+      "last_submitted_ts": "2026-07-01T23:45:28.345991+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "ATL@WAS"
@@ -802,6 +786,24 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-07-01T23:45:28.345991+00:00",
+      "type": "status_change",
+      "team_abbr": "SEA",
+      "player": "Ezi Magbegor",
+      "from_status": "Out",
+      "to_status": "Probable",
+      "reason": "Injury/Illness - Right Foot; Injury",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-07-01T23:45:28.345991+00:00",
+      "type": "cleared",
+      "team_abbr": "SEA",
+      "player": "Jordan Horston",
+      "previous_status": "Out",
+      "previous_reason": "Injury/Illness - Right Foot; Injury"
+    },
     {
       "ts": "2026-07-01T21:00:25.880080+00:00",
       "type": "cleared",
@@ -3027,22 +3029,6 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach"
-    },
-    {
-      "ts": "2026-06-18T01:30:47.721717+00:00",
-      "type": "cleared",
-      "team_abbr": "GSV",
-      "player": "Nyara Sabally",
-      "previous_status": "Out",
-      "previous_reason": "Injury/Illness - Right Hamstring; Injury"
-    },
-    {
-      "ts": "2026-06-18T01:30:47.721717+00:00",
-      "type": "cleared",
-      "team_abbr": "GSV",
-      "player": "Kiki TorontoTempo Rice",
-      "previous_status": "Out",
-      "previous_reason": "Injury/Illness - Left Ankle; Injury"
     }
   ]
 }
