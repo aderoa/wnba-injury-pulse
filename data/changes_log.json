@@ -10349,5 +10349,31 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Right Leg; rightleg",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-01T20:30:26.289939+00:00",
+    "type": "added",
+    "team_abbr": "WAS",
+    "player": "Georgia Amoore",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Right Knee; Soreness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-01T20:30:26.289939+00:00",
+    "type": "added",
+    "team_abbr": "WAS",
+    "player": "Sonia Citron",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Right Knee; Soreness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-01T20:30:26.289939+00:00",
+    "type": "cleared",
+    "team_abbr": "WAS",
+    "player": "Darianna Littlepage-Buggs",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]
