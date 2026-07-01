@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-07-01T14:00:31.494887+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-01_10_00AM.pdf",
-  "report_ts": "07/01/26 10:00 AM",
+  "polled_at_utc": "2026-07-01T14:15:27.704984+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-01_10_15AM.pdf",
+  "report_ts": "07/01/26 10:15 AM",
   "all_players": [
     {
       "name": "A'ja Wilson",
@@ -379,7 +379,7 @@
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
       "last_submitted_ts": "2026-06-28T03:45:29.228940+00:00",
-      "last_seen_pending_ts": "2026-07-01T14:00:31.494887+00:00",
+      "last_seen_pending_ts": "2026-07-01T14:15:27.704984+00:00",
       "matchups": [
         "ATL@SEA"
       ],
@@ -436,7 +436,7 @@
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
       "last_submitted_ts": "2026-06-27T03:45:29.102938+00:00",
-      "last_seen_pending_ts": "2026-07-01T14:00:31.494887+00:00",
+      "last_seen_pending_ts": "2026-07-01T14:15:27.704984+00:00",
       "matchups": [
         "WAS@CON"
       ],
@@ -468,7 +468,7 @@
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
       "last_submitted_ts": "2026-06-29T03:46:07.505281+00:00",
-      "last_seen_pending_ts": "2026-07-01T14:00:31.494887+00:00",
+      "last_seen_pending_ts": "2026-07-01T14:15:27.704984+00:00",
       "matchups": [
         "MIN@DAL"
       ],
@@ -703,7 +703,7 @@
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
       "last_submitted_ts": "2026-06-28T03:45:29.228940+00:00",
-      "last_seen_pending_ts": "2026-07-01T14:00:31.494887+00:00",
+      "last_seen_pending_ts": "2026-07-01T14:15:27.704984+00:00",
       "matchups": [
         "PHX@TOR"
       ],
@@ -770,7 +770,7 @@
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
       "last_submitted_ts": "2026-06-28T03:45:29.228940+00:00",
-      "last_seen_pending_ts": "2026-07-01T14:00:31.494887+00:00",
+      "last_seen_pending_ts": "2026-07-01T14:15:27.704984+00:00",
       "matchups": [
         "ATL@SEA"
       ],
@@ -802,7 +802,7 @@
       "team_abbr": "WAS",
       "team_full": "Washington Mystics",
       "last_submitted_ts": "2026-06-25T03:45:30.356266+00:00",
-      "last_seen_pending_ts": "2026-07-01T14:00:31.494887+00:00",
+      "last_seen_pending_ts": "2026-07-01T14:15:27.704984+00:00",
       "matchups": [
         "MIN@WAS"
       ],
