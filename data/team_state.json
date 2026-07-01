@@ -2,8 +2,8 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-07-01T20:45:26.982504+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-01_04_45PM.pdf",
+    "last_submitted_ts": "2026-07-01T21:00:25.880080+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-01_05_00PM.pdf",
     "game_dates": [
       "07/02/2026"
     ],
@@ -124,7 +124,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-07-01T20:45:26.982504+00:00"
+    "last_seen_pending_ts": "2026-07-01T21:00:25.880080+00:00"
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
@@ -164,22 +164,15 @@
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-06-28T03:45:29.228940+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-27_11_45PM.pdf",
+    "last_submitted_ts": "2026-07-01T21:00:25.880080+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-01_05_00PM.pdf",
     "game_dates": [
-      "06/27/2026"
+      "07/02/2026"
     ],
     "matchups": [
-      "ATL@SEA"
+      "ATL@WAS"
     ],
     "players": [
-      {
-        "name_last_first": "Hillmon, Naz",
-        "name": "Naz Hillmon",
-        "status": "Out",
-        "reason": "Rest",
-        "reason_category": "other"
-      },
       {
         "name_last_first": "Jones, Brionna",
         "name": "Brionna Jones",
@@ -194,8 +187,7 @@
         "reason": "Injury/Illness - Left Knee; N/A",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-07-01T20:45:26.982504+00:00"
+    ]
   },
   "MIN": {
     "team_full": "Minnesota Lynx",
@@ -329,7 +321,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-07-01T20:45:26.982504+00:00"
+    "last_seen_pending_ts": "2026-07-01T21:00:25.880080+00:00"
   },
   "CON": {
     "team_full": "Connecticut Sun",
@@ -391,8 +383,8 @@
   "WAS": {
     "team_full": "Washington Mystics",
     "submitted": true,
-    "last_submitted_ts": "2026-07-01T20:45:26.982504+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-01_04_45PM.pdf",
+    "last_submitted_ts": "2026-07-01T21:00:25.880080+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-01_05_00PM.pdf",
     "game_dates": [
       "07/02/2026"
     ],

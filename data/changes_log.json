@@ -10403,5 +10403,13 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - N/a; concussion protocol",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-01T21:00:25.880080+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Naz Hillmon",
+    "previous_status": "Out",
+    "previous_reason": "Rest"
   }
 ]
