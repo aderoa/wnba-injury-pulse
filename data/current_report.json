@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/01/26 04:30 PM",
+  "report_ts": "07/01/26 04:45 PM",
   "page_count": 1,
-  "raw_line_count": 7,
+  "raw_line_count": 9,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -42,17 +42,23 @@
       "game_date": "07/02/2026",
       "game_time": "08:00(ET)",
       "matchup": "DAL@CON",
-      "submitted": false,
-      "players": []
-    },
-    {
-      "team_full": "Connecticut Sun",
-      "team_abbr": "CON",
-      "game_date": "07/02/2026",
-      "game_time": "08:00(ET)",
-      "matchup": "DAL@CON",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Sims, Odyssey",
+          "name": "Odyssey Sims",
+          "status": "Probable",
+          "reason": "Injury/Illness - Left Ankle; leftankle",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Smith, Alanna",
+          "name": "Alanna Smith",
+          "status": "Questionable",
+          "reason": "Injury/Illness - N/a; concussion protocol",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Seattle Storm",
@@ -73,7 +79,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-01_04_30PM.pdf",
-  "fetched_slot": "2026-07-01T16:30:00-04:00",
-  "polled_at_utc": "2026-07-01T20:30:26.289939+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-01_04_45PM.pdf",
+  "fetched_slot": "2026-07-01T16:45:00-04:00",
+  "polled_at_utc": "2026-07-01T20:45:26.982504+00:00"
 }
