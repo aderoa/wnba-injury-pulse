@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/02/26 04:45 PM",
-  "page_count": 1,
-  "raw_line_count": 19,
+  "report_ts": "07/02/26 05:00 PM",
+  "page_count": 2,
+  "raw_line_count": 21,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -136,8 +136,30 @@
       "game_date": "07/03/2026",
       "game_time": "07:30(ET)",
       "matchup": "MIN@NYL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Cechova, Emma",
+          "name": "Emma Cechova",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; Right Knee",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Collier, Napheesa",
+          "name": "Napheesa Collier",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; Left Ankle",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Juhasz, Dorka",
+          "name": "Dorka Juhasz",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Foot; Right Foot",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "New York Liberty",
@@ -145,8 +167,16 @@
       "game_date": "07/03/2026",
       "game_time": "07:30(ET)",
       "matchup": "MIN@NYL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Sabally, Satou",
+          "name": "Satou Sabally",
+          "status": "Out",
+          "reason": "Concussion Protocol",
+          "reason_category": "procedural"
+        }
+      ]
     },
     {
       "team_full": "Chicago Sky",
@@ -175,7 +205,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-02_04_45PM.pdf",
-  "fetched_slot": "2026-07-02T16:45:00-04:00",
-  "polled_at_utc": "2026-07-02T20:45:26.572219+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-02_05_00PM.pdf",
+  "fetched_slot": "2026-07-02T17:00:00-04:00",
+  "polled_at_utc": "2026-07-02T21:00:28.392534+00:00"
 }
