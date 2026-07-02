@@ -2,8 +2,8 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-07-01T23:45:28.345991+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-01_07_45PM.pdf",
+    "last_submitted_ts": "2026-07-02T00:00:25.688032+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-01_08_00PM.pdf",
     "game_dates": [
       "07/02/2026"
     ],
@@ -58,22 +58,15 @@
   "PHX": {
     "team_full": "Phoenix Mercury",
     "submitted": true,
-    "last_submitted_ts": "2026-06-28T03:45:29.228940+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-27_11_45PM.pdf",
+    "last_submitted_ts": "2026-07-02T00:00:25.688032+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-01_08_00PM.pdf",
     "game_dates": [
-      "06/27/2026"
+      "07/02/2026"
     ],
     "matchups": [
-      "PHX@TOR"
+      "SEA@PHX"
     ],
     "players": [
-      {
-        "name_last_first": "AkoaMakani, Monique",
-        "name": "Monique AkoaMakani",
-        "status": "Out",
-        "reason": "Injury/Illness - Left Hamstring;-",
-        "reason_category": "injury"
-      },
       {
         "name_last_first": "Brochant, Noemie",
         "name": "Noemie Brochant",
@@ -89,42 +82,13 @@
         "reason_category": "injury"
       },
       {
-        "name_last_first": "Thomas, Alyssa",
-        "name": "Alyssa Thomas",
-        "status": "Out",
-        "reason": "League Suspension",
-        "reason_category": "other"
-      },
-      {
         "name_last_first": "Whitcomb, Sami",
         "name": "Sami Whitcomb",
         "status": "Out",
         "reason": "Injury/Illness - Left Knee; Arthroscopy",
         "reason_category": "injury"
-      },
-      {
-        "name_last_first": "TorontoTempo Mabrey, Marina",
-        "name": "Marina TorontoTempo Mabrey",
-        "status": "Out",
-        "reason": "Injury/Illness - Neck; Injury",
-        "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Rice, Kiki",
-        "name": "Kiki Rice",
-        "status": "Out",
-        "reason": "Injury/Illness - Left Ankle; Injury",
-        "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Sykes, Brittney",
-        "name": "Brittney Sykes",
-        "status": "Out",
-        "reason": "Injury/Illness - Left Foot; Injury",
-        "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-07-01T23:45:28.345991+00:00"
+    ]
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
@@ -164,8 +128,8 @@
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-07-01T23:45:28.345991+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-01_07_45PM.pdf",
+    "last_submitted_ts": "2026-07-02T00:00:25.688032+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-01_08_00PM.pdf",
     "game_dates": [
       "07/02/2026"
     ],
@@ -290,8 +254,8 @@
   "SEA": {
     "team_full": "Seattle Storm",
     "submitted": true,
-    "last_submitted_ts": "2026-07-01T23:45:28.345991+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-01_07_45PM.pdf",
+    "last_submitted_ts": "2026-07-02T00:00:25.688032+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-01_08_00PM.pdf",
     "game_dates": [
       "07/02/2026"
     ],
@@ -375,8 +339,8 @@
   "WAS": {
     "team_full": "Washington Mystics",
     "submitted": true,
-    "last_submitted_ts": "2026-07-01T23:45:28.345991+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-01_07_45PM.pdf",
+    "last_submitted_ts": "2026-07-02T00:00:25.688032+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-01_08_00PM.pdf",
     "game_dates": [
       "07/02/2026"
     ],

@@ -10429,5 +10429,45 @@
     "to_status": "Probable",
     "reason": "Injury/Illness - Right Foot; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-02T00:00:25.688032+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Monique AkoaMakani",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Hamstring;-"
+  },
+  {
+    "ts": "2026-07-02T00:00:25.688032+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Alyssa Thomas",
+    "previous_status": "Out",
+    "previous_reason": "League Suspension"
+  },
+  {
+    "ts": "2026-07-02T00:00:25.688032+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Marina TorontoTempo Mabrey",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Neck; Injury"
+  },
+  {
+    "ts": "2026-07-02T00:00:25.688032+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Kiki Rice",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Ankle; Injury"
+  },
+  {
+    "ts": "2026-07-02T00:00:25.688032+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Brittney Sykes",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Foot; Injury"
   }
 ]
