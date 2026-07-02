@@ -10543,5 +10543,33 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Right Knee; Soreness",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-02T23:00:28.137444+00:00",
+    "type": "status_change",
+    "team_abbr": "WAS",
+    "player": "Georgia Amoore",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Knee; Soreness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-02T23:00:28.137444+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Haley Jones",
+    "status": "Out",
+    "reason": "Coach's Decision - coach'sdecision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-02T23:00:28.137444+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Costanza Verona",
+    "status": "Out",
+    "reason": "Coach's Decision - coach'sdecision",
+    "reason_category": "rest_coach"
   }
 ]
