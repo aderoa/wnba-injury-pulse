@@ -2,8 +2,8 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-07-02T23:30:25.951914+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-02_07_30PM.pdf",
+    "last_submitted_ts": "2026-07-02T23:45:28.683814+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-02_07_45PM.pdf",
     "game_dates": [
       "07/02/2026"
     ],
@@ -72,8 +72,8 @@
   "PHX": {
     "team_full": "Phoenix Mercury",
     "submitted": true,
-    "last_submitted_ts": "2026-07-02T23:30:25.951914+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-02_07_30PM.pdf",
+    "last_submitted_ts": "2026-07-02T23:45:28.683814+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-02_07_45PM.pdf",
     "game_dates": [
       "07/02/2026"
     ],
@@ -107,44 +107,43 @@
   "LVA": {
     "team_full": "Las Vegas Aces",
     "submitted": true,
-    "last_submitted_ts": "2026-07-01T03:45:27.526914+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-30_11_45PM.pdf",
+    "last_submitted_ts": "2026-07-02T23:45:28.683814+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-02_07_45PM.pdf",
     "game_dates": [
-      "06/30/2026"
+      "07/03/2026"
     ],
     "matchups": [
-      "LVA@NYL"
+      "CHI@LVA"
     ],
     "players": [
       {
         "name_last_first": "Barker, Janiah",
         "name": "Janiah Barker",
         "status": "Out",
-        "reason": "Injury/Illness - Right Leg; rightleg",
+        "reason": "Injury/Illness - Right Leg; rightleg injury",
         "reason_category": "injury"
       },
       {
         "name_last_first": "Evans, Dana",
         "name": "Dana Evans",
         "status": "Out",
-        "reason": "Injury/Illness - Left Leg; leftleg",
+        "reason": "Injury/Illness - Left Leg; leftleginjury",
         "reason_category": "injury"
       },
       {
         "name_last_first": "Wilson, A'ja",
         "name": "A'ja Wilson",
-        "status": "Out",
-        "reason": "Injury/Illness - Right Leg; rightleg",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Right Leg; rightleg injury",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-07-02T23:30:25.951914+00:00"
+    ]
   },
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-07-02T23:30:25.951914+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-02_07_30PM.pdf",
+    "last_submitted_ts": "2026-07-02T23:45:28.683814+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-02_07_45PM.pdf",
     "game_dates": [
       "07/02/2026"
     ],
@@ -185,8 +184,8 @@
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-07-02T23:30:25.951914+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-02_07_30PM.pdf",
+    "last_submitted_ts": "2026-07-02T23:45:28.683814+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-02_07_45PM.pdf",
     "game_dates": [
       "07/03/2026"
     ],
@@ -220,8 +219,8 @@
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-07-02T23:30:25.951914+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-02_07_30PM.pdf",
+    "last_submitted_ts": "2026-07-02T23:45:28.683814+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-02_07_45PM.pdf",
     "game_dates": [
       "07/03/2026"
     ],
@@ -269,8 +268,8 @@
   "SEA": {
     "team_full": "Seattle Storm",
     "submitted": true,
-    "last_submitted_ts": "2026-07-02T23:30:25.951914+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-02_07_30PM.pdf",
+    "last_submitted_ts": "2026-07-02T23:45:28.683814+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-02_07_45PM.pdf",
     "game_dates": [
       "07/02/2026"
     ],
@@ -281,9 +280,9 @@
       {
         "name_last_first": "Magbegor, Ezi",
         "name": "Ezi Magbegor",
-        "status": "Probable",
-        "reason": "Injury/Illness - Right Foot; Injury",
-        "reason_category": "injury"
+        "status": "Available",
+        "reason": "-",
+        "reason_category": "other"
       },
       {
         "name_last_first": "Mair, Taina",
@@ -333,8 +332,8 @@
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-07-02T23:30:25.951914+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-02_07_30PM.pdf",
+    "last_submitted_ts": "2026-07-02T23:45:28.683814+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-02_07_45PM.pdf",
     "game_dates": [
       "07/03/2026"
     ],
@@ -354,8 +353,8 @@
   "WAS": {
     "team_full": "Washington Mystics",
     "submitted": true,
-    "last_submitted_ts": "2026-07-02T23:30:25.951914+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-02_07_30PM.pdf",
+    "last_submitted_ts": "2026-07-02T23:45:28.683814+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-02_07_45PM.pdf",
     "game_dates": [
       "07/02/2026"
     ],

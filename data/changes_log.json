@@ -10571,5 +10571,45 @@
     "status": "Out",
     "reason": "Coach's Decision - coach'sdecision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-02T23:45:28.683814+00:00",
+    "type": "status_change",
+    "team_abbr": "SEA",
+    "player": "Ezi Magbegor",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-07-02T23:45:28.683814+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "A'ja Wilson",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Right Leg; rightleg injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-02T23:45:28.683814+00:00",
+    "type": "reason_change",
+    "team_abbr": "LVA",
+    "player": "Dana Evans",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Leg; leftleg",
+    "to_reason": "Injury/Illness - Left Leg; leftleginjury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-02T23:45:28.683814+00:00",
+    "type": "reason_change",
+    "team_abbr": "LVA",
+    "player": "Janiah Barker",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Right Leg; rightleg",
+    "to_reason": "Injury/Illness - Right Leg; rightleg injury",
+    "reason_category": "injury"
   }
 ]
