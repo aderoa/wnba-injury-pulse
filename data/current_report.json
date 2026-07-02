@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/01/26 11:45 PM",
+  "report_ts": "07/02/26 12:00 AM",
   "page_count": 1,
-  "raw_line_count": 15,
+  "raw_line_count": 19,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -129,9 +129,45 @@
           "reason_category": "injury"
         }
       ]
+    },
+    {
+      "team_full": "Minnesota Lynx",
+      "team_abbr": "MIN",
+      "game_date": "07/03/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "MIN@NYL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "New York Liberty",
+      "team_abbr": "NYL",
+      "game_date": "07/03/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "MIN@NYL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Chicago Sky",
+      "team_abbr": "CHI",
+      "game_date": "07/03/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "CHI@LVA",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Las Vegas Aces",
+      "team_abbr": "LVA",
+      "game_date": "07/03/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "CHI@LVA",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-01_11_45PM.pdf",
-  "fetched_slot": "2026-07-01T23:45:00-04:00",
-  "polled_at_utc": "2026-07-02T03:45:26.039998+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-02_12_00AM.pdf",
+  "fetched_slot": "2026-07-02T00:00:00-04:00",
+  "polled_at_utc": "2026-07-02T04:00:27.548922+00:00"
 }
