@@ -4,6 +4,13 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-07-02 22:30 UTC
+
+- **Amy Okonkwo** (ATL) newly listed as **Out** — Coach's Decision
+- **Jaylyn Sherrod** (ATL) newly listed as **Out** — Coach's Decision
+- **Alanna Smith** (DAL): **Questionable** → **Available** — Injury/Illness - N/a; concussion protocol
+- **Odyssey Sims** (DAL): **Probable** → **Available** — Injury/Illness - Left Ankle; leftankle
+
 ## 2026-07-02 21:00 UTC
 
 - **Eliska Hamzova** (MIN) cleared (was Out)
