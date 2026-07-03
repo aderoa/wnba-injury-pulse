@@ -10640,5 +10640,15 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Right Leg; rightleg injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-03T20:45:43.261430+00:00",
+    "type": "status_change",
+    "team_abbr": "MIN",
+    "player": "Dorka Juhasz",
+    "from_status": "Doubtful",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Foot; Right Foot",
+    "reason_category": "injury"
   }
 ]
