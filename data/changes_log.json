@@ -10630,5 +10630,15 @@
     "to_status": "Doubtful",
     "reason": "Injury/Illness - Right Foot; Right Foot",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-03T20:30:44.481166+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "A'ja Wilson",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Leg; rightleg injury",
+    "reason_category": "injury"
   }
 ]
