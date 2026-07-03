@@ -10620,5 +10620,15 @@
     "status": "Out",
     "reason": "Coach's Decision - Developmental Player",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-03T17:15:43.501764+00:00",
+    "type": "status_change",
+    "team_abbr": "MIN",
+    "player": "Dorka Juhasz",
+    "from_status": "Questionable",
+    "to_status": "Doubtful",
+    "reason": "Injury/Illness - Right Foot; Right Foot",
+    "reason_category": "injury"
   }
 ]
