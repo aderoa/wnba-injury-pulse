@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/03/26 07:15 PM",
+  "report_ts": "07/03/26 07:30 PM",
   "page_count": 2,
-  "raw_line_count": 26,
+  "raw_line_count": 28,
   "teams": [
     {
       "team_full": "Minnesota Lynx",
@@ -161,8 +161,16 @@
       "game_date": "07/04/2026",
       "game_time": "09:00(ET)",
       "matchup": "PDX@SEA",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Samuelson, Karlie",
+          "name": "Karlie Samuelson",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Middle Finger; Injury",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Seattle Storm",
@@ -174,7 +182,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-03_07_15PM.pdf",
-  "fetched_slot": "2026-07-03T19:15:00-04:00",
-  "polled_at_utc": "2026-07-03T23:15:42.596081+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-03_07_30PM.pdf",
+  "fetched_slot": "2026-07-03T19:30:00-04:00",
+  "polled_at_utc": "2026-07-03T23:30:44.071201+00:00"
 }

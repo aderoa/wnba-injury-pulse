@@ -10684,5 +10684,13 @@
     "status": "Out",
     "reason": "Player Coach's Decision - Developmental Player",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-03T23:30:44.071201+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Sania Feagin",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]
