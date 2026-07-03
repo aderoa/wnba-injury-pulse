@@ -1,5 +1,5 @@
 {
-  "report_ts": "07/03/26 04:45 PM",
+  "report_ts": "07/03/26 05:00 PM",
   "page_count": 1,
   "raw_line_count": 20,
   "teams": [
@@ -100,22 +100,28 @@
       ]
     },
     {
-      "team_full": "Golden State Valkyries",
-      "team_abbr": "GSV",
-      "game_date": "07/04/2026",
-      "game_time": "01:00(ET)",
-      "matchup": "GSV@ATL",
-      "submitted": false,
-      "players": []
-    },
-    {
       "team_full": "Atlanta Dream",
       "team_abbr": "ATL",
       "game_date": "07/04/2026",
       "game_time": "01:00(ET)",
       "matchup": "GSV@ATL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Jones, Brionna",
+          "name": "Brionna Jones",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; N/A",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Nye, Aaliyah",
+          "name": "Aaliyah Nye",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; N/A",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Atlanta Dream",
@@ -154,7 +160,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-03_04_45PM.pdf",
-  "fetched_slot": "2026-07-03T16:45:00-04:00",
-  "polled_at_utc": "2026-07-03T20:45:43.261430+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-03_05_00PM.pdf",
+  "fetched_slot": "2026-07-03T17:00:00-04:00",
+  "polled_at_utc": "2026-07-03T21:00:43.924493+00:00"
 }
