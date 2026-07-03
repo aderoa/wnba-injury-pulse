@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/02/26 08:45 PM",
+  "report_ts": "07/02/26 09:00 PM",
   "page_count": 2,
-  "raw_line_count": 31,
+  "raw_line_count": 33,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -143,6 +143,13 @@
           "reason_category": "injury"
         },
         {
+          "name_last_first": "Ciezki, Shay",
+          "name": "Shay Ciezki",
+          "status": "Out",
+          "reason": "Coach's Decision - Developmental Player",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Mack, Natasha",
           "name": "Natasha Mack",
           "status": "Out",
@@ -255,7 +262,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-02_08_45PM.pdf",
-  "fetched_slot": "2026-07-02T20:45:00-04:00",
-  "polled_at_utc": "2026-07-03T00:45:45.459950+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-02_09_00PM.pdf",
+  "fetched_slot": "2026-07-02T21:00:00-04:00",
+  "polled_at_utc": "2026-07-03T01:00:47.612802+00:00"
 }

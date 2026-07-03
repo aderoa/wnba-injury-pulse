@@ -10611,5 +10611,14 @@
     "from_reason": "Injury/Illness - Right Leg; rightleg",
     "to_reason": "Injury/Illness - Right Leg; rightleg injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-03T01:00:47.612802+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Shay Ciezki",
+    "status": "Out",
+    "reason": "Coach's Decision - Developmental Player",
+    "reason_category": "rest_coach"
   }
 ]
