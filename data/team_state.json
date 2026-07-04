@@ -40,7 +40,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-07-04T16:06:28.844658+00:00"
+    "last_seen_pending_ts": "2026-07-04T16:15:28.247303+00:00"
   },
   "IND": {
     "team_full": "Indiana Fever",
@@ -69,7 +69,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-07-04T16:06:28.844658+00:00"
+    "last_seen_pending_ts": "2026-07-04T16:15:28.247303+00:00"
   },
   "PHX": {
     "team_full": "Phoenix Mercury",
@@ -147,13 +147,13 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-07-04T16:06:28.844658+00:00"
+    "last_seen_pending_ts": "2026-07-04T16:15:28.247303+00:00"
   },
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-07-04T16:06:28.844658+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-04_12_00PM.pdf",
+    "last_submitted_ts": "2026-07-04T16:15:28.247303+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-04_12_15PM.pdf",
     "game_dates": [
       "07/04/2026"
     ],
@@ -266,8 +266,8 @@
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-07-04T16:06:28.844658+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-04_12_00PM.pdf",
+    "last_submitted_ts": "2026-07-04T16:15:28.247303+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-04_12_15PM.pdf",
     "game_dates": [
       "07/04/2026"
     ],
@@ -287,8 +287,8 @@
   "SEA": {
     "team_full": "Seattle Storm",
     "submitted": true,
-    "last_submitted_ts": "2026-07-04T16:06:28.844658+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-04_12_00PM.pdf",
+    "last_submitted_ts": "2026-07-04T16:15:28.247303+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-04_12_15PM.pdf",
     "game_dates": [
       "07/04/2026"
     ],
@@ -407,22 +407,15 @@
   "GSV": {
     "team_full": "Golden State Valkyries",
     "submitted": true,
-    "last_submitted_ts": "2026-06-29T03:46:07.505281+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-06-28_11_45PM.pdf",
+    "last_submitted_ts": "2026-07-04T16:15:28.247303+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-04_12_15PM.pdf",
     "game_dates": [
-      "06/28/2026"
+      "07/04/2026"
     ],
     "matchups": [
-      "NYL@GSV"
+      "GSV@ATL"
     ],
     "players": [
-      {
-        "name_last_first": "Amihere, Laeticia",
-        "name": "Laeticia Amihere",
-        "status": "Available",
-        "reason": "-",
-        "reason_category": "other"
-      },
       {
         "name_last_first": "Prechtel, Ashten",
         "name": "Ashten Prechtel",
@@ -437,8 +430,7 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ],
-    "last_seen_pending_ts": "2026-07-03T20:45:43.261430+00:00"
+    ]
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",

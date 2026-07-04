@@ -10736,5 +10736,13 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-04T16:15:28.247303+00:00",
+    "type": "cleared",
+    "team_abbr": "GSV",
+    "player": "Laeticia Amihere",
+    "previous_status": "Available",
+    "previous_reason": "-"
   }
 ]
