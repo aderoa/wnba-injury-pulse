@@ -10744,5 +10744,32 @@
     "player": "Laeticia Amihere",
     "previous_status": "Available",
     "previous_reason": "-"
+  },
+  {
+    "ts": "2026-07-04T21:00:32.584180+00:00",
+    "type": "added",
+    "team_abbr": "SEA",
+    "player": "Temi TorontoTempo Fagbenle",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Left Eye; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-04T21:00:32.584180+00:00",
+    "type": "added",
+    "team_abbr": "SEA",
+    "player": "Kiki Rice",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Ankle; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-04T21:00:32.584180+00:00",
+    "type": "added",
+    "team_abbr": "SEA",
+    "player": "Brittney Sykes",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Foot; Injury",
+    "reason_category": "injury"
   }
 ]
