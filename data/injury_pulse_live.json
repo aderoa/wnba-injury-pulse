@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-07-04T15:45:28.790993+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-04_11_45AM.pdf",
-  "report_ts": "07/04/26 11:45 AM",
+  "polled_at_utc": "2026-07-04T16:00:29.874808+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-04_12_00PM.pdf",
+  "report_ts": "07/04/26 12:00 PM",
   "all_players": [
     {
       "name": "A'ja Wilson",
@@ -20,7 +20,16 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-07-04T15:45:28.790993+00:00"
+      "last_updated": "2026-07-04T16:00:29.874808+00:00"
+    },
+    {
+      "name": "Amy Okonkwo",
+      "team_abbr": "ATL",
+      "team_full": "Atlanta Dream",
+      "status": "Out",
+      "reason": "Coach's Decision",
+      "reason_category": "rest_coach",
+      "last_updated": "2026-07-04T16:00:29.874808+00:00"
     },
     {
       "name": "Aneesah Morrow",
@@ -56,7 +65,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-07-04T15:45:28.790993+00:00"
+      "last_updated": "2026-07-04T16:00:29.874808+00:00"
     },
     {
       "name": "Caitlin Clark",
@@ -158,6 +167,15 @@
       "last_updated": "2026-07-04T03:45:42.467702+00:00"
     },
     {
+      "name": "Jaylyn Sherrod",
+      "team_abbr": "ATL",
+      "team_full": "Atlanta Dream",
+      "status": "Out",
+      "reason": "Coach's Decision",
+      "reason_category": "rest_coach",
+      "last_updated": "2026-07-04T16:00:29.874808+00:00"
+    },
+    {
       "name": "Justine Pissott",
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
@@ -173,7 +191,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Middle Finger; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-07-04T15:45:28.790993+00:00"
+      "last_updated": "2026-07-04T16:00:29.874808+00:00"
     },
     {
       "name": "Kate Martin",
@@ -299,7 +317,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-07-04T15:45:28.790993+00:00"
+      "last_updated": "2026-07-04T16:00:29.874808+00:00"
     },
     {
       "name": "Alanna Smith",
@@ -342,7 +360,7 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-07-04T15:45:28.790993+00:00",
+      "last_submitted_ts": "2026-07-04T16:00:29.874808+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "GSV@ATL",
@@ -363,6 +381,20 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Knee; N/A",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Okonkwo, Amy",
+          "name": "Amy Okonkwo",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Sherrod, Jaylyn",
+          "name": "Jaylyn Sherrod",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -434,7 +466,7 @@
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
       "last_submitted_ts": "2026-07-03T03:45:46.046651+00:00",
-      "last_seen_pending_ts": "2026-07-04T15:45:28.790993+00:00",
+      "last_seen_pending_ts": "2026-07-04T16:00:29.874808+00:00",
       "matchups": [
         "DAL@CON"
       ],
@@ -505,7 +537,7 @@
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
       "last_submitted_ts": "2026-06-28T03:45:29.228940+00:00",
-      "last_seen_pending_ts": "2026-07-04T15:45:28.790993+00:00",
+      "last_seen_pending_ts": "2026-07-04T16:00:29.874808+00:00",
       "matchups": [
         "LAS@IND"
       ],
@@ -562,7 +594,7 @@
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
       "last_submitted_ts": "2026-07-04T03:45:42.467702+00:00",
-      "last_seen_pending_ts": "2026-07-04T15:45:28.790993+00:00",
+      "last_seen_pending_ts": "2026-07-04T16:00:29.874808+00:00",
       "matchups": [
         "CHI@LVA"
       ],
@@ -657,7 +689,7 @@
     {
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
-      "last_submitted_ts": "2026-07-04T15:45:28.790993+00:00",
+      "last_submitted_ts": "2026-07-04T16:00:29.874808+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "PDX@SEA"
@@ -714,7 +746,7 @@
     {
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
-      "last_submitted_ts": "2026-07-04T15:45:28.790993+00:00",
+      "last_submitted_ts": "2026-07-04T16:00:29.874808+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "PDX@SEA"
@@ -756,6 +788,24 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-07-04T16:00:29.874808+00:00",
+      "type": "added",
+      "team_abbr": "ATL",
+      "player": "Jaylyn Sherrod",
+      "status": "Out",
+      "reason": "Coach's Decision",
+      "reason_category": "rest_coach"
+    },
+    {
+      "ts": "2026-07-04T16:00:29.874808+00:00",
+      "type": "added",
+      "team_abbr": "ATL",
+      "player": "Amy Okonkwo",
+      "status": "Out",
+      "reason": "Coach's Decision",
+      "reason_category": "rest_coach"
+    },
     {
       "ts": "2026-07-04T00:45:44.641570+00:00",
       "type": "added",
@@ -2988,26 +3038,6 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Left Hamstring;-",
       "reason_category": "injury"
-    },
-    {
-      "ts": "2026-06-20T00:00:29.779353+00:00",
-      "type": "status_change",
-      "team_abbr": "SEA",
-      "player": "Taina Mair",
-      "from_status": "Available",
-      "to_status": "Out",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach"
-    },
-    {
-      "ts": "2026-06-19T22:45:29.246801+00:00",
-      "type": "reason_change",
-      "team_abbr": "NYL",
-      "player": "Marine Fauthoux",
-      "status": "Out",
-      "from_reason": "Soreness Coach's Decision - Developmental",
-      "to_reason": "Coach's Decision - Developmental",
-      "reason_category": "rest_coach"
     }
   ]
 }

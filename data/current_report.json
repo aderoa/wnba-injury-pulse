@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/04/26 11:45 AM",
+  "report_ts": "07/04/26 12:00 PM",
   "page_count": 1,
-  "raw_line_count": 14,
+  "raw_line_count": 16,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -24,6 +24,20 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Knee; N/A",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Okonkwo, Amy",
+          "name": "Amy Okonkwo",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Sherrod, Jaylyn",
+          "name": "Jaylyn Sherrod",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -107,7 +121,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-04_11_45AM.pdf",
-  "fetched_slot": "2026-07-04T11:45:00-04:00",
-  "polled_at_utc": "2026-07-04T15:45:28.790993+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-04_12_00PM.pdf",
+  "fetched_slot": "2026-07-04T12:00:00-04:00",
+  "polled_at_utc": "2026-07-04T16:00:29.874808+00:00"
 }
