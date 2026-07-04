@@ -10700,5 +10700,23 @@
     "player": "Ezi Magbegor",
     "previous_status": "Available",
     "previous_reason": "-"
+  },
+  {
+    "ts": "2026-07-04T00:45:44.641570+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Chloe Bibby",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-04T00:45:44.641570+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Maddy Westbeld",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
