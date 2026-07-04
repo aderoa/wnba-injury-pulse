@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/04/26 04:30 PM",
+  "report_ts": "07/04/26 04:45 PM",
   "page_count": 1,
-  "raw_line_count": 18,
+  "raw_line_count": 17,
   "teams": [
     {
       "team_full": "Golden State Valkyries",
@@ -118,8 +118,8 @@
       ]
     },
     {
-      "team_full": "Dallas Wings",
-      "team_abbr": "DAL",
+      "team_full": "Seattle Storm",
+      "team_abbr": "SEA",
       "game_date": "07/05/2026",
       "game_time": "03:00(ET)",
       "matchup": "DAL@TOR",
@@ -145,7 +145,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-04_04_30PM.pdf",
-  "fetched_slot": "2026-07-04T16:30:00-04:00",
-  "polled_at_utc": "2026-07-04T20:30:33.002129+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-04_04_45PM.pdf",
+  "fetched_slot": "2026-07-04T16:45:00-04:00",
+  "polled_at_utc": "2026-07-04T20:45:29.419931+00:00"
 }
