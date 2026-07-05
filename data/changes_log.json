@@ -10827,5 +10827,68 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-05T18:16:12.133634+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Temi TorontoTempo Fagbenle",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Eye; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-05T18:16:12.133634+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Kiki Rice",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Ankle; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-05T18:16:12.133634+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Brittney Sykes",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Foot; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-05T18:16:12.133634+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Odyssey Sims",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Left Ankle; leftankle"
+  },
+  {
+    "ts": "2026-07-05T18:16:12.133634+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Alanna Smith",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - N/a; concussion protocol"
+  },
+  {
+    "ts": "2026-07-05T18:16:12.133634+00:00",
+    "type": "reason_change",
+    "team_abbr": "DAL",
+    "player": "Costanza Verona",
+    "status": "Out",
+    "from_reason": "Coach's Decision - coach'sdecision",
+    "to_reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-05T18:16:12.133634+00:00",
+    "type": "reason_change",
+    "team_abbr": "DAL",
+    "player": "Haley Jones",
+    "status": "Out",
+    "from_reason": "Coach's Decision - coach'sdecision",
+    "to_reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
