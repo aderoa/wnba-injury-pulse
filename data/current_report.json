@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/04/26 07:45 PM",
+  "report_ts": "07/04/26 08:15 PM",
   "page_count": 2,
-  "raw_line_count": 19,
+  "raw_line_count": 21,
   "teams": [
     {
       "team_full": "Golden State Valkyries",
@@ -154,8 +154,16 @@
       "game_date": "07/05/2026",
       "game_time": "07:00(ET)",
       "matchup": "IND@LVA",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Clark, Caitlin",
+          "name": "Caitlin Clark",
+          "status": "Out",
+          "reason": "Injury/Illness - Back; Back",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Las Vegas Aces",
@@ -163,11 +171,33 @@
       "game_date": "07/05/2026",
       "game_time": "07:00(ET)",
       "matchup": "IND@LVA",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Barker, Janiah",
+          "name": "Janiah Barker",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Leg; rightleg",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Evans, Dana",
+          "name": "Dana Evans",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Leg; leftleg",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Wilson, A'ja",
+          "name": "A'ja Wilson",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Leg; rightleg",
+          "reason_category": "injury"
+        }
+      ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-04_07_45PM.pdf",
-  "fetched_slot": "2026-07-04T19:45:00-04:00",
-  "polled_at_utc": "2026-07-04T23:46:11.583185+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-04_08_15PM.pdf",
+  "fetched_slot": "2026-07-04T20:15:00-04:00",
+  "polled_at_utc": "2026-07-05T00:16:12.601139+00:00"
 }
