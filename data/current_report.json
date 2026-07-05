@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/05/26 02:15 PM",
+  "report_ts": "07/05/26 03:15 PM",
   "page_count": 2,
-  "raw_line_count": 19,
+  "raw_line_count": 20,
   "teams": [
     {
       "team_full": "Dallas Wings",
@@ -26,8 +26,15 @@
           "reason_category": "rest_coach"
         },
         {
-          "name_last_first": "TorontoTempo Fagbenle, Temi",
-          "name": "Temi TorontoTempo Fagbenle",
+          "name_last_first": "TorontoTempo Allemand, Julie",
+          "name": "Julie TorontoTempo Allemand",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Fagbenle, Temi",
+          "name": "Temi Fagbenle",
           "status": "Out",
           "reason": "Injury/Illness - Left Eye; Injury",
           "reason_category": "injury"
@@ -169,7 +176,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-05_02_15PM.pdf",
-  "fetched_slot": "2026-07-05T14:15:00-04:00",
-  "polled_at_utc": "2026-07-05T18:16:12.133634+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-05_03_15PM.pdf",
+  "fetched_slot": "2026-07-05T15:15:00-04:00",
+  "polled_at_utc": "2026-07-05T19:23:43.536513+00:00"
 }

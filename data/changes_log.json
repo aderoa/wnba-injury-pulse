@@ -10890,5 +10890,31 @@
     "from_reason": "Coach's Decision - coach'sdecision",
     "to_reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-05T19:23:43.536513+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Julie TorontoTempo Allemand",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Ankle; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-05T19:23:43.536513+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Temi Fagbenle",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Eye; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-05T19:23:43.536513+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Temi TorontoTempo Fagbenle",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Eye; Injury"
   }
 ]
