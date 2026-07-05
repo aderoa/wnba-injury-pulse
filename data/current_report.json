@@ -1,167 +1,8 @@
 {
-  "report_ts": "07/04/26 11:45 PM",
-  "page_count": 2,
-  "raw_line_count": 23,
+  "report_ts": "07/05/26 12:15 AM",
+  "page_count": 1,
+  "raw_line_count": 17,
   "teams": [
-    {
-      "team_full": "Golden State Valkyries",
-      "team_abbr": "GSV",
-      "game_date": "07/04/2026",
-      "game_time": "01:00(ET)",
-      "matchup": "GSV@ATL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Prechtel, Ashten",
-          "name": "Ashten Prechtel",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Sowah, Miela",
-          "name": "Miela Sowah",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Atlanta Dream",
-      "team_abbr": "ATL",
-      "game_date": "07/04/2026",
-      "game_time": "01:00(ET)",
-      "matchup": "GSV@ATL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Jones, Brionna",
-          "name": "Brionna Jones",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee; N/A",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Nye, Aaliyah",
-          "name": "Aaliyah Nye",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Knee; N/A",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Okonkwo, Amy",
-          "name": "Amy Okonkwo",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Sherrod, Jaylyn",
-          "name": "Jaylyn Sherrod",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Atlanta Dream",
-      "team_abbr": "ATL",
-      "game_date": "07/04/2026",
-      "game_time": "03:00(ET)",
-      "matchup": "MEM@OKC",
-      "submitted": false,
-      "players": []
-    },
-    {
-      "team_full": "Atlanta Dream",
-      "team_abbr": "ATL",
-      "game_date": "07/04/2026",
-      "game_time": "05:00(ET)",
-      "matchup": "ATL@UTA",
-      "submitted": false,
-      "players": []
-    },
-    {
-      "team_full": "Portland Fire",
-      "team_abbr": "PDX",
-      "game_date": "07/04/2026",
-      "game_time": "09:00(ET)",
-      "matchup": "PDX@SEA",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Feagin, Sania",
-          "name": "Sania Feagin",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Harrison, Jordan",
-          "name": "Jordan Harrison",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Samuelson, Karlie",
-          "name": "Karlie Samuelson",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Middle Finger; Injury",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Seattle Storm",
-      "team_abbr": "SEA",
-      "game_date": "07/04/2026",
-      "game_time": "09:00(ET)",
-      "matchup": "PDX@SEA",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Mair, Taina",
-          "name": "Taina Mair",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Seattle Storm",
-      "team_abbr": "SEA",
-      "game_date": "07/05/2026",
-      "game_time": "03:00(ET)",
-      "matchup": "DAL@TOR",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "TorontoTempo Fagbenle, Temi",
-          "name": "Temi TorontoTempo Fagbenle",
-          "status": "Questionable",
-          "reason": "Injury/Illness - Left Eye; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Rice, Kiki",
-          "name": "Kiki Rice",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Ankle; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Sykes, Brittney",
-          "name": "Brittney Sykes",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Foot; Injury",
-          "reason_category": "injury"
-        }
-      ]
-    },
     {
       "team_full": "Indiana Fever",
       "team_abbr": "IND",
@@ -209,9 +50,81 @@
           "reason_category": "injury"
         }
       ]
+    },
+    {
+      "team_full": "Las Vegas Aces",
+      "team_abbr": "LVA",
+      "game_date": "07/06/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "ATL@OKC",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Golden State Valkyries",
+      "team_abbr": "GSV",
+      "game_date": "07/06/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "GSV@WAS",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Washington Mystics",
+      "team_abbr": "WAS",
+      "game_date": "07/06/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "GSV@WAS",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Connecticut Sun",
+      "team_abbr": "CON",
+      "game_date": "07/06/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "CON@MIN",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Minnesota Lynx",
+      "team_abbr": "MIN",
+      "game_date": "07/06/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "CON@MIN",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Minnesota Lynx",
+      "team_abbr": "MIN",
+      "game_date": "07/06/2026",
+      "game_time": "09:00(ET)",
+      "matchup": "MEM@UTA",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Seattle Storm",
+      "team_abbr": "SEA",
+      "game_date": "07/06/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "SEA@LAS",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Los Angeles Sparks",
+      "team_abbr": "LAS",
+      "game_date": "07/06/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "SEA@LAS",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-04_11_45PM.pdf",
-  "fetched_slot": "2026-07-04T23:45:00-04:00",
-  "polled_at_utc": "2026-07-05T03:46:12.788868+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-05_12_15AM.pdf",
+  "fetched_slot": "2026-07-05T00:15:00-04:00",
+  "polled_at_utc": "2026-07-05T04:16:12.490719+00:00"
 }
