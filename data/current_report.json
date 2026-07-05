@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/05/26 04:45 PM",
+  "report_ts": "07/05/26 05:15 PM",
   "page_count": 2,
-  "raw_line_count": 20,
+  "raw_line_count": 19,
   "teams": [
     {
       "team_full": "Dallas Wings",
@@ -113,22 +113,21 @@
       "players": []
     },
     {
-      "team_full": "Golden State Valkyries",
-      "team_abbr": "GSV",
-      "game_date": "07/06/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "GSV@WAS",
-      "submitted": false,
-      "players": []
-    },
-    {
       "team_full": "Washington Mystics",
       "team_abbr": "WAS",
       "game_date": "07/06/2026",
       "game_time": "07:30(ET)",
       "matchup": "GSV@WAS",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Citron, Sonia",
+          "name": "Sonia Citron",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Knee; Soreness",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Connecticut Sun",
@@ -176,7 +175,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-05_04_45PM.pdf",
-  "fetched_slot": "2026-07-05T16:45:00-04:00",
-  "polled_at_utc": "2026-07-05T20:46:12.015673+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-05_05_15PM.pdf",
+  "fetched_slot": "2026-07-05T17:15:00-04:00",
+  "polled_at_utc": "2026-07-05T21:16:11.052804+00:00"
 }

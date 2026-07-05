@@ -10916,5 +10916,23 @@
     "player": "Temi TorontoTempo Fagbenle",
     "previous_status": "Out",
     "previous_reason": "Injury/Illness - Left Eye; Injury"
+  },
+  {
+    "ts": "2026-07-05T21:16:11.052804+00:00",
+    "type": "cleared",
+    "team_abbr": "WAS",
+    "player": "Georgia Amoore",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Right Knee; Soreness"
+  },
+  {
+    "ts": "2026-07-05T21:16:11.052804+00:00",
+    "type": "status_change",
+    "team_abbr": "WAS",
+    "player": "Sonia Citron",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Right Knee; Soreness",
+    "reason_category": "injury"
   }
 ]
