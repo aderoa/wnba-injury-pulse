@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/04/26 08:15 PM",
+  "report_ts": "07/04/26 08:45 PM",
   "page_count": 2,
-  "raw_line_count": 21,
+  "raw_line_count": 23,
   "teams": [
     {
       "team_full": "Golden State Valkyries",
@@ -91,6 +91,20 @@
       "matchup": "PDX@SEA",
       "submitted": true,
       "players": [
+        {
+          "name_last_first": "Feagin, Sania",
+          "name": "Sania Feagin",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Harrison, Jordan",
+          "name": "Jordan Harrison",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
         {
           "name_last_first": "Samuelson, Karlie",
           "name": "Karlie Samuelson",
@@ -197,7 +211,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-04_08_15PM.pdf",
-  "fetched_slot": "2026-07-04T20:15:00-04:00",
-  "polled_at_utc": "2026-07-05T00:16:40.481376+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-04_08_45PM.pdf",
+  "fetched_slot": "2026-07-04T20:45:00-04:00",
+  "polled_at_utc": "2026-07-05T00:46:14.744824+00:00"
 }

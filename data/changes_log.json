@@ -10809,5 +10809,23 @@
     "from_reason": "Injury/Illness - Right Leg; rightleg injury",
     "to_reason": "Injury/Illness - Right Leg; rightleg",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-05T00:46:14.744824+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Sania Feagin",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-05T00:46:14.744824+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Jordan Harrison",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
