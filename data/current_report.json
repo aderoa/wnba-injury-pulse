@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/05/26 05:30 PM",
+  "report_ts": "07/05/26 05:45 PM",
   "page_count": 2,
-  "raw_line_count": 19,
+  "raw_line_count": 23,
   "teams": [
     {
       "team_full": "Dallas Wings",
@@ -69,6 +69,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Back; Back",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Pissott, Justine",
+          "name": "Justine Pissott",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -135,8 +142,16 @@
       "game_date": "07/06/2026",
       "game_time": "08:00(ET)",
       "matchup": "CON@MIN",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Morrow, Aneesah",
+          "name": "Aneesah Morrow",
+          "status": "Out",
+          "reason": "Personal Reasons",
+          "reason_category": "offcourt"
+        }
+      ]
     },
     {
       "team_full": "Minnesota Lynx",
@@ -144,8 +159,37 @@
       "game_date": "07/06/2026",
       "game_time": "08:00(ET)",
       "matchup": "CON@MIN",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Cechova, Emma",
+          "name": "Emma Cechova",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; Right Knee",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Collier, Napheesa",
+          "name": "Napheesa Collier",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; Left Ankle",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Juhasz, Dorka",
+          "name": "Dorka Juhasz",
+          "status": "Probable",
+          "reason": "Injury/Illness - Right Foot; Right Foot",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Miles, Olivia",
+          "name": "Olivia Miles",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Calf; Right Calf",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Minnesota Lynx",
@@ -175,7 +219,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-05_05_30PM.pdf",
-  "fetched_slot": "2026-07-05T17:30:00-04:00",
-  "polled_at_utc": "2026-07-05T21:42:18.222202+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-05_05_45PM.pdf",
+  "fetched_slot": "2026-07-05T17:45:00-04:00",
+  "polled_at_utc": "2026-07-05T21:46:09.505091+00:00"
 }

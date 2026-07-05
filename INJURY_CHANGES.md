@@ -4,6 +4,15 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-07-05 21:46 UTC
+
+- **Justine Pissott** (IND) newly listed as **Out** — Coach's Decision
+- **Saniya Rivers** (CON) cleared (was Out)
+- **Hailey VanLith** (CON) cleared (was Out)
+- **Aneesah Morrow** (CON, Out): reason updated (Injury/Illness - Left Leg; Strain → Personal Reasons)
+- **Olivia Miles** (MIN) newly listed as **Questionable** — Injury/Illness - Right Calf; Right Calf
+- **Dorka Juhasz** (MIN): **Out** → **Probable** — Injury/Illness - Right Foot; Right Foot
+
 ## 2026-07-05 21:16 UTC
 
 - **Georgia Amoore** (WAS) cleared (was Available)
