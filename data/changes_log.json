@@ -11040,5 +11040,15 @@
     "from_reason": "Injury/Illness - Left Ankle; NWT",
     "to_reason": "Injury/Illness - Left Ankle; LAnkle",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-06T16:46:12.901882+00:00",
+    "type": "status_change",
+    "team_abbr": "MIN",
+    "player": "Olivia Miles",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Calf; Right Calf",
+    "reason_category": "injury"
   }
 ]
