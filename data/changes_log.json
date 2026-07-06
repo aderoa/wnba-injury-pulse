@@ -10988,5 +10988,57 @@
     "to_status": "Probable",
     "reason": "Injury/Illness - Right Foot; Right Foot",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-06T00:16:09.767471+00:00",
+    "type": "cleared",
+    "team_abbr": "SEA",
+    "player": "Temi TorontoTempo Fagbenle",
+    "previous_status": "Questionable",
+    "previous_reason": "Injury/Illness - Left Eye; Injury"
+  },
+  {
+    "ts": "2026-07-06T00:16:09.767471+00:00",
+    "type": "cleared",
+    "team_abbr": "SEA",
+    "player": "Kiki Rice",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Ankle; Injury"
+  },
+  {
+    "ts": "2026-07-06T00:16:09.767471+00:00",
+    "type": "cleared",
+    "team_abbr": "SEA",
+    "player": "Brittney Sykes",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Foot; Injury"
+  },
+  {
+    "ts": "2026-07-06T00:16:09.767471+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Kate Martin",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-07-06T00:16:09.767471+00:00",
+    "type": "reason_change",
+    "team_abbr": "LAS",
+    "player": "Kelsey Plum",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Lower Leg; NWT",
+    "to_reason": "Injury/Illness - Left Lower Leg; L Lower Leg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-06T00:16:09.767471+00:00",
+    "type": "reason_change",
+    "team_abbr": "LAS",
+    "player": "Cameron Brink",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Ankle; NWT",
+    "to_reason": "Injury/Illness - Left Ankle; LAnkle",
+    "reason_category": "injury"
   }
 ]
