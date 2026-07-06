@@ -1,5 +1,5 @@
 {
-  "report_ts": "07/06/26 06:45 PM",
+  "report_ts": "07/06/26 07:00 PM",
   "page_count": 1,
   "raw_line_count": 16,
   "teams": [
@@ -69,7 +69,7 @@
         {
           "name_last_first": "Juhasz, Dorka",
           "name": "Dorka Juhasz",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness - Right Foot; Right Foot",
           "reason_category": "injury"
         },
@@ -166,7 +166,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-06_06_45PM.pdf",
-  "fetched_slot": "2026-07-06T18:45:00-04:00",
-  "polled_at_utc": "2026-07-06T22:45:59.810159+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-06_07_00PM.pdf",
+  "fetched_slot": "2026-07-06T19:00:00-04:00",
+  "polled_at_utc": "2026-07-06T23:01:00.788837+00:00"
 }
