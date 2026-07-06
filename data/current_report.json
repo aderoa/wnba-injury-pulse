@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/06/26 04:15 PM",
+  "report_ts": "07/06/26 04:30 PM",
   "page_count": 1,
-  "raw_line_count": 15,
+  "raw_line_count": 14,
   "teams": [
     {
       "team_full": "Washington Mystics",
@@ -117,15 +117,6 @@
       ]
     },
     {
-      "team_full": "Dallas Wings",
-      "team_abbr": "DAL",
-      "game_date": "07/07/2026",
-      "game_time": "08:00(ET)",
-      "matchup": "DAL@NYL",
-      "submitted": false,
-      "players": []
-    },
-    {
       "team_full": "New York Liberty",
       "team_abbr": "NYL",
       "game_date": "07/07/2026",
@@ -153,7 +144,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-06_04_15PM.pdf",
-  "fetched_slot": "2026-07-06T16:15:00-04:00",
-  "polled_at_utc": "2026-07-06T20:26:20.580357+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-06_04_30PM.pdf",
+  "fetched_slot": "2026-07-06T16:30:00-04:00",
+  "polled_at_utc": "2026-07-06T20:31:00.895197+00:00"
 }
