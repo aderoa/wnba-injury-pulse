@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/06/26 07:00 PM",
+  "report_ts": "07/06/26 07:15 PM",
   "page_count": 1,
-  "raw_line_count": 16,
+  "raw_line_count": 18,
   "teams": [
     {
       "team_full": "Washington Mystics",
@@ -36,11 +36,25 @@
       "submitted": true,
       "players": [
         {
+          "name_last_first": "Jackson, Ashlon",
+          "name": "Ashlon Jackson",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Morrow, Aneesah",
           "name": "Aneesah Morrow",
           "status": "Out",
           "reason": "Personal Reasons",
           "reason_category": "offcourt"
+        },
+        {
+          "name_last_first": "VanLith, Hailey",
+          "name": "Hailey VanLith",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -166,7 +180,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-06_07_00PM.pdf",
-  "fetched_slot": "2026-07-06T19:00:00-04:00",
-  "polled_at_utc": "2026-07-06T23:01:00.788837+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-06_07_15PM.pdf",
+  "fetched_slot": "2026-07-06T19:15:00-04:00",
+  "polled_at_utc": "2026-07-06T23:15:39.807341+00:00"
 }
