@@ -11075,5 +11075,24 @@
     "player": "Anneli Maley",
     "previous_status": "Out",
     "previous_reason": "Player Coach's Decision - Developmental Player"
+  },
+  {
+    "ts": "2026-07-06T22:31:01.756497+00:00",
+    "type": "added",
+    "team_abbr": "WAS",
+    "player": "Darianna Littlepage-Buggs",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-06T22:31:01.756497+00:00",
+    "type": "status_change",
+    "team_abbr": "WAS",
+    "player": "Sonia Citron",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Knee; Soreness",
+    "reason_category": "injury"
   }
 ]
