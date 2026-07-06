@@ -11050,5 +11050,30 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Right Calf; Right Calf",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-06T21:01:01.631214+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Leonie Fiebich",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Left Foot; Soreness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-06T21:01:01.631214+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Marine Fauthoux",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental"
+  },
+  {
+    "ts": "2026-07-06T21:01:01.631214+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Anneli Maley",
+    "previous_status": "Out",
+    "previous_reason": "Player Coach's Decision - Developmental Player"
   }
 ]
