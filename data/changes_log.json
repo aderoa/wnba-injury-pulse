@@ -11156,5 +11156,14 @@
     "to_status": "Probable",
     "reason": "Injury/Illness - Left Ankle;-",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-07T00:45:32.239213+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Alissa Pili",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
