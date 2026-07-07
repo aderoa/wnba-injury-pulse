@@ -11138,5 +11138,23 @@
     "player": "Maddy Westbeld",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-07-07T00:00:34.792257+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Shay Ciezki",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental Player"
+  },
+  {
+    "ts": "2026-07-07T00:00:34.792257+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "Noemie Brochant",
+    "from_status": "Out",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Left Ankle;-",
+    "reason_category": "injury"
   }
 ]
