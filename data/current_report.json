@@ -1,5 +1,5 @@
 {
-  "report_ts": "07/07/26 10:30 AM",
+  "report_ts": "07/07/26 10:45 AM",
   "page_count": 1,
   "raw_line_count": 14,
   "teams": [
@@ -14,7 +14,7 @@
         {
           "name_last_first": "Fiebich, Leonie",
           "name": "Leonie Fiebich",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Left Foot; Soreness",
           "reason_category": "injury"
         },
@@ -121,7 +121,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-07_10_30AM.pdf",
-  "fetched_slot": "2026-07-07T10:30:00-04:00",
-  "polled_at_utc": "2026-07-07T14:30:43.738652+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-07_10_45AM.pdf",
+  "fetched_slot": "2026-07-07T10:45:00-04:00",
+  "polled_at_utc": "2026-07-07T14:45:44.217296+00:00"
 }

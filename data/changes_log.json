@@ -11165,5 +11165,15 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-07T14:45:44.217296+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Leonie Fiebich",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Foot; Soreness",
+    "reason_category": "injury"
   }
 ]
