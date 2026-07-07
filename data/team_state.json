@@ -82,13 +82,14 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-07-07T04:00:33.557519+00:00"
   },
   "PHX": {
     "team_full": "Phoenix Mercury",
     "submitted": true,
-    "last_submitted_ts": "2026-07-07T03:45:29.189993+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-06_11_45PM.pdf",
+    "last_submitted_ts": "2026-07-07T04:00:33.557519+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-07_12_00AM.pdf",
     "game_dates": [
       "07/07/2026"
     ],
@@ -240,13 +241,14 @@
         "reason": "Injury/Illness - Right Calf; Right Calf",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-07-07T04:00:33.557519+00:00"
   },
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-07-07T03:45:29.189993+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-06_11_45PM.pdf",
+    "last_submitted_ts": "2026-07-07T04:00:33.557519+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-07_12_00AM.pdf",
     "game_dates": [
       "07/07/2026"
     ],
@@ -352,13 +354,14 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-07-07T04:00:33.557519+00:00"
   },
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-07-07T03:45:29.189993+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-06_11_45PM.pdf",
+    "last_submitted_ts": "2026-07-07T04:00:33.557519+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-07_12_00AM.pdf",
     "game_dates": [
       "07/07/2026"
     ],
@@ -437,7 +440,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-07-05T20:46:12.015673+00:00"
+    "last_seen_pending_ts": "2026-07-07T04:00:33.557519+00:00"
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",
@@ -472,6 +475,7 @@
         "reason": "Injury/Illness - Left Lower Leg; L Lower Leg",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-07-07T04:00:33.557519+00:00"
   }
 }
