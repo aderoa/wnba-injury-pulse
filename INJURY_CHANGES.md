@@ -4,6 +4,16 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-07-07 21:00 UTC
+
+- **Temi TorontoTempo Fagbenle** (PHX) newly listed as **Out** — Concussion Protocol
+- **Kiki Rice** (PHX) newly listed as **Out** — Injury/Illness - Left Ankle; Injury
+- **Brittney Sykes** (PHX) newly listed as **Out** — Injury/Illness - Left Foot; Injury
+- **Dorka Juhasz** (MIN) cleared (was Available)
+- **Olivia Miles** (MIN): **Out** → **Doubtful** — Injury/Illness - Right Calf; Right Calf
+- **Ashlon Jackson** (CON) cleared (was Out)
+- **Hailey VanLith** (CON) cleared (was Out)
+
 ## 2026-07-07 14:45 UTC
 
 - **Leonie Fiebich** (NYL): **Questionable** → **Out** — Injury/Illness - Left Foot; Soreness
