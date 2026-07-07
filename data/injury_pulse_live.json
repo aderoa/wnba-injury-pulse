@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-07-07T09:15:47.962495+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-07_05_15AM.pdf",
-  "report_ts": "07/07/26 05:15 AM",
+  "polled_at_utc": "2026-07-07T09:30:58.129661+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-07_05_30AM.pdf",
+  "report_ts": "07/07/26 05:30 AM",
   "all_players": [
     {
       "name": "A'ja Wilson",
@@ -137,7 +137,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Foot; Left Foot",
       "reason_category": "injury",
-      "last_updated": "2026-07-07T09:15:47.962495+00:00"
+      "last_updated": "2026-07-07T09:30:58.129661+00:00"
     },
     {
       "name": "Emma Cechova",
@@ -263,7 +263,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Foot;-",
       "reason_category": "injury",
-      "last_updated": "2026-07-07T09:15:47.962495+00:00"
+      "last_updated": "2026-07-07T09:30:58.129661+00:00"
     },
     {
       "name": "Olivia Miles",
@@ -281,7 +281,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; Arthroscopy",
       "reason_category": "injury",
-      "last_updated": "2026-07-07T09:15:47.962495+00:00"
+      "last_updated": "2026-07-07T09:30:58.129661+00:00"
     },
     {
       "name": "Sania Feagin",
@@ -299,7 +299,7 @@
       "status": "Out",
       "reason": "Concussion Protocol",
       "reason_category": "procedural",
-      "last_updated": "2026-07-07T09:15:47.962495+00:00"
+      "last_updated": "2026-07-07T09:30:58.129661+00:00"
     },
     {
       "name": "Sonia Citron",
@@ -335,7 +335,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Left Foot; Soreness",
       "reason_category": "injury",
-      "last_updated": "2026-07-07T09:15:47.962495+00:00"
+      "last_updated": "2026-07-07T09:30:58.129661+00:00"
     },
     {
       "name": "Noemie Brochant",
@@ -344,7 +344,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Left Ankle;-",
       "reason_category": "injury",
-      "last_updated": "2026-07-07T09:15:47.962495+00:00"
+      "last_updated": "2026-07-07T09:30:58.129661+00:00"
     },
     {
       "name": "Dorka Juhasz",
@@ -401,7 +401,7 @@
     {
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
-      "last_submitted_ts": "2026-07-07T09:15:47.962495+00:00",
+      "last_submitted_ts": "2026-07-07T09:30:58.129661+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "CHI@PHX"
@@ -420,7 +420,7 @@
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
       "last_submitted_ts": "2026-07-07T03:45:29.189993+00:00",
-      "last_seen_pending_ts": "2026-07-07T09:15:47.962495+00:00",
+      "last_seen_pending_ts": "2026-07-07T09:30:58.129661+00:00",
       "matchups": [
         "CON@MIN"
       ],
@@ -505,7 +505,7 @@
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
       "last_submitted_ts": "2026-07-05T03:46:12.788868+00:00",
-      "last_seen_pending_ts": "2026-07-07T09:15:47.962495+00:00",
+      "last_seen_pending_ts": "2026-07-07T09:30:58.129661+00:00",
       "matchups": [
         "GSV@ATL"
       ],
@@ -530,7 +530,7 @@
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
       "last_submitted_ts": "2026-07-06T03:57:50.869470+00:00",
-      "last_seen_pending_ts": "2026-07-07T09:15:47.962495+00:00",
+      "last_seen_pending_ts": "2026-07-07T09:30:58.129661+00:00",
       "matchups": [
         "IND@LVA"
       ],
@@ -555,7 +555,7 @@
       "team_abbr": "LAS",
       "team_full": "Los Angeles Sparks",
       "last_submitted_ts": "2026-07-07T03:45:29.189993+00:00",
-      "last_seen_pending_ts": "2026-07-07T09:15:47.962495+00:00",
+      "last_seen_pending_ts": "2026-07-07T09:30:58.129661+00:00",
       "matchups": [
         "SEA@LAS"
       ],
@@ -620,7 +620,7 @@
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
       "last_submitted_ts": "2026-07-07T03:45:29.189993+00:00",
-      "last_seen_pending_ts": "2026-07-07T09:15:47.962495+00:00",
+      "last_seen_pending_ts": "2026-07-07T09:30:58.129661+00:00",
       "matchups": [
         "CON@MIN"
       ],
@@ -658,7 +658,7 @@
     {
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
-      "last_submitted_ts": "2026-07-07T09:15:47.962495+00:00",
+      "last_submitted_ts": "2026-07-07T09:30:58.129661+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "DAL@NYL"
@@ -715,7 +715,7 @@
     {
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
-      "last_submitted_ts": "2026-07-07T09:15:47.962495+00:00",
+      "last_submitted_ts": "2026-07-07T09:30:58.129661+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "CHI@PHX"
