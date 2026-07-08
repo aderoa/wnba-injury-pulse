@@ -1,5 +1,5 @@
 {
-  "report_ts": "07/08/26 03:30 PM",
+  "report_ts": "07/08/26 03:45 PM",
   "page_count": 2,
   "raw_line_count": 19,
   "teams": [
@@ -28,7 +28,7 @@
         {
           "name_last_first": "Miles, Olivia",
           "name": "Olivia Miles",
-          "status": "Doubtful",
+          "status": "Out",
           "reason": "Injury/Illness - Right Calf; Right Calf",
           "reason_category": "injury"
         }
@@ -154,7 +154,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-08_03_30PM.pdf",
-  "fetched_slot": "2026-07-08T15:30:00-04:00",
-  "polled_at_utc": "2026-07-08T19:38:51.209381+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-08_03_45PM.pdf",
+  "fetched_slot": "2026-07-08T15:45:00-04:00",
+  "polled_at_utc": "2026-07-08T19:45:33.123187+00:00"
 }
