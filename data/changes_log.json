@@ -11298,5 +11298,24 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-08T01:15:40.243102+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Shay Ciezki",
+    "status": "Out",
+    "reason": "Coach's Decision - Developmental Player",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-08T01:15:40.243102+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "Noemie Brochant",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Ankle;-",
+    "reason_category": "injury"
   }
 ]
