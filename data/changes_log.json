@@ -11236,5 +11236,40 @@
     "player": "Hailey VanLith",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-07-08T00:00:45.756032+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Aliyah Boston",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Right Leg; Lower Leg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-08T00:00:45.756032+00:00",
+    "type": "cleared",
+    "team_abbr": "IND",
+    "player": "Justine Pissott",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-07-08T00:00:45.756032+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Out",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Back; Back",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-08T00:00:45.756032+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Alissa Pili",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]
