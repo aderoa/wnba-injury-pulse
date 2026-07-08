@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/07/26 08:30 PM",
+  "report_ts": "07/07/26 08:45 PM",
   "page_count": 2,
-  "raw_line_count": 22,
+  "raw_line_count": 24,
   "teams": [
     {
       "team_full": "New York Liberty",
@@ -36,6 +36,13 @@
       "submitted": true,
       "players": [
         {
+          "name_last_first": "Bibby, Chloe",
+          "name": "Chloe Bibby",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Carrington, DiJonai",
           "name": "DiJonai Carrington",
           "status": "Out",
@@ -48,6 +55,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Right Knee; Right Knee",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Westbeld, Maddy",
+          "name": "Maddy Westbeld",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -210,7 +224,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-07_08_30PM.pdf",
-  "fetched_slot": "2026-07-07T20:30:00-04:00",
-  "polled_at_utc": "2026-07-08T00:30:41.285050+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-07_08_45PM.pdf",
+  "fetched_slot": "2026-07-07T20:45:00-04:00",
+  "polled_at_utc": "2026-07-08T00:45:40.294363+00:00"
 }
