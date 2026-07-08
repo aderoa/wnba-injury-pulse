@@ -11353,5 +11353,32 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Left Knee; N/A",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-08T22:15:48.430498+00:00",
+    "type": "added",
+    "team_abbr": "GSV",
+    "player": "Temi TorontoTempo Fagbenle",
+    "status": "Out",
+    "reason": "Concussion Protocol",
+    "reason_category": "procedural"
+  },
+  {
+    "ts": "2026-07-08T22:15:48.430498+00:00",
+    "type": "added",
+    "team_abbr": "GSV",
+    "player": "Kiki Rice",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Ankle; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-08T22:15:48.430498+00:00",
+    "type": "added",
+    "team_abbr": "GSV",
+    "player": "Brittney Sykes",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Foot; Injury",
+    "reason_category": "injury"
   }
 ]
