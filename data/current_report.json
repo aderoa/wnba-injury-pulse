@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/07/26 08:15 PM",
+  "report_ts": "07/07/26 08:30 PM",
   "page_count": 2,
-  "raw_line_count": 21,
+  "raw_line_count": 22,
   "teams": [
     {
       "team_full": "New York Liberty",
@@ -40,6 +40,13 @@
           "name": "DiJonai Carrington",
           "status": "Out",
           "reason": "Injury/Illness - Left Foot; Left Foot",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Diggins, Skylar",
+          "name": "Skylar Diggins",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; Right Knee",
           "reason_category": "injury"
         }
       ]
@@ -203,7 +210,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-07_08_15PM.pdf",
-  "fetched_slot": "2026-07-07T20:15:00-04:00",
-  "polled_at_utc": "2026-07-08T00:15:43.114068+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-07_08_30PM.pdf",
+  "fetched_slot": "2026-07-07T20:30:00-04:00",
+  "polled_at_utc": "2026-07-08T00:30:41.285050+00:00"
 }
