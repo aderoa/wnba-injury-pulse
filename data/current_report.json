@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/08/26 07:30 PM",
+  "report_ts": "07/08/26 07:45 PM",
   "page_count": 2,
-  "raw_line_count": 26,
+  "raw_line_count": 29,
   "teams": [
     {
       "team_full": "Golden State Valkyries",
@@ -246,11 +246,26 @@
       "game_date": "07/09/2026",
       "game_time": "10:00(ET)",
       "matchup": "LVA@PDX",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Feagin, Sania",
+          "name": "Sania Feagin",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Samuelson, Karlie",
+          "name": "Karlie Samuelson",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Middle Finger; Injury",
+          "reason_category": "injury"
+        }
+      ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-08_07_30PM.pdf",
-  "fetched_slot": "2026-07-08T19:30:00-04:00",
-  "polled_at_utc": "2026-07-08T23:30:34.993334+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-08_07_45PM.pdf",
+  "fetched_slot": "2026-07-08T19:45:00-04:00",
+  "polled_at_utc": "2026-07-08T23:45:35.305917+00:00"
 }
