@@ -11406,5 +11406,32 @@
     "player": "Temi TorontoTempo Fagbenle",
     "previous_status": "Out",
     "previous_reason": "Concussion Protocol"
+  },
+  {
+    "ts": "2026-07-08T22:45:36.227969+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Brittney Griner",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Quad; Strain",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-08T22:45:36.227969+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Ashlon Jackson",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-08T22:45:36.227969+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Hailey VanLith",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]

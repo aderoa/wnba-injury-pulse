@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/08/26 06:30 PM",
+  "report_ts": "07/08/26 06:45 PM",
   "page_count": 2,
-  "raw_line_count": 23,
+  "raw_line_count": 26,
   "teams": [
     {
       "team_full": "Golden State Valkyries",
@@ -95,11 +95,32 @@
       "submitted": true,
       "players": [
         {
+          "name_last_first": "Griner, Brittney",
+          "name": "Brittney Griner",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Quad; Strain",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Jackson, Ashlon",
+          "name": "Ashlon Jackson",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Morrow, Aneesah",
           "name": "Aneesah Morrow",
           "status": "Out",
           "reason": "Personal Reasons",
           "reason_category": "offcourt"
+        },
+        {
+          "name_last_first": "VanLith, Hailey",
+          "name": "Hailey VanLith",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -229,7 +250,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-08_06_30PM.pdf",
-  "fetched_slot": "2026-07-08T18:30:00-04:00",
-  "polled_at_utc": "2026-07-08T22:30:34.795137+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-08_06_45PM.pdf",
+  "fetched_slot": "2026-07-08T18:45:00-04:00",
+  "polled_at_utc": "2026-07-08T22:45:36.227969+00:00"
 }
