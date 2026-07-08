@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-07-08T20:30:33.039033+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-08_04_30PM.pdf",
-  "report_ts": "07/08/26 04:30 PM",
+  "polled_at_utc": "2026-07-08T20:45:37.587047+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-08_04_45PM.pdf",
+  "report_ts": "07/08/26 04:45 PM",
   "all_players": [
     {
       "name": "A'ja Wilson",
@@ -14,31 +14,13 @@
       "last_updated": "2026-07-06T03:57:50.869470+00:00"
     },
     {
-      "name": "Aaliyah Nye",
-      "team_abbr": "ATL",
-      "team_full": "Atlanta Dream",
-      "status": "Out",
-      "reason": "Injury/Illness - Left Knee; N/A",
-      "reason_category": "injury",
-      "last_updated": "2026-07-05T03:46:12.788868+00:00"
-    },
-    {
-      "name": "Amy Okonkwo",
-      "team_abbr": "ATL",
-      "team_full": "Atlanta Dream",
-      "status": "Out",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach",
-      "last_updated": "2026-07-05T03:46:12.788868+00:00"
-    },
-    {
       "name": "Aneesah Morrow",
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
       "status": "Out",
       "reason": "Personal Reasons",
       "reason_category": "offcourt",
-      "last_updated": "2026-07-08T20:30:33.039033+00:00"
+      "last_updated": "2026-07-08T20:45:37.587047+00:00"
     },
     {
       "name": "Ashten Prechtel",
@@ -56,7 +38,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-07-05T03:46:12.788868+00:00"
+      "last_updated": "2026-07-08T20:45:37.587047+00:00"
     },
     {
       "name": "Brittney Sykes",
@@ -83,7 +65,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Ankle; LAnkle",
       "reason_category": "injury",
-      "last_updated": "2026-07-08T20:30:33.039033+00:00"
+      "last_updated": "2026-07-08T20:45:37.587047+00:00"
     },
     {
       "name": "Chloe Bibby",
@@ -137,7 +119,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; Right Knee",
       "reason_category": "injury",
-      "last_updated": "2026-07-08T20:30:33.039033+00:00"
+      "last_updated": "2026-07-08T20:45:37.587047+00:00"
     },
     {
       "name": "Haley Jones",
@@ -156,15 +138,6 @@
       "reason": "Injury/Illness - Right Leg; rightleg",
       "reason_category": "injury",
       "last_updated": "2026-07-06T03:57:50.869470+00:00"
-    },
-    {
-      "name": "Jaylyn Sherrod",
-      "team_abbr": "ATL",
-      "team_full": "Atlanta Dream",
-      "status": "Out",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach",
-      "last_updated": "2026-07-05T03:46:12.788868+00:00"
     },
     {
       "name": "Jordan Harrison",
@@ -200,7 +173,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Lower Leg; L Lower Leg",
       "reason_category": "injury",
-      "last_updated": "2026-07-08T20:30:33.039033+00:00"
+      "last_updated": "2026-07-08T20:45:37.587047+00:00"
     },
     {
       "name": "Kiki Rice",
@@ -254,7 +227,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Ankle; Left Ankle",
       "reason_category": "injury",
-      "last_updated": "2026-07-08T20:30:33.039033+00:00"
+      "last_updated": "2026-07-08T20:45:37.587047+00:00"
     },
     {
       "name": "Natasha Mack",
@@ -272,7 +245,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Calf; Right Calf",
       "reason_category": "injury",
-      "last_updated": "2026-07-08T20:30:33.039033+00:00"
+      "last_updated": "2026-07-08T20:45:37.587047+00:00"
     },
     {
       "name": "Sami Whitcomb",
@@ -356,13 +329,22 @@
       "last_updated": "2026-07-08T03:45:39.649863+00:00"
     },
     {
+      "name": "Aaliyah Nye",
+      "team_abbr": "ATL",
+      "team_full": "Atlanta Dream",
+      "status": "Questionable",
+      "reason": "Injury/Illness - Left Knee; N/A",
+      "reason_category": "injury",
+      "last_updated": "2026-07-08T20:45:37.587047+00:00"
+    },
+    {
       "name": "Aliyah Boston",
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
       "status": "Questionable",
       "reason": "Injury/Illness - Right Leg; Lower Leg",
       "reason_category": "injury",
-      "last_updated": "2026-07-08T20:30:33.039033+00:00"
+      "last_updated": "2026-07-08T20:45:37.587047+00:00"
     },
     {
       "name": "Caitlin Clark",
@@ -371,7 +353,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Back; Back",
       "reason_category": "injury",
-      "last_updated": "2026-07-08T20:30:33.039033+00:00"
+      "last_updated": "2026-07-08T20:45:37.587047+00:00"
     },
     {
       "name": "Noemie Brochant",
@@ -387,12 +369,10 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-07-05T03:46:12.788868+00:00",
-      "last_seen_pending_ts": "2026-07-08T20:30:33.039033+00:00",
+      "last_submitted_ts": "2026-07-08T20:45:37.587047+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "GSV@ATL",
-        "MEM@OKC",
-        "ATL@UTA"
+        "SEA@ATL"
       ],
       "players": [
         {
@@ -405,23 +385,9 @@
         {
           "name_last_first": "Nye, Aaliyah",
           "name": "Aaliyah Nye",
-          "status": "Out",
+          "status": "Questionable",
           "reason": "Injury/Illness - Left Knee; N/A",
           "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Okonkwo, Amy",
-          "name": "Amy Okonkwo",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Sherrod, Jaylyn",
-          "name": "Jaylyn Sherrod",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
         }
       ]
     },
@@ -467,7 +433,7 @@
     {
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
-      "last_submitted_ts": "2026-07-08T20:30:33.039033+00:00",
+      "last_submitted_ts": "2026-07-08T20:45:37.587047+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "MIN@CON"
@@ -563,7 +529,7 @@
     {
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
-      "last_submitted_ts": "2026-07-08T20:30:33.039033+00:00",
+      "last_submitted_ts": "2026-07-08T20:45:37.587047+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "IND@LAS",
@@ -589,7 +555,7 @@
     {
       "team_abbr": "LAS",
       "team_full": "Los Angeles Sparks",
-      "last_submitted_ts": "2026-07-08T20:30:33.039033+00:00",
+      "last_submitted_ts": "2026-07-08T20:45:37.587047+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "IND@LAS"
@@ -615,7 +581,7 @@
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
       "last_submitted_ts": "2026-07-06T03:57:50.869470+00:00",
-      "last_seen_pending_ts": "2026-07-08T20:30:33.039033+00:00",
+      "last_seen_pending_ts": "2026-07-08T20:45:37.587047+00:00",
       "matchups": [
         "IND@LVA",
         "ATL@OKC"
@@ -647,7 +613,7 @@
     {
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
-      "last_submitted_ts": "2026-07-08T20:30:33.039033+00:00",
+      "last_submitted_ts": "2026-07-08T20:45:37.587047+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "MIN@CON"
@@ -705,7 +671,7 @@
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
       "last_submitted_ts": "2026-07-05T03:46:12.788868+00:00",
-      "last_seen_pending_ts": "2026-07-08T20:30:33.039033+00:00",
+      "last_seen_pending_ts": "2026-07-08T20:45:37.587047+00:00",
       "matchups": [
         "PDX@SEA"
       ],
@@ -737,7 +703,7 @@
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
       "last_submitted_ts": "2026-07-08T03:45:39.649863+00:00",
-      "last_seen_pending_ts": "2026-07-08T20:30:33.039033+00:00",
+      "last_seen_pending_ts": "2026-07-08T20:45:37.587047+00:00",
       "matchups": [
         "CHI@PHX",
         "GSV@TOR"
@@ -798,7 +764,7 @@
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
       "last_submitted_ts": "2026-07-07T03:45:29.189993+00:00",
-      "last_seen_pending_ts": "2026-07-08T20:30:33.039033+00:00",
+      "last_seen_pending_ts": "2026-07-08T20:45:37.587047+00:00",
       "matchups": [
         "SEA@LAS"
       ],
@@ -839,6 +805,32 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-07-08T20:45:37.587047+00:00",
+      "type": "status_change",
+      "team_abbr": "ATL",
+      "player": "Aaliyah Nye",
+      "from_status": "Out",
+      "to_status": "Questionable",
+      "reason": "Injury/Illness - Left Knee; N/A",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-07-08T20:45:37.587047+00:00",
+      "type": "cleared",
+      "team_abbr": "ATL",
+      "player": "Jaylyn Sherrod",
+      "previous_status": "Out",
+      "previous_reason": "Coach's Decision"
+    },
+    {
+      "ts": "2026-07-08T20:45:37.587047+00:00",
+      "type": "cleared",
+      "team_abbr": "ATL",
+      "player": "Amy Okonkwo",
+      "previous_status": "Out",
+      "previous_reason": "Coach's Decision"
+    },
     {
       "ts": "2026-07-08T19:45:33.123187+00:00",
       "type": "status_change",
@@ -3051,32 +3043,6 @@
       "from_reason": "Coach's Decision",
       "to_reason": "-",
       "reason_category": "other"
-    },
-    {
-      "ts": "2026-06-23T21:00:29.782117+00:00",
-      "type": "cleared",
-      "team_abbr": "MIN",
-      "player": "Liatu King",
-      "previous_status": "Out",
-      "previous_reason": "Coach's Decision"
-    },
-    {
-      "ts": "2026-06-23T21:00:29.782117+00:00",
-      "type": "cleared",
-      "team_abbr": "MIN",
-      "player": "Eliska Hamzova",
-      "previous_status": "Out",
-      "previous_reason": "Coach's Decision"
-    },
-    {
-      "ts": "2026-06-23T20:45:30.808860+00:00",
-      "type": "status_change",
-      "team_abbr": "WAS",
-      "player": "Darianna Littlepage-Buggs",
-      "from_status": "Out",
-      "to_status": "Available",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach"
     }
   ]
 }

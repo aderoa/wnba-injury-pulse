@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/08/26 04:30 PM",
+  "report_ts": "07/08/26 04:45 PM",
   "page_count": 2,
-  "raw_line_count": 19,
+  "raw_line_count": 20,
   "teams": [
     {
       "team_full": "Minnesota Lynx",
@@ -114,8 +114,23 @@
       "game_date": "07/09/2026",
       "game_time": "08:00(ET)",
       "matchup": "SEA@ATL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Jones, Brionna",
+          "name": "Brionna Jones",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; N/A",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Nye, Aaliyah",
+          "name": "Aaliyah Nye",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Knee; N/A",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Indiana Fever",
@@ -154,7 +169,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-08_04_30PM.pdf",
-  "fetched_slot": "2026-07-08T16:30:00-04:00",
-  "polled_at_utc": "2026-07-08T20:30:33.039033+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-08_04_45PM.pdf",
+  "fetched_slot": "2026-07-08T16:45:00-04:00",
+  "polled_at_utc": "2026-07-08T20:45:37.587047+00:00"
 }
