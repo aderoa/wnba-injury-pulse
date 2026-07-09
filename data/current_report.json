@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/09/26 04:45 PM",
+  "report_ts": "07/09/26 05:00 PM",
   "page_count": 2,
-  "raw_line_count": 34,
+  "raw_line_count": 33,
   "teams": [
     {
       "team_full": "Seattle Storm",
@@ -169,12 +169,12 @@
       ]
     },
     {
-      "team_full": "Dallas Wings",
-      "team_abbr": "DAL",
+      "team_full": "Portland Fire",
+      "team_abbr": "PDX",
       "game_date": "07/10/2026",
       "game_time": "07:30(ET)",
       "matchup": "DAL@TOR",
-      "submitted": false,
+      "submitted": true,
       "players": [
         {
           "name_last_first": "TorontoTempo Fagbenle, Temi",
@@ -212,8 +212,16 @@
       "game_date": "07/10/2026",
       "game_time": "07:30(ET)",
       "matchup": "GSV@CON",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Williams, Gabby",
+          "name": "Gabby Williams",
+          "status": "Questionable",
+          "reason": "Injury/Illness - back; Contusion",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Connecticut Sun",
@@ -265,7 +273,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-09_04_45PM.pdf",
-  "fetched_slot": "2026-07-09T16:45:00-04:00",
-  "polled_at_utc": "2026-07-09T20:57:29.506287+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-09_05_00PM.pdf",
+  "fetched_slot": "2026-07-09T17:00:00-04:00",
+  "polled_at_utc": "2026-07-09T21:00:33.639070+00:00"
 }
