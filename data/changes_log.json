@@ -11578,5 +11578,15 @@
     "status": "Out",
     "reason": "Injury/Illness - Left Ankle; Sprain",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-09T01:15:32.776930+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
   }
 ]
