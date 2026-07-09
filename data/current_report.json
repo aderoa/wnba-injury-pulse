@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/08/26 08:30 PM",
+  "report_ts": "07/08/26 08:45 PM",
   "page_count": 2,
-  "raw_line_count": 36,
+  "raw_line_count": 37,
   "teams": [
     {
       "team_full": "Golden State Valkyries",
@@ -114,6 +114,13 @@
           "status": "Out",
           "reason": "Personal Reasons",
           "reason_category": "offcourt"
+        },
+        {
+          "name_last_first": "Rivers, Saniya",
+          "name": "Saniya Rivers",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; Sprain",
+          "reason_category": "injury"
         },
         {
           "name_last_first": "VanLith, Hailey",
@@ -316,7 +323,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-08_08_30PM.pdf",
-  "fetched_slot": "2026-07-08T20:30:00-04:00",
-  "polled_at_utc": "2026-07-09T00:30:34.146549+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-08_08_45PM.pdf",
+  "fetched_slot": "2026-07-08T20:45:00-04:00",
+  "polled_at_utc": "2026-07-09T00:45:33.476957+00:00"
 }
