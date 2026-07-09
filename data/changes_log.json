@@ -11617,5 +11617,31 @@
     "to_status": "Probable",
     "reason": "Injury/Illness - Right Lower Leg; Right lowerleg",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-09T20:30:37.043541+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Ashlon Jackson",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-07-09T20:30:37.043541+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Hailey VanLith",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-07-09T20:30:37.043541+00:00",
+    "type": "reason_change",
+    "team_abbr": "CON",
+    "player": "Aneesah Morrow",
+    "status": "Out",
+    "from_reason": "Personal Reasons",
+    "to_reason": "Returnto Competition Reconditioning",
+    "reason_category": "other"
   }
 ]

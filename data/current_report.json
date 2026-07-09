@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/09/26 04:15 PM",
+  "report_ts": "07/09/26 04:30 PM",
   "page_count": 2,
-  "raw_line_count": 27,
+  "raw_line_count": 31,
   "teams": [
     {
       "team_full": "Seattle Storm",
@@ -192,8 +192,30 @@
       "game_date": "07/10/2026",
       "game_time": "07:30(ET)",
       "matchup": "GSV@CON",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Griner, Brittney",
+          "name": "Brittney Griner",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Quad; Strain",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Morrow, Aneesah",
+          "name": "Aneesah Morrow",
+          "status": "Out",
+          "reason": "Returnto Competition Reconditioning",
+          "reason_category": "other"
+        },
+        {
+          "name_last_first": "Rivers, Saniya",
+          "name": "Saniya Rivers",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; Sprain",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Chicago Sky",
@@ -214,7 +236,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-09_04_15PM.pdf",
-  "fetched_slot": "2026-07-09T16:15:00-04:00",
-  "polled_at_utc": "2026-07-09T20:15:33.130421+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-09_04_30PM.pdf",
+  "fetched_slot": "2026-07-09T16:30:00-04:00",
+  "polled_at_utc": "2026-07-09T20:30:37.043541+00:00"
 }
