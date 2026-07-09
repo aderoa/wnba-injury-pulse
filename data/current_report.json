@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/09/26 04:30 PM",
+  "report_ts": "07/09/26 04:45 PM",
   "page_count": 2,
-  "raw_line_count": 31,
+  "raw_line_count": 34,
   "teams": [
     {
       "team_full": "Seattle Storm",
@@ -175,7 +175,36 @@
       "game_time": "07:30(ET)",
       "matchup": "DAL@TOR",
       "submitted": false,
-      "players": []
+      "players": [
+        {
+          "name_last_first": "TorontoTempo Fagbenle, Temi",
+          "name": "Temi TorontoTempo Fagbenle",
+          "status": "Out",
+          "reason": "Concussion Protocol",
+          "reason_category": "procedural"
+        },
+        {
+          "name_last_first": "Rice, Kiki",
+          "name": "Kiki Rice",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sabally, Nyara",
+          "name": "Nyara Sabally",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Knee; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sykes, Brittney",
+          "name": "Brittney Sykes",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Foot; Injury",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Golden State Valkyries",
@@ -236,7 +265,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-09_04_30PM.pdf",
-  "fetched_slot": "2026-07-09T16:30:00-04:00",
-  "polled_at_utc": "2026-07-09T20:30:37.043541+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-09_04_45PM.pdf",
+  "fetched_slot": "2026-07-09T16:45:00-04:00",
+  "polled_at_utc": "2026-07-09T20:45:34.612944+00:00"
 }
