@@ -11461,5 +11461,103 @@
     "from_reason": "Coach's Decision",
     "to_reason": "Injury/Illness - Left Knee; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-09T00:00:38.053066+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Alyssa Thomas",
+    "status": "Probable",
+    "reason": "Injury/Illness - Left Foot;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-09T00:00:38.053066+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Noemie Brochant",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Left Ankle;-"
+  },
+  {
+    "ts": "2026-07-09T00:00:38.053066+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Shay Ciezki",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental Player"
+  },
+  {
+    "ts": "2026-07-09T00:00:38.053066+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Temi TorontoTempo Fagbenle",
+    "previous_status": "Out",
+    "previous_reason": "Concussion Protocol"
+  },
+  {
+    "ts": "2026-07-09T00:00:38.053066+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Kiki Rice",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Ankle; Injury"
+  },
+  {
+    "ts": "2026-07-09T00:00:38.053066+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Brittney Sykes",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Foot; Injury"
+  },
+  {
+    "ts": "2026-07-09T00:00:38.053066+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "Sami Whitcomb",
+    "from_status": "Out",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Left Knee; Arthroscopy",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-09T00:00:38.053066+00:00",
+    "type": "added",
+    "team_abbr": "LVA",
+    "player": "Justine Pissott",
+    "status": "Out",
+    "reason": "Not With Team",
+    "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-07-09T00:00:38.053066+00:00",
+    "type": "reason_change",
+    "team_abbr": "LVA",
+    "player": "Janiah Barker",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Right Leg; rightleg",
+    "to_reason": "Injury/Illness - Right Leg; injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-09T00:00:38.053066+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "A'ja Wilson",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Right Leg; leg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-09T00:00:38.053066+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Dana Evans",
+    "from_status": "Out",
+    "to_status": "Doubtful",
+    "reason": "Injury/Illness - Left Leg; ijjury",
+    "reason_category": "injury"
   }
 ]

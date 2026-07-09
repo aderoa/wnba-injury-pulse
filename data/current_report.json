@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/08/26 07:45 PM",
+  "report_ts": "07/08/26 08:00 PM",
   "page_count": 2,
-  "raw_line_count": 29,
+  "raw_line_count": 36,
   "teams": [
     {
       "team_full": "Golden State Valkyries",
@@ -228,8 +228,30 @@
       "game_date": "07/09/2026",
       "game_time": "10:00(ET)",
       "matchup": "IND@PHX",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Mack, Natasha",
+          "name": "Natasha Mack",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Foot;-",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Thomas, Alyssa",
+          "name": "Alyssa Thomas",
+          "status": "Probable",
+          "reason": "Injury/Illness - Left Foot;-",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Whitcomb, Sami",
+          "name": "Sami Whitcomb",
+          "status": "Probable",
+          "reason": "Injury/Illness - Left Knee; Arthroscopy",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Las Vegas Aces",
@@ -237,8 +259,37 @@
       "game_date": "07/09/2026",
       "game_time": "10:00(ET)",
       "matchup": "LVA@PDX",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Barker, Janiah",
+          "name": "Janiah Barker",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Leg; injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Evans, Dana",
+          "name": "Dana Evans",
+          "status": "Doubtful",
+          "reason": "Injury/Illness - Left Leg; ijjury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Pissott, Justine",
+          "name": "Justine Pissott",
+          "status": "Out",
+          "reason": "Not With Team",
+          "reason_category": "offcourt"
+        },
+        {
+          "name_last_first": "Wilson, A'ja",
+          "name": "A'ja Wilson",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Leg; leg",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Portland Fire",
@@ -265,7 +316,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-08_07_45PM.pdf",
-  "fetched_slot": "2026-07-08T19:45:00-04:00",
-  "polled_at_utc": "2026-07-08T23:45:35.305917+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-08_08_00PM.pdf",
+  "fetched_slot": "2026-07-08T20:00:00-04:00",
+  "polled_at_utc": "2026-07-09T00:00:38.053066+00:00"
 }
