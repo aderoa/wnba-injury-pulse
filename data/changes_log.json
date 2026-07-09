@@ -11588,5 +11588,34 @@
     "to_status": "Available",
     "reason": "-",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-07-09T20:00:32.672890+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Sophie Cunningham",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Back; Backspasms",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-09T20:00:32.672890+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Available",
+    "to_status": "Out",
+    "reason": "Rest",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-07-09T20:00:32.672890+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Aliyah Boston",
+    "from_status": "Out",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Right Lower Leg; Right lowerleg",
+    "reason_category": "injury"
   }
 ]

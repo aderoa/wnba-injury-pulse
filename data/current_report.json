@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/09/26 03:45 PM",
+  "report_ts": "07/09/26 04:00 PM",
   "page_count": 2,
-  "raw_line_count": 23,
+  "raw_line_count": 27,
   "teams": [
     {
       "team_full": "Seattle Storm",
@@ -50,8 +50,30 @@
       "game_date": "07/09/2026",
       "game_time": "10:00(ET)",
       "matchup": "IND@PHX",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Boston, Aliyah",
+          "name": "Aliyah Boston",
+          "status": "Probable",
+          "reason": "Injury/Illness - Right Lower Leg; Right lowerleg",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Clark, Caitlin",
+          "name": "Caitlin Clark",
+          "status": "Out",
+          "reason": "Rest",
+          "reason_category": "other"
+        },
+        {
+          "name_last_first": "Cunningham, Sophie",
+          "name": "Sophie Cunningham",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Back; Backspasms",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Phoenix Mercury",
@@ -192,7 +214,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-09_03_45PM.pdf",
-  "fetched_slot": "2026-07-09T15:45:00-04:00",
-  "polled_at_utc": "2026-07-09T19:45:38.045843+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-09_04_00PM.pdf",
+  "fetched_slot": "2026-07-09T16:00:00-04:00",
+  "polled_at_utc": "2026-07-09T20:00:32.672890+00:00"
 }
