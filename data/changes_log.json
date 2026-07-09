@@ -11736,5 +11736,33 @@
     "player": "Brittney Sykes",
     "previous_status": "Out",
     "previous_reason": "Injury/Illness - Left Foot; Injury"
+  },
+  {
+    "ts": "2026-07-09T23:00:33.634859+00:00",
+    "type": "added",
+    "team_abbr": "ATL",
+    "player": "Indya Nivar",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-09T23:00:33.634859+00:00",
+    "type": "added",
+    "team_abbr": "ATL",
+    "player": "Jaylyn Sherrod",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-09T23:00:33.634859+00:00",
+    "type": "status_change",
+    "team_abbr": "ATL",
+    "player": "Aaliyah Nye",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Knee; N/A",
+    "reason_category": "injury"
   }
 ]

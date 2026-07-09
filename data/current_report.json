@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/09/26 06:45 PM",
+  "report_ts": "07/09/26 07:00 PM",
   "page_count": 2,
-  "raw_line_count": 33,
+  "raw_line_count": 35,
   "teams": [
     {
       "team_full": "Seattle Storm",
@@ -36,11 +36,25 @@
           "reason_category": "injury"
         },
         {
+          "name_last_first": "Nivar, Indya",
+          "name": "Indya Nivar",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Nye, Aaliyah",
           "name": "Aaliyah Nye",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Left Knee; N/A",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sherrod, Jaylyn",
+          "name": "Jaylyn Sherrod",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -273,7 +287,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-09_06_45PM.pdf",
-  "fetched_slot": "2026-07-09T18:45:00-04:00",
-  "polled_at_utc": "2026-07-09T22:45:32.781873+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-09_07_00PM.pdf",
+  "fetched_slot": "2026-07-09T19:00:00-04:00",
+  "polled_at_utc": "2026-07-09T23:00:33.634859+00:00"
 }
