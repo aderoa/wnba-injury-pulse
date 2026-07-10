@@ -11988,5 +11988,31 @@
     "status": "Out",
     "reason": "Not With Team",
     "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-07-10T22:00:59.026531+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Rebecca Allen",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Nose; Nose",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-10T22:00:59.026531+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Pauline Astier",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Left Ankle; L.Ankle",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-10T22:00:59.026531+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Olivia Miles",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Right Calf; Right Calf"
   }
 ]

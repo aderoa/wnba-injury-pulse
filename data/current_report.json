@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/10/26 05:45 PM",
+  "report_ts": "07/10/26 06:00 PM",
   "page_count": 2,
-  "raw_line_count": 27,
+  "raw_line_count": 31,
   "teams": [
     {
       "team_full": "Golden State Valkyries",
@@ -105,8 +105,37 @@
       "game_date": "07/11/2026",
       "game_time": "01:00(ET)",
       "matchup": "NYL@MIN",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Allen, Rebecca",
+          "name": "Rebecca Allen",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Nose; Nose",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Astier, Pauline",
+          "name": "Pauline Astier",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Ankle; L.Ankle",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Fiebich, Leonie",
+          "name": "Leonie Fiebich",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Foot; Soreness",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sabally, Satou",
+          "name": "Satou Sabally",
+          "status": "Out",
+          "reason": "Concussion Protocol",
+          "reason_category": "procedural"
+        }
+      ]
     },
     {
       "team_full": "Minnesota Lynx",
@@ -114,8 +143,23 @@
       "game_date": "07/11/2026",
       "game_time": "01:00(ET)",
       "matchup": "NYL@MIN",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Cechova, Emma",
+          "name": "Emma Cechova",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; Right Knee",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Collier, Napheesa",
+          "name": "Napheesa Collier",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; Left Ankle",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Portland Fire",
@@ -191,7 +235,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-10_05_45PM.pdf",
-  "fetched_slot": "2026-07-10T17:45:00-04:00",
-  "polled_at_utc": "2026-07-10T21:46:00.056405+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-10_06_00PM.pdf",
+  "fetched_slot": "2026-07-10T18:00:00-04:00",
+  "polled_at_utc": "2026-07-10T22:00:59.026531+00:00"
 }
