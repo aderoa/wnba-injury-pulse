@@ -1,8 +1,60 @@
 {
-  "report_ts": "07/10/26 06:00 PM",
+  "report_ts": "07/10/26 06:15 PM",
   "page_count": 2,
-  "raw_line_count": 31,
+  "raw_line_count": 33,
   "teams": [
+    {
+      "team_full": "Dallas Wings",
+      "team_abbr": "DAL",
+      "game_date": "07/10/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "DAL@TOR",
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Jones, Haley",
+          "name": "Haley Jones",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Verona, Costanza",
+          "name": "Costanza Verona",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "TorontoTempo Fagbenle, Temi",
+          "name": "Temi TorontoTempo Fagbenle",
+          "status": "Out",
+          "reason": "Concussion Protocol",
+          "reason_category": "procedural"
+        },
+        {
+          "name_last_first": "Rice, Kiki",
+          "name": "Kiki Rice",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sabally, Nyara",
+          "name": "Nyara Sabally",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sykes, Brittney",
+          "name": "Brittney Sykes",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Foot; Injury",
+          "reason_category": "injury"
+        }
+      ]
+    },
     {
       "team_full": "Golden State Valkyries",
       "team_abbr": "GSV",
@@ -235,7 +287,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-10_06_00PM.pdf",
-  "fetched_slot": "2026-07-10T18:00:00-04:00",
-  "polled_at_utc": "2026-07-10T22:00:59.026531+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-10_06_15PM.pdf",
+  "fetched_slot": "2026-07-10T18:15:00-04:00",
+  "polled_at_utc": "2026-07-10T22:15:56.577563+00:00"
 }

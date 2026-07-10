@@ -12014,5 +12014,39 @@
     "player": "Olivia Miles",
     "previous_status": "Out",
     "previous_reason": "Injury/Illness - Right Calf; Right Calf"
+  },
+  {
+    "ts": "2026-07-10T22:15:56.577563+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Temi TorontoTempo Fagbenle",
+    "status": "Out",
+    "reason": "Concussion Protocol",
+    "reason_category": "procedural"
+  },
+  {
+    "ts": "2026-07-10T22:15:56.577563+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Nyara Sabally",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Knee; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-10T22:15:56.577563+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Julie TorontoTempo Allemand",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Ankle; Injury"
+  },
+  {
+    "ts": "2026-07-10T22:15:56.577563+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Temi Fagbenle",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Eye; Injury"
   }
 ]
