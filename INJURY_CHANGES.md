@@ -4,6 +4,14 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-07-10 01:30 UTC
+
+- **Aliyah Boston** (IND): **Probable** → **Available** — Injury/Illness - Right Lower Leg; Right lowerleg
+- **Sophie Cunningham** (IND): **Questionable** → **Available** — Injury/Illness - Back; Backspasms
+- **Ta'Niya Latson** (LVA) newly listed as **Out** — Not With Team
+- **A'ja Wilson** (LVA): **Questionable** → **Available** — Injury/Illness - Right Leg; leg
+- **Dana Evans** (LVA): **Doubtful** → **Out** — Injury/Illness - Left Leg; injury
+
 ## 2026-07-10 01:16 UTC
 
 - **Quionche Carter** (PHX) newly listed as **Out** — Coach's Decision - Developmental

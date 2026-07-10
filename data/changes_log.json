@@ -11837,5 +11837,54 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Left Middle Finger; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-10T01:30:58.895023+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Aliyah Boston",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Lower Leg; Right lowerleg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-10T01:30:58.895023+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Sophie Cunningham",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Back; Backspasms",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-10T01:30:58.895023+00:00",
+    "type": "added",
+    "team_abbr": "LVA",
+    "player": "Ta'Niya Latson",
+    "status": "Out",
+    "reason": "Not With Team",
+    "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-07-10T01:30:58.895023+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "A'ja Wilson",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Leg; leg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-10T01:30:58.895023+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Dana Evans",
+    "from_status": "Doubtful",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Leg; injury",
+    "reason_category": "injury"
   }
 ]
