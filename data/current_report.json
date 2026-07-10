@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/10/26 05:30 PM",
+  "report_ts": "07/10/26 05:45 PM",
   "page_count": 2,
-  "raw_line_count": 25,
+  "raw_line_count": 27,
   "teams": [
     {
       "team_full": "Golden State Valkyries",
@@ -126,6 +126,13 @@
       "submitted": true,
       "players": [
         {
+          "name_last_first": "Barker, SarahAshlee",
+          "name": "SarahAshlee Barker",
+          "status": "Out",
+          "reason": "Not With Team",
+          "reason_category": "offcourt"
+        },
+        {
           "name_last_first": "Feagin, Sania",
           "name": "Sania Feagin",
           "status": "Out",
@@ -184,7 +191,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-10_05_30PM.pdf",
-  "fetched_slot": "2026-07-10T17:30:00-04:00",
-  "polled_at_utc": "2026-07-10T21:44:37.592684+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-10_05_45PM.pdf",
+  "fetched_slot": "2026-07-10T17:45:00-04:00",
+  "polled_at_utc": "2026-07-10T21:46:00.056405+00:00"
 }
