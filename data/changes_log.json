@@ -11936,5 +11936,48 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Left Middle Finger; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-10T21:01:08.233173+00:00",
+    "type": "added",
+    "team_abbr": "ATL",
+    "player": "Angel Reese",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Left Leg; N/A",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-10T21:01:08.233173+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Indya Nivar",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-07-10T21:01:08.233173+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Aaliyah Nye",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Knee; N/A"
+  },
+  {
+    "ts": "2026-07-10T21:01:08.233173+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Jaylyn Sherrod",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-07-10T21:01:08.233173+00:00",
+    "type": "status_change",
+    "team_abbr": "ATL",
+    "player": "Brionna Jones",
+    "from_status": "Out",
+    "to_status": "Doubtful",
+    "reason": "Injury/Illness - Right Knee; N/A",
+    "reason_category": "injury"
   }
 ]
