@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/10/26 06:30 PM",
+  "report_ts": "07/10/26 06:45 PM",
   "page_count": 2,
-  "raw_line_count": 33,
+  "raw_line_count": 34,
   "teams": [
     {
       "team_full": "Dallas Wings",
@@ -86,6 +86,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Quad; Strain",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Jackson, Ashlon",
+          "name": "Ashlon Jackson",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         },
         {
           "name_last_first": "Morrow, Aneesah",
@@ -287,7 +294,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-10_06_30PM.pdf",
-  "fetched_slot": "2026-07-10T18:30:00-04:00",
-  "polled_at_utc": "2026-07-10T22:43:58.037753+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-10_06_45PM.pdf",
+  "fetched_slot": "2026-07-10T18:45:00-04:00",
+  "polled_at_utc": "2026-07-10T22:46:04.588408+00:00"
 }
