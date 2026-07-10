@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/10/26 06:45 PM",
+  "report_ts": "07/10/26 07:00 PM",
   "page_count": 2,
-  "raw_line_count": 34,
+  "raw_line_count": 37,
   "teams": [
     {
       "team_full": "Dallas Wings",
@@ -26,8 +26,15 @@
           "reason_category": "rest_coach"
         },
         {
-          "name_last_first": "TorontoTempo Fagbenle, Temi",
-          "name": "Temi TorontoTempo Fagbenle",
+          "name_last_first": "TorontoTempo Bankole, Ornella",
+          "name": "Ornella TorontoTempo Bankole",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Fagbenle, Temi",
+          "name": "Temi Fagbenle",
           "status": "Out",
           "reason": "Concussion Protocol",
           "reason_category": "procedural"
@@ -64,10 +71,24 @@
       "submitted": true,
       "players": [
         {
+          "name_last_first": "Prechtel, Ashten",
+          "name": "Ashten Prechtel",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Sowah, Miela",
+          "name": "Miela Sowah",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Williams, Gabby",
           "name": "Gabby Williams",
-          "status": "Questionable",
-          "reason": "Injury/Illness - back; Contusion",
+          "status": "Out",
+          "reason": "Injury/Illness - Back; Contusion",
           "reason_category": "injury"
         }
       ]
@@ -294,7 +315,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-10_06_45PM.pdf",
-  "fetched_slot": "2026-07-10T18:45:00-04:00",
-  "polled_at_utc": "2026-07-10T22:46:04.588408+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-10_07_00PM.pdf",
+  "fetched_slot": "2026-07-10T19:00:00-04:00",
+  "polled_at_utc": "2026-07-10T23:00:59.641000+00:00"
 }

@@ -12057,5 +12057,59 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-10T23:00:59.641000+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Ornella TorontoTempo Bankole",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-10T23:00:59.641000+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Temi Fagbenle",
+    "status": "Out",
+    "reason": "Concussion Protocol",
+    "reason_category": "procedural"
+  },
+  {
+    "ts": "2026-07-10T23:00:59.641000+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Temi TorontoTempo Fagbenle",
+    "previous_status": "Out",
+    "previous_reason": "Concussion Protocol"
+  },
+  {
+    "ts": "2026-07-10T23:00:59.641000+00:00",
+    "type": "added",
+    "team_abbr": "GSV",
+    "player": "Ashten Prechtel",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-10T23:00:59.641000+00:00",
+    "type": "added",
+    "team_abbr": "GSV",
+    "player": "Miela Sowah",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-10T23:00:59.641000+00:00",
+    "type": "status_change",
+    "team_abbr": "GSV",
+    "player": "Gabby Williams",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Back; Contusion",
+    "reason_category": "injury"
   }
 ]
