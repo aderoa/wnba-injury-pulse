@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/09/26 09:00 PM",
+  "report_ts": "07/09/26 09:15 PM",
   "page_count": 2,
-  "raw_line_count": 39,
+  "raw_line_count": 46,
   "teams": [
     {
       "team_full": "Seattle Storm",
@@ -98,6 +98,20 @@
       "submitted": true,
       "players": [
         {
+          "name_last_first": "Carter, Quionche",
+          "name": "Quionche Carter",
+          "status": "Out",
+          "reason": "Coach's Decision - Developmental",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Ciezki, Shay",
+          "name": "Shay Ciezki",
+          "status": "Out",
+          "reason": "Player Coach's Decision - Developmental Player",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Mack, Natasha",
           "name": "Natasha Mack",
           "status": "Out",
@@ -107,14 +121,14 @@
         {
           "name_last_first": "Thomas, Alyssa",
           "name": "Alyssa Thomas",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness - Left Foot;-",
           "reason_category": "injury"
         },
         {
           "name_last_first": "Whitcomb, Sami",
           "name": "Sami Whitcomb",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness - Left Knee; Arthroscopy",
           "reason_category": "injury"
         }
@@ -174,9 +188,16 @@
           "reason_category": "injury"
         },
         {
+          "name_last_first": "Harrison, Jordan",
+          "name": "Jordan Harrison",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Samuelson, Karlie",
           "name": "Karlie Samuelson",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Left Middle Finger; Injury",
           "reason_category": "injury"
         }
@@ -317,7 +338,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-09_09_00PM.pdf",
-  "fetched_slot": "2026-07-09T21:00:00-04:00",
-  "polled_at_utc": "2026-07-10T01:00:25.754473+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-09_09_15PM.pdf",
+  "fetched_slot": "2026-07-09T21:15:00-04:00",
+  "polled_at_utc": "2026-07-10T01:16:04.599448+00:00"
 }

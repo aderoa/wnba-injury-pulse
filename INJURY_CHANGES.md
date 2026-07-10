@@ -4,6 +4,15 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-07-10 01:16 UTC
+
+- **Quionche Carter** (PHX) newly listed as **Out** — Coach's Decision - Developmental
+- **Shay Ciezki** (PHX) newly listed as **Out** — Player Coach's Decision - Developmental Player
+- **Alyssa Thomas** (PHX): **Probable** → **Available** — Injury/Illness - Left Foot;-
+- **Sami Whitcomb** (PHX): **Probable** → **Available** — Injury/Illness - Left Knee; Arthroscopy
+- **Jordan Harrison** (PDX) newly listed as **Out** — Coach's Decision
+- **Karlie Samuelson** (PDX): **Questionable** → **Available** — Injury/Illness - Left Middle Finger; Injury
+
 ## 2026-07-09 23:30 UTC
 
 - **Chloe Bibby** (CHI) cleared (was Out)
