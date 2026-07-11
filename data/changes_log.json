@@ -12155,5 +12155,39 @@
     "from_reason": "Injury/Illness - Right Leg; injury",
     "to_reason": "Injury/Illness - Right Leg; R.Leg",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-11T00:15:55.144917+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Quionche Carter",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental"
+  },
+  {
+    "ts": "2026-07-11T00:15:55.144917+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Shay Ciezki",
+    "previous_status": "Out",
+    "previous_reason": "Player Coach's Decision - Developmental Player"
+  },
+  {
+    "ts": "2026-07-11T00:15:55.144917+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Alyssa Thomas",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Left Foot;-"
+  },
+  {
+    "ts": "2026-07-11T00:15:55.144917+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "Sami Whitcomb",
+    "from_status": "Available",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Knee; Injury Management",
+    "reason_category": "injury"
   }
 ]
