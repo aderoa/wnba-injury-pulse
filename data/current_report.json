@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/11/26 05:45 PM",
+  "report_ts": "07/11/26 06:00 PM",
   "page_count": 3,
-  "raw_line_count": 53,
+  "raw_line_count": 52,
   "teams": [
     {
       "team_full": "New York Liberty",
@@ -349,15 +349,6 @@
       ]
     },
     {
-      "team_full": "Dallas Wings",
-      "team_abbr": "DAL",
-      "game_date": "07/12/2026",
-      "game_time": "07:00(ET)",
-      "matchup": "CHI@DAL",
-      "submitted": false,
-      "players": []
-    },
-    {
       "team_full": "Indiana Fever",
       "team_abbr": "IND",
       "game_date": "07/12/2026",
@@ -376,7 +367,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-11_05_45PM.pdf",
-  "fetched_slot": "2026-07-11T17:45:00-04:00",
-  "polled_at_utc": "2026-07-11T21:54:26.838987+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-11_06_00PM.pdf",
+  "fetched_slot": "2026-07-11T18:00:00-04:00",
+  "polled_at_utc": "2026-07-11T22:01:07.996279+00:00"
 }
