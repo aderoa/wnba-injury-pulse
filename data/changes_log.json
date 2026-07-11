@@ -12189,5 +12189,23 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Left Knee; Injury Management",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-11T01:01:01.446410+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Chloe Bibby",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-11T01:01:01.446410+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Maddy Westbeld",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]

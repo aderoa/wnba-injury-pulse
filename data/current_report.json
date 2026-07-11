@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/10/26 08:45 PM",
-  "page_count": 2,
-  "raw_line_count": 41,
+  "report_ts": "07/10/26 09:00 PM",
+  "page_count": 3,
+  "raw_line_count": 43,
   "teams": [
     {
       "team_full": "Dallas Wings",
@@ -140,6 +140,13 @@
       "submitted": true,
       "players": [
         {
+          "name_last_first": "Bibby, Chloe",
+          "name": "Chloe Bibby",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Carrington, DiJonai",
           "name": "DiJonai Carrington",
           "status": "Out",
@@ -152,6 +159,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Right Knee; Right Knee",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Westbeld, Maddy",
+          "name": "Maddy Westbeld",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -345,7 +359,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-10_08_45PM.pdf",
-  "fetched_slot": "2026-07-10T20:45:00-04:00",
-  "polled_at_utc": "2026-07-11T00:45:59.818946+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-10_09_00PM.pdf",
+  "fetched_slot": "2026-07-10T21:00:00-04:00",
+  "polled_at_utc": "2026-07-11T01:01:01.446410+00:00"
 }
