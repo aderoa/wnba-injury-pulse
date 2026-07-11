@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/11/26 03:15 PM",
+  "report_ts": "07/11/26 03:30 PM",
   "page_count": 2,
-  "raw_line_count": 36,
+  "raw_line_count": 38,
   "teams": [
     {
       "team_full": "New York Liberty",
@@ -116,9 +116,16 @@
           "reason_category": "injury"
         },
         {
+          "name_last_first": "Harrison, Jordan",
+          "name": "Jordan Harrison",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Samuelson, Karlie",
           "name": "Karlie Samuelson",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Left Middle Finger; Injury",
           "reason_category": "injury"
         }
@@ -142,9 +149,16 @@
         {
           "name_last_first": "Reese, Angel",
           "name": "Angel Reese",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Right Leg; N/A",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sherrod, Jaylyn",
+          "name": "Jaylyn Sherrod",
+          "status": "Out",
+          "reason": "Coach's Decision - N/A",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -267,7 +281,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-11_03_15PM.pdf",
-  "fetched_slot": "2026-07-11T15:15:00-04:00",
-  "polled_at_utc": "2026-07-11T19:16:08.294638+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-11_03_30PM.pdf",
+  "fetched_slot": "2026-07-11T15:30:00-04:00",
+  "polled_at_utc": "2026-07-11T19:31:08.543793+00:00"
 }
