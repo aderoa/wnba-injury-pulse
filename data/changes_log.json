@@ -12422,5 +12422,52 @@
     "status": "Out",
     "reason": "Injury/Illness - Face; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-11T21:31:07.276921+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Quionche Carter",
+    "status": "Out",
+    "reason": "Coach's Decision - Developmental",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-11T21:31:07.276921+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Shay Ciezki",
+    "status": "Out",
+    "reason": "Player Coach's Decision - Developmental Player",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-11T21:31:07.276921+00:00",
+    "type": "added",
+    "team_abbr": "LVA",
+    "player": "Ta'Niya Latson",
+    "status": "Out",
+    "reason": "Coach's Decision - Developmental Player",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-11T21:31:07.276921+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Dana Evans",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Leg; L.Leg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-11T21:31:07.276921+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Jackie Young",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - N/a; illness",
+    "reason_category": "injury"
   }
 ]

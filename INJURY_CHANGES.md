@@ -4,6 +4,14 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-07-11 21:31 UTC
+
+- **Quionche Carter** (PHX) newly listed as **Out** — Coach's Decision - Developmental
+- **Shay Ciezki** (PHX) newly listed as **Out** — Player Coach's Decision - Developmental Player
+- **Ta'Niya Latson** (LVA) newly listed as **Out** — Coach's Decision - Developmental Player
+- **Dana Evans** (LVA): **Questionable** → **Out** — Injury/Illness - Left Leg; L.Leg
+- **Jackie Young** (LVA): **Questionable** → **Available** — Injury/Illness - N/a; illness
+
 ## 2026-07-11 21:01 UTC
 
 - **Temi TorontoTempo Fagbenle** (NYL) newly listed as **Out** — Concussion Protocol
