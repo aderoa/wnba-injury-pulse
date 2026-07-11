@@ -1,5 +1,5 @@
 {
-  "report_ts": "07/11/26 11:30 AM",
+  "report_ts": "07/11/26 11:45 AM",
   "page_count": 2,
   "raw_line_count": 27,
   "teams": [
@@ -14,14 +14,14 @@
         {
           "name_last_first": "Allen, Rebecca",
           "name": "Rebecca Allen",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Nose; Nose",
           "reason_category": "injury"
         },
         {
           "name_last_first": "Astier, Pauline",
           "name": "Pauline Astier",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Left Ankle; L.Ankle",
           "reason_category": "injury"
         },
@@ -232,7 +232,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-11_11_30AM.pdf",
-  "fetched_slot": "2026-07-11T11:30:00-04:00",
-  "polled_at_utc": "2026-07-11T15:31:07.708703+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-11_11_45AM.pdf",
+  "fetched_slot": "2026-07-11T11:45:00-04:00",
+  "polled_at_utc": "2026-07-11T15:46:10.947855+00:00"
 }

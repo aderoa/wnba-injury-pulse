@@ -12207,5 +12207,25 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-11T15:46:10.947855+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Rebecca Allen",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Nose; Nose",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-11T15:46:10.947855+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Pauline Astier",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Ankle; L.Ankle",
+    "reason_category": "injury"
   }
 ]
