@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/11/26 01:45 PM",
+  "report_ts": "07/11/26 02:00 PM",
   "page_count": 2,
-  "raw_line_count": 34,
+  "raw_line_count": 35,
   "teams": [
     {
       "team_full": "New York Liberty",
@@ -186,6 +186,13 @@
           "status": "Questionable",
           "reason": "Injury/Illness - Left Leg; L.Leg",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Young, Jackie",
+          "name": "Jackie Young",
+          "status": "Questionable",
+          "reason": "Injury/Illness - N/a; illness",
+          "reason_category": "injury"
         }
       ]
     },
@@ -253,7 +260,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-11_01_45PM.pdf",
-  "fetched_slot": "2026-07-11T13:45:00-04:00",
-  "polled_at_utc": "2026-07-11T17:46:11.977735+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-11_02_00PM.pdf",
+  "fetched_slot": "2026-07-11T14:00:00-04:00",
+  "polled_at_utc": "2026-07-11T18:01:08.315083+00:00"
 }

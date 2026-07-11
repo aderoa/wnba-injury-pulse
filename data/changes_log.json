@@ -12254,5 +12254,14 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-11T18:01:08.315083+00:00",
+    "type": "added",
+    "team_abbr": "LVA",
+    "player": "Jackie Young",
+    "status": "Questionable",
+    "reason": "Injury/Illness - N/a; illness",
+    "reason_category": "injury"
   }
 ]
