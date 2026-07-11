@@ -4,6 +4,14 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-07-11 21:01 UTC
+
+- **Temi TorontoTempo Fagbenle** (NYL) newly listed as **Out** — Concussion Protocol
+- **Kiki Rice** (NYL) newly listed as **Out** — Injury/Illness - Left Ankle; Injury
+- **Nyara Sabally** (NYL) newly listed as **Questionable** — Injury/Illness - Left Knee; Injury
+- **Brittney Sykes** (NYL) newly listed as **Out** — Injury/Illness - Left Foot; Injury
+- **Ezi Magbegor** (SEA) newly listed as **Out** — Injury/Illness - Face; Injury
+
 ## 2026-07-11 20:46 UTC
 
 - **Alicia Florez** (WAS) newly listed as **Questionable** — Injury/Illness - Neck; Soreness
