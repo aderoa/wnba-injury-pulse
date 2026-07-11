@@ -12227,5 +12227,32 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Left Ankle; L.Ankle",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-11T16:01:08.746266+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Marine Fauthoux",
+    "status": "Out",
+    "reason": "Coach's Decision - Developmental Player",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-11T16:01:08.746266+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Anneli Maley",
+    "status": "Out",
+    "reason": "Coach's Decision - Developmental Player",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-11T16:01:08.746266+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Liatu King",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
