@@ -12263,5 +12263,34 @@
     "status": "Questionable",
     "reason": "Injury/Illness - N/a; illness",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-11T18:31:11.077497+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Maya Caldwell",
+    "status": "Doubtful",
+    "reason": "Injury/Illness - N/a; Migraine",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-11T18:31:11.077497+00:00",
+    "type": "status_change",
+    "team_abbr": "ATL",
+    "player": "Brionna Jones",
+    "from_status": "Doubtful",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Knee; N/A",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-11T18:31:11.077497+00:00",
+    "type": "reason_change",
+    "team_abbr": "ATL",
+    "player": "Angel Reese",
+    "status": "Questionable",
+    "from_reason": "Injury/Illness - Left Leg; N/A",
+    "to_reason": "Injury/Illness - Right Leg; N/A",
+    "reason_category": "injury"
   }
 ]

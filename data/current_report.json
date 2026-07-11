@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/11/26 02:00 PM",
+  "report_ts": "07/11/26 02:30 PM",
   "page_count": 2,
-  "raw_line_count": 35,
+  "raw_line_count": 36,
   "teams": [
     {
       "team_full": "New York Liberty",
@@ -63,6 +63,13 @@
       "matchup": "NYL@MIN",
       "submitted": true,
       "players": [
+        {
+          "name_last_first": "Caldwell, Maya",
+          "name": "Maya Caldwell",
+          "status": "Doubtful",
+          "reason": "Injury/Illness - N/a; Migraine",
+          "reason_category": "injury"
+        },
         {
           "name_last_first": "Cechova, Emma",
           "name": "Emma Cechova",
@@ -128,7 +135,7 @@
         {
           "name_last_first": "Jones, Brionna",
           "name": "Brionna Jones",
-          "status": "Doubtful",
+          "status": "Out",
           "reason": "Injury/Illness - Right Knee; N/A",
           "reason_category": "injury"
         },
@@ -136,7 +143,7 @@
           "name_last_first": "Reese, Angel",
           "name": "Angel Reese",
           "status": "Questionable",
-          "reason": "Injury/Illness - Left Leg; N/A",
+          "reason": "Injury/Illness - Right Leg; N/A",
           "reason_category": "injury"
         }
       ]
@@ -260,7 +267,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-11_02_00PM.pdf",
-  "fetched_slot": "2026-07-11T14:00:00-04:00",
-  "polled_at_utc": "2026-07-11T18:16:08.454045+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-11_02_30PM.pdf",
+  "fetched_slot": "2026-07-11T14:30:00-04:00",
+  "polled_at_utc": "2026-07-11T18:31:11.077497+00:00"
 }
