@@ -12330,5 +12330,15 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Right Leg; N/A",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-11T19:46:07.002130+00:00",
+    "type": "status_change",
+    "team_abbr": "MIN",
+    "player": "Maya Caldwell",
+    "from_status": "Doubtful",
+    "to_status": "Available",
+    "reason": "Injury/Illness - N/a; Migraine",
+    "reason_category": "injury"
   }
 ]

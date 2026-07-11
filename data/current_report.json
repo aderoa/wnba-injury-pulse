@@ -1,5 +1,5 @@
 {
-  "report_ts": "07/11/26 03:30 PM",
+  "report_ts": "07/11/26 03:45 PM",
   "page_count": 2,
   "raw_line_count": 38,
   "teams": [
@@ -66,7 +66,7 @@
         {
           "name_last_first": "Caldwell, Maya",
           "name": "Maya Caldwell",
-          "status": "Doubtful",
+          "status": "Available",
           "reason": "Injury/Illness - N/a; Migraine",
           "reason_category": "injury"
         },
@@ -281,7 +281,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-11_03_30PM.pdf",
-  "fetched_slot": "2026-07-11T15:30:00-04:00",
-  "polled_at_utc": "2026-07-11T19:31:08.543793+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-11_03_45PM.pdf",
+  "fetched_slot": "2026-07-11T15:45:00-04:00",
+  "polled_at_utc": "2026-07-11T19:46:07.002130+00:00"
 }
