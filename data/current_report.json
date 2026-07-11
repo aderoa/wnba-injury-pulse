@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/11/26 04:30 PM",
+  "report_ts": "07/11/26 04:45 PM",
   "page_count": 2,
-  "raw_line_count": 38,
+  "raw_line_count": 39,
   "teams": [
     {
       "team_full": "New York Liberty",
@@ -241,8 +241,23 @@
       "game_date": "07/12/2026",
       "game_time": "03:00(ET)",
       "matchup": "SEA@WAS",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Citron, Sonia",
+          "name": "Sonia Citron",
+          "status": "Probable",
+          "reason": "Injury/Illness - Right Knee; Soreness",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Florez, Alicia",
+          "name": "Alicia Florez",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Neck; Soreness",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Chicago Sky",
@@ -281,7 +296,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-11_04_30PM.pdf",
-  "fetched_slot": "2026-07-11T16:30:00-04:00",
-  "polled_at_utc": "2026-07-11T20:31:08.951107+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-11_04_45PM.pdf",
+  "fetched_slot": "2026-07-11T16:45:00-04:00",
+  "polled_at_utc": "2026-07-11T20:46:09.528042+00:00"
 }
