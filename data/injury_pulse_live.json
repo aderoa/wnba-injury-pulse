@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-07-11T15:16:09.143298+00:00",
+  "polled_at_utc": "2026-07-11T15:16:43.255361+00:00",
   "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-11_11_15AM.pdf",
   "report_ts": "07/11/26 11:15 AM",
   "all_players": [
@@ -110,7 +110,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; Right Knee",
       "reason_category": "injury",
-      "last_updated": "2026-07-11T15:16:09.143298+00:00"
+      "last_updated": "2026-07-11T15:16:43.255361+00:00"
     },
     {
       "name": "Gabby Williams",
@@ -137,7 +137,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Leg; R.Leg",
       "reason_category": "injury",
-      "last_updated": "2026-07-11T15:16:09.143298+00:00"
+      "last_updated": "2026-07-11T15:16:43.255361+00:00"
     },
     {
       "name": "Kelsey Plum",
@@ -164,7 +164,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Foot; Soreness",
       "reason_category": "injury",
-      "last_updated": "2026-07-11T15:16:09.143298+00:00"
+      "last_updated": "2026-07-11T15:16:43.255361+00:00"
     },
     {
       "name": "Maddy Westbeld",
@@ -191,7 +191,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Ankle; Left Ankle",
       "reason_category": "injury",
-      "last_updated": "2026-07-11T15:16:09.143298+00:00"
+      "last_updated": "2026-07-11T15:16:43.255361+00:00"
     },
     {
       "name": "Natasha Mack",
@@ -200,7 +200,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Foot;-",
       "reason_category": "injury",
-      "last_updated": "2026-07-11T15:16:09.143298+00:00"
+      "last_updated": "2026-07-11T15:16:43.255361+00:00"
     },
     {
       "name": "Nyara Sabally",
@@ -227,7 +227,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-07-11T15:16:09.143298+00:00"
+      "last_updated": "2026-07-11T15:16:43.255361+00:00"
     },
     {
       "name": "Saniya Rivers",
@@ -245,7 +245,7 @@
       "status": "Out",
       "reason": "Not With Team",
       "reason_category": "offcourt",
-      "last_updated": "2026-07-11T15:16:09.143298+00:00"
+      "last_updated": "2026-07-11T15:16:43.255361+00:00"
     },
     {
       "name": "Satou Sabally",
@@ -254,7 +254,7 @@
       "status": "Out",
       "reason": "Concussion Protocol",
       "reason_category": "procedural",
-      "last_updated": "2026-07-11T15:16:09.143298+00:00"
+      "last_updated": "2026-07-11T15:16:43.255361+00:00"
     },
     {
       "name": "Skylar Diggins",
@@ -299,7 +299,7 @@
       "status": "Doubtful",
       "reason": "Injury/Illness - Right Knee; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-07-11T15:16:09.143298+00:00"
+      "last_updated": "2026-07-11T15:16:43.255361+00:00"
     },
     {
       "name": "Angel Reese",
@@ -308,7 +308,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Left Leg; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-07-11T15:16:09.143298+00:00"
+      "last_updated": "2026-07-11T15:16:43.255361+00:00"
     },
     {
       "name": "Dana Evans",
@@ -317,7 +317,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Left Leg; L.Leg",
       "reason_category": "injury",
-      "last_updated": "2026-07-11T15:16:09.143298+00:00"
+      "last_updated": "2026-07-11T15:16:43.255361+00:00"
     },
     {
       "name": "Karlie Samuelson",
@@ -326,7 +326,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Left Middle Finger; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-07-11T15:16:09.143298+00:00"
+      "last_updated": "2026-07-11T15:16:43.255361+00:00"
     },
     {
       "name": "Pauline Astier",
@@ -335,7 +335,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Left Ankle; L.Ankle",
       "reason_category": "injury",
-      "last_updated": "2026-07-11T15:16:09.143298+00:00"
+      "last_updated": "2026-07-11T15:16:43.255361+00:00"
     },
     {
       "name": "Rebecca Allen",
@@ -344,7 +344,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Nose; Nose",
       "reason_category": "injury",
-      "last_updated": "2026-07-11T15:16:09.143298+00:00"
+      "last_updated": "2026-07-11T15:16:43.255361+00:00"
     },
     {
       "name": "Sami Whitcomb",
@@ -353,7 +353,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Left Knee; Injury Management",
       "reason_category": "injury",
-      "last_updated": "2026-07-11T15:16:09.143298+00:00"
+      "last_updated": "2026-07-11T15:16:43.255361+00:00"
     },
     {
       "name": "Aliyah Boston",
@@ -378,7 +378,7 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-07-11T15:16:09.143298+00:00",
+      "last_submitted_ts": "2026-07-11T15:16:43.255361+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "PDX@ATL"
@@ -404,7 +404,7 @@
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
       "last_submitted_ts": "2026-07-11T03:45:57.976603+00:00",
-      "last_seen_pending_ts": "2026-07-11T15:16:09.143298+00:00",
+      "last_seen_pending_ts": "2026-07-11T15:16:43.255361+00:00",
       "matchups": [
         "CHI@LAS"
       ],
@@ -482,7 +482,7 @@
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
       "last_submitted_ts": "2026-07-11T03:45:57.976603+00:00",
-      "last_seen_pending_ts": "2026-07-11T15:16:09.143298+00:00",
+      "last_seen_pending_ts": "2026-07-11T15:16:43.255361+00:00",
       "matchups": [
         "DAL@TOR"
       ],
@@ -574,7 +574,7 @@
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
       "last_submitted_ts": "2026-07-10T03:45:56.729331+00:00",
-      "last_seen_pending_ts": "2026-07-11T15:16:09.143298+00:00",
+      "last_seen_pending_ts": "2026-07-11T15:16:43.255361+00:00",
       "matchups": [
         "IND@PHX"
       ],
@@ -630,7 +630,7 @@
     {
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
-      "last_submitted_ts": "2026-07-11T15:16:09.143298+00:00",
+      "last_submitted_ts": "2026-07-11T15:16:43.255361+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "PHX@LVA",
@@ -656,7 +656,7 @@
     {
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
-      "last_submitted_ts": "2026-07-11T15:16:09.143298+00:00",
+      "last_submitted_ts": "2026-07-11T15:16:43.255361+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "NYL@MIN"
@@ -681,7 +681,7 @@
     {
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
-      "last_submitted_ts": "2026-07-11T15:16:09.143298+00:00",
+      "last_submitted_ts": "2026-07-11T15:16:43.255361+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "NYL@MIN",
@@ -721,7 +721,7 @@
     {
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
-      "last_submitted_ts": "2026-07-11T15:16:09.143298+00:00",
+      "last_submitted_ts": "2026-07-11T15:16:43.255361+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "PDX@ATL"
@@ -753,7 +753,7 @@
     {
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
-      "last_submitted_ts": "2026-07-11T15:16:09.143298+00:00",
+      "last_submitted_ts": "2026-07-11T15:16:43.255361+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "PHX@LVA"
@@ -779,7 +779,7 @@
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
       "last_submitted_ts": "2026-07-10T03:45:56.729331+00:00",
-      "last_seen_pending_ts": "2026-07-11T15:16:09.143298+00:00",
+      "last_seen_pending_ts": "2026-07-11T15:16:43.255361+00:00",
       "matchups": [
         "SEA@ATL"
       ],
@@ -797,7 +797,7 @@
       "team_abbr": "WAS",
       "team_full": "Washington Mystics",
       "last_submitted_ts": "2026-07-07T03:45:29.189993+00:00",
-      "last_seen_pending_ts": "2026-07-11T15:16:09.143298+00:00",
+      "last_seen_pending_ts": "2026-07-11T15:16:43.255361+00:00",
       "matchups": [
         "GSV@WAS"
       ],
