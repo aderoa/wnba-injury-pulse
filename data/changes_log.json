@@ -12746,5 +12746,14 @@
     "player": "Liatu King",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-07-12T22:16:08.463431+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Chloe Bibby",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]

@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/12/26 06:00 PM",
+  "report_ts": "07/12/26 06:15 PM",
   "page_count": 2,
-  "raw_line_count": 34,
+  "raw_line_count": 35,
   "teams": [
     {
       "team_full": "New York Liberty",
@@ -125,6 +125,13 @@
       "matchup": "CHI@DAL",
       "submitted": true,
       "players": [
+        {
+          "name_last_first": "Bibby, Chloe",
+          "name": "Chloe Bibby",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
         {
           "name_last_first": "Carrington, DiJonai",
           "name": "DiJonai Carrington",
@@ -310,7 +317,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-12_06_00PM.pdf",
-  "fetched_slot": "2026-07-12T18:00:00-04:00",
-  "polled_at_utc": "2026-07-12T22:01:06.249212+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-12_06_15PM.pdf",
+  "fetched_slot": "2026-07-12T18:15:00-04:00",
+  "polled_at_utc": "2026-07-12T22:16:08.463431+00:00"
 }
