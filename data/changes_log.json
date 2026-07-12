@@ -12591,5 +12591,50 @@
     "status": "Out",
     "reason": "Coach's Decision - Developmental Player",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-12T20:01:10.928656+00:00",
+    "type": "added",
+    "team_abbr": "LVA",
+    "player": "Kierstan Bell",
+    "status": "Out",
+    "reason": "Injury/Illness - Right Leg; injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-12T20:01:10.928656+00:00",
+    "type": "cleared",
+    "team_abbr": "LVA",
+    "player": "Ta'Niya Latson",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental Player"
+  },
+  {
+    "ts": "2026-07-12T20:01:10.928656+00:00",
+    "type": "cleared",
+    "team_abbr": "LVA",
+    "player": "Jackie Young",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - N/a; illness"
+  },
+  {
+    "ts": "2026-07-12T20:01:10.928656+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Dana Evans",
+    "from_status": "Out",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Left Leg; injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-12T20:01:10.928656+00:00",
+    "type": "reason_change",
+    "team_abbr": "LVA",
+    "player": "Janiah Barker",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Right Leg; R.Leg",
+    "to_reason": "Injury/Illness - Right Leg; injury",
+    "reason_category": "injury"
   }
 ]

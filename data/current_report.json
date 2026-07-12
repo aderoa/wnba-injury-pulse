@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/12/26 03:45 PM",
+  "report_ts": "07/12/26 04:00 PM",
   "page_count": 2,
-  "raw_line_count": 22,
+  "raw_line_count": 24,
   "teams": [
     {
       "team_full": "New York Liberty",
@@ -164,8 +164,30 @@
       "game_date": "07/12/2026",
       "game_time": "09:00(ET)",
       "matchup": "IND@LVA",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Barker, Janiah",
+          "name": "Janiah Barker",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Leg; injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Bell, Kierstan",
+          "name": "Kierstan Bell",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Leg; injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Evans, Dana",
+          "name": "Dana Evans",
+          "status": "Probable",
+          "reason": "Injury/Illness - Left Leg; injury",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Los Angeles Sparks",
@@ -204,7 +226,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-12_03_45PM.pdf",
-  "fetched_slot": "2026-07-12T15:45:00-04:00",
-  "polled_at_utc": "2026-07-12T19:53:17.760046+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-12_04_00PM.pdf",
+  "fetched_slot": "2026-07-12T16:00:00-04:00",
+  "polled_at_utc": "2026-07-12T20:01:10.928656+00:00"
 }
