@@ -12582,5 +12582,14 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Right Knee; Soreness",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-12T19:01:08.247218+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Marine Fauthoux",
+    "status": "Out",
+    "reason": "Coach's Decision - Developmental Player",
+    "reason_category": "rest_coach"
   }
 ]

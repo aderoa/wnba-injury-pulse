@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/12/26 02:45 PM",
+  "report_ts": "07/12/26 03:00 PM",
   "page_count": 2,
-  "raw_line_count": 19,
+  "raw_line_count": 22,
   "teams": [
     {
       "team_full": "New York Liberty",
@@ -11,6 +11,13 @@
       "matchup": "NYL@TOR",
       "submitted": true,
       "players": [
+        {
+          "name_last_first": "Fauthoux, Marine",
+          "name": "Marine Fauthoux",
+          "status": "Out",
+          "reason": "Coach's Decision - Developmental Player",
+          "reason_category": "rest_coach"
+        },
         {
           "name_last_first": "Fiebich, Leonie",
           "name": "Leonie Fiebich",
@@ -197,7 +204,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-12_02_45PM.pdf",
-  "fetched_slot": "2026-07-12T14:45:00-04:00",
-  "polled_at_utc": "2026-07-12T18:46:08.561898+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-12_03_00PM.pdf",
+  "fetched_slot": "2026-07-12T15:00:00-04:00",
+  "polled_at_utc": "2026-07-12T19:01:08.247218+00:00"
 }
