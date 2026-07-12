@@ -1,5 +1,5 @@
 {
-  "report_ts": "07/11/26 07:45 PM",
+  "report_ts": "07/11/26 08:00 PM",
   "page_count": 3,
   "raw_line_count": 52,
   "teams": [
@@ -354,8 +354,16 @@
       "game_date": "07/12/2026",
       "game_time": "09:00(ET)",
       "matchup": "IND@LVA",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Clark, Caitlin",
+          "name": "Caitlin Clark",
+          "status": "Probable",
+          "reason": "Injury/Illness - Back; Back",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Las Vegas Aces",
@@ -367,7 +375,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-11_07_45PM.pdf",
-  "fetched_slot": "2026-07-11T19:45:00-04:00",
-  "polled_at_utc": "2026-07-11T23:59:22.234841+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-11_08_00PM.pdf",
+  "fetched_slot": "2026-07-11T20:00:00-04:00",
+  "polled_at_utc": "2026-07-12T00:01:34.052524+00:00"
 }

@@ -12485,5 +12485,31 @@
     "player": "Maddy Westbeld",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-07-12T00:01:34.052524+00:00",
+    "type": "cleared",
+    "team_abbr": "IND",
+    "player": "Aliyah Boston",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Right Lower Leg; Right lowerleg"
+  },
+  {
+    "ts": "2026-07-12T00:01:34.052524+00:00",
+    "type": "cleared",
+    "team_abbr": "IND",
+    "player": "Sophie Cunningham",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Back; Backspasms"
+  },
+  {
+    "ts": "2026-07-12T00:01:34.052524+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Out",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Back; Back",
+    "reason_category": "injury"
   }
 ]
