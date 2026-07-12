@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/12/26 02:00 PM",
+  "report_ts": "07/12/26 02:15 PM",
   "page_count": 2,
-  "raw_line_count": 18,
+  "raw_line_count": 19,
   "teams": [
     {
       "team_full": "New York Liberty",
@@ -90,16 +90,23 @@
         {
           "name_last_first": "Citron, Sonia",
           "name": "Sonia Citron",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness - Right Knee; Soreness",
           "reason_category": "injury"
         },
         {
           "name_last_first": "Florez, Alicia",
           "name": "Alicia Florez",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Neck; Soreness",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Littlepage-Buggs, Darianna",
+          "name": "Darianna Littlepage-Buggs",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -190,7 +197,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-12_02_00PM.pdf",
-  "fetched_slot": "2026-07-12T14:00:00-04:00",
-  "polled_at_utc": "2026-07-12T18:01:06.471964+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-12_02_15PM.pdf",
+  "fetched_slot": "2026-07-12T14:15:00-04:00",
+  "polled_at_utc": "2026-07-12T18:16:06.840945+00:00"
 }

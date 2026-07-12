@@ -12553,5 +12553,34 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Left Knee; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-12T18:16:06.840945+00:00",
+    "type": "added",
+    "team_abbr": "WAS",
+    "player": "Darianna Littlepage-Buggs",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-12T18:16:06.840945+00:00",
+    "type": "status_change",
+    "team_abbr": "WAS",
+    "player": "Alicia Florez",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Neck; Soreness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-12T18:16:06.840945+00:00",
+    "type": "status_change",
+    "team_abbr": "WAS",
+    "player": "Sonia Citron",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Knee; Soreness",
+    "reason_category": "injury"
   }
 ]
