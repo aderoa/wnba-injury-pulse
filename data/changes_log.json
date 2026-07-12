@@ -12511,5 +12511,47 @@
     "to_status": "Probable",
     "reason": "Injury/Illness - Back; Back",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-12T15:46:07.842811+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Rebecca Allen",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Nose; Nose"
+  },
+  {
+    "ts": "2026-07-12T15:46:07.842811+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Pauline Astier",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Left Ankle; L.Ankle"
+  },
+  {
+    "ts": "2026-07-12T15:46:07.842811+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Marine Fauthoux",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental Player"
+  },
+  {
+    "ts": "2026-07-12T15:46:07.842811+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Anneli Maley",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental Player"
+  },
+  {
+    "ts": "2026-07-12T15:46:07.842811+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Nyara Sabally",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Knee; Injury",
+    "reason_category": "injury"
   }
 ]
