@@ -4,6 +4,19 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-07-12 22:01 UTC
+
+- **Ornella TorontoTempo Bankole** (DAL) cleared (was Out)
+- **Temi Fagbenle** (DAL) cleared (was Out)
+- **Kiki Rice** (DAL) cleared (was Out)
+- **Nyara Sabally** (DAL) cleared (was Out)
+- **Brittney Sykes** (DAL) cleared (was Out)
+- **Quionche Carter** (PHX) cleared (was Out)
+- **Shay Ciezki** (PHX) cleared (was Out)
+- **Sami Whitcomb** (PHX): **Available** → **Probable** — Injury/Illness - Left Knee; Injury Management
+- **Maya Caldwell** (MIN) cleared (was Available)
+- **Liatu King** (MIN) cleared (was Out)
+
 ## 2026-07-12 20:46 UTC
 
 - **Jaylyn Sherrod** (ATL) cleared (was Out)

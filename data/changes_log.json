@@ -12664,5 +12664,87 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Right Leg; N/A",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-12T22:01:06.249212+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Ornella TorontoTempo Bankole",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-07-12T22:01:06.249212+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Temi Fagbenle",
+    "previous_status": "Out",
+    "previous_reason": "Concussion Protocol"
+  },
+  {
+    "ts": "2026-07-12T22:01:06.249212+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Kiki Rice",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Ankle; Injury"
+  },
+  {
+    "ts": "2026-07-12T22:01:06.249212+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Nyara Sabally",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Knee; Injury"
+  },
+  {
+    "ts": "2026-07-12T22:01:06.249212+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Brittney Sykes",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Foot; Injury"
+  },
+  {
+    "ts": "2026-07-12T22:01:06.249212+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Quionche Carter",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental"
+  },
+  {
+    "ts": "2026-07-12T22:01:06.249212+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Shay Ciezki",
+    "previous_status": "Out",
+    "previous_reason": "Player Coach's Decision - Developmental Player"
+  },
+  {
+    "ts": "2026-07-12T22:01:06.249212+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "Sami Whitcomb",
+    "from_status": "Available",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Left Knee; Injury Management",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-12T22:01:06.249212+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Maya Caldwell",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - N/a; Migraine"
+  },
+  {
+    "ts": "2026-07-12T22:01:06.249212+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Liatu King",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]
