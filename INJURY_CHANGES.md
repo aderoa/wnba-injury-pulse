@@ -4,6 +4,12 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-07-12 20:46 UTC
+
+- **Jaylyn Sherrod** (ATL) cleared (was Out)
+- **Brionna Jones** (ATL): **Out** → **Questionable** — Injury/Illness - Right Knee; N/A
+- **Angel Reese** (ATL): **Out** → **Questionable** — Injury/Illness - Right Leg; N/A
+
 ## 2026-07-12 20:01 UTC
 
 - **Kierstan Bell** (LVA) newly listed as **Out** — Injury/Illness - Right Leg; injury
