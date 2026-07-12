@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/12/26 04:15 PM",
+  "report_ts": "07/12/26 04:30 PM",
   "page_count": 2,
-  "raw_line_count": 24,
+  "raw_line_count": 27,
   "teams": [
     {
       "team_full": "New York Liberty",
@@ -195,8 +195,23 @@
       "game_date": "07/13/2026",
       "game_time": "07:00(ET)",
       "matchup": "LAS@ATL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Brink, Cameron",
+          "name": "Cameron Brink",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; LAnkle",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Plum, Kelsey",
+          "name": "Kelsey Plum",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Lower Leg; L Lower Leg",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Atlanta Dream",
@@ -226,7 +241,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-12_04_15PM.pdf",
-  "fetched_slot": "2026-07-12T16:15:00-04:00",
-  "polled_at_utc": "2026-07-12T20:16:07.814250+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-12_04_30PM.pdf",
+  "fetched_slot": "2026-07-12T16:30:00-04:00",
+  "polled_at_utc": "2026-07-12T20:31:07.432422+00:00"
 }
