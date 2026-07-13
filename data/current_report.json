@@ -1,5 +1,5 @@
 {
-  "report_ts": "07/13/26 06:45 PM",
+  "report_ts": "07/13/26 07:00 PM",
   "page_count": 2,
   "raw_line_count": 22,
   "teams": [
@@ -83,7 +83,7 @@
         {
           "name_last_first": "Whitcomb, Sami",
           "name": "Sami Whitcomb",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness - Left Knee; Injury Management",
           "reason_category": "injury"
         }
@@ -193,7 +193,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-13_06_45PM.pdf",
-  "fetched_slot": "2026-07-13T18:45:00-04:00",
-  "polled_at_utc": "2026-07-13T22:46:05.895909+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-13_07_00PM.pdf",
+  "fetched_slot": "2026-07-13T19:00:00-04:00",
+  "polled_at_utc": "2026-07-13T23:01:10.907124+00:00"
 }

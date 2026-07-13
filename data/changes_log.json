@@ -12900,5 +12900,15 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Right Knee; N/A",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-13T23:01:10.907124+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "Sami Whitcomb",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Knee; Injury Management",
+    "reason_category": "injury"
   }
 ]
