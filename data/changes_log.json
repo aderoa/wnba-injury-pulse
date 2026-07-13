@@ -12755,5 +12755,43 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-13T00:31:08.223079+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Bree Hall",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-13T00:31:08.223079+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-07-13T00:31:08.223079+00:00",
+    "type": "added",
+    "team_abbr": "LVA",
+    "player": "Ta'Niya Latson",
+    "status": "Out",
+    "reason": "Coach's Decision - Developmental Player",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-13T00:31:08.223079+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Dana Evans",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Leg; injury",
+    "reason_category": "injury"
   }
 ]
