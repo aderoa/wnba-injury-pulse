@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/13/26 04:15 PM",
+  "report_ts": "07/13/26 04:30 PM",
   "page_count": 1,
-  "raw_line_count": 16,
+  "raw_line_count": 15,
   "teams": [
     {
       "team_full": "Los Angeles Sparks",
@@ -100,8 +100,8 @@
       ]
     },
     {
-      "team_full": "Washington Mystics",
-      "team_abbr": "WAS",
+      "team_full": "Minnesota Lynx",
+      "team_abbr": "MIN",
       "game_date": "07/14/2026",
       "game_time": "07:00(ET)",
       "matchup": "WAS@TOR",
@@ -127,7 +127,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-13_04_15PM.pdf",
-  "fetched_slot": "2026-07-13T16:15:00-04:00",
-  "polled_at_utc": "2026-07-13T20:16:10.625095+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-13_04_30PM.pdf",
+  "fetched_slot": "2026-07-13T16:30:00-04:00",
+  "polled_at_utc": "2026-07-13T20:31:10.299097+00:00"
 }
