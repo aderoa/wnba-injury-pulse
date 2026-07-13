@@ -12880,5 +12880,25 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-13T22:31:09.299570+00:00",
+    "type": "status_change",
+    "team_abbr": "ATL",
+    "player": "Angel Reese",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Leg; N/A",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-13T22:31:09.299570+00:00",
+    "type": "status_change",
+    "team_abbr": "ATL",
+    "player": "Brionna Jones",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Knee; N/A",
+    "reason_category": "injury"
   }
 ]
