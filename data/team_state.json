@@ -58,8 +58,8 @@
   "PHX": {
     "team_full": "Phoenix Mercury",
     "submitted": true,
-    "last_submitted_ts": "2026-07-13T21:00:02.106512+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-13_04_45PM.pdf",
+    "last_submitted_ts": "2026-07-13T21:01:06.355952+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-13_05_00PM.pdf",
     "game_dates": [
       "07/13/2026"
     ],
@@ -128,8 +128,8 @@
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-07-13T21:00:02.106512+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-13_04_45PM.pdf",
+    "last_submitted_ts": "2026-07-13T21:01:06.355952+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-13_05_00PM.pdf",
     "game_dates": [
       "07/13/2026"
     ],
@@ -156,8 +156,8 @@
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-07-13T21:00:02.106512+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-13_04_45PM.pdf",
+    "last_submitted_ts": "2026-07-13T21:01:06.355952+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-13_05_00PM.pdf",
     "game_dates": [
       "07/13/2026",
       "07/14/2026"
@@ -242,45 +242,23 @@
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-07-12T03:47:20.494321+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-11_11_45PM.pdf",
+    "last_submitted_ts": "2026-07-13T21:01:06.355952+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-13_05_00PM.pdf",
     "game_dates": [
-      "07/11/2026"
+      "07/14/2026"
     ],
     "matchups": [
-      "PDX@ATL"
+      "PDX@CON"
     ],
     "players": [
-      {
-        "name_last_first": "Barker, SarahAshlee",
-        "name": "SarahAshlee Barker",
-        "status": "Out",
-        "reason": "Not With Team",
-        "reason_category": "offcourt"
-      },
       {
         "name_last_first": "Feagin, Sania",
         "name": "Sania Feagin",
         "status": "Out",
         "reason": "Injury/Illness - Left Knee; Injury",
         "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Harrison, Jordan",
-        "name": "Jordan Harrison",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
-      },
-      {
-        "name_last_first": "Samuelson, Karlie",
-        "name": "Karlie Samuelson",
-        "status": "Available",
-        "reason": "Injury/Illness - Left Middle Finger; Injury",
-        "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-07-13T21:00:02.106512+00:00"
+    ]
   },
   "SEA": {
     "team_full": "Seattle Storm",
@@ -313,28 +291,21 @@
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-07-11T03:45:57.976603+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-10_11_45PM.pdf",
+    "last_submitted_ts": "2026-07-13T21:01:06.355952+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-13_05_00PM.pdf",
     "game_dates": [
-      "07/10/2026"
+      "07/14/2026"
     ],
     "matchups": [
-      "GSV@CON"
+      "PDX@CON"
     ],
     "players": [
       {
         "name_last_first": "Griner, Brittney",
         "name": "Brittney Griner",
-        "status": "Out",
+        "status": "Questionable",
         "reason": "Injury/Illness - Left Quad; Strain",
         "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Jackson, Ashlon",
-        "name": "Ashlon Jackson",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
       },
       {
         "name_last_first": "Morrow, Aneesah",
@@ -350,8 +321,7 @@
         "reason": "Injury/Illness - Left Ankle; Sprain",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-07-13T21:00:02.106512+00:00"
+    ]
   },
   "NYL": {
     "team_full": "New York Liberty",
@@ -490,8 +460,8 @@
   "LAS": {
     "team_full": "Los Angeles Sparks",
     "submitted": true,
-    "last_submitted_ts": "2026-07-13T21:00:02.106512+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-13_04_45PM.pdf",
+    "last_submitted_ts": "2026-07-13T21:01:06.355952+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-13_05_00PM.pdf",
     "game_dates": [
       "07/13/2026"
     ],

@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/13/26 04:45 PM",
+  "report_ts": "07/13/26 05:00 PM",
   "page_count": 1,
-  "raw_line_count": 17,
+  "raw_line_count": 21,
   "teams": [
     {
       "team_full": "Los Angeles Sparks",
@@ -136,8 +136,16 @@
       "game_date": "07/14/2026",
       "game_time": "11:00(ET)",
       "matchup": "PDX@CON",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Feagin, Sania",
+          "name": "Sania Feagin",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Injury",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Connecticut Sun",
@@ -145,11 +153,33 @@
       "game_date": "07/14/2026",
       "game_time": "11:00(ET)",
       "matchup": "PDX@CON",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Griner, Brittney",
+          "name": "Brittney Griner",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Quad; Strain",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Morrow, Aneesah",
+          "name": "Aneesah Morrow",
+          "status": "Out",
+          "reason": "Returnto Competition Reconditioning",
+          "reason_category": "other"
+        },
+        {
+          "name_last_first": "Rivers, Saniya",
+          "name": "Saniya Rivers",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; Sprain",
+          "reason_category": "injury"
+        }
+      ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-13_04_45PM.pdf",
-  "fetched_slot": "2026-07-13T16:45:00-04:00",
-  "polled_at_utc": "2026-07-13T21:00:02.106512+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-13_05_00PM.pdf",
+  "fetched_slot": "2026-07-13T17:00:00-04:00",
+  "polled_at_utc": "2026-07-13T21:01:06.355952+00:00"
 }
