@@ -12793,5 +12793,32 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Left Leg; injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-13T20:46:13.932744+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Temi TorontoTempo Fagbenle",
+    "status": "Questionable",
+    "reason": "Concussion Protocol",
+    "reason_category": "procedural"
+  },
+  {
+    "ts": "2026-07-13T20:46:13.932744+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Kiki Rice",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Ankle; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-13T20:46:13.932744+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Brittney Sykes",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Foot; Injury",
+    "reason_category": "injury"
   }
 ]
