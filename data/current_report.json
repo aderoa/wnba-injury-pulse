@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/13/26 05:45 PM",
-  "page_count": 1,
-  "raw_line_count": 21,
+  "report_ts": "07/13/26 06:00 PM",
+  "page_count": 2,
+  "raw_line_count": 22,
   "teams": [
     {
       "team_full": "Los Angeles Sparks",
@@ -43,11 +43,25 @@
           "reason_category": "injury"
         },
         {
+          "name_last_first": "Nivar, Indya",
+          "name": "Indya Nivar",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Reese, Angel",
           "name": "Angel Reese",
           "status": "Questionable",
           "reason": "Injury/Illness - Right Leg; N/A",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sherrod, Jaylyn",
+          "name": "Jaylyn Sherrod",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -179,7 +193,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-13_05_45PM.pdf",
-  "fetched_slot": "2026-07-13T17:45:00-04:00",
-  "polled_at_utc": "2026-07-13T21:46:08.122722+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-13_06_00PM.pdf",
+  "fetched_slot": "2026-07-13T18:00:00-04:00",
+  "polled_at_utc": "2026-07-13T22:01:10.023459+00:00"
 }

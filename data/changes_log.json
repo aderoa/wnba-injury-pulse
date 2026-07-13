@@ -12862,5 +12862,23 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Left Quad; Strain",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-13T22:01:10.023459+00:00",
+    "type": "added",
+    "team_abbr": "ATL",
+    "player": "Indya Nivar",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-13T22:01:10.023459+00:00",
+    "type": "added",
+    "team_abbr": "ATL",
+    "player": "Jaylyn Sherrod",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
