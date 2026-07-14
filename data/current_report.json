@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/13/26 08:15 PM",
+  "report_ts": "07/13/26 08:45 PM",
   "page_count": 2,
-  "raw_line_count": 22,
+  "raw_line_count": 29,
   "teams": [
     {
       "team_full": "Los Angeles Sparks",
@@ -73,6 +73,20 @@
       "matchup": "PHX@MIN",
       "submitted": true,
       "players": [
+        {
+          "name_last_first": "Carter, Quionche",
+          "name": "Quionche Carter",
+          "status": "Out",
+          "reason": "Coach's Decision - Developmental",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Ciezki, Shay",
+          "name": "Shay Ciezki",
+          "status": "Out",
+          "reason": "Player Coach's Decision - Developmental Player",
+          "reason_category": "rest_coach"
+        },
         {
           "name_last_first": "Mack, Natasha",
           "name": "Natasha Mack",
@@ -193,7 +207,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-13_08_15PM.pdf",
-  "fetched_slot": "2026-07-13T20:15:00-04:00",
-  "polled_at_utc": "2026-07-14T00:16:10.003410+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-13_08_45PM.pdf",
+  "fetched_slot": "2026-07-13T20:45:00-04:00",
+  "polled_at_utc": "2026-07-14T00:46:09.260735+00:00"
 }

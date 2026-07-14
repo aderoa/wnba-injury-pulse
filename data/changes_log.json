@@ -12910,5 +12910,23 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Left Knee; Injury Management",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-14T00:46:09.260735+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Quionche Carter",
+    "status": "Out",
+    "reason": "Coach's Decision - Developmental",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-14T00:46:09.260735+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Shay Ciezki",
+    "status": "Out",
+    "reason": "Player Coach's Decision - Developmental Player",
+    "reason_category": "rest_coach"
   }
 ]
