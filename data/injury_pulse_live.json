@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-07-14T05:16:08.142208+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-14_01_15AM.pdf",
-  "report_ts": "07/14/26 01:15 AM",
+  "polled_at_utc": "2026-07-14T05:31:10.737194+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-14_01_30AM.pdf",
+  "report_ts": "07/14/26 01:30 AM",
   "all_players": [
     {
       "name": "Aneesah Morrow",
@@ -11,7 +11,7 @@
       "status": "Out",
       "reason": "Returnto Competition Reconditioning",
       "reason_category": "other",
-      "last_updated": "2026-07-14T05:16:08.142208+00:00"
+      "last_updated": "2026-07-14T05:31:10.737194+00:00"
     },
     {
       "name": "Ashten Prechtel",
@@ -272,7 +272,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-07-14T05:16:08.142208+00:00"
+      "last_updated": "2026-07-14T05:31:10.737194+00:00"
     },
     {
       "name": "Saniya Rivers",
@@ -281,7 +281,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Ankle; Sprain",
       "reason_category": "injury",
-      "last_updated": "2026-07-14T05:16:08.142208+00:00"
+      "last_updated": "2026-07-14T05:31:10.737194+00:00"
     },
     {
       "name": "Satou Sabally",
@@ -344,7 +344,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Left Quad; Strain",
       "reason_category": "injury",
-      "last_updated": "2026-07-14T05:16:08.142208+00:00"
+      "last_updated": "2026-07-14T05:31:10.737194+00:00"
     },
     {
       "name": "Temi TorontoTempo Fagbenle",
@@ -463,7 +463,7 @@
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
       "last_submitted_ts": "2026-07-13T03:50:21.520264+00:00",
-      "last_seen_pending_ts": "2026-07-14T05:16:08.142208+00:00",
+      "last_seen_pending_ts": "2026-07-14T05:31:10.737194+00:00",
       "matchups": [
         "CHI@DAL"
       ],
@@ -494,7 +494,7 @@
     {
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
-      "last_submitted_ts": "2026-07-14T05:16:08.142208+00:00",
+      "last_submitted_ts": "2026-07-14T05:31:10.737194+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "PDX@CON"
@@ -552,7 +552,7 @@
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
       "last_submitted_ts": "2026-07-11T03:45:57.976603+00:00",
-      "last_seen_pending_ts": "2026-07-14T05:16:08.142208+00:00",
+      "last_seen_pending_ts": "2026-07-14T05:31:10.737194+00:00",
       "matchups": [
         "GSV@CON"
       ],
@@ -584,7 +584,7 @@
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
       "last_submitted_ts": "2026-07-13T03:50:21.520264+00:00",
-      "last_seen_pending_ts": "2026-07-14T05:16:08.142208+00:00",
+      "last_seen_pending_ts": "2026-07-14T05:31:10.737194+00:00",
       "matchups": [
         "IND@LVA"
       ],
@@ -609,7 +609,7 @@
       "team_abbr": "LAS",
       "team_full": "Los Angeles Sparks",
       "last_submitted_ts": "2026-07-14T03:46:06.215712+00:00",
-      "last_seen_pending_ts": "2026-07-14T05:16:08.142208+00:00",
+      "last_seen_pending_ts": "2026-07-14T05:31:10.737194+00:00",
       "matchups": [
         "LAS@ATL"
       ],
@@ -673,7 +673,7 @@
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
       "last_submitted_ts": "2026-07-14T03:46:06.215712+00:00",
-      "last_seen_pending_ts": "2026-07-14T05:16:08.142208+00:00",
+      "last_seen_pending_ts": "2026-07-14T05:31:10.737194+00:00",
       "matchups": [
         "PHX@MIN",
         "WAS@TOR"
@@ -786,7 +786,7 @@
     {
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
-      "last_submitted_ts": "2026-07-14T05:16:08.142208+00:00",
+      "last_submitted_ts": "2026-07-14T05:31:10.737194+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "PDX@CON"
@@ -844,7 +844,7 @@
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
       "last_submitted_ts": "2026-07-13T03:50:21.520264+00:00",
-      "last_seen_pending_ts": "2026-07-14T05:16:08.142208+00:00",
+      "last_seen_pending_ts": "2026-07-14T05:31:10.737194+00:00",
       "matchups": [
         "SEA@WAS"
       ],

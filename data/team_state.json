@@ -54,7 +54,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-07-14T05:16:08.142208+00:00"
+    "last_seen_pending_ts": "2026-07-14T05:31:10.737194+00:00"
   },
   "PHX": {
     "team_full": "Phoenix Mercury",
@@ -239,7 +239,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-07-14T05:16:08.142208+00:00"
+    "last_seen_pending_ts": "2026-07-14T05:31:10.737194+00:00"
   },
   "CHI": {
     "team_full": "Chicago Sky",
@@ -275,13 +275,13 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-07-14T05:16:08.142208+00:00"
+    "last_seen_pending_ts": "2026-07-14T05:31:10.737194+00:00"
   },
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-07-14T05:16:08.142208+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-14_01_15AM.pdf",
+    "last_submitted_ts": "2026-07-14T05:31:10.737194+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-14_01_30AM.pdf",
     "game_dates": [
       "07/14/2026"
     ],
@@ -325,13 +325,13 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-07-14T05:16:08.142208+00:00"
+    "last_seen_pending_ts": "2026-07-14T05:31:10.737194+00:00"
   },
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-07-14T05:16:08.142208+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-14_01_15AM.pdf",
+    "last_submitted_ts": "2026-07-14T05:31:10.737194+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-14_01_30AM.pdf",
     "game_dates": [
       "07/14/2026"
     ],
@@ -495,7 +495,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-07-14T05:16:08.142208+00:00"
+    "last_seen_pending_ts": "2026-07-14T05:31:10.737194+00:00"
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",
@@ -524,6 +524,6 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-07-14T05:16:08.142208+00:00"
+    "last_seen_pending_ts": "2026-07-14T05:31:10.737194+00:00"
   }
 }
