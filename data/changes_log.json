@@ -13019,5 +13019,22 @@
     "to_status": "Probable",
     "reason": "Injury/Illness - Back; Back",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-14T21:31:07.867422+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Kamilla Cardoso",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Right Knee; Right Knee",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-14T21:31:07.867422+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Chloe Bibby",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]

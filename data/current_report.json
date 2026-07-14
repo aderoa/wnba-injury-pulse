@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/14/26 05:15 PM",
-  "page_count": 1,
-  "raw_line_count": 17,
+  "report_ts": "07/14/26 05:30 PM",
+  "page_count": 2,
+  "raw_line_count": 19,
   "teams": [
     {
       "team_full": "Portland Fire",
@@ -132,11 +132,33 @@
       "game_date": "07/15/2026",
       "game_time": "12:00(ET)",
       "matchup": "SEA@CHI",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Cardoso, Kamilla",
+          "name": "Kamilla Cardoso",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Knee; Right Knee",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Carrington, DiJonai",
+          "name": "DiJonai Carrington",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Foot; Left Foot",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Diggins, Skylar",
+          "name": "Skylar Diggins",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; Right Knee",
+          "reason_category": "injury"
+        }
+      ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-14_05_15PM.pdf",
-  "fetched_slot": "2026-07-14T17:15:00-04:00",
-  "polled_at_utc": "2026-07-14T21:16:09.513180+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-14_05_30PM.pdf",
+  "fetched_slot": "2026-07-14T17:30:00-04:00",
+  "polled_at_utc": "2026-07-14T21:31:07.867422+00:00"
 }

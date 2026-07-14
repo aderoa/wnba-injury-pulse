@@ -30,8 +30,8 @@
   "IND": {
     "team_full": "Indiana Fever",
     "submitted": true,
-    "last_submitted_ts": "2026-07-14T21:16:09.513180+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-14_05_15PM.pdf",
+    "last_submitted_ts": "2026-07-14T21:31:07.867422+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-14_05_30PM.pdf",
     "game_dates": [
       "07/15/2026"
     ],
@@ -231,26 +231,26 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-07-14T21:16:09.513180+00:00"
+    "last_seen_pending_ts": "2026-07-14T21:31:07.867422+00:00"
   },
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-07-13T03:50:21.520264+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-12_11_45PM.pdf",
+    "last_submitted_ts": "2026-07-14T21:31:07.867422+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-14_05_30PM.pdf",
     "game_dates": [
-      "07/12/2026"
+      "07/15/2026"
     ],
     "matchups": [
-      "CHI@DAL"
+      "SEA@CHI"
     ],
     "players": [
       {
-        "name_last_first": "Bibby, Chloe",
-        "name": "Chloe Bibby",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
+        "name_last_first": "Cardoso, Kamilla",
+        "name": "Kamilla Cardoso",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Right Knee; Right Knee",
+        "reason_category": "injury"
       },
       {
         "name_last_first": "Carrington, DiJonai",
@@ -266,14 +266,13 @@
         "reason": "Injury/Illness - Right Knee; Right Knee",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-07-14T21:16:09.513180+00:00"
+    ]
   },
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-07-14T21:16:09.513180+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-14_05_15PM.pdf",
+    "last_submitted_ts": "2026-07-14T21:31:07.867422+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-14_05_30PM.pdf",
     "game_dates": [
       "07/14/2026"
     ],
@@ -324,13 +323,13 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-07-14T21:16:09.513180+00:00"
+    "last_seen_pending_ts": "2026-07-14T21:31:07.867422+00:00"
   },
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-07-14T21:16:09.513180+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-14_05_15PM.pdf",
+    "last_submitted_ts": "2026-07-14T21:31:07.867422+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-14_05_30PM.pdf",
     "game_dates": [
       "07/14/2026"
     ],
@@ -470,8 +469,8 @@
   "GSV": {
     "team_full": "Golden State Valkyries",
     "submitted": true,
-    "last_submitted_ts": "2026-07-14T21:16:09.513180+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-14_05_15PM.pdf",
+    "last_submitted_ts": "2026-07-14T21:31:07.867422+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-14_05_30PM.pdf",
     "game_dates": [
       "07/15/2026"
     ],
@@ -515,6 +514,6 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-07-14T21:16:09.513180+00:00"
+    "last_seen_pending_ts": "2026-07-14T21:31:07.867422+00:00"
   }
 }
