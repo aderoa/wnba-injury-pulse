@@ -12947,5 +12947,24 @@
     "to_status": "Probable",
     "reason": "Injury/Illness - Left Quad; Strain",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-14T14:01:15.437183+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Ashlon Jackson",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-14T14:01:15.437183+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Brittney Griner",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Quad; Strain",
+    "reason_category": "injury"
   }
 ]
