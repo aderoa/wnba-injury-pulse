@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/14/26 05:45 PM",
+  "report_ts": "07/14/26 06:00 PM",
   "page_count": 2,
-  "raw_line_count": 21,
+  "raw_line_count": 25,
   "teams": [
     {
       "team_full": "Portland Fire",
@@ -71,8 +71,23 @@
       "game_date": "07/15/2026",
       "game_time": "01:00(ET)",
       "matchup": "LAS@MIN",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Brink, Cameron",
+          "name": "Cameron Brink",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Ankle; LAnkle",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Plum, Kelsey",
+          "name": "Kelsey Plum",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Lower Leg; L Lower Leg",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Minnesota Lynx",
@@ -145,8 +160,23 @@
       "game_date": "07/15/2026",
       "game_time": "12:00(ET)",
       "matchup": "SEA@CHI",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Magbegor, Ezi",
+          "name": "Ezi Magbegor",
+          "status": "Out",
+          "reason": "Not With Team",
+          "reason_category": "offcourt"
+        },
+        {
+          "name_last_first": "Mair, Taina",
+          "name": "Taina Mair",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        }
+      ]
     },
     {
       "team_full": "Chicago Sky",
@@ -180,7 +210,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-14_05_45PM.pdf",
-  "fetched_slot": "2026-07-14T17:45:00-04:00",
-  "polled_at_utc": "2026-07-14T21:46:05.352667+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-14_06_00PM.pdf",
+  "fetched_slot": "2026-07-14T18:00:00-04:00",
+  "polled_at_utc": "2026-07-14T22:01:06.168975+00:00"
 }
