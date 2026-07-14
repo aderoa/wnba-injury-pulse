@@ -4,6 +4,14 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-07-14 21:01 UTC
+
+- **Ashten Prechtel** (GSV) cleared (was Out)
+- **Miela Sowah** (GSV) cleared (was Out)
+- **Gabby Williams** (GSV): **Out** → **Questionable** — Injury/Illness - Back; Contusion
+- **Bree Hall** (IND) cleared (was Out)
+- **Caitlin Clark** (IND): **Available** → **Probable** — Injury/Illness - Back; Back
+
 ## 2026-07-14 14:16 UTC
 
 - **Jordan Harrison** (PDX) newly listed as **Out** — Coach's Decision

@@ -1,5 +1,5 @@
 {
-  "report_ts": "07/14/26 04:45 PM",
+  "report_ts": "07/14/26 05:00 PM",
   "page_count": 1,
   "raw_line_count": 17,
   "teams": [
@@ -89,8 +89,16 @@
       "game_date": "07/15/2026",
       "game_time": "08:00(ET)",
       "matchup": "GSV@IND",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Williams, Gabby",
+          "name": "Gabby Williams",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Back; Contusion",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Indiana Fever",
@@ -98,8 +106,16 @@
       "game_date": "07/15/2026",
       "game_time": "08:00(ET)",
       "matchup": "GSV@IND",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Clark, Caitlin",
+          "name": "Caitlin Clark",
+          "status": "Probable",
+          "reason": "Injury/Illness - Back; Back",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Seattle Storm",
@@ -120,7 +136,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-14_04_45PM.pdf",
-  "fetched_slot": "2026-07-14T16:45:00-04:00",
-  "polled_at_utc": "2026-07-14T20:46:07.138168+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-14_05_00PM.pdf",
+  "fetched_slot": "2026-07-14T17:00:00-04:00",
+  "polled_at_utc": "2026-07-14T21:01:10.574605+00:00"
 }
