@@ -13036,5 +13036,46 @@
     "player": "Chloe Bibby",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-07-14T21:46:05.352667+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Dorka Juhasz",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Right Knee; Right Knee",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-14T21:46:05.352667+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Liatu King",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-07-14T21:46:05.352667+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Temi TorontoTempo Fagbenle",
+    "previous_status": "Questionable",
+    "previous_reason": "Concussion Protocol"
+  },
+  {
+    "ts": "2026-07-14T21:46:05.352667+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Kiki Rice",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Ankle; Injury"
+  },
+  {
+    "ts": "2026-07-14T21:46:05.352667+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Brittney Sykes",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Foot; Injury"
   }
 ]
