@@ -12966,5 +12966,14 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Left Quad; Strain",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-14T14:16:07.734282+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Jordan Harrison",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
