@@ -13097,5 +13097,24 @@
     "from_reason": "Injury/Illness - Face; Injury",
     "to_reason": "Not With Team",
     "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-07-15T15:45:12.262755+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Maddy Westbeld",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-15T15:45:12.262755+00:00",
+    "type": "status_change",
+    "team_abbr": "CHI",
+    "player": "Kamilla Cardoso",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Knee; Right Knee",
+    "reason_category": "injury"
   }
 ]

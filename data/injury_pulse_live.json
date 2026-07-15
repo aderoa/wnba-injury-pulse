@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-07-15T15:30:15.882630+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-15_11_30AM.pdf",
-  "report_ts": "07/15/26 11:30 AM",
+  "polled_at_utc": "2026-07-15T15:45:12.262755+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-15_11_45AM.pdf",
+  "report_ts": "07/15/26 11:45 AM",
   "all_players": [
     {
       "name": "Aneesah Morrow",
@@ -65,7 +65,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Foot; Left Foot",
       "reason_category": "injury",
-      "last_updated": "2026-07-15T15:30:15.882630+00:00"
+      "last_updated": "2026-07-15T15:45:12.262755+00:00"
     },
     {
       "name": "Emma Cechova",
@@ -74,7 +74,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; Right Knee",
       "reason_category": "injury",
-      "last_updated": "2026-07-15T15:30:15.882630+00:00"
+      "last_updated": "2026-07-15T15:45:12.262755+00:00"
     },
     {
       "name": "Ezi Magbegor",
@@ -83,7 +83,7 @@
       "status": "Out",
       "reason": "Not With Team",
       "reason_category": "offcourt",
-      "last_updated": "2026-07-15T15:30:15.882630+00:00"
+      "last_updated": "2026-07-15T15:45:12.262755+00:00"
     },
     {
       "name": "Haley Jones",
@@ -131,13 +131,22 @@
       "last_updated": "2026-07-15T03:46:08.352860+00:00"
     },
     {
+      "name": "Kamilla Cardoso",
+      "team_abbr": "CHI",
+      "team_full": "Chicago Sky",
+      "status": "Out",
+      "reason": "Injury/Illness - Right Knee; Right Knee",
+      "reason_category": "injury",
+      "last_updated": "2026-07-15T15:45:12.262755+00:00"
+    },
+    {
       "name": "Kelsey Plum",
       "team_abbr": "LAS",
       "team_full": "Los Angeles Sparks",
       "status": "Out",
       "reason": "Injury/Illness - Left Lower Leg; L Lower Leg",
       "reason_category": "injury",
-      "last_updated": "2026-07-15T15:30:15.882630+00:00"
+      "last_updated": "2026-07-15T15:45:12.262755+00:00"
     },
     {
       "name": "Kierstan Bell",
@@ -167,6 +176,15 @@
       "last_updated": "2026-07-13T03:50:21.520264+00:00"
     },
     {
+      "name": "Maddy Westbeld",
+      "team_abbr": "CHI",
+      "team_full": "Chicago Sky",
+      "status": "Out",
+      "reason": "Coach's Decision",
+      "reason_category": "rest_coach",
+      "last_updated": "2026-07-15T15:45:12.262755+00:00"
+    },
+    {
       "name": "Marine Fauthoux",
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
@@ -182,7 +200,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Ankle; Left Ankle",
       "reason_category": "injury",
-      "last_updated": "2026-07-15T15:30:15.882630+00:00"
+      "last_updated": "2026-07-15T15:45:12.262755+00:00"
     },
     {
       "name": "Natasha Mack",
@@ -245,7 +263,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; Right Knee",
       "reason_category": "injury",
-      "last_updated": "2026-07-15T15:30:15.882630+00:00"
+      "last_updated": "2026-07-15T15:45:12.262755+00:00"
     },
     {
       "name": "Ta'Niya Latson",
@@ -263,7 +281,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-07-15T15:30:15.882630+00:00"
+      "last_updated": "2026-07-15T15:45:12.262755+00:00"
     },
     {
       "name": "Temi TorontoTempo Fagbenle",
@@ -281,7 +299,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Left Ankle; LAnkle",
       "reason_category": "injury",
-      "last_updated": "2026-07-15T15:30:15.882630+00:00"
+      "last_updated": "2026-07-15T15:45:12.262755+00:00"
     },
     {
       "name": "Dorka Juhasz",
@@ -290,7 +308,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Right Knee; Right Knee",
       "reason_category": "injury",
-      "last_updated": "2026-07-15T15:30:15.882630+00:00"
+      "last_updated": "2026-07-15T15:45:12.262755+00:00"
     },
     {
       "name": "Gabby Williams",
@@ -299,16 +317,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Back; Contusion",
       "reason_category": "injury",
-      "last_updated": "2026-07-15T15:30:15.882630+00:00"
-    },
-    {
-      "name": "Kamilla Cardoso",
-      "team_abbr": "CHI",
-      "team_full": "Chicago Sky",
-      "status": "Questionable",
-      "reason": "Injury/Illness - Right Knee; Right Knee",
-      "reason_category": "injury",
-      "last_updated": "2026-07-15T15:30:15.882630+00:00"
+      "last_updated": "2026-07-15T15:45:12.262755+00:00"
     },
     {
       "name": "Caitlin Clark",
@@ -317,7 +326,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Back; Back",
       "reason_category": "injury",
-      "last_updated": "2026-07-15T15:30:15.882630+00:00"
+      "last_updated": "2026-07-15T15:45:12.262755+00:00"
     },
     {
       "name": "Alicia Florez",
@@ -426,7 +435,7 @@
     {
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
-      "last_submitted_ts": "2026-07-15T15:30:15.882630+00:00",
+      "last_submitted_ts": "2026-07-15T15:45:12.262755+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "SEA@CHI"
@@ -435,7 +444,7 @@
         {
           "name_last_first": "Cardoso, Kamilla",
           "name": "Kamilla Cardoso",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Right Knee; Right Knee",
           "reason_category": "injury"
         },
@@ -452,6 +461,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Right Knee; Right Knee",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Westbeld, Maddy",
+          "name": "Maddy Westbeld",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -498,7 +514,7 @@
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
       "last_submitted_ts": "2026-07-13T03:50:21.520264+00:00",
-      "last_seen_pending_ts": "2026-07-15T15:30:15.882630+00:00",
+      "last_seen_pending_ts": "2026-07-15T15:45:12.262755+00:00",
       "matchups": [
         "CHI@DAL"
       ],
@@ -522,7 +538,7 @@
     {
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
-      "last_submitted_ts": "2026-07-15T15:30:15.882630+00:00",
+      "last_submitted_ts": "2026-07-15T15:45:12.262755+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "GSV@IND"
@@ -540,7 +556,7 @@
     {
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
-      "last_submitted_ts": "2026-07-15T15:30:15.882630+00:00",
+      "last_submitted_ts": "2026-07-15T15:45:12.262755+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "GSV@IND"
@@ -558,7 +574,7 @@
     {
       "team_abbr": "LAS",
       "team_full": "Los Angeles Sparks",
-      "last_submitted_ts": "2026-07-15T15:30:15.882630+00:00",
+      "last_submitted_ts": "2026-07-15T15:45:12.262755+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "LAS@MIN"
@@ -622,7 +638,7 @@
     {
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
-      "last_submitted_ts": "2026-07-15T15:30:15.882630+00:00",
+      "last_submitted_ts": "2026-07-15T15:45:12.262755+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "LAS@MIN"
@@ -655,7 +671,7 @@
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
       "last_submitted_ts": "2026-07-13T03:50:21.520264+00:00",
-      "last_seen_pending_ts": "2026-07-15T15:30:15.882630+00:00",
+      "last_seen_pending_ts": "2026-07-15T15:45:12.262755+00:00",
       "matchups": [
         "NYL@TOR"
       ],
@@ -715,7 +731,7 @@
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
       "last_submitted_ts": "2026-07-15T03:46:08.352860+00:00",
-      "last_seen_pending_ts": "2026-07-15T15:30:15.882630+00:00",
+      "last_seen_pending_ts": "2026-07-15T15:45:12.262755+00:00",
       "matchups": [
         "PDX@CON"
       ],
@@ -778,7 +794,7 @@
     {
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
-      "last_submitted_ts": "2026-07-15T15:30:15.882630+00:00",
+      "last_submitted_ts": "2026-07-15T15:45:12.262755+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "SEA@CHI"
@@ -804,7 +820,7 @@
       "team_abbr": "WAS",
       "team_full": "Washington Mystics",
       "last_submitted_ts": "2026-07-13T03:50:21.520264+00:00",
-      "last_seen_pending_ts": "2026-07-15T15:30:15.882630+00:00",
+      "last_seen_pending_ts": "2026-07-15T15:45:12.262755+00:00",
       "matchups": [
         "SEA@WAS"
       ],
@@ -834,6 +850,25 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-07-15T15:45:12.262755+00:00",
+      "type": "status_change",
+      "team_abbr": "CHI",
+      "player": "Kamilla Cardoso",
+      "from_status": "Questionable",
+      "to_status": "Out",
+      "reason": "Injury/Illness - Right Knee; Right Knee",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-07-15T15:45:12.262755+00:00",
+      "type": "added",
+      "team_abbr": "CHI",
+      "player": "Maddy Westbeld",
+      "status": "Out",
+      "reason": "Coach's Decision",
+      "reason_category": "rest_coach"
+    },
     {
       "ts": "2026-07-14T22:01:06.168975+00:00",
       "type": "reason_change",
@@ -3050,24 +3085,6 @@
       "from_reason": "Coach's Decision - coach'sdecision",
       "to_reason": "Coach's Decision",
       "reason_category": "rest_coach"
-    },
-    {
-      "ts": "2026-07-05T18:16:12.133634+00:00",
-      "type": "reason_change",
-      "team_abbr": "DAL",
-      "player": "Costanza Verona",
-      "status": "Out",
-      "from_reason": "Coach's Decision - coach'sdecision",
-      "to_reason": "Coach's Decision",
-      "reason_category": "rest_coach"
-    },
-    {
-      "ts": "2026-07-05T18:16:12.133634+00:00",
-      "type": "cleared",
-      "team_abbr": "DAL",
-      "player": "Alanna Smith",
-      "previous_status": "Available",
-      "previous_reason": "Injury/Illness - N/a; concussion protocol"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/15/26 11:30 AM",
-  "page_count": 1,
-  "raw_line_count": 18,
+  "report_ts": "07/15/26 11:45 AM",
+  "page_count": 2,
+  "raw_line_count": 19,
   "teams": [
     {
       "team_full": "Los Angeles Sparks",
@@ -127,7 +127,7 @@
         {
           "name_last_first": "Cardoso, Kamilla",
           "name": "Kamilla Cardoso",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Right Knee; Right Knee",
           "reason_category": "injury"
         },
@@ -144,6 +144,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Right Knee; Right Knee",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Westbeld, Maddy",
+          "name": "Maddy Westbeld",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -184,7 +191,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-15_11_30AM.pdf",
-  "fetched_slot": "2026-07-15T11:30:00-04:00",
-  "polled_at_utc": "2026-07-15T15:30:15.882630+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-15_11_45AM.pdf",
+  "fetched_slot": "2026-07-15T11:45:00-04:00",
+  "polled_at_utc": "2026-07-15T15:45:12.262755+00:00"
 }

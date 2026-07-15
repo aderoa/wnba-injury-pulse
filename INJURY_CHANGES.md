@@ -4,6 +4,11 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-07-15 15:45 UTC
+
+- **Maddy Westbeld** (CHI) newly listed as **Out** — Coach's Decision
+- **Kamilla Cardoso** (CHI): **Questionable** → **Out** — Injury/Illness - Right Knee; Right Knee
+
 ## 2026-07-14 22:01 UTC
 
 - **Cameron Brink** (LAS): **Out** → **Questionable** — Injury/Illness - Left Ankle; LAnkle
