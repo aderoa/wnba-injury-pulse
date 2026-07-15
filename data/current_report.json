@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/15/26 05:00 PM",
+  "report_ts": "07/15/26 05:15 PM",
   "page_count": 2,
-  "raw_line_count": 21,
+  "raw_line_count": 22,
   "teams": [
     {
       "team_full": "Los Angeles Sparks",
@@ -198,8 +198,23 @@
       "game_date": "07/16/2026",
       "game_time": "09:00(ET)",
       "matchup": "NYL@DAL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Fiebich, Leonie",
+          "name": "Leonie Fiebich",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Foot; Soreness",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sabally, Satou",
+          "name": "Satou Sabally",
+          "status": "Out",
+          "reason": "Concussion Protocol",
+          "reason_category": "procedural"
+        }
+      ]
     },
     {
       "team_full": "Dallas Wings",
@@ -211,7 +226,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-15_05_00PM.pdf",
-  "fetched_slot": "2026-07-15T17:00:00-04:00",
-  "polled_at_utc": "2026-07-15T21:00:12.083668+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-15_05_15PM.pdf",
+  "fetched_slot": "2026-07-15T17:15:00-04:00",
+  "polled_at_utc": "2026-07-15T21:15:11.961069+00:00"
 }
