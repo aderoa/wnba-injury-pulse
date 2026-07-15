@@ -13211,5 +13211,30 @@
     "player": "Brittney Sykes",
     "previous_status": "Out",
     "previous_reason": "Injury/Illness - Left Foot; Injury"
+  },
+  {
+    "ts": "2026-07-15T21:45:24.467497+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Alanna Smith",
+    "status": "Doubtful",
+    "reason": "Injury/Illness - Right Leg; rightleg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-15T21:45:24.467497+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Haley Jones",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-07-15T21:45:24.467497+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Costanza Verona",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]
