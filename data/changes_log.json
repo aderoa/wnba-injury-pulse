@@ -13145,5 +13145,31 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Right Knee; Right Knee",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-15T20:15:11.710837+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Megan Gustafson",
+    "status": "Out",
+    "reason": "Personal Reasons",
+    "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-07-15T20:15:11.710837+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Teja Oblak",
+    "status": "Questionable",
+    "reason": "Injury/Illness - N/a; Illness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-15T20:15:11.710837+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Jordan Harrison",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]

@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/15/26 04:00 PM",
+  "report_ts": "07/15/26 04:15 PM",
   "page_count": 2,
-  "raw_line_count": 20,
+  "raw_line_count": 22,
   "teams": [
     {
       "team_full": "Los Angeles Sparks",
@@ -167,8 +167,30 @@
       "game_date": "07/16/2026",
       "game_time": "07:00(ET)",
       "matchup": "PDX@WAS",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Feagin, Sania",
+          "name": "Sania Feagin",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Gustafson, Megan",
+          "name": "Megan Gustafson",
+          "status": "Out",
+          "reason": "Personal Reasons",
+          "reason_category": "offcourt"
+        },
+        {
+          "name_last_first": "Oblak, Teja",
+          "name": "Teja Oblak",
+          "status": "Questionable",
+          "reason": "Injury/Illness - N/a; Illness",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Washington Mystics",
@@ -198,7 +220,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-15_04_00PM.pdf",
-  "fetched_slot": "2026-07-15T16:00:00-04:00",
-  "polled_at_utc": "2026-07-15T20:13:28.683296+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-15_04_15PM.pdf",
+  "fetched_slot": "2026-07-15T16:15:00-04:00",
+  "polled_at_utc": "2026-07-15T20:15:11.710837+00:00"
 }
