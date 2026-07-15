@@ -13236,5 +13236,24 @@
     "player": "Costanza Verona",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-07-15T22:30:13.182732+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Bree Hall",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-15T22:30:13.182732+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
   }
 ]
