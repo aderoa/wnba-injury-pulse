@@ -1,70 +1,8 @@
 {
-  "report_ts": "07/14/26 11:45 PM",
-  "page_count": 2,
-  "raw_line_count": 26,
+  "report_ts": "07/15/26 12:00 AM",
+  "page_count": 1,
+  "raw_line_count": 18,
   "teams": [
-    {
-      "team_full": "Portland Fire",
-      "team_abbr": "PDX",
-      "game_date": "07/14/2026",
-      "game_time": "11:00(ET)",
-      "matchup": "PDX@CON",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Feagin, Sania",
-          "name": "Sania Feagin",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Knee; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Harrison, Jordan",
-          "name": "Jordan Harrison",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Connecticut Sun",
-      "team_abbr": "CON",
-      "game_date": "07/14/2026",
-      "game_time": "11:00(ET)",
-      "matchup": "PDX@CON",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Griner, Brittney",
-          "name": "Brittney Griner",
-          "status": "Available",
-          "reason": "Injury/Illness - Left Quad; Strain",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Jackson, Ashlon",
-          "name": "Ashlon Jackson",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Morrow, Aneesah",
-          "name": "Aneesah Morrow",
-          "status": "Out",
-          "reason": "Returnto Competition Reconditioning",
-          "reason_category": "other"
-        },
-        {
-          "name_last_first": "Rivers, Saniya",
-          "name": "Saniya Rivers",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Ankle; Sprain",
-          "reason_category": "injury"
-        }
-      ]
-    },
     {
       "team_full": "Los Angeles Sparks",
       "team_abbr": "LAS",
@@ -208,9 +146,45 @@
           "reason_category": "injury"
         }
       ]
+    },
+    {
+      "team_full": "Portland Fire",
+      "team_abbr": "PDX",
+      "game_date": "07/16/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "PDX@WAS",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Washington Mystics",
+      "team_abbr": "WAS",
+      "game_date": "07/16/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "PDX@WAS",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "New York Liberty",
+      "team_abbr": "NYL",
+      "game_date": "07/16/2026",
+      "game_time": "09:00(ET)",
+      "matchup": "NYL@DAL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Dallas Wings",
+      "team_abbr": "DAL",
+      "game_date": "07/16/2026",
+      "game_time": "09:00(ET)",
+      "matchup": "NYL@DAL",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-14_11_45PM.pdf",
-  "fetched_slot": "2026-07-14T23:45:00-04:00",
-  "polled_at_utc": "2026-07-15T03:46:08.352860+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-15_12_00AM.pdf",
+  "fetched_slot": "2026-07-15T00:00:00-04:00",
+  "polled_at_utc": "2026-07-15T04:01:04.976509+00:00"
 }
