@@ -13116,5 +13116,24 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Right Knee; Right Knee",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-15T16:00:22.655504+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Alissa Pili",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-15T16:00:22.655504+00:00",
+    "type": "status_change",
+    "team_abbr": "LAS",
+    "player": "Cameron Brink",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
   }
 ]

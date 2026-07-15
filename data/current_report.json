@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/15/26 11:45 AM",
+  "report_ts": "07/15/26 12:00 PM",
   "page_count": 2,
-  "raw_line_count": 19,
+  "raw_line_count": 20,
   "teams": [
     {
       "team_full": "Los Angeles Sparks",
@@ -14,9 +14,16 @@
         {
           "name_last_first": "Brink, Cameron",
           "name": "Cameron Brink",
-          "status": "Questionable",
-          "reason": "Injury/Illness - Left Ankle; LAnkle",
-          "reason_category": "injury"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
+        },
+        {
+          "name_last_first": "Pili, Alissa",
+          "name": "Alissa Pili",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         },
         {
           "name_last_first": "Plum, Kelsey",
@@ -191,7 +198,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-15_11_45AM.pdf",
-  "fetched_slot": "2026-07-15T11:45:00-04:00",
-  "polled_at_utc": "2026-07-15T15:45:12.262755+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-15_12_00PM.pdf",
+  "fetched_slot": "2026-07-15T12:00:00-04:00",
+  "polled_at_utc": "2026-07-15T16:00:22.655504+00:00"
 }
