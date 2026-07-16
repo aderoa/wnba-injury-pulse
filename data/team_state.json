@@ -47,7 +47,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-07-16T20:00:12.886225+00:00"
+    "last_seen_pending_ts": "2026-07-16T20:15:12.425881+00:00"
   },
   "PHX": {
     "team_full": "Phoenix Mercury",
@@ -90,7 +90,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-07-16T20:00:12.886225+00:00"
+    "last_seen_pending_ts": "2026-07-16T20:15:12.425881+00:00"
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
@@ -137,45 +137,30 @@
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-07-14T03:46:06.215712+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-13_11_45PM.pdf",
+    "last_submitted_ts": "2026-07-16T20:15:12.425881+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-16_04_15PM.pdf",
     "game_dates": [
-      "07/13/2026"
+      "07/17/2026"
     ],
     "matchups": [
-      "LAS@ATL"
+      "ATL@TOR"
     ],
     "players": [
       {
         "name_last_first": "Jones, Brionna",
         "name": "Brionna Jones",
-        "status": "Out",
+        "status": "Questionable",
         "reason": "Injury/Illness - Right Knee; N/A",
         "reason_category": "injury"
       },
       {
-        "name_last_first": "Nivar, Indya",
-        "name": "Indya Nivar",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
-      },
-      {
-        "name_last_first": "Reese, Angel",
-        "name": "Angel Reese",
-        "status": "Available",
+        "name_last_first": "Paopao, Te-Hina",
+        "name": "Te-Hina Paopao",
+        "status": "Questionable",
         "reason": "Injury/Illness - Right Leg; N/A",
         "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Sherrod, Jaylyn",
-        "name": "Jaylyn Sherrod",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
       }
-    ],
-    "last_seen_pending_ts": "2026-07-16T20:00:12.886225+00:00"
+    ]
   },
   "MIN": {
     "team_full": "Minnesota Lynx",
@@ -253,13 +238,13 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-07-16T20:00:12.886225+00:00"
+    "last_seen_pending_ts": "2026-07-16T20:15:12.425881+00:00"
   },
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-07-16T20:00:12.886225+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-16_04_00PM.pdf",
+    "last_submitted_ts": "2026-07-16T20:15:12.425881+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-16_04_15PM.pdf",
     "game_dates": [
       "07/16/2026"
     ],
@@ -317,7 +302,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-07-16T20:00:12.886225+00:00"
+    "last_seen_pending_ts": "2026-07-16T20:15:12.425881+00:00"
   },
   "CON": {
     "team_full": "Connecticut Sun",
@@ -360,7 +345,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-07-16T20:00:12.886225+00:00"
+    "last_seen_pending_ts": "2026-07-16T20:15:12.425881+00:00"
   },
   "NYL": {
     "team_full": "New York Liberty",
@@ -495,6 +480,6 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-07-16T20:00:12.886225+00:00"
+    "last_seen_pending_ts": "2026-07-16T20:15:12.425881+00:00"
   }
 }

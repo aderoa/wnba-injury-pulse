@@ -13283,5 +13283,48 @@
     "to_status": "Available",
     "reason": "-",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-07-16T20:15:12.425881+00:00",
+    "type": "added",
+    "team_abbr": "ATL",
+    "player": "Te-Hina Paopao",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Right Leg; N/A",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-16T20:15:12.425881+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Indya Nivar",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-07-16T20:15:12.425881+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Angel Reese",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Right Leg; N/A"
+  },
+  {
+    "ts": "2026-07-16T20:15:12.425881+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Jaylyn Sherrod",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-07-16T20:15:12.425881+00:00",
+    "type": "status_change",
+    "team_abbr": "ATL",
+    "player": "Brionna Jones",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Right Knee; N/A",
+    "reason_category": "injury"
   }
 ]

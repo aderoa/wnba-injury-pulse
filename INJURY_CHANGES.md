@@ -4,6 +4,14 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-07-16 20:15 UTC
+
+- **Te-Hina Paopao** (ATL) newly listed as **Questionable** — Injury/Illness - Right Leg; N/A
+- **Indya Nivar** (ATL) cleared (was Out)
+- **Angel Reese** (ATL) cleared (was Available)
+- **Jaylyn Sherrod** (ATL) cleared (was Out)
+- **Brionna Jones** (ATL): **Out** → **Questionable** — Injury/Illness - Right Knee; N/A
+
 ## 2026-07-15 23:30 UTC
 
 - **Ashten Prechtel** (GSV) newly listed as **Out** — Coach's Decision
