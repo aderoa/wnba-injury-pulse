@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/16/26 06:15 PM",
+  "report_ts": "07/16/26 06:30 PM",
   "page_count": 2,
-  "raw_line_count": 22,
+  "raw_line_count": 24,
   "teams": [
     {
       "team_full": "Portland Fire",
@@ -26,11 +26,35 @@
           "reason_category": "offcourt"
         },
         {
+          "name_last_first": "Harrison, Jordan",
+          "name": "Jordan Harrison",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Oblak, Teja",
           "name": "Teja Oblak",
           "status": "Available",
           "reason": "Injury/Illness - N/a; Illness",
           "reason_category": "injury"
+        }
+      ]
+    },
+    {
+      "team_full": "Washington Mystics",
+      "team_abbr": "WAS",
+      "game_date": "07/16/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "PDX@WAS",
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Littlepage-Buggs, Darianna",
+          "name": "Darianna Littlepage-Buggs",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -208,7 +232,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-16_06_15PM.pdf",
-  "fetched_slot": "2026-07-16T18:15:00-04:00",
-  "polled_at_utc": "2026-07-16T22:15:14.474319+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-16_06_30PM.pdf",
+  "fetched_slot": "2026-07-16T18:30:00-04:00",
+  "polled_at_utc": "2026-07-16T22:30:13.283827+00:00"
 }
