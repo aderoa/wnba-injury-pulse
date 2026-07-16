@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/16/26 07:00 PM",
+  "report_ts": "07/16/26 07:15 PM",
   "page_count": 2,
-  "raw_line_count": 24,
+  "raw_line_count": 27,
   "teams": [
     {
       "team_full": "Portland Fire",
@@ -219,8 +219,23 @@
       "game_date": "07/17/2026",
       "game_time": "10:00(ET)",
       "matchup": "CON@PHX",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Morrow, Aneesah",
+          "name": "Aneesah Morrow",
+          "status": "Doubtful",
+          "reason": "Returnto Competition Reconditioning",
+          "reason_category": "other"
+        },
+        {
+          "name_last_first": "Rivers, Saniya",
+          "name": "Saniya Rivers",
+          "status": "Probable",
+          "reason": "Injury/Illness - Left Ankle; Sprain",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Phoenix Mercury",
@@ -232,7 +247,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-16_07_00PM.pdf",
-  "fetched_slot": "2026-07-16T19:00:00-04:00",
-  "polled_at_utc": "2026-07-16T23:00:12.963674+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-16_07_15PM.pdf",
+  "fetched_slot": "2026-07-16T19:15:00-04:00",
+  "polled_at_utc": "2026-07-16T23:15:13.329652+00:00"
 }

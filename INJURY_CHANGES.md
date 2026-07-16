@@ -4,6 +4,13 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-07-16 23:15 UTC
+
+- **Brittney Griner** (CON) cleared (was Available)
+- **Ashlon Jackson** (CON) cleared (was Out)
+- **Saniya Rivers** (CON): **Out** → **Probable** — Injury/Illness - Left Ankle; Sprain
+- **Aneesah Morrow** (CON): **Out** → **Doubtful** — Returnto Competition Reconditioning
+
 ## 2026-07-16 22:30 UTC
 
 - **Jordan Harrison** (PDX) newly listed as **Out** — Coach's Decision

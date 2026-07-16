@@ -13487,5 +13487,41 @@
     "player": "Alicia Florez",
     "previous_status": "Available",
     "previous_reason": "Injury/Illness - Neck; Soreness"
+  },
+  {
+    "ts": "2026-07-16T23:15:13.329652+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Brittney Griner",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Left Quad; Strain"
+  },
+  {
+    "ts": "2026-07-16T23:15:13.329652+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Ashlon Jackson",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-07-16T23:15:13.329652+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Saniya Rivers",
+    "from_status": "Out",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Left Ankle; Sprain",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-16T23:15:13.329652+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Aneesah Morrow",
+    "from_status": "Out",
+    "to_status": "Doubtful",
+    "reason": "Returnto Competition Reconditioning",
+    "reason_category": "other"
   }
 ]
