@@ -13326,5 +13326,41 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Right Knee; N/A",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-16T20:30:14.024497+00:00",
+    "type": "added",
+    "team_abbr": "ATL",
+    "player": "Temi TorontoTempo Fagbenle",
+    "status": "Probable",
+    "reason": "Concussion Protocol",
+    "reason_category": "procedural"
+  },
+  {
+    "ts": "2026-07-16T20:30:14.024497+00:00",
+    "type": "added",
+    "team_abbr": "ATL",
+    "player": "Teonni Key",
+    "status": "Questionable",
+    "reason": "Injury/Illness - N/A; Illness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-16T20:30:14.024497+00:00",
+    "type": "added",
+    "team_abbr": "ATL",
+    "player": "Kiki Rice",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Ankle; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-16T20:30:14.024497+00:00",
+    "type": "added",
+    "team_abbr": "ATL",
+    "player": "Brittney Sykes",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Foot; Injury",
+    "reason_category": "injury"
   }
 ]
