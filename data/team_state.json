@@ -23,31 +23,30 @@
   "IND": {
     "team_full": "Indiana Fever",
     "submitted": true,
-    "last_submitted_ts": "2026-07-16T03:45:18.068014+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-15_11_45PM.pdf",
+    "last_submitted_ts": "2026-07-16T21:00:15.054622+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-16_05_00PM.pdf",
     "game_dates": [
-      "07/15/2026"
+      "07/17/2026"
     ],
     "matchups": [
-      "GSV@IND"
+      "SEA@IND"
     ],
     "players": [
       {
-        "name_last_first": "Clark, Caitlin",
-        "name": "Caitlin Clark",
-        "status": "Available",
-        "reason": "-",
-        "reason_category": "other"
+        "name_last_first": "Boston, Aliyah",
+        "name": "Aliyah Boston",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Right Leg; Lower",
+        "reason_category": "injury"
       },
       {
-        "name_last_first": "Hall, Bree",
-        "name": "Bree Hall",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
+        "name_last_first": "Clark, Caitlin",
+        "name": "Caitlin Clark",
+        "status": "Probable",
+        "reason": "Injury/Illness - Back; Back",
+        "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-07-16T20:45:15.191446+00:00"
+    ]
   },
   "PHX": {
     "team_full": "Phoenix Mercury",
@@ -90,7 +89,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-07-16T20:45:15.191446+00:00"
+    "last_seen_pending_ts": "2026-07-16T21:00:15.054622+00:00"
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
@@ -137,8 +136,8 @@
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-07-16T20:45:15.191446+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-16_04_45PM.pdf",
+    "last_submitted_ts": "2026-07-16T21:00:15.054622+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-16_05_00PM.pdf",
     "game_dates": [
       "07/17/2026"
     ],
@@ -266,13 +265,13 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-07-16T20:45:15.191446+00:00"
+    "last_seen_pending_ts": "2026-07-16T21:00:15.054622+00:00"
   },
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-07-16T20:45:15.191446+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-16_04_45PM.pdf",
+    "last_submitted_ts": "2026-07-16T21:00:15.054622+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-16_05_00PM.pdf",
     "game_dates": [
       "07/16/2026"
     ],
@@ -306,13 +305,13 @@
   "SEA": {
     "team_full": "Seattle Storm",
     "submitted": true,
-    "last_submitted_ts": "2026-07-16T03:45:18.068014+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-15_11_45PM.pdf",
+    "last_submitted_ts": "2026-07-16T21:00:15.054622+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-16_05_00PM.pdf",
     "game_dates": [
-      "07/15/2026"
+      "07/17/2026"
     ],
     "matchups": [
-      "SEA@CHI"
+      "SEA@IND"
     ],
     "players": [
       {
@@ -329,8 +328,7 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ],
-    "last_seen_pending_ts": "2026-07-16T20:45:15.191446+00:00"
+    ]
   },
   "CON": {
     "team_full": "Connecticut Sun",
@@ -373,7 +371,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-07-16T20:45:15.191446+00:00"
+    "last_seen_pending_ts": "2026-07-16T21:00:15.054622+00:00"
   },
   "NYL": {
     "team_full": "New York Liberty",
@@ -508,6 +506,6 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-07-16T20:45:15.191446+00:00"
+    "last_seen_pending_ts": "2026-07-16T21:00:15.054622+00:00"
   }
 }
