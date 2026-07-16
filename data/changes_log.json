@@ -13427,5 +13427,15 @@
     "from_reason": "Injury/Illness - Left Foot; Left Foot",
     "to_reason": "Injury/Illness - Left Foot; LFoot",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-16T21:45:12.540433+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Teja Oblak",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - N/a; Illness",
+    "reason_category": "injury"
   }
 ]
