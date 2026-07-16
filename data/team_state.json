@@ -23,8 +23,8 @@
   "IND": {
     "team_full": "Indiana Fever",
     "submitted": true,
-    "last_submitted_ts": "2026-07-16T21:45:12.540433+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-16_05_45PM.pdf",
+    "last_submitted_ts": "2026-07-16T22:00:18.335375+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-16_06_00PM.pdf",
     "game_dates": [
       "07/17/2026"
     ],
@@ -89,7 +89,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-07-16T21:45:12.540433+00:00"
+    "last_seen_pending_ts": "2026-07-16T22:00:18.335375+00:00"
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
@@ -136,8 +136,8 @@
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-07-16T21:45:12.540433+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-16_05_45PM.pdf",
+    "last_submitted_ts": "2026-07-16T22:00:18.335375+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-16_06_00PM.pdf",
     "game_dates": [
       "07/17/2026"
     ],
@@ -227,8 +227,8 @@
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-07-16T21:45:12.540433+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-16_05_45PM.pdf",
+    "last_submitted_ts": "2026-07-16T22:00:18.335375+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-16_06_00PM.pdf",
     "game_dates": [
       "07/17/2026"
     ],
@@ -262,8 +262,8 @@
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-07-16T21:45:12.540433+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-16_05_45PM.pdf",
+    "last_submitted_ts": "2026-07-16T22:00:18.335375+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-16_06_00PM.pdf",
     "game_dates": [
       "07/16/2026"
     ],
@@ -297,8 +297,8 @@
   "SEA": {
     "team_full": "Seattle Storm",
     "submitted": true,
-    "last_submitted_ts": "2026-07-16T21:45:12.540433+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-16_05_45PM.pdf",
+    "last_submitted_ts": "2026-07-16T22:00:18.335375+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-16_06_00PM.pdf",
     "game_dates": [
       "07/17/2026"
     ],
@@ -363,7 +363,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-07-16T21:45:12.540433+00:00"
+    "last_seen_pending_ts": "2026-07-16T22:00:18.335375+00:00"
   },
   "NYL": {
     "team_full": "New York Liberty",
@@ -467,37 +467,29 @@
   "LAS": {
     "team_full": "Los Angeles Sparks",
     "submitted": true,
-    "last_submitted_ts": "2026-07-16T03:45:18.068014+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-15_11_45PM.pdf",
+    "last_submitted_ts": "2026-07-16T22:00:18.335375+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-16_06_00PM.pdf",
     "game_dates": [
-      "07/15/2026"
+      "07/17/2026"
     ],
     "matchups": [
-      "LAS@MIN"
+      "LAS@CHI"
     ],
     "players": [
-      {
-        "name_last_first": "Brink, Cameron",
-        "name": "Cameron Brink",
-        "status": "Available",
-        "reason": "-",
-        "reason_category": "other"
-      },
-      {
-        "name_last_first": "Pili, Alissa",
-        "name": "Alissa Pili",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
-      },
       {
         "name_last_first": "Plum, Kelsey",
         "name": "Kelsey Plum",
         "status": "Out",
         "reason": "Injury/Illness - Left Lower Leg; L Lower Leg",
         "reason_category": "injury"
+      },
+      {
+        "name_last_first": "Williams, Kiana",
+        "name": "Kiana Williams",
+        "status": "Probable",
+        "reason": "Injury/Illness - Righthand; RHand",
+        "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-07-16T21:45:12.540433+00:00"
+    ]
   }
 }

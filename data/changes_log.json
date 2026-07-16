@@ -13437,5 +13437,30 @@
     "to_status": "Available",
     "reason": "Injury/Illness - N/a; Illness",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-16T22:00:18.335375+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Kiana Williams",
+    "status": "Probable",
+    "reason": "Injury/Illness - Righthand; RHand",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-16T22:00:18.335375+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Cameron Brink",
+    "previous_status": "Available",
+    "previous_reason": "-"
+  },
+  {
+    "ts": "2026-07-16T22:00:18.335375+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Alissa Pili",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]
