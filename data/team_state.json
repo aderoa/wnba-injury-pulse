@@ -47,7 +47,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-07-16T20:30:14.024497+00:00"
+    "last_seen_pending_ts": "2026-07-16T20:45:15.191446+00:00"
   },
   "PHX": {
     "team_full": "Phoenix Mercury",
@@ -90,7 +90,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-07-16T20:30:14.024497+00:00"
+    "last_seen_pending_ts": "2026-07-16T20:45:15.191446+00:00"
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
@@ -137,8 +137,8 @@
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-07-16T20:30:14.024497+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-16_04_30PM.pdf",
+    "last_submitted_ts": "2026-07-16T20:45:15.191446+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-16_04_45PM.pdf",
     "game_dates": [
       "07/17/2026"
     ],
@@ -266,13 +266,13 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-07-16T20:30:14.024497+00:00"
+    "last_seen_pending_ts": "2026-07-16T20:45:15.191446+00:00"
   },
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-07-16T20:30:14.024497+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-16_04_30PM.pdf",
+    "last_submitted_ts": "2026-07-16T20:45:15.191446+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-16_04_45PM.pdf",
     "game_dates": [
       "07/16/2026"
     ],
@@ -330,7 +330,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-07-16T20:30:14.024497+00:00"
+    "last_seen_pending_ts": "2026-07-16T20:45:15.191446+00:00"
   },
   "CON": {
     "team_full": "Connecticut Sun",
@@ -373,7 +373,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-07-16T20:30:14.024497+00:00"
+    "last_seen_pending_ts": "2026-07-16T20:45:15.191446+00:00"
   },
   "NYL": {
     "team_full": "New York Liberty",
@@ -508,6 +508,6 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-07-16T20:30:14.024497+00:00"
+    "last_seen_pending_ts": "2026-07-16T20:45:15.191446+00:00"
   }
 }
