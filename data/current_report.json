@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/16/26 07:45 PM",
+  "report_ts": "07/16/26 08:00 PM",
   "page_count": 2,
-  "raw_line_count": 27,
+  "raw_line_count": 31,
   "teams": [
     {
       "team_full": "Portland Fire",
@@ -243,11 +243,33 @@
       "game_date": "07/17/2026",
       "game_time": "10:00(ET)",
       "matchup": "CON@PHX",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Linskens, Kyara",
+          "name": "Kyara Linskens",
+          "status": "Probable",
+          "reason": "Injury/Illness - Right Knee;-",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Mack, Natasha",
+          "name": "Natasha Mack",
+          "status": "Doubtful",
+          "reason": "Injury/Illness - Left Foot;-",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Whitcomb, Sami",
+          "name": "Sami Whitcomb",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Knee; Injury Management",
+          "reason_category": "injury"
+        }
+      ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-16_07_45PM.pdf",
-  "fetched_slot": "2026-07-16T19:45:00-04:00",
-  "polled_at_utc": "2026-07-16T23:45:13.363299+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-16_08_00PM.pdf",
+  "fetched_slot": "2026-07-16T20:00:00-04:00",
+  "polled_at_utc": "2026-07-17T00:00:14.807671+00:00"
 }

@@ -13523,5 +13523,50 @@
     "to_status": "Doubtful",
     "reason": "Returnto Competition Reconditioning",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-07-17T00:00:14.807671+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Kyara Linskens",
+    "status": "Probable",
+    "reason": "Injury/Illness - Right Knee;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-17T00:00:14.807671+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Quionche Carter",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental"
+  },
+  {
+    "ts": "2026-07-17T00:00:14.807671+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Shay Ciezki",
+    "previous_status": "Out",
+    "previous_reason": "Player Coach's Decision - Developmental Player"
+  },
+  {
+    "ts": "2026-07-17T00:00:14.807671+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "Sami Whitcomb",
+    "from_status": "Available",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Knee; Injury Management",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-17T00:00:14.807671+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "Natasha Mack",
+    "from_status": "Out",
+    "to_status": "Doubtful",
+    "reason": "Injury/Illness - Left Foot;-",
+    "reason_category": "injury"
   }
 ]
