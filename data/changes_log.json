@@ -13608,5 +13608,39 @@
     "from_reason": "Injury/Illness - Left Foot; Soreness",
     "to_reason": "Injury/Illness - Left Foot; L.Foot",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-17T21:16:02.233257+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Karlie Samuelson",
+    "status": "Doubtful",
+    "reason": "Injury/Illness - Left Middle Finger; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-17T21:16:02.233257+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Holly Winterburn",
+    "status": "Out",
+    "reason": "Personal Reasons",
+    "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-07-17T21:16:02.233257+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Jordan Harrison",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-07-17T21:16:02.233257+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Teja Oblak",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - N/a; Illness"
   }
 ]

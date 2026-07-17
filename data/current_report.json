@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/17/26 05:00 PM",
+  "report_ts": "07/17/26 05:15 PM",
   "page_count": 2,
-  "raw_line_count": 33,
+  "raw_line_count": 38,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -252,8 +252,37 @@
       "game_date": "07/18/2026",
       "game_time": "08:00(ET)",
       "matchup": "PDX@MIN",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Feagin, Sania",
+          "name": "Sania Feagin",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Gustafson, Megan",
+          "name": "Megan Gustafson",
+          "status": "Out",
+          "reason": "Personal Reasons",
+          "reason_category": "offcourt"
+        },
+        {
+          "name_last_first": "Samuelson, Karlie",
+          "name": "Karlie Samuelson",
+          "status": "Doubtful",
+          "reason": "Injury/Illness - Left Middle Finger; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Winterburn, Holly",
+          "name": "Holly Winterburn",
+          "status": "Out",
+          "reason": "Personal Reasons",
+          "reason_category": "offcourt"
+        }
+      ]
     },
     {
       "team_full": "Minnesota Lynx",
@@ -283,7 +312,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-17_05_00PM.pdf",
-  "fetched_slot": "2026-07-17T17:00:00-04:00",
-  "polled_at_utc": "2026-07-17T21:01:00.967970+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-17_05_15PM.pdf",
+  "fetched_slot": "2026-07-17T17:15:00-04:00",
+  "polled_at_utc": "2026-07-17T21:16:02.233257+00:00"
 }
