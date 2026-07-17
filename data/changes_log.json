@@ -13588,5 +13588,15 @@
     "to_status": "Available",
     "reason": "Concussion Protocol",
     "reason_category": "procedural"
+  },
+  {
+    "ts": "2026-07-17T19:00:57.848522+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Aneesah Morrow",
+    "from_status": "Doubtful",
+    "to_status": "Out",
+    "reason": "Returnto Competition Reconditioning",
+    "reason_category": "other"
   }
 ]
