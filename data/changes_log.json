@@ -13690,5 +13690,33 @@
     "from_reason": "Injury/Illness - Left Ankle; Left Ankle",
     "to_reason": "Injury/Illness - Left Ankle; Leftankle",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-17T22:15:57.254619+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Tonie Morgan",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-17T22:15:57.254619+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Alissa Pili",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-17T22:15:57.254619+00:00",
+    "type": "status_change",
+    "team_abbr": "LAS",
+    "player": "Kiana Williams",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
   }
 ]

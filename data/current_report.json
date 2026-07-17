@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/17/26 06:00 PM",
+  "report_ts": "07/17/26 06:15 PM",
   "page_count": 2,
-  "raw_line_count": 39,
+  "raw_line_count": 41,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -64,6 +64,20 @@
       "submitted": true,
       "players": [
         {
+          "name_last_first": "Morgan, Tonie",
+          "name": "Tonie Morgan",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Pili, Alissa",
+          "name": "Alissa Pili",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Plum, Kelsey",
           "name": "Kelsey Plum",
           "status": "Out",
@@ -73,9 +87,9 @@
         {
           "name_last_first": "Williams, Kiana",
           "name": "Kiana Williams",
-          "status": "Probable",
-          "reason": "Injury/Illness - Righthand; RHand",
-          "reason_category": "injury"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
         }
       ]
     },
@@ -327,7 +341,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-17_06_00PM.pdf",
-  "fetched_slot": "2026-07-17T18:00:00-04:00",
-  "polled_at_utc": "2026-07-17T22:01:36.169051+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-17_06_15PM.pdf",
+  "fetched_slot": "2026-07-17T18:15:00-04:00",
+  "polled_at_utc": "2026-07-17T22:15:57.254619+00:00"
 }
