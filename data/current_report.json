@@ -1,63 +1,8 @@
 {
-  "report_ts": "07/16/26 11:45 PM",
+  "report_ts": "07/17/26 12:00 AM",
   "page_count": 2,
-  "raw_line_count": 31,
+  "raw_line_count": 32,
   "teams": [
-    {
-      "team_full": "Portland Fire",
-      "team_abbr": "PDX",
-      "game_date": "07/16/2026",
-      "game_time": "07:00(ET)",
-      "matchup": "PDX@WAS",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Feagin, Sania",
-          "name": "Sania Feagin",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Knee; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Gustafson, Megan",
-          "name": "Megan Gustafson",
-          "status": "Out",
-          "reason": "Personal Reasons",
-          "reason_category": "offcourt"
-        },
-        {
-          "name_last_first": "Harrison, Jordan",
-          "name": "Jordan Harrison",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Oblak, Teja",
-          "name": "Teja Oblak",
-          "status": "Available",
-          "reason": "Injury/Illness - N/a; Illness",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Washington Mystics",
-      "team_abbr": "WAS",
-      "game_date": "07/16/2026",
-      "game_time": "07:00(ET)",
-      "matchup": "PDX@WAS",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Littlepage-Buggs, Darianna",
-          "name": "Darianna Littlepage-Buggs",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
     {
       "team_full": "Atlanta Dream",
       "team_abbr": "ATL",
@@ -267,9 +212,63 @@
           "reason_category": "injury"
         }
       ]
+    },
+    {
+      "team_full": "New York Liberty",
+      "team_abbr": "NYL",
+      "game_date": "07/18/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "NYL@IND",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Indiana Fever",
+      "team_abbr": "IND",
+      "game_date": "07/18/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "NYL@IND",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Portland Fire",
+      "team_abbr": "PDX",
+      "game_date": "07/18/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "PDX@MIN",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Minnesota Lynx",
+      "team_abbr": "MIN",
+      "game_date": "07/18/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "PDX@MIN",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Washington Mystics",
+      "team_abbr": "WAS",
+      "game_date": "07/18/2026",
+      "game_time": "08:30(ET)",
+      "matchup": "WAS@GSV",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Golden State Valkyries",
+      "team_abbr": "GSV",
+      "game_date": "07/18/2026",
+      "game_time": "08:30(ET)",
+      "matchup": "WAS@GSV",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-16_11_45PM.pdf",
-  "fetched_slot": "2026-07-16T23:45:00-04:00",
-  "polled_at_utc": "2026-07-17T03:45:11.489546+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-17_12_00AM.pdf",
+  "fetched_slot": "2026-07-17T00:00:00-04:00",
+  "polled_at_utc": "2026-07-17T04:00:17.260022+00:00"
 }
