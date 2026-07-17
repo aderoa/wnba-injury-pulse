@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/17/26 04:30 PM",
+  "report_ts": "07/17/26 04:45 PM",
   "page_count": 2,
-  "raw_line_count": 32,
+  "raw_line_count": 33,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -219,8 +219,23 @@
       "game_date": "07/18/2026",
       "game_time": "08:00(ET)",
       "matchup": "NYL@IND",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Fiebich, Leonie",
+          "name": "Leonie Fiebich",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Foot; L.Foot",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sabally, Satou",
+          "name": "Satou Sabally",
+          "status": "Out",
+          "reason": "Concussion Protocol",
+          "reason_category": "procedural"
+        }
+      ]
     },
     {
       "team_full": "Indiana Fever",
@@ -268,7 +283,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-17_04_30PM.pdf",
-  "fetched_slot": "2026-07-17T16:30:00-04:00",
-  "polled_at_utc": "2026-07-17T20:30:59.524224+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-17_04_45PM.pdf",
+  "fetched_slot": "2026-07-17T16:45:00-04:00",
+  "polled_at_utc": "2026-07-17T20:46:00.220288+00:00"
 }
