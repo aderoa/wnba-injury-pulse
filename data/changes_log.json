@@ -13662,5 +13662,33 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Back; Back",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-17T21:46:01.479722+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Dorka Juhasz",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Right Knee; Right Knee"
+  },
+  {
+    "ts": "2026-07-17T21:46:01.479722+00:00",
+    "type": "reason_change",
+    "team_abbr": "MIN",
+    "player": "Emma Cechova",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Right Knee; Right Knee",
+    "to_reason": "Injury/Illness - Right Knee; Rightknee",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-17T21:46:01.479722+00:00",
+    "type": "reason_change",
+    "team_abbr": "MIN",
+    "player": "Napheesa Collier",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Ankle; Left Ankle",
+    "to_reason": "Injury/Illness - Left Ankle; Leftankle",
+    "reason_category": "injury"
   }
 ]
