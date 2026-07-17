@@ -13718,5 +13718,15 @@
     "to_status": "Available",
     "reason": "-",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-07-17T22:30:58.377978+00:00",
+    "type": "status_change",
+    "team_abbr": "CHI",
+    "player": "Kamilla Cardoso",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Knee; RKnee",
+    "reason_category": "injury"
   }
 ]
