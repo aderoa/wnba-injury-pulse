@@ -13642,5 +13642,25 @@
     "player": "Teja Oblak",
     "previous_status": "Available",
     "previous_reason": "Injury/Illness - N/a; Illness"
+  },
+  {
+    "ts": "2026-07-17T21:30:58.898845+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Aliyah Boston",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Leg; Lower",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-17T21:30:58.898845+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Back; Back",
+    "reason_category": "injury"
   }
 ]
