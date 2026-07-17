@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/17/26 06:45 PM",
-  "page_count": 2,
-  "raw_line_count": 41,
+  "report_ts": "07/17/26 07:00 PM",
+  "page_count": 3,
+  "raw_line_count": 43,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -14,20 +14,34 @@
         {
           "name_last_first": "Jones, Brionna",
           "name": "Brionna Jones",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Right Knee; N/A",
           "reason_category": "injury"
         },
         {
+          "name_last_first": "Nivar, Indya",
+          "name": "Indya Nivar",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Paopao, Te-Hina",
           "name": "Te-Hina Paopao",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Right Leg; N/A",
           "reason_category": "injury"
         },
         {
-          "name_last_first": "TorontoTempo Fagbenle, Temi",
-          "name": "Temi TorontoTempo Fagbenle",
+          "name_last_first": "TorontoTempo Bankole, Ornella",
+          "name": "Ornella TorontoTempo Bankole",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Fagbenle, Temi",
+          "name": "Temi Fagbenle",
           "status": "Available",
           "reason": "Concussion Protocol",
           "reason_category": "procedural"
@@ -341,7 +355,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-17_06_45PM.pdf",
-  "fetched_slot": "2026-07-17T18:45:00-04:00",
-  "polled_at_utc": "2026-07-17T22:45:57.790132+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-17_07_00PM.pdf",
+  "fetched_slot": "2026-07-17T19:00:00-04:00",
+  "polled_at_utc": "2026-07-17T23:01:00.093371+00:00"
 }
