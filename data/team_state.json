@@ -18,7 +18,8 @@
         "reason": "Injury/Illness - Right Leg; rightleg",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-07-18T04:00:57.837989+00:00"
   },
   "IND": {
     "team_full": "Indiana Fever",
@@ -48,7 +49,8 @@
         "reason": "Injury/Illness - Back; Back",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-07-18T04:00:57.837989+00:00"
   },
   "PHX": {
     "team_full": "Phoenix Mercury",
@@ -97,7 +99,8 @@
         "reason": "Injury/Illness - Left Knee; Injury Management",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-07-18T04:00:57.837989+00:00"
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
@@ -209,13 +212,14 @@
         "reason": "Injury/Illness - Left Foot; Injury",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-07-18T04:00:57.837989+00:00"
   },
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-07-18T03:46:03.498411+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-17_11_45PM.pdf",
+    "last_submitted_ts": "2026-07-18T04:00:57.837989+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-18_12_00AM.pdf",
     "game_dates": [
       "07/18/2026"
     ],
@@ -272,13 +276,14 @@
         "reason": "Injury/Illness - Right Knee; RKnee",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-07-18T04:00:57.837989+00:00"
   },
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-07-18T03:46:03.498411+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-17_11_45PM.pdf",
+    "last_submitted_ts": "2026-07-18T04:00:57.837989+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-18_12_00AM.pdf",
     "game_dates": [
       "07/18/2026"
     ],
@@ -384,13 +389,14 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-07-18T04:00:57.837989+00:00"
   },
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-07-18T03:46:03.498411+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-17_11_45PM.pdf",
+    "last_submitted_ts": "2026-07-18T04:00:57.837989+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-18_12_00AM.pdf",
     "game_dates": [
       "07/18/2026"
     ],
@@ -439,8 +445,8 @@
   "GSV": {
     "team_full": "Golden State Valkyries",
     "submitted": true,
-    "last_submitted_ts": "2026-07-18T03:46:03.498411+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-17_11_45PM.pdf",
+    "last_submitted_ts": "2026-07-18T04:00:57.837989+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-18_12_00AM.pdf",
     "game_dates": [
       "07/18/2026"
     ],
@@ -497,6 +503,7 @@
         "reason": "-",
         "reason_category": "other"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-07-18T04:00:57.837989+00:00"
   }
 }

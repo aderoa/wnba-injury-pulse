@@ -1,274 +1,8 @@
 {
-  "report_ts": "07/17/26 11:45 PM",
-  "page_count": 3,
-  "raw_line_count": 49,
+  "report_ts": "07/18/26 12:00 AM",
+  "page_count": 1,
+  "raw_line_count": 18,
   "teams": [
-    {
-      "team_full": "Atlanta Dream",
-      "team_abbr": "ATL",
-      "game_date": "07/17/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "ATL@TOR",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Jones, Brionna",
-          "name": "Brionna Jones",
-          "status": "Available",
-          "reason": "Injury/Illness - Right Knee; N/A",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Nivar, Indya",
-          "name": "Indya Nivar",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Paopao, Te-Hina",
-          "name": "Te-Hina Paopao",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Leg; N/A",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "TorontoTempo Bankole, Ornella",
-          "name": "Ornella TorontoTempo Bankole",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Fagbenle, Temi",
-          "name": "Temi Fagbenle",
-          "status": "Available",
-          "reason": "Concussion Protocol",
-          "reason_category": "procedural"
-        },
-        {
-          "name_last_first": "Key, Teonni",
-          "name": "Teonni Key",
-          "status": "Available",
-          "reason": "Injury/Illness - N/A; Illness",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Rice, Kiki",
-          "name": "Kiki Rice",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Ankle; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Sykes, Brittney",
-          "name": "Brittney Sykes",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Foot; Injury",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Los Angeles Sparks",
-      "team_abbr": "LAS",
-      "game_date": "07/17/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "LAS@CHI",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Morgan, Tonie",
-          "name": "Tonie Morgan",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Pili, Alissa",
-          "name": "Alissa Pili",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Plum, Kelsey",
-          "name": "Kelsey Plum",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Lower Leg; L Lower Leg",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Williams, Kiana",
-          "name": "Kiana Williams",
-          "status": "Available",
-          "reason": "-",
-          "reason_category": "other"
-        }
-      ]
-    },
-    {
-      "team_full": "Chicago Sky",
-      "team_abbr": "CHI",
-      "game_date": "07/17/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "LAS@CHI",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Cardoso, Kamilla",
-          "name": "Kamilla Cardoso",
-          "status": "Available",
-          "reason": "Injury/Illness - Right Knee; RKnee",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Carrington, DiJonai",
-          "name": "DiJonai Carrington",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Foot; LFoot",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Diggins, Skylar",
-          "name": "Skylar Diggins",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee; RKnee",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Seattle Storm",
-      "team_abbr": "SEA",
-      "game_date": "07/17/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "SEA@IND",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Magbegor, Ezi",
-          "name": "Ezi Magbegor",
-          "status": "Out",
-          "reason": "Not With Team",
-          "reason_category": "offcourt"
-        },
-        {
-          "name_last_first": "Mair, Taina",
-          "name": "Taina Mair",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Indiana Fever",
-      "team_abbr": "IND",
-      "game_date": "07/17/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "SEA@IND",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Boston, Aliyah",
-          "name": "Aliyah Boston",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Leg; Lower",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Clark, Caitlin",
-          "name": "Caitlin Clark",
-          "status": "Available",
-          "reason": "Injury/Illness - Back; Back",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Connecticut Sun",
-      "team_abbr": "CON",
-      "game_date": "07/17/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "CON@PHX",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Jackson, Ashlon",
-          "name": "Ashlon Jackson",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Morrow, Aneesah",
-          "name": "Aneesah Morrow",
-          "status": "Out",
-          "reason": "Returnto Competition Reconditioning",
-          "reason_category": "other"
-        },
-        {
-          "name_last_first": "Rivers, Saniya",
-          "name": "Saniya Rivers",
-          "status": "Available",
-          "reason": "Injury/Illness - Left Ankle; Sprain",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "VanLith, Hailey",
-          "name": "Hailey VanLith",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Phoenix Mercury",
-      "team_abbr": "PHX",
-      "game_date": "07/17/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "CON@PHX",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Carter, Quionche",
-          "name": "Quionche Carter",
-          "status": "Out",
-          "reason": "Coach's Decision - Developmental",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Ciezki, Shay",
-          "name": "Shay Ciezki",
-          "status": "Out",
-          "reason": "Player Coach's Decision - Developmental Player",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Linskens, Kyara",
-          "name": "Kyara Linskens",
-          "status": "Available",
-          "reason": "Injury/Illness - Right Knee;-",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Mack, Natasha",
-          "name": "Natasha Mack",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Foot;-",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Whitcomb, Sami",
-          "name": "Sami Whitcomb",
-          "status": "Available",
-          "reason": "Injury/Illness - Left Knee; Injury Management",
-          "reason_category": "injury"
-        }
-      ]
-    },
     {
       "team_full": "New York Liberty",
       "team_abbr": "NYL",
@@ -380,9 +114,63 @@
           "reason_category": "injury"
         }
       ]
+    },
+    {
+      "team_full": "Los Angeles Sparks",
+      "team_abbr": "LAS",
+      "game_date": "07/19/2026",
+      "game_time": "01:00(ET)",
+      "matchup": "LAS@DAL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Dallas Wings",
+      "team_abbr": "DAL",
+      "game_date": "07/19/2026",
+      "game_time": "01:00(ET)",
+      "matchup": "LAS@DAL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Chicago Sky",
+      "team_abbr": "CHI",
+      "game_date": "07/19/2026",
+      "game_time": "04:00(ET)",
+      "matchup": "CHI@ATL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Atlanta Dream",
+      "team_abbr": "ATL",
+      "game_date": "07/19/2026",
+      "game_time": "04:00(ET)",
+      "matchup": "CHI@ATL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Connecticut Sun",
+      "team_abbr": "CON",
+      "game_date": "07/19/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "CON@PHX",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Phoenix Mercury",
+      "team_abbr": "PHX",
+      "game_date": "07/19/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "CON@PHX",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-17_11_45PM.pdf",
-  "fetched_slot": "2026-07-17T23:45:00-04:00",
-  "polled_at_utc": "2026-07-18T03:46:03.498411+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-18_12_00AM.pdf",
+  "fetched_slot": "2026-07-18T00:00:00-04:00",
+  "polled_at_utc": "2026-07-18T04:00:57.837989+00:00"
 }
