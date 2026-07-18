@@ -13836,5 +13836,23 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Left Foot;-",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-18T01:01:04.970278+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Ashlon Jackson",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-18T01:01:04.970278+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Hailey VanLith",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]

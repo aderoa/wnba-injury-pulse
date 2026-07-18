@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/17/26 08:45 PM",
-  "page_count": 2,
-  "raw_line_count": 42,
+  "report_ts": "07/17/26 09:00 PM",
+  "page_count": 3,
+  "raw_line_count": 44,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -195,6 +195,13 @@
       "submitted": true,
       "players": [
         {
+          "name_last_first": "Jackson, Ashlon",
+          "name": "Ashlon Jackson",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Morrow, Aneesah",
           "name": "Aneesah Morrow",
           "status": "Out",
@@ -207,6 +214,13 @@
           "status": "Probable",
           "reason": "Injury/Illness - Left Ankle; Sprain",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "VanLith, Hailey",
+          "name": "Hailey VanLith",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -354,7 +368,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-17_08_45PM.pdf",
-  "fetched_slot": "2026-07-17T20:45:00-04:00",
-  "polled_at_utc": "2026-07-18T00:45:58.307281+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-17_09_00PM.pdf",
+  "fetched_slot": "2026-07-17T21:00:00-04:00",
+  "polled_at_utc": "2026-07-18T01:01:04.970278+00:00"
 }
