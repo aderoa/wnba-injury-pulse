@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/18/26 05:45 PM",
+  "report_ts": "07/18/26 06:00 PM",
   "page_count": 2,
-  "raw_line_count": 21,
+  "raw_line_count": 24,
   "teams": [
     {
       "team_full": "New York Liberty",
@@ -38,16 +38,16 @@
         {
           "name_last_first": "Boston, Aliyah",
           "name": "Aliyah Boston",
-          "status": "Questionable",
-          "reason": "Injury/Illness - Right Leg; Lower",
-          "reason_category": "injury"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
         },
         {
           "name_last_first": "Clark, Caitlin",
           "name": "Caitlin Clark",
-          "status": "Probable",
-          "reason": "Injury/Illness - Back; Back",
-          "reason_category": "injury"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
         }
       ]
     },
@@ -136,8 +136,23 @@
       "game_date": "07/19/2026",
       "game_time": "01:00(ET)",
       "matchup": "LAS@DAL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Plum, Kelsey",
+          "name": "Kelsey Plum",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Lower Leg; L Lower Leg",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Williams, Kiana",
+          "name": "Kiana Williams",
+          "status": "Probable",
+          "reason": "Injury/Illness - Righthand; Rhand",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Dallas Wings",
@@ -223,7 +238,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-18_05_45PM.pdf",
-  "fetched_slot": "2026-07-18T17:45:00-04:00",
-  "polled_at_utc": "2026-07-18T21:54:36.334828+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-18_06_00PM.pdf",
+  "fetched_slot": "2026-07-18T18:00:00-04:00",
+  "polled_at_utc": "2026-07-18T22:00:19.451077+00:00"
 }

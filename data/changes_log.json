@@ -13998,5 +13998,51 @@
     "to_status": "Probable",
     "reason": "Injury/Illness - Right Knee; N/A",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-18T22:00:19.451077+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-07-18T22:00:19.451077+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Aliyah Boston",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-07-18T22:00:19.451077+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Tonie Morgan",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-07-18T22:00:19.451077+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Alissa Pili",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-07-18T22:00:19.451077+00:00",
+    "type": "status_change",
+    "team_abbr": "LAS",
+    "player": "Kiana Williams",
+    "from_status": "Available",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Righthand; Rhand",
+    "reason_category": "injury"
   }
 ]
