@@ -14063,5 +14063,23 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Left Middle Finger; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-18T23:45:17.448100+00:00",
+    "type": "added",
+    "team_abbr": "GSV",
+    "player": "Ashten Prechtel",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-18T23:45:17.448100+00:00",
+    "type": "added",
+    "team_abbr": "GSV",
+    "player": "Miela Sowah",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]

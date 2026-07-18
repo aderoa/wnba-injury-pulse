@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/18/26 07:30 PM",
+  "report_ts": "07/18/26 07:45 PM",
   "page_count": 2,
-  "raw_line_count": 25,
+  "raw_line_count": 27,
   "teams": [
     {
       "team_full": "New York Liberty",
@@ -134,6 +134,20 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Foot; Soreness",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Prechtel, Ashten",
+          "name": "Ashten Prechtel",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Sowah, Miela",
+          "name": "Miela Sowah",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -245,7 +259,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-18_07_30PM.pdf",
-  "fetched_slot": "2026-07-18T19:30:00-04:00",
-  "polled_at_utc": "2026-07-18T23:30:21.297814+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-18_07_45PM.pdf",
+  "fetched_slot": "2026-07-18T19:45:00-04:00",
+  "polled_at_utc": "2026-07-18T23:45:17.448100+00:00"
 }

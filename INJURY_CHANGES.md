@@ -4,6 +4,11 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-07-18 23:45 UTC
+
+- **Ashten Prechtel** (GSV) newly listed as **Out** — Coach's Decision
+- **Miela Sowah** (GSV) newly listed as **Out** — Coach's Decision
+
 ## 2026-07-18 23:15 UTC
 
 - **Karlie Samuelson** (PDX): **Doubtful** → **Out** — Injury/Illness - Left Middle Finger; Injury
