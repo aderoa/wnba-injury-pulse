@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/18/26 12:45 PM",
-  "page_count": 1,
-  "raw_line_count": 18,
+  "report_ts": "07/18/26 01:00 PM",
+  "page_count": 2,
+  "raw_line_count": 19,
   "teams": [
     {
       "team_full": "New York Liberty",
@@ -33,8 +33,23 @@
       "game_date": "07/18/2026",
       "game_time": "08:00(ET)",
       "matchup": "NYL@IND",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Boston, Aliyah",
+          "name": "Aliyah Boston",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Leg; Lower",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Clark, Caitlin",
+          "name": "Caitlin Clark",
+          "status": "Probable",
+          "reason": "Injury/Illness - Back; Back",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Portland Fire",
@@ -170,7 +185,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-18_12_45PM.pdf",
-  "fetched_slot": "2026-07-18T12:45:00-04:00",
-  "polled_at_utc": "2026-07-18T16:46:00.245067+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-18_01_00PM.pdf",
+  "fetched_slot": "2026-07-18T13:00:00-04:00",
+  "polled_at_utc": "2026-07-18T17:00:59.461399+00:00"
 }

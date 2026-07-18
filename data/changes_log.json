@@ -13892,5 +13892,25 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Right Knee;-",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-18T17:00:59.461399+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Aliyah Boston",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Right Leg; Lower",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-18T17:00:59.461399+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Available",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Back; Back",
+    "reason_category": "injury"
   }
 ]
