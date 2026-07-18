@@ -1,5 +1,5 @@
 {
-  "report_ts": "07/17/26 08:15 PM",
+  "report_ts": "07/17/26 08:30 PM",
   "page_count": 2,
   "raw_line_count": 42,
   "teams": [
@@ -228,14 +228,14 @@
         {
           "name_last_first": "Mack, Natasha",
           "name": "Natasha Mack",
-          "status": "Doubtful",
+          "status": "Out",
           "reason": "Injury/Illness - Left Foot;-",
           "reason_category": "injury"
         },
         {
           "name_last_first": "Whitcomb, Sami",
           "name": "Sami Whitcomb",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Left Knee; Injury Management",
           "reason_category": "injury"
         }
@@ -354,7 +354,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-17_08_15PM.pdf",
-  "fetched_slot": "2026-07-17T20:15:00-04:00",
-  "polled_at_utc": "2026-07-18T00:15:57.892441+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-17_08_30PM.pdf",
+  "fetched_slot": "2026-07-17T20:30:00-04:00",
+  "polled_at_utc": "2026-07-18T00:30:59.640032+00:00"
 }

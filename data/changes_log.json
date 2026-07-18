@@ -13816,5 +13816,25 @@
     "player": "Gabby Williams",
     "previous_status": "Available",
     "previous_reason": "-"
+  },
+  {
+    "ts": "2026-07-18T00:30:59.640032+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "Sami Whitcomb",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Knee; Injury Management",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-18T00:30:59.640032+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "Natasha Mack",
+    "from_status": "Doubtful",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Foot;-",
+    "reason_category": "injury"
   }
 ]

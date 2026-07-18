@@ -4,6 +4,11 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-07-18 00:30 UTC
+
+- **Sami Whitcomb** (PHX): **Questionable** → **Available** — Injury/Illness - Left Knee; Injury Management
+- **Natasha Mack** (PHX): **Doubtful** → **Out** — Injury/Illness - Left Foot;-
+
 ## 2026-07-18 00:01 UTC
 
 - **Juste Jocyte** (GSV) newly listed as **Out** — Injury/Illness - Left Foot; Soreness
