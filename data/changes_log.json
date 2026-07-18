@@ -14053,5 +14053,15 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-18T23:15:19.356386+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Karlie Samuelson",
+    "from_status": "Doubtful",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Middle Finger; Injury",
+    "reason_category": "injury"
   }
 ]

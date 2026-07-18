@@ -1,5 +1,5 @@
 {
-  "report_ts": "07/18/26 07:00 PM",
+  "report_ts": "07/18/26 07:15 PM",
   "page_count": 2,
   "raw_line_count": 25,
   "teams": [
@@ -76,7 +76,7 @@
         {
           "name_last_first": "Samuelson, Karlie",
           "name": "Karlie Samuelson",
-          "status": "Doubtful",
+          "status": "Out",
           "reason": "Injury/Illness - Left Middle Finger; Injury",
           "reason_category": "injury"
         },
@@ -245,7 +245,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-18_07_00PM.pdf",
-  "fetched_slot": "2026-07-18T19:00:00-04:00",
-  "polled_at_utc": "2026-07-18T23:00:18.596610+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-18_07_15PM.pdf",
+  "fetched_slot": "2026-07-18T19:15:00-04:00",
+  "polled_at_utc": "2026-07-18T23:15:19.356386+00:00"
 }
