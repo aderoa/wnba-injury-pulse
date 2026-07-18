@@ -13912,5 +13912,33 @@
     "to_status": "Probable",
     "reason": "Injury/Illness - Back; Back",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-18T20:30:16.979999+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Kamilla Cardoso",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Right Knee; RKnee"
+  },
+  {
+    "ts": "2026-07-18T20:30:16.979999+00:00",
+    "type": "reason_change",
+    "team_abbr": "CHI",
+    "player": "DiJonai Carrington",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Foot; LFoot",
+    "to_reason": "Injury/Illness - Left Foot; Left Foot",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-18T20:30:16.979999+00:00",
+    "type": "reason_change",
+    "team_abbr": "CHI",
+    "player": "Skylar Diggins",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Right Knee; RKnee",
+    "to_reason": "Injury/Illness - Right Knee; Right Knee",
+    "reason_category": "injury"
   }
 ]

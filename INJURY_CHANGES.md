@@ -4,6 +4,12 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-07-18 20:30 UTC
+
+- **Kamilla Cardoso** (CHI) cleared (was Available)
+- **DiJonai Carrington** (CHI, Out): reason updated (Injury/Illness - Left Foot; LFoot → Injury/Illness - Left Foot; Left Foot)
+- **Skylar Diggins** (CHI, Out): reason updated (Injury/Illness - Right Knee; RKnee → Injury/Illness - Right Knee; Right Knee)
+
 ## 2026-07-18 17:00 UTC
 
 - **Aliyah Boston** (IND): **Out** → **Questionable** — Injury/Illness - Right Leg; Lower
