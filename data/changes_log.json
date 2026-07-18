@@ -13940,5 +13940,63 @@
     "from_reason": "Injury/Illness - Right Knee; RKnee",
     "to_reason": "Injury/Illness - Right Knee; Right Knee",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-18T21:00:18.638731+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Indya Nivar",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-07-18T21:00:18.638731+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Ornella TorontoTempo Bankole",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-07-18T21:00:18.638731+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Temi Fagbenle",
+    "previous_status": "Available",
+    "previous_reason": "Concussion Protocol"
+  },
+  {
+    "ts": "2026-07-18T21:00:18.638731+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Teonni Key",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - N/A; Illness"
+  },
+  {
+    "ts": "2026-07-18T21:00:18.638731+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Kiki Rice",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Ankle; Injury"
+  },
+  {
+    "ts": "2026-07-18T21:00:18.638731+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Brittney Sykes",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Foot; Injury"
+  },
+  {
+    "ts": "2026-07-18T21:00:18.638731+00:00",
+    "type": "status_change",
+    "team_abbr": "ATL",
+    "player": "Brionna Jones",
+    "from_status": "Available",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Right Knee; N/A",
+    "reason_category": "injury"
   }
 ]
