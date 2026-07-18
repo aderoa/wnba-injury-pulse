@@ -13854,5 +13854,15 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-18T01:15:58.949967+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Saniya Rivers",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Ankle; Sprain",
+    "reason_category": "injury"
   }
 ]
