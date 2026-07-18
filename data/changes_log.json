@@ -14044,5 +14044,14 @@
     "to_status": "Probable",
     "reason": "Injury/Illness - Righthand; Rhand",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-18T23:00:18.596610+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Liatu King",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]

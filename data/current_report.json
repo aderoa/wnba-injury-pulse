@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/18/26 06:45 PM",
+  "report_ts": "07/18/26 07:00 PM",
   "page_count": 2,
-  "raw_line_count": 24,
+  "raw_line_count": 25,
   "teams": [
     {
       "team_full": "New York Liberty",
@@ -110,6 +110,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Ankle; Leftankle",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "King, Liatu",
+          "name": "Liatu King",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -238,7 +245,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-18_06_45PM.pdf",
-  "fetched_slot": "2026-07-18T18:45:00-04:00",
-  "polled_at_utc": "2026-07-18T22:54:26.906321+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-18_07_00PM.pdf",
+  "fetched_slot": "2026-07-18T19:00:00-04:00",
+  "polled_at_utc": "2026-07-18T23:00:18.596610+00:00"
 }
