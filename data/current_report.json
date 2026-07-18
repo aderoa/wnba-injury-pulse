@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/17/26 09:30 PM",
+  "report_ts": "07/17/26 09:45 PM",
   "page_count": 3,
-  "raw_line_count": 44,
+  "raw_line_count": 49,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -233,9 +233,23 @@
       "submitted": true,
       "players": [
         {
+          "name_last_first": "Carter, Quionche",
+          "name": "Quionche Carter",
+          "status": "Out",
+          "reason": "Coach's Decision - Developmental",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Ciezki, Shay",
+          "name": "Shay Ciezki",
+          "status": "Out",
+          "reason": "Player Coach's Decision - Developmental Player",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Linskens, Kyara",
           "name": "Kyara Linskens",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness - Right Knee;-",
           "reason_category": "injury"
         },
@@ -368,7 +382,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-17_09_30PM.pdf",
-  "fetched_slot": "2026-07-17T21:30:00-04:00",
-  "polled_at_utc": "2026-07-18T01:30:59.541254+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-17_09_45PM.pdf",
+  "fetched_slot": "2026-07-17T21:45:00-04:00",
+  "polled_at_utc": "2026-07-18T01:46:00.440934+00:00"
 }

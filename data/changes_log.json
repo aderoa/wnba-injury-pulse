@@ -13864,5 +13864,33 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Left Ankle; Sprain",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-18T01:46:00.440934+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Quionche Carter",
+    "status": "Out",
+    "reason": "Coach's Decision - Developmental",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-18T01:46:00.440934+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Shay Ciezki",
+    "status": "Out",
+    "reason": "Player Coach's Decision - Developmental Player",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-18T01:46:00.440934+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "Kyara Linskens",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Knee;-",
+    "reason_category": "injury"
   }
 ]
