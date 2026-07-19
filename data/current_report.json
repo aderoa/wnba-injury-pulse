@@ -1,5 +1,5 @@
 {
-  "report_ts": "07/19/26 03:15 PM",
+  "report_ts": "07/19/26 03:30 PM",
   "page_count": 2,
   "raw_line_count": 34,
   "teams": [
@@ -114,7 +114,7 @@
         {
           "name_last_first": "Jones, Brionna",
           "name": "Brionna Jones",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness - Right Knee; N/A",
           "reason_category": "injury"
         },
@@ -283,7 +283,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_03_15PM.pdf",
-  "fetched_slot": "2026-07-19T15:15:00-04:00",
-  "polled_at_utc": "2026-07-19T19:15:20.154937+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_03_30PM.pdf",
+  "fetched_slot": "2026-07-19T15:30:00-04:00",
+  "polled_at_utc": "2026-07-19T19:30:27.993466+00:00"
 }

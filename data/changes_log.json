@@ -14273,5 +14273,15 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-19T19:30:27.993466+00:00",
+    "type": "status_change",
+    "team_abbr": "ATL",
+    "player": "Brionna Jones",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Knee; N/A",
+    "reason_category": "injury"
   }
 ]
