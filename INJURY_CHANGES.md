@@ -4,6 +4,15 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-07-19 20:45 UTC
+
+- **Sami Whitcomb** (PHX, Probable): reason updated (Injury/Illness - Left Knee; Injury Management → Injury/Illness - Left Knee; Injury)
+- **Mai Yamamoto** (LVA) newly listed as **Out** — Not With Team
+- **Janiah Barker** (LVA) cleared (was Out)
+- **Dana Evans** (LVA) cleared (was Available)
+- **Ta'Niya Latson** (LVA) cleared (was Out)
+- **Kierstan Bell** (LVA, Out): reason updated (Injury/Illness - Right Leg; injury → Management Injury/Illness - Right Leg; rightleg injury)
+
 ## 2026-07-19 20:15 UTC
 
 - **Saniya Rivers** (CON): **Doubtful** → **Out** — Injury/Illness - Left Ankle;/Foot

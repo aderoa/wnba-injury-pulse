@@ -14303,5 +14303,58 @@
     "to_status": "Out",
     "reason": "Returnto Competition Reconditioning",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-07-19T20:45:17.139359+00:00",
+    "type": "reason_change",
+    "team_abbr": "PHX",
+    "player": "Sami Whitcomb",
+    "status": "Probable",
+    "from_reason": "Injury/Illness - Left Knee; Injury Management",
+    "to_reason": "Injury/Illness - Left Knee; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-19T20:45:17.139359+00:00",
+    "type": "added",
+    "team_abbr": "LVA",
+    "player": "Mai Yamamoto",
+    "status": "Out",
+    "reason": "Not With Team",
+    "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-07-19T20:45:17.139359+00:00",
+    "type": "cleared",
+    "team_abbr": "LVA",
+    "player": "Janiah Barker",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Right Leg; injury"
+  },
+  {
+    "ts": "2026-07-19T20:45:17.139359+00:00",
+    "type": "cleared",
+    "team_abbr": "LVA",
+    "player": "Dana Evans",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Left Leg; injury"
+  },
+  {
+    "ts": "2026-07-19T20:45:17.139359+00:00",
+    "type": "cleared",
+    "team_abbr": "LVA",
+    "player": "Ta'Niya Latson",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental Player"
+  },
+  {
+    "ts": "2026-07-19T20:45:17.139359+00:00",
+    "type": "reason_change",
+    "team_abbr": "LVA",
+    "player": "Kierstan Bell",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Right Leg; injury",
+    "to_reason": "Management Injury/Illness - Right Leg; rightleg injury",
+    "reason_category": "injury"
   }
 ]
