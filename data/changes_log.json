@@ -14189,5 +14189,61 @@
     "from_reason": "Injury/Illness - Left Foot; L.Foot",
     "to_reason": "Injury/Illness - Left Foot; Soreness",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-19T16:00:20.296675+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Tonie Morgan",
+    "status": "Out",
+    "reason": "Coach's Decision - Coaches Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-19T16:00:20.296675+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Alissa Pili",
+    "status": "Out",
+    "reason": "Coach's Decision - coachesdecision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-19T16:00:20.296675+00:00",
+    "type": "status_change",
+    "team_abbr": "LAS",
+    "player": "Kiana Williams",
+    "from_status": "Probable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Righthand; Rhand",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-19T16:00:20.296675+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Haley Jones",
+    "status": "Out",
+    "reason": "Coach's Decision - coach'sdecision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-19T16:00:20.296675+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Costanza Verona",
+    "status": "Out",
+    "reason": "Coach's Decision - coach'sdecision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-19T16:00:20.296675+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Alanna Smith",
+    "from_status": "Doubtful",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Leg; rightleg",
+    "reason_category": "injury"
   }
 ]

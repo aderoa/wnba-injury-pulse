@@ -2,8 +2,8 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-07-19T15:45:21.811249+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_11_45AM.pdf",
+    "last_submitted_ts": "2026-07-19T16:00:20.296675+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_12_00PM.pdf",
     "game_dates": [
       "07/19/2026",
       "07/20/2026"
@@ -14,11 +14,25 @@
     ],
     "players": [
       {
+        "name_last_first": "Jones, Haley",
+        "name": "Haley Jones",
+        "status": "Out",
+        "reason": "Coach's Decision - coach'sdecision",
+        "reason_category": "rest_coach"
+      },
+      {
         "name_last_first": "Smith, Alanna",
         "name": "Alanna Smith",
-        "status": "Doubtful",
+        "status": "Out",
         "reason": "Injury/Illness - Right Leg; rightleg",
         "reason_category": "injury"
+      },
+      {
+        "name_last_first": "Verona, Costanza",
+        "name": "Costanza Verona",
+        "status": "Out",
+        "reason": "Coach's Decision - coach'sdecision",
+        "reason_category": "rest_coach"
       }
     ]
   },
@@ -53,8 +67,8 @@
   "PHX": {
     "team_full": "Phoenix Mercury",
     "submitted": true,
-    "last_submitted_ts": "2026-07-19T15:45:21.811249+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_11_45AM.pdf",
+    "last_submitted_ts": "2026-07-19T16:00:20.296675+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_12_00PM.pdf",
     "game_dates": [
       "07/19/2026"
     ],
@@ -119,13 +133,13 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-07-19T15:45:21.811249+00:00"
+    "last_seen_pending_ts": "2026-07-19T16:00:20.296675+00:00"
   },
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-07-19T15:45:21.811249+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_11_45AM.pdf",
+    "last_submitted_ts": "2026-07-19T16:00:20.296675+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_12_00PM.pdf",
     "game_dates": [
       "07/19/2026"
     ],
@@ -183,13 +197,13 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-07-19T15:45:21.811249+00:00"
+    "last_seen_pending_ts": "2026-07-19T16:00:20.296675+00:00"
   },
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-07-19T15:45:21.811249+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_11_45AM.pdf",
+    "last_submitted_ts": "2026-07-19T16:00:20.296675+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_12_00PM.pdf",
     "game_dates": [
       "07/19/2026"
     ],
@@ -282,13 +296,13 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-07-19T15:45:21.811249+00:00"
+    "last_seen_pending_ts": "2026-07-19T16:00:20.296675+00:00"
   },
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-07-19T15:45:21.811249+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_11_45AM.pdf",
+    "last_submitted_ts": "2026-07-19T16:00:20.296675+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_12_00PM.pdf",
     "game_dates": [
       "07/19/2026"
     ],
@@ -329,8 +343,8 @@
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-07-19T15:45:21.811249+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_11_45AM.pdf",
+    "last_submitted_ts": "2026-07-19T16:00:20.296675+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_12_00PM.pdf",
     "game_dates": [
       "07/20/2026"
     ],
@@ -374,7 +388,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-07-19T15:45:21.811249+00:00"
+    "last_seen_pending_ts": "2026-07-19T16:00:20.296675+00:00"
   },
   "GSV": {
     "team_full": "Golden State Valkyries",
@@ -410,13 +424,13 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-07-19T15:45:21.811249+00:00"
+    "last_seen_pending_ts": "2026-07-19T16:00:20.296675+00:00"
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",
     "submitted": true,
-    "last_submitted_ts": "2026-07-19T15:45:21.811249+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_11_45AM.pdf",
+    "last_submitted_ts": "2026-07-19T16:00:20.296675+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_12_00PM.pdf",
     "game_dates": [
       "07/19/2026"
     ],
@@ -424,6 +438,20 @@
       "LAS@DAL"
     ],
     "players": [
+      {
+        "name_last_first": "Morgan, Tonie",
+        "name": "Tonie Morgan",
+        "status": "Out",
+        "reason": "Coach's Decision - Coaches Decision",
+        "reason_category": "rest_coach"
+      },
+      {
+        "name_last_first": "Pili, Alissa",
+        "name": "Alissa Pili",
+        "status": "Out",
+        "reason": "Coach's Decision - coachesdecision",
+        "reason_category": "rest_coach"
+      },
       {
         "name_last_first": "Plum, Kelsey",
         "name": "Kelsey Plum",
@@ -434,7 +462,7 @@
       {
         "name_last_first": "Williams, Kiana",
         "name": "Kiana Williams",
-        "status": "Probable",
+        "status": "Out",
         "reason": "Injury/Illness - Righthand; Rhand",
         "reason_category": "injury"
       }

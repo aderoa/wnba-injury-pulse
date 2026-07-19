@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/19/26 11:45 AM",
+  "report_ts": "07/19/26 12:00 PM",
   "page_count": 2,
-  "raw_line_count": 28,
+  "raw_line_count": 32,
   "teams": [
     {
       "team_full": "Los Angeles Sparks",
@@ -12,6 +12,20 @@
       "submitted": true,
       "players": [
         {
+          "name_last_first": "Morgan, Tonie",
+          "name": "Tonie Morgan",
+          "status": "Out",
+          "reason": "Coach's Decision - Coaches Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Pili, Alissa",
+          "name": "Alissa Pili",
+          "status": "Out",
+          "reason": "Coach's Decision - coachesdecision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Plum, Kelsey",
           "name": "Kelsey Plum",
           "status": "Out",
@@ -21,7 +35,7 @@
         {
           "name_last_first": "Williams, Kiana",
           "name": "Kiana Williams",
-          "status": "Probable",
+          "status": "Out",
           "reason": "Injury/Illness - Righthand; Rhand",
           "reason_category": "injury"
         }
@@ -36,11 +50,25 @@
       "submitted": true,
       "players": [
         {
+          "name_last_first": "Jones, Haley",
+          "name": "Haley Jones",
+          "status": "Out",
+          "reason": "Coach's Decision - coach'sdecision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Smith, Alanna",
           "name": "Alanna Smith",
-          "status": "Doubtful",
+          "status": "Out",
           "reason": "Injury/Illness - Right Leg; rightleg",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Verona, Costanza",
+          "name": "Costanza Verona",
+          "status": "Out",
+          "reason": "Coach's Decision - coach'sdecision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -241,7 +269,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_11_45AM.pdf",
-  "fetched_slot": "2026-07-19T11:45:00-04:00",
-  "polled_at_utc": "2026-07-19T15:45:21.811249+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_12_00PM.pdf",
+  "fetched_slot": "2026-07-19T12:00:00-04:00",
+  "polled_at_utc": "2026-07-19T16:00:20.296675+00:00"
 }

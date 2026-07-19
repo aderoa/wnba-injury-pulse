@@ -4,6 +4,15 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-07-19 16:00 UTC
+
+- **Tonie Morgan** (LAS) newly listed as **Out** — Coach's Decision - Coaches Decision
+- **Alissa Pili** (LAS) newly listed as **Out** — Coach's Decision - coachesdecision
+- **Kiana Williams** (LAS): **Probable** → **Out** — Injury/Illness - Righthand; Rhand
+- **Haley Jones** (DAL) newly listed as **Out** — Coach's Decision - coach'sdecision
+- **Costanza Verona** (DAL) newly listed as **Out** — Coach's Decision - coach'sdecision
+- **Alanna Smith** (DAL): **Doubtful** → **Out** — Injury/Illness - Right Leg; rightleg
+
 ## 2026-07-19 04:00 UTC
 
 - **Leonie Fiebich** (NYL, Out): reason updated (Injury/Illness - Left Foot; L.Foot → Injury/Illness - Left Foot; Soreness)
