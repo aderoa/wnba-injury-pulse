@@ -14383,5 +14383,24 @@
     "status": "Out",
     "reason": "Injury/Illness - Left Foot; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-19T21:15:17.466112+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Marine Johannes",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Left Ankle; L.Ankle",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-19T21:15:17.466112+00:00",
+    "type": "reason_change",
+    "team_abbr": "NYL",
+    "player": "Leonie Fiebich",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Foot; Soreness",
+    "to_reason": "Injury/Illness - Left Foot; L.Foot",
+    "reason_category": "injury"
   }
 ]
