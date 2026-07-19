@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/19/26 05:15 PM",
+  "report_ts": "07/19/26 05:30 PM",
   "page_count": 2,
-  "raw_line_count": 40,
+  "raw_line_count": 38,
   "teams": [
     {
       "team_full": "Los Angeles Sparks",
@@ -183,15 +183,15 @@
         {
           "name_last_first": "Mack, Natasha",
           "name": "Natasha Mack",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness - Left Foot;-",
           "reason_category": "injury"
         },
         {
           "name_last_first": "Whitcomb, Sami",
           "name": "Sami Whitcomb",
-          "status": "Probable",
-          "reason": "Injury/Illness - Left Knee; Injury",
+          "status": "Out",
+          "reason": "Injury/Illness--; Illness",
           "reason_category": "injury"
         }
       ]
@@ -208,7 +208,7 @@
           "name_last_first": "Bell, Kierstan",
           "name": "Kierstan Bell",
           "status": "Out",
-          "reason": "Management Injury/Illness - Right Leg; rightleg injury",
+          "reason": "Injury/Illness - Right Leg; rightleg injury",
           "reason_category": "injury"
         },
         {
@@ -326,7 +326,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_05_15PM.pdf",
-  "fetched_slot": "2026-07-19T17:15:00-04:00",
-  "polled_at_utc": "2026-07-19T21:15:17.466112+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_05_30PM.pdf",
+  "fetched_slot": "2026-07-19T17:30:00-04:00",
+  "polled_at_utc": "2026-07-19T21:30:22.630464+00:00"
 }

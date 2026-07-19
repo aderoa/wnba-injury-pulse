@@ -14402,5 +14402,35 @@
     "from_reason": "Injury/Illness - Left Foot; Soreness",
     "to_reason": "Injury/Illness - Left Foot; L.Foot",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-19T21:30:22.630464+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "Sami Whitcomb",
+    "from_status": "Probable",
+    "to_status": "Out",
+    "reason": "Injury/Illness--; Illness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-19T21:30:22.630464+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "Natasha Mack",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Foot;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-19T21:30:22.630464+00:00",
+    "type": "reason_change",
+    "team_abbr": "LVA",
+    "player": "Kierstan Bell",
+    "status": "Out",
+    "from_reason": "Management Injury/Illness - Right Leg; rightleg injury",
+    "to_reason": "Injury/Illness - Right Leg; rightleg injury",
+    "reason_category": "injury"
   }
 ]
