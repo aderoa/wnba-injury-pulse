@@ -14179,5 +14179,15 @@
     "to_status": "Probable",
     "reason": "Injury/Illness - Left Foot;-",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-19T04:00:22.699095+00:00",
+    "type": "reason_change",
+    "team_abbr": "NYL",
+    "player": "Leonie Fiebich",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Foot; L.Foot",
+    "to_reason": "Injury/Illness - Left Foot; Soreness",
+    "reason_category": "injury"
   }
 ]
