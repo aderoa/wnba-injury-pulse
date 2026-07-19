@@ -14432,5 +14432,52 @@
     "from_reason": "Management Injury/Illness - Right Leg; rightleg injury",
     "to_reason": "Injury/Illness - Right Leg; rightleg injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-19T22:15:18.697676+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Ashlon Jackson",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-19T22:15:18.697676+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Brittney Griner",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Ribs; Ribs",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-19T22:15:18.697676+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Aaliyah Edwards",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Knee; Right Knee",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-19T22:15:18.697676+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Quionche Carter",
+    "status": "Out",
+    "reason": "Coach's Decision - Developmental",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-19T22:15:18.697676+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Shay Ciezki",
+    "status": "Out",
+    "reason": "Player Coach's Decision - Developmental Player",
+    "reason_category": "rest_coach"
   }
 ]
