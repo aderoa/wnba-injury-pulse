@@ -2,8 +2,8 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-07-19T18:45:20.407785+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_02_45PM.pdf",
+    "last_submitted_ts": "2026-07-19T19:00:20.329410+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_03_00PM.pdf",
     "game_dates": [
       "07/19/2026",
       "07/20/2026"
@@ -67,8 +67,8 @@
   "PHX": {
     "team_full": "Phoenix Mercury",
     "submitted": true,
-    "last_submitted_ts": "2026-07-19T18:45:20.407785+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_02_45PM.pdf",
+    "last_submitted_ts": "2026-07-19T19:00:20.329410+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_03_00PM.pdf",
     "game_dates": [
       "07/19/2026"
     ],
@@ -133,13 +133,13 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-07-19T18:45:20.407785+00:00"
+    "last_seen_pending_ts": "2026-07-19T19:00:20.329410+00:00"
   },
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-07-19T18:45:20.407785+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_02_45PM.pdf",
+    "last_submitted_ts": "2026-07-19T19:00:20.329410+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_03_00PM.pdf",
     "game_dates": [
       "07/19/2026"
     ],
@@ -153,6 +153,13 @@
         "status": "Probable",
         "reason": "Injury/Illness - Right Knee; N/A",
         "reason_category": "injury"
+      },
+      {
+        "name_last_first": "Nivar, Indya",
+        "name": "Indya Nivar",
+        "status": "Out",
+        "reason": "Coach's Decision",
+        "reason_category": "rest_coach"
       },
       {
         "name_last_first": "Paopao, Te-Hina",
@@ -197,13 +204,13 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-07-19T18:45:20.407785+00:00"
+    "last_seen_pending_ts": "2026-07-19T19:00:20.329410+00:00"
   },
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-07-19T18:45:20.407785+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_02_45PM.pdf",
+    "last_submitted_ts": "2026-07-19T19:00:20.329410+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_03_00PM.pdf",
     "game_dates": [
       "07/19/2026"
     ],
@@ -296,13 +303,13 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-07-19T18:45:20.407785+00:00"
+    "last_seen_pending_ts": "2026-07-19T19:00:20.329410+00:00"
   },
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-07-19T18:45:20.407785+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_02_45PM.pdf",
+    "last_submitted_ts": "2026-07-19T19:00:20.329410+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_03_00PM.pdf",
     "game_dates": [
       "07/19/2026"
     ],
@@ -343,8 +350,8 @@
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-07-19T18:45:20.407785+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_02_45PM.pdf",
+    "last_submitted_ts": "2026-07-19T19:00:20.329410+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_03_00PM.pdf",
     "game_dates": [
       "07/20/2026"
     ],
@@ -388,7 +395,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-07-19T18:45:20.407785+00:00"
+    "last_seen_pending_ts": "2026-07-19T19:00:20.329410+00:00"
   },
   "GSV": {
     "team_full": "Golden State Valkyries",
@@ -424,13 +431,13 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-07-19T18:45:20.407785+00:00"
+    "last_seen_pending_ts": "2026-07-19T19:00:20.329410+00:00"
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",
     "submitted": true,
-    "last_submitted_ts": "2026-07-19T18:45:20.407785+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_02_45PM.pdf",
+    "last_submitted_ts": "2026-07-19T19:00:20.329410+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_03_00PM.pdf",
     "game_dates": [
       "07/19/2026"
     ],

@@ -14255,5 +14255,14 @@
     "to_status": "Doubtful",
     "reason": "Injury/Illness - Left Ankle;/Foot",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-19T19:00:20.329410+00:00",
+    "type": "added",
+    "team_abbr": "ATL",
+    "player": "Indya Nivar",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
