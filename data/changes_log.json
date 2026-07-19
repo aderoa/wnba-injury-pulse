@@ -14283,5 +14283,25 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Right Knee; N/A",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-19T20:15:20.685920+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Saniya Rivers",
+    "from_status": "Doubtful",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Ankle;/Foot",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-19T20:15:20.685920+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Aneesah Morrow",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Returnto Competition Reconditioning",
+    "reason_category": "other"
   }
 ]
