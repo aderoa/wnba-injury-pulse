@@ -14479,5 +14479,43 @@
     "status": "Out",
     "reason": "Player Coach's Decision - Developmental Player",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-19T23:45:20.215377+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Aaliyah Edwards",
+    "from_status": "Available",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Knee; Right Knee",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-19T23:45:20.215377+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Liatu King",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-07-19T23:45:20.215377+00:00",
+    "type": "reason_change",
+    "team_abbr": "MIN",
+    "player": "Napheesa Collier",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Ankle; Leftankle",
+    "to_reason": "Injury/Illness - Left Ankle; Left Ankle",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-19T23:45:20.215377+00:00",
+    "type": "reason_change",
+    "team_abbr": "MIN",
+    "player": "Emma Cechova",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Right Knee; Rightknee",
+    "to_reason": "Injury/Illness - Right Knee; Right Knee",
+    "reason_category": "injury"
   }
 ]

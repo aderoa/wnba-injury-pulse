@@ -2,8 +2,8 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-07-19T23:30:20.079228+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_07_30PM.pdf",
+    "last_submitted_ts": "2026-07-19T23:45:20.215377+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_07_45PM.pdf",
     "game_dates": [
       "07/19/2026",
       "07/20/2026"
@@ -67,8 +67,8 @@
   "PHX": {
     "team_full": "Phoenix Mercury",
     "submitted": true,
-    "last_submitted_ts": "2026-07-19T23:30:20.079228+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_07_30PM.pdf",
+    "last_submitted_ts": "2026-07-19T23:45:20.215377+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_07_45PM.pdf",
     "game_dates": [
       "07/19/2026"
     ],
@@ -109,8 +109,8 @@
   "LVA": {
     "team_full": "Las Vegas Aces",
     "submitted": true,
-    "last_submitted_ts": "2026-07-19T23:30:20.079228+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_07_30PM.pdf",
+    "last_submitted_ts": "2026-07-19T23:45:20.215377+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_07_45PM.pdf",
     "game_dates": [
       "07/20/2026"
     ],
@@ -158,8 +158,8 @@
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-07-19T23:30:20.079228+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_07_30PM.pdf",
+    "last_submitted_ts": "2026-07-19T23:45:20.215377+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_07_45PM.pdf",
     "game_dates": [
       "07/19/2026"
     ],
@@ -193,44 +193,36 @@
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-07-19T03:45:18.378435+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-18_11_45PM.pdf",
+    "last_submitted_ts": "2026-07-19T23:45:20.215377+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_07_45PM.pdf",
     "game_dates": [
-      "07/18/2026"
+      "07/20/2026"
     ],
     "matchups": [
-      "PDX@MIN"
+      "MIN@SEA"
     ],
     "players": [
       {
         "name_last_first": "Cechova, Emma",
         "name": "Emma Cechova",
         "status": "Out",
-        "reason": "Injury/Illness - Right Knee; Rightknee",
+        "reason": "Injury/Illness - Right Knee; Right Knee",
         "reason_category": "injury"
       },
       {
         "name_last_first": "Collier, Napheesa",
         "name": "Napheesa Collier",
         "status": "Out",
-        "reason": "Injury/Illness - Left Ankle; Leftankle",
+        "reason": "Injury/Illness - Left Ankle; Left Ankle",
         "reason_category": "injury"
-      },
-      {
-        "name_last_first": "King, Liatu",
-        "name": "Liatu King",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
       }
-    ],
-    "last_seen_pending_ts": "2026-07-19T23:30:20.079228+00:00"
+    ]
   },
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-07-19T23:30:20.079228+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_07_30PM.pdf",
+    "last_submitted_ts": "2026-07-19T23:45:20.215377+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_07_45PM.pdf",
     "game_dates": [
       "07/19/2026"
     ],
@@ -330,13 +322,13 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-07-19T23:30:20.079228+00:00"
+    "last_seen_pending_ts": "2026-07-19T23:45:20.215377+00:00"
   },
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-07-19T23:30:20.079228+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_07_30PM.pdf",
+    "last_submitted_ts": "2026-07-19T23:45:20.215377+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_07_45PM.pdf",
     "game_dates": [
       "07/19/2026"
     ],
@@ -347,7 +339,7 @@
       {
         "name_last_first": "Edwards, Aaliyah",
         "name": "Aaliyah Edwards",
-        "status": "Available",
+        "status": "Out",
         "reason": "Injury/Illness - Right Knee; Right Knee",
         "reason_category": "injury"
       },
@@ -384,8 +376,8 @@
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-07-19T23:30:20.079228+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_07_30PM.pdf",
+    "last_submitted_ts": "2026-07-19T23:45:20.215377+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_07_45PM.pdf",
     "game_dates": [
       "07/20/2026"
     ],
@@ -472,13 +464,13 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-07-19T23:30:20.079228+00:00"
+    "last_seen_pending_ts": "2026-07-19T23:45:20.215377+00:00"
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",
     "submitted": true,
-    "last_submitted_ts": "2026-07-19T23:30:20.079228+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_07_30PM.pdf",
+    "last_submitted_ts": "2026-07-19T23:45:20.215377+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_07_45PM.pdf",
     "game_dates": [
       "07/19/2026"
     ],
