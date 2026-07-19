@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/19/26 07:15 PM",
+  "report_ts": "07/19/26 07:30 PM",
   "page_count": 3,
-  "raw_line_count": 44,
+  "raw_line_count": 43,
   "teams": [
     {
       "team_full": "Los Angeles Sparks",
@@ -329,15 +329,6 @@
       "players": []
     },
     {
-      "team_full": "Washington Mystics",
-      "team_abbr": "WAS",
-      "game_date": "07/20/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "WAS@GSV",
-      "submitted": false,
-      "players": []
-    },
-    {
       "team_full": "Golden State Valkyries",
       "team_abbr": "GSV",
       "game_date": "07/20/2026",
@@ -347,7 +338,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_07_15PM.pdf",
-  "fetched_slot": "2026-07-19T19:15:00-04:00",
-  "polled_at_utc": "2026-07-19T23:15:19.939819+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_07_30PM.pdf",
+  "fetched_slot": "2026-07-19T19:30:00-04:00",
+  "polled_at_utc": "2026-07-19T23:30:20.079228+00:00"
 }
