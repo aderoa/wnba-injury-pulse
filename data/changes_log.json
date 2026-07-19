@@ -14081,5 +14081,103 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-19T00:00:17.066402+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Aaliyah Edwards",
+    "status": "Probable",
+    "reason": "Injury/Illness - Right Knee; Right Knee",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-19T00:00:17.066402+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Brittney Griner",
+    "status": "Probable",
+    "reason": "Injury/Illness - Ribs; Ribs",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-19T00:00:17.066402+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Ashlon Jackson",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-07-19T00:00:17.066402+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Hailey VanLith",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-07-19T00:00:17.066402+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Saniya Rivers",
+    "from_status": "Available",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Left Ankle; Sprain",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-19T00:00:17.066402+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Aneesah Morrow",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Returnto Competition Reconditioning",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-07-19T00:00:17.066402+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Quionche Carter",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental"
+  },
+  {
+    "ts": "2026-07-19T00:00:17.066402+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Shay Ciezki",
+    "previous_status": "Out",
+    "previous_reason": "Player Coach's Decision - Developmental Player"
+  },
+  {
+    "ts": "2026-07-19T00:00:17.066402+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Kyara Linskens",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Right Knee;-"
+  },
+  {
+    "ts": "2026-07-19T00:00:17.066402+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "Sami Whitcomb",
+    "from_status": "Available",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Left Knee; Injury Management",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-19T00:00:17.066402+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "Natasha Mack",
+    "from_status": "Out",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Left Foot;-",
+    "reason_category": "injury"
   }
 ]
