@@ -14572,5 +14572,15 @@
     "status": "Out",
     "reason": "Injury/Illness - N/a; Rest",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-20T22:45:58.787439+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Alanna Smith",
+    "from_status": "Doubtful",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Leg; rightleg",
+    "reason_category": "injury"
   }
 ]
