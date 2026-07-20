@@ -14553,5 +14553,15 @@
     "to_status": "Doubtful",
     "reason": "Injury/Illness - Right Leg; rightleg",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-20T17:32:19.303995+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Marine Johannes",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Ankle; L.Ankle",
+    "reason_category": "injury"
   }
 ]
