@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-07-20T23:15:57.380223+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_07_15PM.pdf",
-  "report_ts": "07/20/26 07:15 PM",
+  "polled_at_utc": "2026-07-20T23:30:59.971327+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_07_30PM.pdf",
+  "report_ts": "07/20/26 07:30 PM",
   "all_players": [
     {
       "name": "Aaliyah Edwards",
@@ -20,7 +20,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Leg; rightleg",
       "reason_category": "injury",
-      "last_updated": "2026-07-20T23:15:57.380223+00:00"
+      "last_updated": "2026-07-20T23:30:59.971327+00:00"
     },
     {
       "name": "Alissa Pili",
@@ -65,7 +65,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Foot; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-07-20T23:15:57.380223+00:00"
+      "last_updated": "2026-07-20T23:30:59.971327+00:00"
     },
     {
       "name": "Darianna Littlepage-Buggs",
@@ -92,7 +92,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; Right Knee",
       "reason_category": "injury",
-      "last_updated": "2026-07-20T23:15:57.380223+00:00"
+      "last_updated": "2026-07-20T23:30:59.971327+00:00"
     },
     {
       "name": "Ezi Magbegor",
@@ -101,7 +101,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Face; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-07-20T23:15:57.380223+00:00"
+      "last_updated": "2026-07-20T23:30:59.971327+00:00"
     },
     {
       "name": "Holly Winterburn",
@@ -164,16 +164,16 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Leg; rightleg injury",
       "reason_category": "injury",
-      "last_updated": "2026-07-20T23:15:57.380223+00:00"
+      "last_updated": "2026-07-20T23:30:59.971327+00:00"
     },
     {
-      "name": "Kiki TorontoTempo Rice",
+      "name": "Kiki Rice",
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
       "status": "Out",
       "reason": "Injury/Illness - Left Ankle; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-07-20T23:15:57.380223+00:00"
+      "last_updated": "2026-07-20T23:30:59.971327+00:00"
     },
     {
       "name": "Leonie Fiebich",
@@ -182,7 +182,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Foot; L.Foot",
       "reason_category": "injury",
-      "last_updated": "2026-07-20T23:15:57.380223+00:00"
+      "last_updated": "2026-07-20T23:30:59.971327+00:00"
     },
     {
       "name": "Maddy Westbeld",
@@ -200,7 +200,7 @@
       "status": "Out",
       "reason": "Not With Team",
       "reason_category": "offcourt",
-      "last_updated": "2026-07-20T23:15:57.380223+00:00"
+      "last_updated": "2026-07-20T23:30:59.971327+00:00"
     },
     {
       "name": "Marine Johannes",
@@ -209,7 +209,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Ankle; L.Ankle",
       "reason_category": "injury",
-      "last_updated": "2026-07-20T23:15:57.380223+00:00"
+      "last_updated": "2026-07-20T23:30:59.971327+00:00"
     },
     {
       "name": "Megan Gustafson",
@@ -236,7 +236,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Ankle; Left Ankle",
       "reason_category": "injury",
-      "last_updated": "2026-07-20T23:15:57.380223+00:00"
+      "last_updated": "2026-07-20T23:30:59.971327+00:00"
     },
     {
       "name": "Nyara Sabally",
@@ -245,7 +245,16 @@
       "status": "Out",
       "reason": "Injury/Illness - Rib Cage; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-07-20T23:15:57.380223+00:00"
+      "last_updated": "2026-07-20T23:30:59.971327+00:00"
+    },
+    {
+      "name": "Ornella TorontoTempo Bankole",
+      "team_abbr": "LVA",
+      "team_full": "Las Vegas Aces",
+      "status": "Out",
+      "reason": "Coach's Decision",
+      "reason_category": "rest_coach",
+      "last_updated": "2026-07-20T23:30:59.971327+00:00"
     },
     {
       "name": "Paige Bueckers",
@@ -254,7 +263,7 @@
       "status": "Out",
       "reason": "Injury/Illness - N/a; Rest",
       "reason_category": "injury",
-      "last_updated": "2026-07-20T23:15:57.380223+00:00"
+      "last_updated": "2026-07-20T23:30:59.971327+00:00"
     },
     {
       "name": "Quionche Carter",
@@ -299,7 +308,7 @@
       "status": "Out",
       "reason": "Concussion Protocol",
       "reason_category": "procedural",
-      "last_updated": "2026-07-20T23:15:57.380223+00:00"
+      "last_updated": "2026-07-20T23:30:59.971327+00:00"
     },
     {
       "name": "Shay Ciezki",
@@ -326,7 +335,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-07-20T23:15:57.380223+00:00"
+      "last_updated": "2026-07-20T23:30:59.971327+00:00"
     },
     {
       "name": "Te-Hina Paopao",
@@ -506,7 +515,7 @@
     {
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
-      "last_submitted_ts": "2026-07-20T23:15:57.380223+00:00",
+      "last_submitted_ts": "2026-07-20T23:30:59.971327+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "NYL@DAL"
@@ -627,7 +636,7 @@
     {
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
-      "last_submitted_ts": "2026-07-20T23:15:57.380223+00:00",
+      "last_submitted_ts": "2026-07-20T23:30:59.971327+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "LVA@TOR"
@@ -648,8 +657,15 @@
           "reason_category": "offcourt"
         },
         {
-          "name_last_first": "TorontoTempo Rice, Kiki",
-          "name": "Kiki TorontoTempo Rice",
+          "name_last_first": "TorontoTempo Bankole, Ornella",
+          "name": "Ornella TorontoTempo Bankole",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Rice, Kiki",
+          "name": "Kiki Rice",
           "status": "Out",
           "reason": "Injury/Illness - Left Ankle; Injury",
           "reason_category": "injury"
@@ -673,7 +689,7 @@
     {
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
-      "last_submitted_ts": "2026-07-20T23:15:57.380223+00:00",
+      "last_submitted_ts": "2026-07-20T23:30:59.971327+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "MIN@SEA"
@@ -698,7 +714,7 @@
     {
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
-      "last_submitted_ts": "2026-07-20T23:15:57.380223+00:00",
+      "last_submitted_ts": "2026-07-20T23:30:59.971327+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "NYL@DAL"
@@ -808,7 +824,7 @@
     {
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
-      "last_submitted_ts": "2026-07-20T23:15:57.380223+00:00",
+      "last_submitted_ts": "2026-07-20T23:30:59.971327+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "MIN@SEA"
@@ -850,6 +866,32 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-07-20T23:30:59.971327+00:00",
+      "type": "cleared",
+      "team_abbr": "LVA",
+      "player": "Kiki TorontoTempo Rice",
+      "previous_status": "Out",
+      "previous_reason": "Injury/Illness - Left Ankle; Injury"
+    },
+    {
+      "ts": "2026-07-20T23:30:59.971327+00:00",
+      "type": "added",
+      "team_abbr": "LVA",
+      "player": "Kiki Rice",
+      "status": "Out",
+      "reason": "Injury/Illness - Left Ankle; Injury",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-07-20T23:30:59.971327+00:00",
+      "type": "added",
+      "team_abbr": "LVA",
+      "player": "Ornella TorontoTempo Bankole",
+      "status": "Out",
+      "reason": "Coach's Decision",
+      "reason_category": "rest_coach"
+    },
     {
       "ts": "2026-07-20T22:45:58.787439+00:00",
       "type": "status_change",
@@ -3080,36 +3122,6 @@
       "player": "Alicia Florez",
       "status": "Questionable",
       "reason": "Injury/Illness - Neck; Soreness",
-      "reason_category": "injury"
-    },
-    {
-      "ts": "2026-07-11T20:16:07.298291+00:00",
-      "type": "status_change",
-      "team_abbr": "PHX",
-      "player": "Sami Whitcomb",
-      "from_status": "Questionable",
-      "to_status": "Available",
-      "reason": "Injury/Illness - Left Knee; Injury Management",
-      "reason_category": "injury"
-    },
-    {
-      "ts": "2026-07-11T19:46:07.002130+00:00",
-      "type": "status_change",
-      "team_abbr": "MIN",
-      "player": "Maya Caldwell",
-      "from_status": "Doubtful",
-      "to_status": "Available",
-      "reason": "Injury/Illness - N/a; Migraine",
-      "reason_category": "injury"
-    },
-    {
-      "ts": "2026-07-11T19:31:08.543793+00:00",
-      "type": "status_change",
-      "team_abbr": "ATL",
-      "player": "Angel Reese",
-      "from_status": "Questionable",
-      "to_status": "Out",
-      "reason": "Injury/Illness - Right Leg; N/A",
       "reason_category": "injury"
     }
   ]

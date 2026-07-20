@@ -2,8 +2,8 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-07-20T23:15:57.380223+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_07_15PM.pdf",
+    "last_submitted_ts": "2026-07-20T23:30:59.971327+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_07_30PM.pdf",
     "game_dates": [
       "07/20/2026"
     ],
@@ -100,8 +100,8 @@
   "LVA": {
     "team_full": "Las Vegas Aces",
     "submitted": true,
-    "last_submitted_ts": "2026-07-20T23:15:57.380223+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_07_15PM.pdf",
+    "last_submitted_ts": "2026-07-20T23:30:59.971327+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_07_30PM.pdf",
     "game_dates": [
       "07/20/2026"
     ],
@@ -124,8 +124,15 @@
         "reason_category": "offcourt"
       },
       {
-        "name_last_first": "TorontoTempo Rice, Kiki",
-        "name": "Kiki TorontoTempo Rice",
+        "name_last_first": "TorontoTempo Bankole, Ornella",
+        "name": "Ornella TorontoTempo Bankole",
+        "status": "Out",
+        "reason": "Coach's Decision",
+        "reason_category": "rest_coach"
+      },
+      {
+        "name_last_first": "Rice, Kiki",
+        "name": "Kiki Rice",
         "status": "Out",
         "reason": "Injury/Illness - Left Ankle; Injury",
         "reason_category": "injury"
@@ -184,8 +191,8 @@
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-07-20T23:15:57.380223+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_07_15PM.pdf",
+    "last_submitted_ts": "2026-07-20T23:30:59.971327+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_07_30PM.pdf",
     "game_dates": [
       "07/20/2026"
     ],
@@ -289,8 +296,8 @@
   "SEA": {
     "team_full": "Seattle Storm",
     "submitted": true,
-    "last_submitted_ts": "2026-07-20T23:15:57.380223+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_07_15PM.pdf",
+    "last_submitted_ts": "2026-07-20T23:30:59.971327+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_07_30PM.pdf",
     "game_dates": [
       "07/20/2026"
     ],
@@ -366,8 +373,8 @@
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-07-20T23:15:57.380223+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_07_15PM.pdf",
+    "last_submitted_ts": "2026-07-20T23:30:59.971327+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_07_30PM.pdf",
     "game_dates": [
       "07/20/2026"
     ],

@@ -14582,5 +14582,31 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Right Leg; rightleg",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-20T23:30:59.971327+00:00",
+    "type": "added",
+    "team_abbr": "LVA",
+    "player": "Ornella TorontoTempo Bankole",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-20T23:30:59.971327+00:00",
+    "type": "added",
+    "team_abbr": "LVA",
+    "player": "Kiki Rice",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Ankle; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-20T23:30:59.971327+00:00",
+    "type": "cleared",
+    "team_abbr": "LVA",
+    "player": "Kiki TorontoTempo Rice",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Ankle; Injury"
   }
 ]
