@@ -2,8 +2,8 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-07-20T17:45:58.147010+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_01_45PM.pdf",
+    "last_submitted_ts": "2026-07-20T18:00:57.765708+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_02_00PM.pdf",
     "game_dates": [
       "07/20/2026"
     ],
@@ -11,6 +11,13 @@
       "NYL@DAL"
     ],
     "players": [
+      {
+        "name_last_first": "Bueckers, Paige",
+        "name": "Paige Bueckers",
+        "status": "Out",
+        "reason": "Injury/Illness - N/a; Rest",
+        "reason_category": "injury"
+      },
       {
         "name_last_first": "Smith, Alanna",
         "name": "Alanna Smith",
@@ -93,8 +100,8 @@
   "LVA": {
     "team_full": "Las Vegas Aces",
     "submitted": true,
-    "last_submitted_ts": "2026-07-20T17:45:58.147010+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_01_45PM.pdf",
+    "last_submitted_ts": "2026-07-20T18:00:57.765708+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_02_00PM.pdf",
     "game_dates": [
       "07/20/2026"
     ],
@@ -177,8 +184,8 @@
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-07-20T17:45:58.147010+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_01_45PM.pdf",
+    "last_submitted_ts": "2026-07-20T18:00:57.765708+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_02_00PM.pdf",
     "game_dates": [
       "07/20/2026"
     ],
@@ -282,8 +289,8 @@
   "SEA": {
     "team_full": "Seattle Storm",
     "submitted": true,
-    "last_submitted_ts": "2026-07-20T17:45:58.147010+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_01_45PM.pdf",
+    "last_submitted_ts": "2026-07-20T18:00:57.765708+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_02_00PM.pdf",
     "game_dates": [
       "07/20/2026"
     ],
@@ -359,8 +366,8 @@
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-07-20T17:45:58.147010+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_01_45PM.pdf",
+    "last_submitted_ts": "2026-07-20T18:00:57.765708+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_02_00PM.pdf",
     "game_dates": [
       "07/20/2026"
     ],

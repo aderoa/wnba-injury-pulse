@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/20/26 01:45 PM",
+  "report_ts": "07/20/26 02:00 PM",
   "page_count": 1,
-  "raw_line_count": 15,
+  "raw_line_count": 16,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -88,6 +88,13 @@
       "submitted": true,
       "players": [
         {
+          "name_last_first": "Bueckers, Paige",
+          "name": "Paige Bueckers",
+          "status": "Out",
+          "reason": "Injury/Illness - N/a; Rest",
+          "reason_category": "injury"
+        },
+        {
           "name_last_first": "Smith, Alanna",
           "name": "Alanna Smith",
           "status": "Doubtful",
@@ -145,7 +152,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_01_45PM.pdf",
-  "fetched_slot": "2026-07-20T13:45:00-04:00",
-  "polled_at_utc": "2026-07-20T17:45:58.147010+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_02_00PM.pdf",
+  "fetched_slot": "2026-07-20T14:00:00-04:00",
+  "polled_at_utc": "2026-07-20T18:00:57.765708+00:00"
 }
