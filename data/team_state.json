@@ -2,37 +2,21 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-07-20T03:45:55.021966+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_11_45PM.pdf",
+    "last_submitted_ts": "2026-07-20T04:00:57.701153+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_12_00AM.pdf",
     "game_dates": [
-      "07/19/2026",
       "07/20/2026"
     ],
     "matchups": [
-      "LAS@DAL",
       "NYL@DAL"
     ],
     "players": [
       {
-        "name_last_first": "Jones, Haley",
-        "name": "Haley Jones",
-        "status": "Out",
-        "reason": "Coach's Decision - coach'sdecision",
-        "reason_category": "rest_coach"
-      },
-      {
         "name_last_first": "Smith, Alanna",
         "name": "Alanna Smith",
-        "status": "Out",
+        "status": "Doubtful",
         "reason": "Injury/Illness - Right Leg; rightleg",
         "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Verona, Costanza",
-        "name": "Costanza Verona",
-        "status": "Out",
-        "reason": "Coach's Decision - coach'sdecision",
-        "reason_category": "rest_coach"
       }
     ]
   },
@@ -109,8 +93,8 @@
   "LVA": {
     "team_full": "Las Vegas Aces",
     "submitted": true,
-    "last_submitted_ts": "2026-07-20T03:45:55.021966+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_11_45PM.pdf",
+    "last_submitted_ts": "2026-07-20T04:00:57.701153+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_12_00AM.pdf",
     "game_dates": [
       "07/20/2026"
     ],
@@ -193,8 +177,8 @@
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-07-20T03:45:55.021966+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_11_45PM.pdf",
+    "last_submitted_ts": "2026-07-20T04:00:57.701153+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_12_00AM.pdf",
     "game_dates": [
       "07/20/2026"
     ],
@@ -298,8 +282,8 @@
   "SEA": {
     "team_full": "Seattle Storm",
     "submitted": true,
-    "last_submitted_ts": "2026-07-20T03:45:55.021966+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_11_45PM.pdf",
+    "last_submitted_ts": "2026-07-20T04:00:57.701153+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_12_00AM.pdf",
     "game_dates": [
       "07/20/2026"
     ],
@@ -375,8 +359,8 @@
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-07-20T03:45:55.021966+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_11_45PM.pdf",
+    "last_submitted_ts": "2026-07-20T04:00:57.701153+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_12_00AM.pdf",
     "game_dates": [
       "07/20/2026"
     ],
