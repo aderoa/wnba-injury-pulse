@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-07-20T07:30:56.002731+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_03_30AM.pdf",
-  "report_ts": "07/20/26 03:30 AM",
+  "polled_at_utc": "2026-07-20T07:45:54.431845+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_03_45AM.pdf",
+  "report_ts": "07/20/26 03:45 AM",
   "all_players": [
     {
       "name": "Aaliyah Edwards",
@@ -56,7 +56,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Foot; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-07-20T07:30:56.002731+00:00"
+      "last_updated": "2026-07-20T07:45:54.431845+00:00"
     },
     {
       "name": "Darianna Littlepage-Buggs",
@@ -83,7 +83,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; Right Knee",
       "reason_category": "injury",
-      "last_updated": "2026-07-20T07:30:56.002731+00:00"
+      "last_updated": "2026-07-20T07:45:54.431845+00:00"
     },
     {
       "name": "Ezi Magbegor",
@@ -92,7 +92,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Face; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-07-20T07:30:56.002731+00:00"
+      "last_updated": "2026-07-20T07:45:54.431845+00:00"
     },
     {
       "name": "Holly Winterburn",
@@ -155,7 +155,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Leg; rightleg injury",
       "reason_category": "injury",
-      "last_updated": "2026-07-20T07:30:56.002731+00:00"
+      "last_updated": "2026-07-20T07:45:54.431845+00:00"
     },
     {
       "name": "Kiki TorontoTempo Rice",
@@ -164,7 +164,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Ankle; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-07-20T07:30:56.002731+00:00"
+      "last_updated": "2026-07-20T07:45:54.431845+00:00"
     },
     {
       "name": "Leonie Fiebich",
@@ -173,7 +173,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Foot; L.Foot",
       "reason_category": "injury",
-      "last_updated": "2026-07-20T07:30:56.002731+00:00"
+      "last_updated": "2026-07-20T07:45:54.431845+00:00"
     },
     {
       "name": "Maddy Westbeld",
@@ -191,7 +191,7 @@
       "status": "Out",
       "reason": "Not With Team",
       "reason_category": "offcourt",
-      "last_updated": "2026-07-20T07:30:56.002731+00:00"
+      "last_updated": "2026-07-20T07:45:54.431845+00:00"
     },
     {
       "name": "Megan Gustafson",
@@ -218,7 +218,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Ankle; Left Ankle",
       "reason_category": "injury",
-      "last_updated": "2026-07-20T07:30:56.002731+00:00"
+      "last_updated": "2026-07-20T07:45:54.431845+00:00"
     },
     {
       "name": "Nyara Sabally",
@@ -227,7 +227,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Rib Cage; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-07-20T07:30:56.002731+00:00"
+      "last_updated": "2026-07-20T07:45:54.431845+00:00"
     },
     {
       "name": "Quionche Carter",
@@ -272,7 +272,7 @@
       "status": "Out",
       "reason": "Concussion Protocol",
       "reason_category": "procedural",
-      "last_updated": "2026-07-20T07:30:56.002731+00:00"
+      "last_updated": "2026-07-20T07:45:54.431845+00:00"
     },
     {
       "name": "Shay Ciezki",
@@ -299,7 +299,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-07-20T07:30:56.002731+00:00"
+      "last_updated": "2026-07-20T07:45:54.431845+00:00"
     },
     {
       "name": "Te-Hina Paopao",
@@ -326,7 +326,7 @@
       "status": "Doubtful",
       "reason": "Injury/Illness - Right Leg; rightleg",
       "reason_category": "injury",
-      "last_updated": "2026-07-20T07:30:56.002731+00:00"
+      "last_updated": "2026-07-20T07:45:54.431845+00:00"
     },
     {
       "name": "Marine Johannes",
@@ -335,7 +335,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Left Ankle; L.Ankle",
       "reason_category": "injury",
-      "last_updated": "2026-07-20T07:30:56.002731+00:00"
+      "last_updated": "2026-07-20T07:45:54.431845+00:00"
     },
     {
       "name": "Aliyah Boston",
@@ -497,7 +497,7 @@
     {
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
-      "last_submitted_ts": "2026-07-20T07:30:56.002731+00:00",
+      "last_submitted_ts": "2026-07-20T07:45:54.431845+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "NYL@DAL"
@@ -611,7 +611,7 @@
     {
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
-      "last_submitted_ts": "2026-07-20T07:30:56.002731+00:00",
+      "last_submitted_ts": "2026-07-20T07:45:54.431845+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "LVA@TOR"
@@ -657,7 +657,7 @@
     {
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
-      "last_submitted_ts": "2026-07-20T07:30:56.002731+00:00",
+      "last_submitted_ts": "2026-07-20T07:45:54.431845+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "MIN@SEA"
@@ -682,7 +682,7 @@
     {
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
-      "last_submitted_ts": "2026-07-20T07:30:56.002731+00:00",
+      "last_submitted_ts": "2026-07-20T07:45:54.431845+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "NYL@DAL"
@@ -792,7 +792,7 @@
     {
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
-      "last_submitted_ts": "2026-07-20T07:30:56.002731+00:00",
+      "last_submitted_ts": "2026-07-20T07:45:54.431845+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "MIN@SEA"
