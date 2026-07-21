@@ -26,7 +26,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-07-21T20:30:59.822940+00:00"
+    "last_seen_pending_ts": "2026-07-21T20:45:57.892847+00:00"
   },
   "IND": {
     "team_full": "Indiana Fever",
@@ -55,7 +55,7 @@
         "reason_category": "other"
       }
     ],
-    "last_seen_pending_ts": "2026-07-21T20:30:59.822940+00:00"
+    "last_seen_pending_ts": "2026-07-21T20:45:57.892847+00:00"
   },
   "PHX": {
     "team_full": "Phoenix Mercury",
@@ -98,7 +98,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-07-21T20:30:59.822940+00:00"
+    "last_seen_pending_ts": "2026-07-21T20:45:57.892847+00:00"
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
@@ -155,7 +155,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-07-21T20:30:59.822940+00:00"
+    "last_seen_pending_ts": "2026-07-21T20:45:57.892847+00:00"
   },
   "ATL": {
     "team_full": "Atlanta Dream",
@@ -226,18 +226,18 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-07-21T20:30:59.822940+00:00"
+    "last_seen_pending_ts": "2026-07-21T20:45:57.892847+00:00"
   },
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-07-20T03:45:55.021966+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_11_45PM.pdf",
+    "last_submitted_ts": "2026-07-21T20:45:57.892847+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-21_04_45PM.pdf",
     "game_dates": [
-      "07/19/2026"
+      "07/22/2026"
     ],
     "matchups": [
-      "CHI@ATL"
+      "CHI@NYL"
     ],
     "players": [
       {
@@ -253,16 +253,8 @@
         "status": "Out",
         "reason": "Injury/Illness - Right Knee; Right Knee",
         "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Westbeld, Maddy",
-        "name": "Maddy Westbeld",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
       }
-    ],
-    "last_seen_pending_ts": "2026-07-21T20:30:59.822940+00:00"
+    ]
   },
   "PDX": {
     "team_full": "Portland Fire",
@@ -305,7 +297,7 @@
         "reason_category": "offcourt"
       }
     ],
-    "last_seen_pending_ts": "2026-07-21T20:30:59.822940+00:00"
+    "last_seen_pending_ts": "2026-07-21T20:45:57.892847+00:00"
   },
   "SEA": {
     "team_full": "Seattle Storm",
@@ -334,57 +326,42 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-07-21T20:30:59.822940+00:00"
+    "last_seen_pending_ts": "2026-07-21T20:45:57.892847+00:00"
   },
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-07-20T03:45:55.021966+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_11_45PM.pdf",
+    "last_submitted_ts": "2026-07-21T20:45:57.892847+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-21_04_45PM.pdf",
     "game_dates": [
-      "07/19/2026"
+      "07/22/2026"
     ],
     "matchups": [
-      "CON@PHX"
+      "CON@IND"
     ],
     "players": [
       {
         "name_last_first": "Edwards, Aaliyah",
         "name": "Aaliyah Edwards",
         "status": "Out",
-        "reason": "Injury/Illness - Right Knee; Right Knee",
+        "reason": "Injury/Illness - Right Knee;-",
         "reason_category": "injury"
       },
       {
         "name_last_first": "Griner, Brittney",
         "name": "Brittney Griner",
-        "status": "Available",
-        "reason": "Injury/Illness - Ribs; Ribs",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Left Knee;-",
         "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Jackson, Ashlon",
-        "name": "Ashlon Jackson",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
-      },
-      {
-        "name_last_first": "Morrow, Aneesah",
-        "name": "Aneesah Morrow",
-        "status": "Out",
-        "reason": "Returnto Competition Reconditioning",
-        "reason_category": "other"
       },
       {
         "name_last_first": "Rivers, Saniya",
         "name": "Saniya Rivers",
-        "status": "Out",
+        "status": "Questionable",
         "reason": "Injury/Illness - Left Ankle;/Foot",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-07-21T20:30:59.822940+00:00"
+    ]
   },
   "NYL": {
     "team_full": "New York Liberty",
@@ -420,7 +397,7 @@
         "reason_category": "procedural"
       }
     ],
-    "last_seen_pending_ts": "2026-07-21T20:30:59.822940+00:00"
+    "last_seen_pending_ts": "2026-07-21T20:45:57.892847+00:00"
   },
   "WAS": {
     "team_full": "Washington Mystics",
@@ -513,6 +490,6 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-07-21T20:30:59.822940+00:00"
+    "last_seen_pending_ts": "2026-07-21T20:45:57.892847+00:00"
   }
 }

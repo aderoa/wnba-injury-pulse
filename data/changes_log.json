@@ -14625,5 +14625,59 @@
     "player": "Juste Jocyte",
     "previous_status": "Out",
     "previous_reason": "Injury/Illness - Left Foot; Soreness"
+  },
+  {
+    "ts": "2026-07-21T20:45:57.892847+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Maddy Westbeld",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-07-21T20:45:57.892847+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Ashlon Jackson",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-07-21T20:45:57.892847+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Aneesah Morrow",
+    "previous_status": "Out",
+    "previous_reason": "Returnto Competition Reconditioning"
+  },
+  {
+    "ts": "2026-07-21T20:45:57.892847+00:00",
+    "type": "reason_change",
+    "team_abbr": "CON",
+    "player": "Aaliyah Edwards",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Right Knee; Right Knee",
+    "to_reason": "Injury/Illness - Right Knee;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-21T20:45:57.892847+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Saniya Rivers",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Ankle;/Foot",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-21T20:45:57.892847+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Brittney Griner",
+    "from_status": "Available",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Knee;-",
+    "reason_category": "injury"
   }
 ]
