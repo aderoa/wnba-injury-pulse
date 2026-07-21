@@ -14776,5 +14776,29 @@
     "to_status": "Probable",
     "reason": "Injury/Illness - Left Ankle; Left Ankle",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-21T23:46:01.047842+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Megan Gustafson",
+    "previous_status": "Out",
+    "previous_reason": "Personal Reasons"
+  },
+  {
+    "ts": "2026-07-21T23:46:01.047842+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Karlie Samuelson",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Middle Finger; Injury"
+  },
+  {
+    "ts": "2026-07-21T23:46:01.047842+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Holly Winterburn",
+    "previous_status": "Out",
+    "previous_reason": "Personal Reasons"
   }
 ]
