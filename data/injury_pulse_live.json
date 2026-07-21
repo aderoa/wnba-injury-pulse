@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-07-21T10:15:59.609516+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-21_06_15AM.pdf",
-  "report_ts": "07/21/26 06:15 AM",
+  "polled_at_utc": "2026-07-21T10:30:56.868641+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-21_06_30AM.pdf",
+  "report_ts": "07/21/26 06:30 AM",
   "all_players": [
     {
       "name": "Aaliyah Edwards",
@@ -438,7 +438,7 @@
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
       "last_submitted_ts": "2026-07-20T03:45:55.021966+00:00",
-      "last_seen_pending_ts": "2026-07-21T10:15:59.609516+00:00",
+      "last_seen_pending_ts": "2026-07-21T10:30:56.868641+00:00",
       "matchups": [
         "CHI@ATL"
       ],
@@ -470,7 +470,7 @@
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
       "last_submitted_ts": "2026-07-20T03:45:55.021966+00:00",
-      "last_seen_pending_ts": "2026-07-21T10:15:59.609516+00:00",
+      "last_seen_pending_ts": "2026-07-21T10:30:56.868641+00:00",
       "matchups": [
         "CON@PHX"
       ],
@@ -516,7 +516,7 @@
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
       "last_submitted_ts": "2026-07-21T03:45:56.482340+00:00",
-      "last_seen_pending_ts": "2026-07-21T10:15:59.609516+00:00",
+      "last_seen_pending_ts": "2026-07-21T10:30:56.868641+00:00",
       "matchups": [
         "NYL@DAL"
       ],
@@ -566,7 +566,7 @@
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
       "last_submitted_ts": "2026-07-19T03:45:18.378435+00:00",
-      "last_seen_pending_ts": "2026-07-21T10:15:59.609516+00:00",
+      "last_seen_pending_ts": "2026-07-21T10:30:56.868641+00:00",
       "matchups": [
         "NYL@IND"
       ],
@@ -591,7 +591,7 @@
       "team_abbr": "LAS",
       "team_full": "Los Angeles Sparks",
       "last_submitted_ts": "2026-07-20T03:45:55.021966+00:00",
-      "last_seen_pending_ts": "2026-07-21T10:15:59.609516+00:00",
+      "last_seen_pending_ts": "2026-07-21T10:30:56.868641+00:00",
       "matchups": [
         "LAS@DAL"
       ],
@@ -630,7 +630,7 @@
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
       "last_submitted_ts": "2026-07-21T03:45:56.482340+00:00",
-      "last_seen_pending_ts": "2026-07-21T10:15:59.609516+00:00",
+      "last_seen_pending_ts": "2026-07-21T10:30:56.868641+00:00",
       "matchups": [
         "LVA@TOR"
       ],
@@ -683,7 +683,7 @@
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
       "last_submitted_ts": "2026-07-21T03:45:56.482340+00:00",
-      "last_seen_pending_ts": "2026-07-21T10:15:59.609516+00:00",
+      "last_seen_pending_ts": "2026-07-21T10:30:56.868641+00:00",
       "matchups": [
         "MIN@SEA"
       ],
@@ -715,7 +715,7 @@
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
       "last_submitted_ts": "2026-07-21T03:45:56.482340+00:00",
-      "last_seen_pending_ts": "2026-07-21T10:15:59.609516+00:00",
+      "last_seen_pending_ts": "2026-07-21T10:30:56.868641+00:00",
       "matchups": [
         "NYL@DAL"
       ],
@@ -747,7 +747,7 @@
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
       "last_submitted_ts": "2026-07-19T03:45:18.378435+00:00",
-      "last_seen_pending_ts": "2026-07-21T10:15:59.609516+00:00",
+      "last_seen_pending_ts": "2026-07-21T10:30:56.868641+00:00",
       "matchups": [
         "PDX@MIN"
       ],
@@ -786,7 +786,7 @@
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
       "last_submitted_ts": "2026-07-20T03:45:55.021966+00:00",
-      "last_seen_pending_ts": "2026-07-21T10:15:59.609516+00:00",
+      "last_seen_pending_ts": "2026-07-21T10:30:56.868641+00:00",
       "matchups": [
         "CON@PHX"
       ],
@@ -825,7 +825,7 @@
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
       "last_submitted_ts": "2026-07-21T03:45:56.482340+00:00",
-      "last_seen_pending_ts": "2026-07-21T10:15:59.609516+00:00",
+      "last_seen_pending_ts": "2026-07-21T10:30:56.868641+00:00",
       "matchups": [
         "MIN@SEA"
       ],
@@ -850,7 +850,7 @@
       "team_abbr": "WAS",
       "team_full": "Washington Mystics",
       "last_submitted_ts": "2026-07-17T03:45:11.489546+00:00",
-      "last_seen_pending_ts": "2026-07-21T10:15:59.609516+00:00",
+      "last_seen_pending_ts": "2026-07-21T10:30:56.868641+00:00",
       "matchups": [
         "PDX@WAS"
       ],
