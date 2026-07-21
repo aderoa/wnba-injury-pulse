@@ -2,8 +2,8 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-07-21T01:15:55.554704+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_09_15PM.pdf",
+    "last_submitted_ts": "2026-07-21T01:30:56.295796+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_09_30PM.pdf",
     "game_dates": [
       "07/20/2026"
     ],
@@ -100,8 +100,8 @@
   "LVA": {
     "team_full": "Las Vegas Aces",
     "submitted": true,
-    "last_submitted_ts": "2026-07-21T01:15:55.554704+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_09_15PM.pdf",
+    "last_submitted_ts": "2026-07-21T01:30:56.295796+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_09_30PM.pdf",
     "game_dates": [
       "07/20/2026"
     ],
@@ -191,8 +191,8 @@
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-07-21T01:15:55.554704+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_09_15PM.pdf",
+    "last_submitted_ts": "2026-07-21T01:30:56.295796+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_09_30PM.pdf",
     "game_dates": [
       "07/20/2026"
     ],
@@ -303,8 +303,8 @@
   "SEA": {
     "team_full": "Seattle Storm",
     "submitted": true,
-    "last_submitted_ts": "2026-07-21T01:15:55.554704+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_09_15PM.pdf",
+    "last_submitted_ts": "2026-07-21T01:30:56.295796+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_09_30PM.pdf",
     "game_dates": [
       "07/20/2026"
     ],
@@ -380,8 +380,8 @@
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-07-21T01:15:55.554704+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_09_15PM.pdf",
+    "last_submitted_ts": "2026-07-21T01:30:56.295796+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_09_30PM.pdf",
     "game_dates": [
       "07/20/2026"
     ],
@@ -437,22 +437,15 @@
   "GSV": {
     "team_full": "Golden State Valkyries",
     "submitted": true,
-    "last_submitted_ts": "2026-07-19T03:45:18.378435+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-18_11_45PM.pdf",
+    "last_submitted_ts": "2026-07-21T01:30:56.295796+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_09_30PM.pdf",
     "game_dates": [
-      "07/18/2026"
+      "07/20/2026"
     ],
     "matchups": [
       "WAS@GSV"
     ],
     "players": [
-      {
-        "name_last_first": "Jocyte, Juste",
-        "name": "Juste Jocyte",
-        "status": "Out",
-        "reason": "Injury/Illness - Left Foot; Soreness",
-        "reason_category": "injury"
-      },
       {
         "name_last_first": "Prechtel, Ashten",
         "name": "Ashten Prechtel",
@@ -467,8 +460,7 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ],
-    "last_seen_pending_ts": "2026-07-19T23:45:20.215377+00:00"
+    ]
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",

@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/20/26 09:15 PM",
-  "page_count": 1,
-  "raw_line_count": 18,
+  "report_ts": "07/20/26 09:30 PM",
+  "page_count": 2,
+  "raw_line_count": 20,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -164,9 +164,33 @@
           "reason_category": "rest_coach"
         }
       ]
+    },
+    {
+      "team_full": "Golden State Valkyries",
+      "team_abbr": "GSV",
+      "game_date": "07/20/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "WAS@GSV",
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Prechtel, Ashten",
+          "name": "Ashten Prechtel",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Sowah, Miela",
+          "name": "Miela Sowah",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        }
+      ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_09_15PM.pdf",
-  "fetched_slot": "2026-07-20T21:15:00-04:00",
-  "polled_at_utc": "2026-07-21T01:15:55.554704+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_09_30PM.pdf",
+  "fetched_slot": "2026-07-20T21:30:00-04:00",
+  "polled_at_utc": "2026-07-21T01:30:56.295796+00:00"
 }
