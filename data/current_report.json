@@ -1,196 +1,118 @@
 {
-  "report_ts": "07/20/26 11:45 PM",
-  "page_count": 2,
-  "raw_line_count": 20,
+  "report_ts": "07/21/26 12:00 AM",
+  "page_count": 1,
+  "raw_line_count": 12,
   "teams": [
-    {
-      "team_full": "Las Vegas Aces",
-      "team_abbr": "LVA",
-      "game_date": "07/20/2026",
-      "game_time": "08:00(ET)",
-      "matchup": "LVA@TOR",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Bell, Kierstan",
-          "name": "Kierstan Bell",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Leg; rightleg injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Yamamoto, Mai",
-          "name": "Mai Yamamoto",
-          "status": "Out",
-          "reason": "Not With Team",
-          "reason_category": "offcourt"
-        },
-        {
-          "name_last_first": "TorontoTempo Bankole, Ornella",
-          "name": "Ornella TorontoTempo Bankole",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Rice, Kiki",
-          "name": "Kiki Rice",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Ankle; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Sabally, Nyara",
-          "name": "Nyara Sabally",
-          "status": "Out",
-          "reason": "Injury/Illness - Rib Cage; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Sykes, Brittney",
-          "name": "Brittney Sykes",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Foot; Injury",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "New York Liberty",
-      "team_abbr": "NYL",
-      "game_date": "07/20/2026",
-      "game_time": "08:00(ET)",
-      "matchup": "NYL@DAL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Fiebich, Leonie",
-          "name": "Leonie Fiebich",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Foot; L.Foot",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Johannes, Marine",
-          "name": "Marine Johannes",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Ankle; L.Ankle",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Sabally, Satou",
-          "name": "Satou Sabally",
-          "status": "Out",
-          "reason": "Concussion Protocol",
-          "reason_category": "procedural"
-        }
-      ]
-    },
-    {
-      "team_full": "Dallas Wings",
-      "team_abbr": "DAL",
-      "game_date": "07/20/2026",
-      "game_time": "08:00(ET)",
-      "matchup": "NYL@DAL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Bueckers, Paige",
-          "name": "Paige Bueckers",
-          "status": "Out",
-          "reason": "Injury/Illness - N/a; Rest",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Smith, Alanna",
-          "name": "Alanna Smith",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Leg; rightleg",
-          "reason_category": "injury"
-        }
-      ]
-    },
     {
       "team_full": "Minnesota Lynx",
       "team_abbr": "MIN",
-      "game_date": "07/20/2026",
-      "game_time": "10:00(ET)",
+      "game_date": "07/22/2026",
+      "game_time": "03:00(ET)",
       "matchup": "MIN@SEA",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Cechova, Emma",
-          "name": "Emma Cechova",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee; Right Knee",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Collier, Napheesa",
-          "name": "Napheesa Collier",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Ankle; Left Ankle",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "King, Liatu",
-          "name": "Liatu King",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
+      "submitted": false,
+      "players": []
     },
     {
       "team_full": "Seattle Storm",
       "team_abbr": "SEA",
-      "game_date": "07/20/2026",
-      "game_time": "10:00(ET)",
+      "game_date": "07/22/2026",
+      "game_time": "03:00(ET)",
       "matchup": "MIN@SEA",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Magbegor, Ezi",
-          "name": "Ezi Magbegor",
-          "status": "Out",
-          "reason": "Injury/Illness - Face; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Mair, Taina",
-          "name": "Taina Mair",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
+      "submitted": false,
+      "players": []
     },
     {
-      "team_full": "Golden State Valkyries",
-      "team_abbr": "GSV",
-      "game_date": "07/20/2026",
+      "team_full": "Phoenix Mercury",
+      "team_abbr": "PHX",
+      "game_date": "07/22/2026",
+      "game_time": "03:00(ET)",
+      "matchup": "PHX@LAS",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Los Angeles Sparks",
+      "team_abbr": "LAS",
+      "game_date": "07/22/2026",
+      "game_time": "03:00(ET)",
+      "matchup": "PHX@LAS",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Chicago Sky",
+      "team_abbr": "CHI",
+      "game_date": "07/22/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "CHI@NYL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "New York Liberty",
+      "team_abbr": "NYL",
+      "game_date": "07/22/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "CHI@NYL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Las Vegas Aces",
+      "team_abbr": "LVA",
+      "game_date": "07/22/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "LVA@WAS",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Washington Mystics",
+      "team_abbr": "WAS",
+      "game_date": "07/22/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "LVA@WAS",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Connecticut Sun",
+      "team_abbr": "CON",
+      "game_date": "07/22/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "CON@IND",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Indiana Fever",
+      "team_abbr": "IND",
+      "game_date": "07/22/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "CON@IND",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Dallas Wings",
+      "team_abbr": "DAL",
+      "game_date": "07/22/2026",
       "game_time": "10:00(ET)",
-      "matchup": "WAS@GSV",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Prechtel, Ashten",
-          "name": "Ashten Prechtel",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Sowah, Miela",
-          "name": "Miela Sowah",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
+      "matchup": "DAL@PDX",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Portland Fire",
+      "team_abbr": "PDX",
+      "game_date": "07/22/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "DAL@PDX",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_11_45PM.pdf",
-  "fetched_slot": "2026-07-20T23:45:00-04:00",
-  "polled_at_utc": "2026-07-21T03:45:56.482340+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-21_12_00AM.pdf",
+  "fetched_slot": "2026-07-21T00:00:00-04:00",
+  "polled_at_utc": "2026-07-21T04:01:04.566745+00:00"
 }

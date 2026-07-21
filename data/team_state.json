@@ -25,7 +25,8 @@
         "reason": "Injury/Illness - Right Leg; rightleg",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-07-21T04:01:04.566745+00:00"
   },
   "IND": {
     "team_full": "Indiana Fever",
@@ -53,7 +54,8 @@
         "reason": "-",
         "reason_category": "other"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-07-21T04:01:04.566745+00:00"
   },
   "PHX": {
     "team_full": "Phoenix Mercury",
@@ -95,7 +97,8 @@
         "reason": "Injury/Illness--; Illness",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-07-21T04:01:04.566745+00:00"
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
@@ -151,7 +154,8 @@
         "reason": "Injury/Illness - Left Foot; Injury",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-07-21T04:01:04.566745+00:00"
   },
   "ATL": {
     "team_full": "Atlanta Dream",
@@ -221,7 +225,8 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-07-21T04:01:04.566745+00:00"
   },
   "CHI": {
     "team_full": "Chicago Sky",
@@ -256,7 +261,8 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-07-21T04:01:04.566745+00:00"
   },
   "PDX": {
     "team_full": "Portland Fire",
@@ -298,7 +304,8 @@
         "reason": "Personal Reasons",
         "reason_category": "offcourt"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-07-21T04:01:04.566745+00:00"
   },
   "SEA": {
     "team_full": "Seattle Storm",
@@ -326,7 +333,8 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-07-21T04:01:04.566745+00:00"
   },
   "CON": {
     "team_full": "Connecticut Sun",
@@ -375,7 +383,8 @@
         "reason": "Injury/Illness - Left Ankle;/Foot",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-07-21T04:01:04.566745+00:00"
   },
   "NYL": {
     "team_full": "New York Liberty",
@@ -410,7 +419,8 @@
         "reason": "Concussion Protocol",
         "reason_category": "procedural"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-07-21T04:01:04.566745+00:00"
   },
   "WAS": {
     "team_full": "Washington Mystics",
@@ -432,7 +442,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-07-19T23:15:19.939819+00:00"
+    "last_seen_pending_ts": "2026-07-21T04:01:04.566745+00:00"
   },
   "GSV": {
     "team_full": "Golden State Valkyries",
@@ -502,6 +512,7 @@
         "reason": "Injury/Illness - Righthand; Rhand",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-07-21T04:01:04.566745+00:00"
   }
 }
