@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/20/26 08:45 PM",
+  "report_ts": "07/20/26 09:00 PM",
   "page_count": 1,
-  "raw_line_count": 17,
+  "raw_line_count": 18,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -131,6 +131,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Ankle; Left Ankle",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "King, Liatu",
+          "name": "Liatu King",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -159,7 +166,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_08_45PM.pdf",
-  "fetched_slot": "2026-07-20T20:45:00-04:00",
-  "polled_at_utc": "2026-07-21T00:46:01.550478+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_09_00PM.pdf",
+  "fetched_slot": "2026-07-20T21:00:00-04:00",
+  "polled_at_utc": "2026-07-21T01:01:00.399778+00:00"
 }
