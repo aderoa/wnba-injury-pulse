@@ -14883,5 +14883,31 @@
     "to_status": "Available",
     "reason": "-",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-07-22T18:16:08.109446+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Natasha Mack",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Left Foot;-"
+  },
+  {
+    "ts": "2026-07-22T18:16:08.109446+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Sami Whitcomb",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness--; Illness"
+  },
+  {
+    "ts": "2026-07-22T18:16:08.109446+00:00",
+    "type": "reason_change",
+    "team_abbr": "PHX",
+    "player": "Shay Ciezki",
+    "status": "Out",
+    "from_reason": "Player Coach's Decision - Developmental Player",
+    "to_reason": "player Coach's Decision - Developmental player",
+    "reason_category": "rest_coach"
   }
 ]

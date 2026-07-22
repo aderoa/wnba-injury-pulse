@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/22/26 02:00 PM",
+  "report_ts": "07/22/26 02:15 PM",
   "page_count": 2,
-  "raw_line_count": 26,
+  "raw_line_count": 32,
   "teams": [
     {
       "team_full": "Minnesota Lynx",
@@ -54,6 +54,30 @@
           "name": "Taina Mair",
           "status": "Out",
           "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        }
+      ]
+    },
+    {
+      "team_full": "Phoenix Mercury",
+      "team_abbr": "PHX",
+      "game_date": "07/22/2026",
+      "game_time": "03:00(ET)",
+      "matchup": "PHX@LAS",
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Carter, Quionche",
+          "name": "Quionche Carter",
+          "status": "Out",
+          "reason": "Coach's Decision - Developmental",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Ciezki, Shay",
+          "name": "Shay Ciezki",
+          "status": "Out",
+          "reason": "player Coach's Decision - Developmental player",
           "reason_category": "rest_coach"
         }
       ]
@@ -272,7 +296,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-22_02_00PM.pdf",
-  "fetched_slot": "2026-07-22T14:00:00-04:00",
-  "polled_at_utc": "2026-07-22T18:13:52.146377+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-22_02_15PM.pdf",
+  "fetched_slot": "2026-07-22T14:15:00-04:00",
+  "polled_at_utc": "2026-07-22T18:16:08.109446+00:00"
 }

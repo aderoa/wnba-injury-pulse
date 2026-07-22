@@ -4,6 +4,12 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-07-22 18:16 UTC
+
+- **Natasha Mack** (PHX) cleared (was Available)
+- **Sami Whitcomb** (PHX) cleared (was Out)
+- **Shay Ciezki** (PHX, Out): reason updated (Player Coach's Decision - Developmental Player → player Coach's Decision - Developmental player)
+
 ## 2026-07-22 18:00 UTC
 
 - **Tonie Morgan** (LAS) newly listed as **Out** — Coach's Decision - Coachesdecision
