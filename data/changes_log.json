@@ -14909,5 +14909,15 @@
     "from_reason": "Player Coach's Decision - Developmental Player",
     "to_reason": "player Coach's Decision - Developmental player",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-22T18:30:57.056813+00:00",
+    "type": "status_change",
+    "team_abbr": "MIN",
+    "player": "Napheesa Collier",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Ankle; Left Ankle",
+    "reason_category": "injury"
   }
 ]
