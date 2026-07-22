@@ -15043,5 +15043,24 @@
     "to_status": "Available",
     "reason": "Injury/Illness - N/a; Rest",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-22T23:30:56.052632+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Saniya Rivers",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Ankle;/Foot",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-22T23:30:56.052632+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Raven Johnson",
+    "status": "Out",
+    "reason": "Injury/Illness - Lower Body; Lower Body",
+    "reason_category": "injury"
   }
 ]
