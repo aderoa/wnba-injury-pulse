@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/22/26 07:00 PM",
+  "report_ts": "07/22/26 07:15 PM",
   "page_count": 2,
-  "raw_line_count": 38,
+  "raw_line_count": 40,
   "teams": [
     {
       "team_full": "Minnesota Lynx",
@@ -250,11 +250,25 @@
           "reason_category": "injury"
         },
         {
+          "name_last_first": "Jackson, Ashlon",
+          "name": "Ashlon Jackson",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Rivers, Saniya",
           "name": "Saniya Rivers",
           "status": "Probable",
           "reason": "Injury/Illness - Left Ankle;/Foot",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "VanLith, Hailey",
+          "name": "Hailey VanLith",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -293,14 +307,14 @@
         {
           "name_last_first": "Bueckers, Paige",
           "name": "Paige Bueckers",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - N/a; Rest",
           "reason_category": "injury"
         },
         {
           "name_last_first": "Smith, Alanna",
           "name": "Alanna Smith",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Right Leg; n/a",
           "reason_category": "injury"
         }
@@ -324,7 +338,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-22_07_00PM.pdf",
-  "fetched_slot": "2026-07-22T19:00:00-04:00",
-  "polled_at_utc": "2026-07-22T23:00:57.346926+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-22_07_15PM.pdf",
+  "fetched_slot": "2026-07-22T19:15:00-04:00",
+  "polled_at_utc": "2026-07-22T23:15:58.765699+00:00"
 }

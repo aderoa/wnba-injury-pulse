@@ -15005,5 +15005,43 @@
     "to_status": "Probable",
     "reason": "Injury/Illness - Left Ankle;/Foot",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-22T23:15:58.765699+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Ashlon Jackson",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-22T23:15:58.765699+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Hailey VanLith",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-22T23:15:58.765699+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Alanna Smith",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Leg; n/a",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-22T23:15:58.765699+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Paige Bueckers",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - N/a; Rest",
+    "reason_category": "injury"
   }
 ]
