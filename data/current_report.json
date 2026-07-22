@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/22/26 01:30 PM",
+  "report_ts": "07/22/26 01:45 PM",
   "page_count": 2,
-  "raw_line_count": 23,
+  "raw_line_count": 24,
   "teams": [
     {
       "team_full": "Minnesota Lynx",
@@ -24,6 +24,13 @@
           "status": "Probable",
           "reason": "Injury/Illness - Left Ankle; Left Ankle",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "King, Liatu",
+          "name": "Liatu King",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -251,7 +258,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-22_01_30PM.pdf",
-  "fetched_slot": "2026-07-22T13:30:00-04:00",
-  "polled_at_utc": "2026-07-22T17:30:57.648439+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-22_01_45PM.pdf",
+  "fetched_slot": "2026-07-22T13:45:00-04:00",
+  "polled_at_utc": "2026-07-22T17:46:00.128006+00:00"
 }
