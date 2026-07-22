@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/21/26 07:45 PM",
+  "report_ts": "07/21/26 08:00 PM",
   "page_count": 2,
-  "raw_line_count": 19,
+  "raw_line_count": 20,
   "teams": [
     {
       "team_full": "Minnesota Lynx",
@@ -33,17 +33,23 @@
       "game_date": "07/22/2026",
       "game_time": "03:00(ET)",
       "matchup": "MIN@SEA",
-      "submitted": false,
-      "players": []
-    },
-    {
-      "team_full": "Phoenix Mercury",
-      "team_abbr": "PHX",
-      "game_date": "07/22/2026",
-      "game_time": "03:00(ET)",
-      "matchup": "PHX@LAS",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Magbegor, Ezi",
+          "name": "Ezi Magbegor",
+          "status": "Out",
+          "reason": "Injury/Illness - Face; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Mair, Taina",
+          "name": "Taina Mair",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        }
+      ]
     },
     {
       "team_full": "Los Angeles Sparks",
@@ -194,8 +200,23 @@
       "game_date": "07/22/2026",
       "game_time": "10:00(ET)",
       "matchup": "DAL@PDX",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Bueckers, Paige",
+          "name": "Paige Bueckers",
+          "status": "Questionable",
+          "reason": "Injury/Illness - N/a; Rest",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Smith, Alanna",
+          "name": "Alanna Smith",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Leg; n/a",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Portland Fire",
@@ -215,7 +236,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-21_07_45PM.pdf",
-  "fetched_slot": "2026-07-21T19:45:00-04:00",
-  "polled_at_utc": "2026-07-21T23:46:01.047842+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-21_08_00PM.pdf",
+  "fetched_slot": "2026-07-21T20:00:00-04:00",
+  "polled_at_utc": "2026-07-22T00:01:04.892225+00:00"
 }

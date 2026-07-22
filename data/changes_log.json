@@ -14800,5 +14800,25 @@
     "player": "Holly Winterburn",
     "previous_status": "Out",
     "previous_reason": "Personal Reasons"
+  },
+  {
+    "ts": "2026-07-22T00:01:04.892225+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Paige Bueckers",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - N/a; Rest",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-22T00:01:04.892225+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Alanna Smith",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Right Leg; n/a",
+    "reason_category": "injury"
   }
 ]
