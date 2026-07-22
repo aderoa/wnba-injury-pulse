@@ -14976,5 +14976,15 @@
     "to_status": "Available",
     "reason": "-",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-07-22T22:45:57.368014+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Brittney Griner",
+    "from_status": "Doubtful",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Knee;-",
+    "reason_category": "injury"
   }
 ]
