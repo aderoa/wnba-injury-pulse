@@ -14986,5 +14986,24 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Left Knee;-",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-22T23:00:57.346926+00:00",
+    "type": "added",
+    "team_abbr": "LVA",
+    "player": "Ta'Niya Latson",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-22T23:00:57.346926+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Saniya Rivers",
+    "from_status": "Questionable",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Left Ankle;/Foot",
+    "reason_category": "injury"
   }
 ]
