@@ -14820,5 +14820,31 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Right Leg; n/a",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-22T00:15:54.710219+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Tonie Morgan",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Coaches Decision"
+  },
+  {
+    "ts": "2026-07-22T00:15:54.710219+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Alissa Pili",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - coachesdecision"
+  },
+  {
+    "ts": "2026-07-22T00:15:54.710219+00:00",
+    "type": "status_change",
+    "team_abbr": "LAS",
+    "player": "Kiana Williams",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Right Hand; RHand",
+    "reason_category": "injury"
   }
 ]

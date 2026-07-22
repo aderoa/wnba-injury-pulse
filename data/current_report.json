@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/21/26 08:00 PM",
+  "report_ts": "07/21/26 08:15 PM",
   "page_count": 2,
-  "raw_line_count": 20,
+  "raw_line_count": 23,
   "teams": [
     {
       "team_full": "Minnesota Lynx",
@@ -57,8 +57,23 @@
       "game_date": "07/22/2026",
       "game_time": "03:00(ET)",
       "matchup": "PHX@LAS",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Plum, Kelsey",
+          "name": "Kelsey Plum",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Lower Leg; L Lower Leg",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Williams, Kiana",
+          "name": "Kiana Williams",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Hand; RHand",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Chicago Sky",
@@ -236,7 +251,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-21_08_00PM.pdf",
-  "fetched_slot": "2026-07-21T20:00:00-04:00",
-  "polled_at_utc": "2026-07-22T00:09:48.560141+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-21_08_15PM.pdf",
+  "fetched_slot": "2026-07-21T20:15:00-04:00",
+  "polled_at_utc": "2026-07-22T00:15:54.710219+00:00"
 }
