@@ -15080,5 +15080,14 @@
     "status": "Out",
     "reason": "Coach's Decision - coach'sdecision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-23T01:15:56.548588+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Jordan Harrison",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
