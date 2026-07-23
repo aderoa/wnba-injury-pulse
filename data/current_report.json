@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/22/26 08:45 PM",
-  "page_count": 2,
-  "raw_line_count": 43,
+  "report_ts": "07/22/26 09:00 PM",
+  "page_count": 3,
+  "raw_line_count": 45,
   "teams": [
     {
       "team_full": "Minnesota Lynx",
@@ -319,11 +319,25 @@
           "reason_category": "injury"
         },
         {
+          "name_last_first": "Jones, Haley",
+          "name": "Haley Jones",
+          "status": "Out",
+          "reason": "Coach's Decision - coach'sdecision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Smith, Alanna",
           "name": "Alanna Smith",
           "status": "Out",
           "reason": "Injury/Illness - Right Leg; n/a",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Verona, Costanza",
+          "name": "Costanza Verona",
+          "status": "Out",
+          "reason": "Coach's Decision - coach'sdecision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -345,7 +359,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-22_08_45PM.pdf",
-  "fetched_slot": "2026-07-22T20:45:00-04:00",
-  "polled_at_utc": "2026-07-23T00:45:56.461127+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-22_09_00PM.pdf",
+  "fetched_slot": "2026-07-22T21:00:00-04:00",
+  "polled_at_utc": "2026-07-23T01:01:00.252208+00:00"
 }

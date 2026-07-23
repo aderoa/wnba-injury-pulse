@@ -15062,5 +15062,23 @@
     "status": "Out",
     "reason": "Injury/Illness - Lower Body; Lower Body",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-23T01:01:00.252208+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Haley Jones",
+    "status": "Out",
+    "reason": "Coach's Decision - coach'sdecision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-23T01:01:00.252208+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Costanza Verona",
+    "status": "Out",
+    "reason": "Coach's Decision - coach'sdecision",
+    "reason_category": "rest_coach"
   }
 ]
