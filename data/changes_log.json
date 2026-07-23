@@ -15089,5 +15089,14 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-23T02:46:00.068403+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "SarahAshlee Barker",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Knee; Injury",
+    "reason_category": "injury"
   }
 ]
