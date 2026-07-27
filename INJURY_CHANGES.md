@@ -4,6 +4,16 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-07-27 23:46 UTC
+
+- **Dominique Malonga** (SEA) newly listed as **Questionable** — Injury/Illness - Back; Back Injury
+- **Taina Mair** (SEA, Out): reason updated (Coach's Decision → Coach's Decision - Coach's Decision)
+- **Ezi Magbegor** (SEA, Out): reason updated (Injury/Illness - Face; Injury → Injury/Illness - Face Injury; Facial Injury)
+- **Cheyenne Parker-Tyus** (LVA) newly listed as **Out** — Concussion Protocol
+- **Ta'Niya Latson** (LVA) cleared (was Out)
+- **Mai Yamamoto** (LVA) cleared (was Out)
+- **Kierstan Bell** (LVA, Out): reason updated (Injury/Illness - Right Leg; rightleg → Injury/Illness - Right Leg; injury)
+
 ## 2026-07-27 23:16 UTC
 
 - **Anneli Maley** (NYL) cleared (was Out)
