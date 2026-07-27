@@ -4,6 +4,13 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-07-27 20:46 UTC
+
+- **Ashlon Jackson** (CON) cleared (was Out)
+- **Hailey VanLith** (CON) cleared (was Out)
+- **Aaliyah Edwards** (CON): **Out** → **Probable** — Injury/Illness - Right Knee;-
+- **Saniya Rivers** (CON): **Available** → **Probable** — Injury/Illness - Left Ankle;-
+
 ## 2026-07-23 02:46 UTC
 
 - **SarahAshlee Barker** (PDX) newly listed as **Out** — Injury/Illness - Left Knee; Injury

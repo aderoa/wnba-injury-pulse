@@ -1,18 +1,9 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-07-27T20:31:06.984515+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-27_04_30PM.pdf",
-  "report_ts": "07/27/26 04:30 PM",
+  "polled_at_utc": "2026-07-27T20:46:11.882146+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-27_04_45PM.pdf",
+  "report_ts": "07/27/26 04:45 PM",
   "all_players": [
-    {
-      "name": "Aaliyah Edwards",
-      "team_abbr": "CON",
-      "team_full": "Connecticut Sun",
-      "status": "Out",
-      "reason": "Injury/Illness - Right Knee;-",
-      "reason_category": "injury",
-      "last_updated": "2026-07-23T04:00:56.453471+00:00"
-    },
     {
       "name": "Alanna Smith",
       "team_abbr": "DAL",
@@ -41,15 +32,6 @@
       "last_updated": "2026-07-23T04:00:56.453471+00:00"
     },
     {
-      "name": "Ashlon Jackson",
-      "team_abbr": "CON",
-      "team_full": "Connecticut Sun",
-      "status": "Out",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach",
-      "last_updated": "2026-07-23T04:00:56.453471+00:00"
-    },
-    {
       "name": "Ashten Prechtel",
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
@@ -65,7 +47,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee;-",
       "reason_category": "injury",
-      "last_updated": "2026-07-23T04:00:56.453471+00:00"
+      "last_updated": "2026-07-27T20:46:11.882146+00:00"
     },
     {
       "name": "Chloe Bibby",
@@ -128,15 +110,6 @@
       "status": "Out",
       "reason": "Injury/Illness - Face; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-07-23T04:00:56.453471+00:00"
-    },
-    {
-      "name": "Hailey VanLith",
-      "team_abbr": "CON",
-      "team_full": "Connecticut Sun",
-      "status": "Out",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach",
       "last_updated": "2026-07-23T04:00:56.453471+00:00"
     },
     {
@@ -338,6 +311,24 @@
       "last_updated": "2026-07-23T04:00:56.453471+00:00"
     },
     {
+      "name": "Aaliyah Edwards",
+      "team_abbr": "CON",
+      "team_full": "Connecticut Sun",
+      "status": "Probable",
+      "reason": "Injury/Illness - Right Knee;-",
+      "reason_category": "injury",
+      "last_updated": "2026-07-27T20:46:11.882146+00:00"
+    },
+    {
+      "name": "Saniya Rivers",
+      "team_abbr": "CON",
+      "team_full": "Connecticut Sun",
+      "status": "Probable",
+      "reason": "Injury/Illness - Left Ankle;-",
+      "reason_category": "injury",
+      "last_updated": "2026-07-27T20:46:11.882146+00:00"
+    },
+    {
       "name": "Brionna Jones",
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
@@ -379,15 +370,6 @@
       "team_full": "Dallas Wings",
       "status": "Available",
       "reason": "Injury/Illness - N/a; Rest",
-      "reason_category": "injury",
-      "last_updated": "2026-07-23T04:00:56.453471+00:00"
-    },
-    {
-      "name": "Saniya Rivers",
-      "team_abbr": "CON",
-      "team_full": "Connecticut Sun",
-      "status": "Available",
-      "reason": "Injury/Illness - Left Ankle;/Foot",
       "reason_category": "injury",
       "last_updated": "2026-07-23T04:00:56.453471+00:00"
     }
@@ -467,16 +449,17 @@
     {
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
-      "last_submitted_ts": "2026-07-23T04:00:56.453471+00:00",
-      "last_seen_pending_ts": "2026-07-27T20:31:06.984515+00:00",
+      "last_submitted_ts": "2026-07-27T20:46:11.882146+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "CON@IND"
+        "CON@WAS",
+        "TOR@MIN"
       ],
       "players": [
         {
           "name_last_first": "Edwards, Aaliyah",
           "name": "Aaliyah Edwards",
-          "status": "Out",
+          "status": "Probable",
           "reason": "Injury/Illness - Right Knee;-",
           "reason_category": "injury"
         },
@@ -488,25 +471,11 @@
           "reason_category": "injury"
         },
         {
-          "name_last_first": "Jackson, Ashlon",
-          "name": "Ashlon Jackson",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
           "name_last_first": "Rivers, Saniya",
           "name": "Saniya Rivers",
-          "status": "Available",
-          "reason": "Injury/Illness - Left Ankle;/Foot",
+          "status": "Probable",
+          "reason": "Injury/Illness - Left Ankle;-",
           "reason_category": "injury"
-        },
-        {
-          "name_last_first": "VanLith, Hailey",
-          "name": "Hailey VanLith",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
         }
       ]
     },
@@ -578,7 +547,7 @@
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
       "last_submitted_ts": "2026-07-23T04:00:56.453471+00:00",
-      "last_seen_pending_ts": "2026-07-27T20:31:06.984515+00:00",
+      "last_seen_pending_ts": "2026-07-27T20:46:11.882146+00:00",
       "matchups": [
         "CON@IND"
       ],
@@ -610,7 +579,7 @@
       "team_abbr": "LAS",
       "team_full": "Los Angeles Sparks",
       "last_submitted_ts": "2026-07-23T04:00:56.453471+00:00",
-      "last_seen_pending_ts": "2026-07-27T20:31:06.984515+00:00",
+      "last_seen_pending_ts": "2026-07-27T20:46:11.882146+00:00",
       "matchups": [
         "PHX@LAS"
       ],
@@ -649,7 +618,7 @@
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
       "last_submitted_ts": "2026-07-23T04:00:56.453471+00:00",
-      "last_seen_pending_ts": "2026-07-27T20:31:06.984515+00:00",
+      "last_seen_pending_ts": "2026-07-27T20:46:11.882146+00:00",
       "matchups": [
         "LVA@WAS"
       ],
@@ -681,7 +650,7 @@
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
       "last_submitted_ts": "2026-07-23T04:00:56.453471+00:00",
-      "last_seen_pending_ts": "2026-07-27T20:31:06.984515+00:00",
+      "last_seen_pending_ts": "2026-07-27T20:46:11.882146+00:00",
       "matchups": [
         "MIN@SEA"
       ],
@@ -713,7 +682,7 @@
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
       "last_submitted_ts": "2026-07-23T04:00:56.453471+00:00",
-      "last_seen_pending_ts": "2026-07-27T20:31:06.984515+00:00",
+      "last_seen_pending_ts": "2026-07-27T20:46:11.882146+00:00",
       "matchups": [
         "CHI@NYL"
       ],
@@ -752,7 +721,7 @@
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
       "last_submitted_ts": "2026-07-23T04:00:56.453471+00:00",
-      "last_seen_pending_ts": "2026-07-27T20:31:06.984515+00:00",
+      "last_seen_pending_ts": "2026-07-27T20:46:11.882146+00:00",
       "matchups": [
         "DAL@PDX"
       ],
@@ -809,7 +778,7 @@
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
       "last_submitted_ts": "2026-07-23T04:00:56.453471+00:00",
-      "last_seen_pending_ts": "2026-07-27T20:31:06.984515+00:00",
+      "last_seen_pending_ts": "2026-07-27T20:46:11.882146+00:00",
       "matchups": [
         "MIN@SEA"
       ],
@@ -850,6 +819,42 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-07-27T20:46:11.882146+00:00",
+      "type": "status_change",
+      "team_abbr": "CON",
+      "player": "Saniya Rivers",
+      "from_status": "Available",
+      "to_status": "Probable",
+      "reason": "Injury/Illness - Left Ankle;-",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-07-27T20:46:11.882146+00:00",
+      "type": "status_change",
+      "team_abbr": "CON",
+      "player": "Aaliyah Edwards",
+      "from_status": "Out",
+      "to_status": "Probable",
+      "reason": "Injury/Illness - Right Knee;-",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-07-27T20:46:11.882146+00:00",
+      "type": "cleared",
+      "team_abbr": "CON",
+      "player": "Hailey VanLith",
+      "previous_status": "Out",
+      "previous_reason": "Coach's Decision"
+    },
+    {
+      "ts": "2026-07-27T20:46:11.882146+00:00",
+      "type": "cleared",
+      "team_abbr": "CON",
+      "player": "Ashlon Jackson",
+      "previous_status": "Out",
+      "previous_reason": "Coach's Decision"
+    },
     {
       "ts": "2026-07-23T02:46:00.068403+00:00",
       "type": "added",
@@ -3085,40 +3090,6 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach"
-    },
-    {
-      "ts": "2026-07-13T21:01:06.355952+00:00",
-      "type": "status_change",
-      "team_abbr": "CON",
-      "player": "Brittney Griner",
-      "from_status": "Out",
-      "to_status": "Questionable",
-      "reason": "Injury/Illness - Left Quad; Strain",
-      "reason_category": "injury"
-    },
-    {
-      "ts": "2026-07-13T21:01:06.355952+00:00",
-      "type": "cleared",
-      "team_abbr": "CON",
-      "player": "Ashlon Jackson",
-      "previous_status": "Out",
-      "previous_reason": "Coach's Decision"
-    },
-    {
-      "ts": "2026-07-13T21:01:06.355952+00:00",
-      "type": "cleared",
-      "team_abbr": "PDX",
-      "player": "Karlie Samuelson",
-      "previous_status": "Available",
-      "previous_reason": "Injury/Illness - Left Middle Finger; Injury"
-    },
-    {
-      "ts": "2026-07-13T21:01:06.355952+00:00",
-      "type": "cleared",
-      "team_abbr": "PDX",
-      "player": "Jordan Harrison",
-      "previous_status": "Out",
-      "previous_reason": "Coach's Decision"
     }
   ]
 }

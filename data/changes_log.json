@@ -15098,5 +15098,41 @@
     "status": "Out",
     "reason": "Injury/Illness - Left Knee; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-27T20:46:11.882146+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Ashlon Jackson",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-07-27T20:46:11.882146+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Hailey VanLith",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-07-27T20:46:11.882146+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Aaliyah Edwards",
+    "from_status": "Out",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Right Knee;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-27T20:46:11.882146+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Saniya Rivers",
+    "from_status": "Available",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Left Ankle;-",
+    "reason_category": "injury"
   }
 ]
