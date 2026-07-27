@@ -4,6 +4,15 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-07-27 21:46 UTC
+
+- **Isabelle TorontoTempo Harrison** (CON) newly listed as **Questionable** — Injury/Illness - Left Knee; Soreness
+- **Kiki Rice** (CON) newly listed as **Questionable** — Injury/Illness - Left Ankle; Injury
+- **Nyara Sabally** (CON) newly listed as **Questionable** — Injury/Illness - Rib Cage; Injury
+- **Brittney Sykes** (CON) newly listed as **Out** — Injury/Illness - Left Foot; Injury
+- **Napheesa Collier** (MIN) cleared (was Available)
+- **Liatu King** (MIN) cleared (was Out)
+
 ## 2026-07-27 20:46 UTC
 
 - **Ashlon Jackson** (CON) cleared (was Out)

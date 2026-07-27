@@ -15134,5 +15134,57 @@
     "to_status": "Probable",
     "reason": "Injury/Illness - Left Ankle;-",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-27T21:46:04.901902+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Isabelle TorontoTempo Harrison",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Left Knee; Soreness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-27T21:46:04.901902+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Kiki Rice",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Left Ankle; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-27T21:46:04.901902+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Nyara Sabally",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Rib Cage; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-27T21:46:04.901902+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Brittney Sykes",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Foot; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-27T21:46:04.901902+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Napheesa Collier",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Left Ankle; Left Ankle"
+  },
+  {
+    "ts": "2026-07-27T21:46:04.901902+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Liatu King",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]
