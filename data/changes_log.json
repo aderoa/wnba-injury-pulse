@@ -15276,5 +15276,62 @@
     "from_reason": "Injury/Illness - Right Leg; rightleg",
     "to_reason": "Injury/Illness - Right Leg; injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-28T00:01:06.150530+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Bree Hall",
+    "status": "Probable",
+    "reason": "Injury/Illness - Left Ankle; Ankle",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-28T00:01:06.150530+00:00",
+    "type": "cleared",
+    "team_abbr": "IND",
+    "player": "Raven Johnson",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Lower Body; Lower Body"
+  },
+  {
+    "ts": "2026-07-28T00:01:06.150530+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Available",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Back; Back",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-28T00:01:06.150530+00:00",
+    "type": "reason_change",
+    "team_abbr": "IND",
+    "player": "Damiris Dantas",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Knee; Left Knee",
+    "to_reason": "Injury/Illness - Left Knee; NWT",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-28T00:01:06.150530+00:00",
+    "type": "reason_change",
+    "team_abbr": "SEA",
+    "player": "Ezi Magbegor",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Face Injury; Facial Injury",
+    "to_reason": "Injury/Illness - Face Injury; Injury/Illness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-28T00:01:06.150530+00:00",
+    "type": "reason_change",
+    "team_abbr": "SEA",
+    "player": "Dominique Malonga",
+    "status": "Questionable",
+    "from_reason": "Injury/Illness - Back; Back Injury",
+    "to_reason": "Injury/Illness - Back; Injury/Illness",
+    "reason_category": "injury"
   }
 ]

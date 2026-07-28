@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-07-27T23:47:48.123798+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-27_07_45PM.pdf",
-  "report_ts": "07/27/26 07:45 PM",
+  "polled_at_utc": "2026-07-28T00:01:06.150530+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-27_08_00PM.pdf",
+  "report_ts": "07/27/26 08:00 PM",
   "all_players": [
     {
       "name": "Alanna Smith",
@@ -38,7 +38,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee;-",
       "reason_category": "injury",
-      "last_updated": "2026-07-27T23:47:48.123798+00:00"
+      "last_updated": "2026-07-28T00:01:06.150530+00:00"
     },
     {
       "name": "Brittney Sykes",
@@ -47,7 +47,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Foot; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-07-27T23:47:48.123798+00:00"
+      "last_updated": "2026-07-28T00:01:06.150530+00:00"
     },
     {
       "name": "Cheyenne Parker-Tyus",
@@ -56,7 +56,7 @@
       "status": "Out",
       "reason": "Concussion Protocol",
       "reason_category": "procedural",
-      "last_updated": "2026-07-27T23:47:48.123798+00:00"
+      "last_updated": "2026-07-28T00:01:06.150530+00:00"
     },
     {
       "name": "Chloe Bibby",
@@ -81,9 +81,9 @@
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
       "status": "Out",
-      "reason": "Injury/Illness - Left Knee; Left Knee",
+      "reason": "Injury/Illness - Left Knee; NWT",
       "reason_category": "injury",
-      "last_updated": "2026-07-23T04:00:56.453471+00:00"
+      "last_updated": "2026-07-28T00:01:06.150530+00:00"
     },
     {
       "name": "Darianna Littlepage-Buggs",
@@ -110,16 +110,16 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; Right Knee",
       "reason_category": "injury",
-      "last_updated": "2026-07-27T23:47:48.123798+00:00"
+      "last_updated": "2026-07-28T00:01:06.150530+00:00"
     },
     {
       "name": "Ezi Magbegor",
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
       "status": "Out",
-      "reason": "Injury/Illness - Face Injury; Facial Injury",
+      "reason": "Injury/Illness - Face Injury; Injury/Illness",
       "reason_category": "injury",
-      "last_updated": "2026-07-27T23:47:48.123798+00:00"
+      "last_updated": "2026-07-28T00:01:06.150530+00:00"
     },
     {
       "name": "Haley Jones",
@@ -155,7 +155,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Leg; injury",
       "reason_category": "injury",
-      "last_updated": "2026-07-27T23:47:48.123798+00:00"
+      "last_updated": "2026-07-28T00:01:06.150530+00:00"
     },
     {
       "name": "Leonie Fiebich",
@@ -164,7 +164,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Foot; L.Foot",
       "reason_category": "injury",
-      "last_updated": "2026-07-27T23:47:48.123798+00:00"
+      "last_updated": "2026-07-28T00:01:06.150530+00:00"
     },
     {
       "name": "Maddy Westbeld",
@@ -194,22 +194,13 @@
       "last_updated": "2026-07-23T04:00:56.453471+00:00"
     },
     {
-      "name": "Raven Johnson",
-      "team_abbr": "IND",
-      "team_full": "Indiana Fever",
-      "status": "Out",
-      "reason": "Injury/Illness - Lower Body; Lower Body",
-      "reason_category": "injury",
-      "last_updated": "2026-07-23T04:00:56.453471+00:00"
-    },
-    {
       "name": "Sania Feagin",
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-07-27T23:47:48.123798+00:00"
+      "last_updated": "2026-07-28T00:01:06.150530+00:00"
     },
     {
       "name": "SarahAshlee Barker",
@@ -218,7 +209,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-07-27T23:47:48.123798+00:00"
+      "last_updated": "2026-07-28T00:01:06.150530+00:00"
     },
     {
       "name": "Satou Sabally",
@@ -227,7 +218,7 @@
       "status": "Out",
       "reason": "Concussion Protocol",
       "reason_category": "procedural",
-      "last_updated": "2026-07-27T23:47:48.123798+00:00"
+      "last_updated": "2026-07-28T00:01:06.150530+00:00"
     },
     {
       "name": "Shay Ciezki",
@@ -254,7 +245,7 @@
       "status": "Out",
       "reason": "Coach's Decision - Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-07-27T23:47:48.123798+00:00"
+      "last_updated": "2026-07-28T00:01:06.150530+00:00"
     },
     {
       "name": "Te-Hina Paopao",
@@ -279,9 +270,9 @@
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
       "status": "Questionable",
-      "reason": "Injury/Illness - Back; Back Injury",
+      "reason": "Injury/Illness - Back; Injury/Illness",
       "reason_category": "injury",
-      "last_updated": "2026-07-27T23:47:48.123798+00:00"
+      "last_updated": "2026-07-28T00:01:06.150530+00:00"
     },
     {
       "name": "Isabelle TorontoTempo Harrison",
@@ -290,7 +281,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Left Knee; Soreness",
       "reason_category": "injury",
-      "last_updated": "2026-07-27T23:47:48.123798+00:00"
+      "last_updated": "2026-07-28T00:01:06.150530+00:00"
     },
     {
       "name": "Kiki Rice",
@@ -299,7 +290,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Left Ankle; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-07-27T23:47:48.123798+00:00"
+      "last_updated": "2026-07-28T00:01:06.150530+00:00"
     },
     {
       "name": "Marine Johannes",
@@ -308,7 +299,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Left Ankle; L.Ankle",
       "reason_category": "injury",
-      "last_updated": "2026-07-27T23:47:48.123798+00:00"
+      "last_updated": "2026-07-28T00:01:06.150530+00:00"
     },
     {
       "name": "Nyara Sabally",
@@ -317,7 +308,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Rib Cage; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-07-27T23:47:48.123798+00:00"
+      "last_updated": "2026-07-28T00:01:06.150530+00:00"
     },
     {
       "name": "Aaliyah Edwards",
@@ -326,7 +317,25 @@
       "status": "Probable",
       "reason": "Injury/Illness - Right Knee;-",
       "reason_category": "injury",
-      "last_updated": "2026-07-27T23:47:48.123798+00:00"
+      "last_updated": "2026-07-28T00:01:06.150530+00:00"
+    },
+    {
+      "name": "Bree Hall",
+      "team_abbr": "IND",
+      "team_full": "Indiana Fever",
+      "status": "Probable",
+      "reason": "Injury/Illness - Left Ankle; Ankle",
+      "reason_category": "injury",
+      "last_updated": "2026-07-28T00:01:06.150530+00:00"
+    },
+    {
+      "name": "Caitlin Clark",
+      "team_abbr": "IND",
+      "team_full": "Indiana Fever",
+      "status": "Probable",
+      "reason": "Injury/Illness - Back; Back",
+      "reason_category": "injury",
+      "last_updated": "2026-07-28T00:01:06.150530+00:00"
     },
     {
       "name": "Saniya Rivers",
@@ -335,7 +344,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Left Ankle;-",
       "reason_category": "injury",
-      "last_updated": "2026-07-27T23:47:48.123798+00:00"
+      "last_updated": "2026-07-28T00:01:06.150530+00:00"
     },
     {
       "name": "Brionna Jones",
@@ -345,15 +354,6 @@
       "reason": "Injury/Illness - Right Knee; N/A",
       "reason_category": "injury",
       "last_updated": "2026-07-20T03:45:55.021966+00:00"
-    },
-    {
-      "name": "Caitlin Clark",
-      "team_abbr": "IND",
-      "team_full": "Indiana Fever",
-      "status": "Available",
-      "reason": "-",
-      "reason_category": "other",
-      "last_updated": "2026-07-23T04:00:56.453471+00:00"
     },
     {
       "name": "Kiana Williams",
@@ -449,7 +449,7 @@
     {
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
-      "last_submitted_ts": "2026-07-27T23:47:48.123798+00:00",
+      "last_submitted_ts": "2026-07-28T00:01:06.150530+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "CON@WAS",
@@ -574,31 +574,31 @@
     {
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
-      "last_submitted_ts": "2026-07-23T04:00:56.453471+00:00",
-      "last_seen_pending_ts": "2026-07-27T23:47:48.123798+00:00",
+      "last_submitted_ts": "2026-07-28T00:01:06.150530+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "CON@IND"
+        "IND@SEA"
       ],
       "players": [
         {
           "name_last_first": "Clark, Caitlin",
           "name": "Caitlin Clark",
-          "status": "Available",
-          "reason": "-",
-          "reason_category": "other"
+          "status": "Probable",
+          "reason": "Injury/Illness - Back; Back",
+          "reason_category": "injury"
         },
         {
           "name_last_first": "Dantas, Damiris",
           "name": "Damiris Dantas",
           "status": "Out",
-          "reason": "Injury/Illness - Left Knee; Left Knee",
+          "reason": "Injury/Illness - Left Knee; NWT",
           "reason_category": "injury"
         },
         {
-          "name_last_first": "Johnson, Raven",
-          "name": "Raven Johnson",
-          "status": "Out",
-          "reason": "Injury/Illness - Lower Body; Lower Body",
+          "name_last_first": "Hall, Bree",
+          "name": "Bree Hall",
+          "status": "Probable",
+          "reason": "Injury/Illness - Left Ankle; Ankle",
           "reason_category": "injury"
         }
       ]
@@ -607,7 +607,7 @@
       "team_abbr": "LAS",
       "team_full": "Los Angeles Sparks",
       "last_submitted_ts": "2026-07-23T04:00:56.453471+00:00",
-      "last_seen_pending_ts": "2026-07-27T23:47:48.123798+00:00",
+      "last_seen_pending_ts": "2026-07-28T00:01:06.150530+00:00",
       "matchups": [
         "PHX@LAS"
       ],
@@ -645,7 +645,7 @@
     {
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
-      "last_submitted_ts": "2026-07-27T23:47:48.123798+00:00",
+      "last_submitted_ts": "2026-07-28T00:01:06.150530+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "PDX@LVA"
@@ -670,7 +670,7 @@
     {
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
-      "last_submitted_ts": "2026-07-27T23:47:48.123798+00:00",
+      "last_submitted_ts": "2026-07-28T00:01:06.150530+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "TOR@MIN"
@@ -688,7 +688,7 @@
     {
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
-      "last_submitted_ts": "2026-07-27T23:47:48.123798+00:00",
+      "last_submitted_ts": "2026-07-28T00:01:06.150530+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "NYL@LAS"
@@ -720,7 +720,7 @@
     {
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
-      "last_submitted_ts": "2026-07-27T23:47:48.123798+00:00",
+      "last_submitted_ts": "2026-07-28T00:01:06.150530+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "PDX@LVA"
@@ -770,7 +770,7 @@
     {
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
-      "last_submitted_ts": "2026-07-27T23:47:48.123798+00:00",
+      "last_submitted_ts": "2026-07-28T00:01:06.150530+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "IND@SEA"
@@ -780,7 +780,7 @@
           "name_last_first": "Magbegor, Ezi",
           "name": "Ezi Magbegor",
           "status": "Out",
-          "reason": "Injury/Illness - Face Injury; Facial Injury",
+          "reason": "Injury/Illness - Face Injury; Injury/Illness",
           "reason_category": "injury"
         },
         {
@@ -794,7 +794,7 @@
           "name_last_first": "Malonga, Dominique",
           "name": "Dominique Malonga",
           "status": "Questionable",
-          "reason": "Injury/Illness - Back; Back Injury",
+          "reason": "Injury/Illness - Back; Injury/Illness",
           "reason_category": "injury"
         }
       ]
@@ -819,6 +819,63 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-07-28T00:01:06.150530+00:00",
+      "type": "reason_change",
+      "team_abbr": "SEA",
+      "player": "Dominique Malonga",
+      "status": "Questionable",
+      "from_reason": "Injury/Illness - Back; Back Injury",
+      "to_reason": "Injury/Illness - Back; Injury/Illness",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-07-28T00:01:06.150530+00:00",
+      "type": "reason_change",
+      "team_abbr": "SEA",
+      "player": "Ezi Magbegor",
+      "status": "Out",
+      "from_reason": "Injury/Illness - Face Injury; Facial Injury",
+      "to_reason": "Injury/Illness - Face Injury; Injury/Illness",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-07-28T00:01:06.150530+00:00",
+      "type": "reason_change",
+      "team_abbr": "IND",
+      "player": "Damiris Dantas",
+      "status": "Out",
+      "from_reason": "Injury/Illness - Left Knee; Left Knee",
+      "to_reason": "Injury/Illness - Left Knee; NWT",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-07-28T00:01:06.150530+00:00",
+      "type": "status_change",
+      "team_abbr": "IND",
+      "player": "Caitlin Clark",
+      "from_status": "Available",
+      "to_status": "Probable",
+      "reason": "Injury/Illness - Back; Back",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-07-28T00:01:06.150530+00:00",
+      "type": "cleared",
+      "team_abbr": "IND",
+      "player": "Raven Johnson",
+      "previous_status": "Out",
+      "previous_reason": "Injury/Illness - Lower Body; Lower Body"
+    },
+    {
+      "ts": "2026-07-28T00:01:06.150530+00:00",
+      "type": "added",
+      "team_abbr": "IND",
+      "player": "Bree Hall",
+      "status": "Probable",
+      "reason": "Injury/Illness - Left Ankle; Ankle",
+      "reason_category": "injury"
+    },
     {
       "ts": "2026-07-27T23:46:05.202123+00:00",
       "type": "reason_change",
@@ -3033,58 +3090,6 @@
       "player": "Kiki Rice",
       "previous_status": "Out",
       "previous_reason": "Injury/Illness - Left Ankle; Injury"
-    },
-    {
-      "ts": "2026-07-14T21:46:05.352667+00:00",
-      "type": "cleared",
-      "team_abbr": "MIN",
-      "player": "Temi TorontoTempo Fagbenle",
-      "previous_status": "Questionable",
-      "previous_reason": "Concussion Protocol"
-    },
-    {
-      "ts": "2026-07-14T21:46:05.352667+00:00",
-      "type": "cleared",
-      "team_abbr": "MIN",
-      "player": "Liatu King",
-      "previous_status": "Out",
-      "previous_reason": "Coach's Decision"
-    },
-    {
-      "ts": "2026-07-14T21:46:05.352667+00:00",
-      "type": "added",
-      "team_abbr": "MIN",
-      "player": "Dorka Juhasz",
-      "status": "Questionable",
-      "reason": "Injury/Illness - Right Knee; Right Knee",
-      "reason_category": "injury"
-    },
-    {
-      "ts": "2026-07-14T21:31:07.867422+00:00",
-      "type": "cleared",
-      "team_abbr": "CHI",
-      "player": "Chloe Bibby",
-      "previous_status": "Out",
-      "previous_reason": "Coach's Decision"
-    },
-    {
-      "ts": "2026-07-14T21:31:07.867422+00:00",
-      "type": "added",
-      "team_abbr": "CHI",
-      "player": "Kamilla Cardoso",
-      "status": "Questionable",
-      "reason": "Injury/Illness - Right Knee; Right Knee",
-      "reason_category": "injury"
-    },
-    {
-      "ts": "2026-07-14T21:01:10.574605+00:00",
-      "type": "status_change",
-      "team_abbr": "IND",
-      "player": "Caitlin Clark",
-      "from_status": "Available",
-      "to_status": "Probable",
-      "reason": "Injury/Illness - Back; Back",
-      "reason_category": "injury"
     }
   ]
 }
