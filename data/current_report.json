@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/27/26 11:45 PM",
+  "report_ts": "07/28/26 12:00 AM",
   "page_count": 2,
-  "raw_line_count": 26,
+  "raw_line_count": 30,
   "teams": [
     {
       "team_full": "Connecticut Sun",
@@ -246,9 +246,45 @@
           "reason_category": "procedural"
         }
       ]
+    },
+    {
+      "team_full": "Atlanta Dream",
+      "team_abbr": "ATL",
+      "game_date": "07/29/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "ATL@DAL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Dallas Wings",
+      "team_abbr": "DAL",
+      "game_date": "07/29/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "ATL@DAL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Golden State Valkyries",
+      "team_abbr": "GSV",
+      "game_date": "07/29/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "GSV@PHX",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Phoenix Mercury",
+      "team_abbr": "PHX",
+      "game_date": "07/29/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "GSV@PHX",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-27_11_45PM.pdf",
-  "fetched_slot": "2026-07-27T23:45:00-04:00",
-  "polled_at_utc": "2026-07-28T03:46:14.490628+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-28_12_00AM.pdf",
+  "fetched_slot": "2026-07-28T00:00:00-04:00",
+  "polled_at_utc": "2026-07-28T04:01:11.435326+00:00"
 }
