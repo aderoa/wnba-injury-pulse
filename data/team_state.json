@@ -2,45 +2,23 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-07-23T04:00:56.453471+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-22_11_45PM.pdf",
+    "last_submitted_ts": "2026-07-29T16:16:08.668671+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-29_12_15PM.pdf",
     "game_dates": [
-      "07/22/2026"
+      "07/29/2026"
     ],
     "matchups": [
-      "DAL@PDX"
+      "ATL@DAL"
     ],
     "players": [
       {
-        "name_last_first": "Bueckers, Paige",
-        "name": "Paige Bueckers",
-        "status": "Available",
-        "reason": "Injury/Illness - N/a; Rest",
-        "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Jones, Haley",
-        "name": "Haley Jones",
-        "status": "Out",
-        "reason": "Coach's Decision - coach'sdecision",
-        "reason_category": "rest_coach"
-      },
-      {
         "name_last_first": "Smith, Alanna",
         "name": "Alanna Smith",
-        "status": "Out",
+        "status": "Probable",
         "reason": "Injury/Illness - Right Leg; n/a",
         "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Verona, Costanza",
-        "name": "Costanza Verona",
-        "status": "Out",
-        "reason": "Coach's Decision - coach'sdecision",
-        "reason_category": "rest_coach"
       }
-    ],
-    "last_seen_pending_ts": "2026-07-28T16:16:11.460550+00:00"
+    ]
   },
   "IND": {
     "team_full": "Indiana Fever",
@@ -132,34 +110,21 @@
         "reason": "Concussion Protocol",
         "reason_category": "procedural"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-07-29T16:16:08.668671+00:00"
   },
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-07-20T03:45:55.021966+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-19_11_45PM.pdf",
+    "last_submitted_ts": "2026-07-29T16:16:08.668671+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-29_12_15PM.pdf",
     "game_dates": [
-      "07/19/2026"
+      "07/29/2026"
     ],
     "matchups": [
-      "CHI@ATL"
+      "ATL@DAL"
     ],
     "players": [
-      {
-        "name_last_first": "Jones, Brionna",
-        "name": "Brionna Jones",
-        "status": "Available",
-        "reason": "Injury/Illness - Right Knee; N/A",
-        "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Nivar, Indya",
-        "name": "Indya Nivar",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
-      },
       {
         "name_last_first": "Paopao, Te-Hina",
         "name": "Te-Hina Paopao",
@@ -167,8 +132,7 @@
         "reason": "Injury/Illness - Right Leg; N/A",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-07-28T16:16:11.460550+00:00"
+    ]
   },
   "MIN": {
     "team_full": "Minnesota Lynx",
@@ -189,7 +153,8 @@
         "reason": "Injury/Illness - Right Knee; Right Knee",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-07-29T16:16:08.668671+00:00"
   },
   "CHI": {
     "team_full": "Chicago Sky",
@@ -231,7 +196,8 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-07-29T16:16:08.668671+00:00"
   },
   "PDX": {
     "team_full": "Portland Fire",
@@ -358,7 +324,8 @@
         "reason": "Injury/Illness - Left Foot; Injury",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-07-29T16:16:08.668671+00:00"
   },
   "NYL": {
     "team_full": "New York Liberty",
@@ -393,7 +360,8 @@
         "reason": "Concussion Protocol",
         "reason_category": "procedural"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-07-29T16:16:08.668671+00:00"
   },
   "WAS": {
     "team_full": "Washington Mystics",
@@ -420,31 +388,23 @@
   "GSV": {
     "team_full": "Golden State Valkyries",
     "submitted": true,
-    "last_submitted_ts": "2026-07-21T03:45:56.482340+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-20_11_45PM.pdf",
+    "last_submitted_ts": "2026-07-29T16:16:08.668671+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-29_12_15PM.pdf",
     "game_dates": [
-      "07/20/2026"
+      "07/29/2026"
     ],
     "matchups": [
-      "WAS@GSV"
+      "GSV@PHX"
     ],
     "players": [
       {
-        "name_last_first": "Prechtel, Ashten",
-        "name": "Ashten Prechtel",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
-      },
-      {
-        "name_last_first": "Sowah, Miela",
-        "name": "Miela Sowah",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
+        "name_last_first": "Williams, Gabby",
+        "name": "Gabby Williams",
+        "status": "Questionable",
+        "reason": "Injury/Illness - NA; Reconditioning",
+        "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-07-28T16:16:11.460550+00:00"
+    ]
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",

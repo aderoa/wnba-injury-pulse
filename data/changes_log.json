@@ -15357,5 +15357,80 @@
     "player": "Kiana Williams",
     "previous_status": "Available",
     "previous_reason": "-"
+  },
+  {
+    "ts": "2026-07-29T16:16:08.668671+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Brionna Jones",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Right Knee; N/A"
+  },
+  {
+    "ts": "2026-07-29T16:16:08.668671+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Indya Nivar",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-07-29T16:16:08.668671+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Paige Bueckers",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - N/a; Rest"
+  },
+  {
+    "ts": "2026-07-29T16:16:08.668671+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Haley Jones",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - coach'sdecision"
+  },
+  {
+    "ts": "2026-07-29T16:16:08.668671+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Costanza Verona",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - coach'sdecision"
+  },
+  {
+    "ts": "2026-07-29T16:16:08.668671+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Alanna Smith",
+    "from_status": "Out",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Right Leg; n/a",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-29T16:16:08.668671+00:00",
+    "type": "added",
+    "team_abbr": "GSV",
+    "player": "Gabby Williams",
+    "status": "Questionable",
+    "reason": "Injury/Illness - NA; Reconditioning",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-29T16:16:08.668671+00:00",
+    "type": "cleared",
+    "team_abbr": "GSV",
+    "player": "Ashten Prechtel",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-07-29T16:16:08.668671+00:00",
+    "type": "cleared",
+    "team_abbr": "GSV",
+    "player": "Miela Sowah",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]
