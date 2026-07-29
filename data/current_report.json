@@ -1,5 +1,5 @@
 {
-  "report_ts": "07/29/26 03:15 PM",
+  "report_ts": "07/29/26 03:30 PM",
   "page_count": 1,
   "raw_line_count": 9,
   "teams": [
@@ -31,7 +31,7 @@
         {
           "name_last_first": "Smith, Alanna",
           "name": "Alanna Smith",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness - Right Leg; n/a",
           "reason_category": "injury"
         }
@@ -100,7 +100,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-29_03_15PM.pdf",
-  "fetched_slot": "2026-07-29T15:15:00-04:00",
-  "polled_at_utc": "2026-07-29T19:22:18.115233+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-29_03_30PM.pdf",
+  "fetched_slot": "2026-07-29T15:30:00-04:00",
+  "polled_at_utc": "2026-07-29T19:31:12.258421+00:00"
 }

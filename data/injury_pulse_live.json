@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-07-29T19:22:18.115233+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-29_03_15PM.pdf",
-  "report_ts": "07/29/26 03:15 PM",
+  "polled_at_utc": "2026-07-29T19:31:12.258421+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-29_03_30PM.pdf",
+  "report_ts": "07/29/26 03:30 PM",
   "all_players": [
     {
       "name": "Brittney Griner",
@@ -191,7 +191,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Leg; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-07-29T19:22:18.115233+00:00"
+      "last_updated": "2026-07-29T19:31:12.258421+00:00"
     },
     {
       "name": "Dominique Malonga",
@@ -209,7 +209,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - NA; Reconditioning",
       "reason_category": "injury",
-      "last_updated": "2026-07-29T19:22:18.115233+00:00"
+      "last_updated": "2026-07-29T19:31:12.258421+00:00"
     },
     {
       "name": "Isabelle TorontoTempo Harrison",
@@ -257,15 +257,6 @@
       "last_updated": "2026-07-28T16:16:11.460550+00:00"
     },
     {
-      "name": "Alanna Smith",
-      "team_abbr": "DAL",
-      "team_full": "Dallas Wings",
-      "status": "Probable",
-      "reason": "Injury/Illness - Right Leg; n/a",
-      "reason_category": "injury",
-      "last_updated": "2026-07-29T19:22:18.115233+00:00"
-    },
-    {
       "name": "Bree Hall",
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
@@ -291,13 +282,22 @@
       "reason": "Injury/Illness - Left Ankle;-",
       "reason_category": "injury",
       "last_updated": "2026-07-28T16:16:11.460550+00:00"
+    },
+    {
+      "name": "Alanna Smith",
+      "team_abbr": "DAL",
+      "team_full": "Dallas Wings",
+      "status": "Available",
+      "reason": "Injury/Illness - Right Leg; n/a",
+      "reason_category": "injury",
+      "last_updated": "2026-07-29T19:31:12.258421+00:00"
     }
   ],
   "teams": [
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-07-29T19:22:18.115233+00:00",
+      "last_submitted_ts": "2026-07-29T19:31:12.258421+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "ATL@DAL"
@@ -316,7 +316,7 @@
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
       "last_submitted_ts": "2026-07-23T04:00:56.453471+00:00",
-      "last_seen_pending_ts": "2026-07-29T19:22:18.115233+00:00",
+      "last_seen_pending_ts": "2026-07-29T19:31:12.258421+00:00",
       "matchups": [
         "CHI@NYL"
       ],
@@ -355,7 +355,7 @@
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
       "last_submitted_ts": "2026-07-28T16:16:11.460550+00:00",
-      "last_seen_pending_ts": "2026-07-29T19:22:18.115233+00:00",
+      "last_seen_pending_ts": "2026-07-29T19:31:12.258421+00:00",
       "matchups": [
         "CON@WAS",
         "TOR@MIN"
@@ -415,7 +415,7 @@
     {
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
-      "last_submitted_ts": "2026-07-29T19:22:18.115233+00:00",
+      "last_submitted_ts": "2026-07-29T19:31:12.258421+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "ATL@DAL"
@@ -424,7 +424,7 @@
         {
           "name_last_first": "Smith, Alanna",
           "name": "Alanna Smith",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness - Right Leg; n/a",
           "reason_category": "injury"
         }
@@ -433,7 +433,7 @@
     {
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
-      "last_submitted_ts": "2026-07-29T19:22:18.115233+00:00",
+      "last_submitted_ts": "2026-07-29T19:31:12.258421+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "GSV@PHX"
@@ -502,7 +502,7 @@
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
       "last_submitted_ts": "2026-07-28T16:16:11.460550+00:00",
-      "last_seen_pending_ts": "2026-07-29T19:22:18.115233+00:00",
+      "last_seen_pending_ts": "2026-07-29T19:31:12.258421+00:00",
       "matchups": [
         "PDX@LVA"
       ],
@@ -527,7 +527,7 @@
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
       "last_submitted_ts": "2026-07-28T16:16:11.460550+00:00",
-      "last_seen_pending_ts": "2026-07-29T19:22:18.115233+00:00",
+      "last_seen_pending_ts": "2026-07-29T19:31:12.258421+00:00",
       "matchups": [
         "TOR@MIN"
       ],
@@ -545,7 +545,7 @@
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
       "last_submitted_ts": "2026-07-28T16:16:11.460550+00:00",
-      "last_seen_pending_ts": "2026-07-29T19:22:18.115233+00:00",
+      "last_seen_pending_ts": "2026-07-29T19:31:12.258421+00:00",
       "matchups": [
         "NYL@LAS"
       ],
@@ -675,6 +675,16 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-07-29T19:31:12.258421+00:00",
+      "type": "status_change",
+      "team_abbr": "DAL",
+      "player": "Alanna Smith",
+      "from_status": "Probable",
+      "to_status": "Available",
+      "reason": "Injury/Illness - Right Leg; n/a",
+      "reason_category": "injury"
+    },
     {
       "ts": "2026-07-29T16:16:08.668671+00:00",
       "type": "cleared",
@@ -2927,14 +2937,6 @@
       "player": "Temi TorontoTempo Fagbenle",
       "previous_status": "Out",
       "previous_reason": "Concussion Protocol"
-    },
-    {
-      "ts": "2026-07-15T21:15:11.961069+00:00",
-      "type": "cleared",
-      "team_abbr": "NYL",
-      "player": "Marine Fauthoux",
-      "previous_status": "Out",
-      "previous_reason": "Coach's Decision - Developmental Player"
     }
   ]
 }

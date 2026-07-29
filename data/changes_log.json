@@ -15432,5 +15432,15 @@
     "player": "Miela Sowah",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-07-29T19:31:12.258421+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Alanna Smith",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Leg; n/a",
+    "reason_category": "injury"
   }
 ]
