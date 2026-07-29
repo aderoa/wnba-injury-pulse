@@ -15442,5 +15442,55 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Right Leg; n/a",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-29T20:31:05.469448+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Saniya Rivers",
+    "previous_status": "Probable",
+    "previous_reason": "Injury/Illness - Left Ankle;-"
+  },
+  {
+    "ts": "2026-07-29T20:31:05.469448+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Isabelle TorontoTempo Harrison",
+    "previous_status": "Questionable",
+    "previous_reason": "Injury/Illness - Left Knee; Soreness"
+  },
+  {
+    "ts": "2026-07-29T20:31:05.469448+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Kiki Rice",
+    "previous_status": "Questionable",
+    "previous_reason": "Injury/Illness - Left Ankle; Injury"
+  },
+  {
+    "ts": "2026-07-29T20:31:05.469448+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Nyara Sabally",
+    "previous_status": "Questionable",
+    "previous_reason": "Injury/Illness - Rib Cage; Injury"
+  },
+  {
+    "ts": "2026-07-29T20:31:05.469448+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Brittney Sykes",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Foot; Injury"
+  },
+  {
+    "ts": "2026-07-29T20:31:05.469448+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Aaliyah Edwards",
+    "from_status": "Probable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Knee;-",
+    "reason_category": "injury"
   }
 ]

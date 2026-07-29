@@ -4,6 +4,15 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-07-29 20:31 UTC
+
+- **Saniya Rivers** (CON) cleared (was Probable)
+- **Isabelle TorontoTempo Harrison** (CON) cleared (was Questionable)
+- **Kiki Rice** (CON) cleared (was Questionable)
+- **Nyara Sabally** (CON) cleared (was Questionable)
+- **Brittney Sykes** (CON) cleared (was Out)
+- **Aaliyah Edwards** (CON): **Probable** → **Out** — Injury/Illness - Right Knee;-
+
 ## 2026-07-29 19:31 UTC
 
 - **Alanna Smith** (DAL): **Probable** → **Available** — Injury/Illness - Right Leg; n/a
