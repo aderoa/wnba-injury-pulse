@@ -15554,5 +15554,32 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Left Foot; Left Foot",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-29T23:01:03.797632+00:00",
+    "type": "added",
+    "team_abbr": "ATL",
+    "player": "Indya Nivar",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-29T23:01:03.797632+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Haley Jones",
+    "status": "Out",
+    "reason": "Coach's Decision - coach'sdecision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-29T23:01:03.797632+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Costanza Verona",
+    "status": "Out",
+    "reason": "Coach's Decision - coach'sdecision",
+    "reason_category": "rest_coach"
   }
 ]
