@@ -15492,5 +15492,32 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Right Knee;-",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-29T21:01:04.947127+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Isabelle TorontoTempo Harrison",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Left Knee; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-29T21:01:04.947127+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Nyara Sabally",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Rib Cage; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-29T21:01:04.947127+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Brittney Sykes",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Foot; Injury",
+    "reason_category": "injury"
   }
 ]
