@@ -4,6 +4,13 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-07-29 22:01 UTC
+
+- **Azura Stevens** (CHI) newly listed as **Out** — Personal Reasons
+- **Chloe Bibby** (CHI) cleared (was Out)
+- **Maddy Westbeld** (CHI) cleared (was Out)
+- **DiJonai Carrington** (CHI): **Out** → **Questionable** — Injury/Illness - Left Foot; Left Foot
+
 ## 2026-07-29 21:01 UTC
 
 - **Isabelle TorontoTempo Harrison** (MIN) newly listed as **Questionable** — Injury/Illness - Left Knee; Injury
