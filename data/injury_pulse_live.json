@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-07-29T20:31:05.469448+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-29_04_30PM.pdf",
-  "report_ts": "07/29/26 04:30 PM",
+  "polled_at_utc": "2026-07-29T20:46:04.805784+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-29_04_45PM.pdf",
+  "report_ts": "07/29/26 04:45 PM",
   "all_players": [
     {
       "name": "Aaliyah Edwards",
@@ -11,7 +11,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee;-",
       "reason_category": "injury",
-      "last_updated": "2026-07-29T20:31:05.469448+00:00"
+      "last_updated": "2026-07-29T20:46:04.805784+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -20,7 +20,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee;-",
       "reason_category": "injury",
-      "last_updated": "2026-07-29T20:31:05.469448+00:00"
+      "last_updated": "2026-07-29T20:46:04.805784+00:00"
     },
     {
       "name": "Cheyenne Parker-Tyus",
@@ -191,7 +191,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Leg; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-07-29T20:31:05.469448+00:00"
+      "last_updated": "2026-07-29T20:46:04.805784+00:00"
     },
     {
       "name": "Dominique Malonga",
@@ -209,7 +209,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - NA; Reconditioning",
       "reason_category": "injury",
-      "last_updated": "2026-07-29T20:31:05.469448+00:00"
+      "last_updated": "2026-07-29T20:46:04.805784+00:00"
     },
     {
       "name": "Marine Johannes",
@@ -245,14 +245,14 @@
       "status": "Available",
       "reason": "Injury/Illness - Right Leg; n/a",
       "reason_category": "injury",
-      "last_updated": "2026-07-29T20:31:05.469448+00:00"
+      "last_updated": "2026-07-29T20:46:04.805784+00:00"
     }
   ],
   "teams": [
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-07-29T20:31:05.469448+00:00",
+      "last_submitted_ts": "2026-07-29T20:46:04.805784+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "ATL@DAL"
@@ -271,7 +271,7 @@
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
       "last_submitted_ts": "2026-07-23T04:00:56.453471+00:00",
-      "last_seen_pending_ts": "2026-07-29T20:31:05.469448+00:00",
+      "last_seen_pending_ts": "2026-07-29T20:46:04.805784+00:00",
       "matchups": [
         "CHI@NYL"
       ],
@@ -309,7 +309,7 @@
     {
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
-      "last_submitted_ts": "2026-07-29T20:31:05.469448+00:00",
+      "last_submitted_ts": "2026-07-29T20:46:04.805784+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "CON@CHI"
@@ -334,7 +334,7 @@
     {
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
-      "last_submitted_ts": "2026-07-29T20:31:05.469448+00:00",
+      "last_submitted_ts": "2026-07-29T20:46:04.805784+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "ATL@DAL"
@@ -352,7 +352,7 @@
     {
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
-      "last_submitted_ts": "2026-07-29T20:31:05.469448+00:00",
+      "last_submitted_ts": "2026-07-29T20:46:04.805784+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "GSV@PHX"
@@ -421,7 +421,7 @@
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
       "last_submitted_ts": "2026-07-28T16:16:11.460550+00:00",
-      "last_seen_pending_ts": "2026-07-29T20:31:05.469448+00:00",
+      "last_seen_pending_ts": "2026-07-29T20:46:04.805784+00:00",
       "matchups": [
         "PDX@LVA"
       ],
@@ -446,7 +446,7 @@
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
       "last_submitted_ts": "2026-07-28T16:16:11.460550+00:00",
-      "last_seen_pending_ts": "2026-07-29T20:31:05.469448+00:00",
+      "last_seen_pending_ts": "2026-07-29T20:46:04.805784+00:00",
       "matchups": [
         "TOR@MIN"
       ],
@@ -464,7 +464,7 @@
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
       "last_submitted_ts": "2026-07-28T16:16:11.460550+00:00",
-      "last_seen_pending_ts": "2026-07-29T20:31:05.469448+00:00",
+      "last_seen_pending_ts": "2026-07-29T20:46:04.805784+00:00",
       "matchups": [
         "NYL@LAS"
       ],
