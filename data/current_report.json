@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/29/26 07:15 PM",
-  "page_count": 1,
-  "raw_line_count": 17,
+  "report_ts": "07/29/26 07:30 PM",
+  "page_count": 2,
+  "raw_line_count": 19,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -174,8 +174,30 @@
       "game_date": "07/30/2026",
       "game_time": "10:00(ET)",
       "matchup": "NYL@LVA",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Fiebich, Leonie",
+          "name": "Leonie Fiebich",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Foot; L.Foot",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Johannes, Marine",
+          "name": "Marine Johannes",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Ankle; L.Ankle",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sabally, Satou",
+          "name": "Satou Sabally",
+          "status": "Out",
+          "reason": "Concussion Protocol",
+          "reason_category": "procedural"
+        }
+      ]
     },
     {
       "team_full": "Las Vegas Aces",
@@ -187,7 +209,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-29_07_15PM.pdf",
-  "fetched_slot": "2026-07-29T19:15:00-04:00",
-  "polled_at_utc": "2026-07-29T23:16:05.394717+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-29_07_30PM.pdf",
+  "fetched_slot": "2026-07-29T19:30:00-04:00",
+  "polled_at_utc": "2026-07-29T23:31:03.371250+00:00"
 }
