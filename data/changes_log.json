@@ -15777,5 +15777,41 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Right Knee; Right Knee",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-30T23:46:04.690582+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Ornella TorontoTempo Bankole",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-30T23:46:04.690582+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Isabelle Harrison",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Knee; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-30T23:46:04.690582+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Isabelle TorontoTempo Harrison",
+    "previous_status": "Questionable",
+    "previous_reason": "Injury/Illness - Left Knee; Injury"
+  },
+  {
+    "ts": "2026-07-30T23:46:04.690582+00:00",
+    "type": "status_change",
+    "team_abbr": "MIN",
+    "player": "Nyara Sabally",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Rib Cage; Injury",
+    "reason_category": "injury"
   }
 ]
