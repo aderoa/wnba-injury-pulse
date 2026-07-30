@@ -15684,5 +15684,31 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Left Ankle; L.Ankle",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-30T21:01:06.335599+00:00",
+    "type": "cleared",
+    "team_abbr": "SEA",
+    "player": "Ezi Magbegor",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Face Injury; Injury/Illness"
+  },
+  {
+    "ts": "2026-07-30T21:01:06.335599+00:00",
+    "type": "status_change",
+    "team_abbr": "SEA",
+    "player": "Dominique Malonga",
+    "from_status": "Questionable",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Back; Injury/Illness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-30T21:01:06.335599+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Indya Nivar",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]

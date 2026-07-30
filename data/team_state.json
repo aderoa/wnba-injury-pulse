@@ -69,7 +69,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-07-30T20:46:32.558617+00:00"
+    "last_seen_pending_ts": "2026-07-30T21:01:06.335599+00:00"
   },
   "PHX": {
     "team_full": "Phoenix Mercury",
@@ -102,8 +102,8 @@
   "LVA": {
     "team_full": "Las Vegas Aces",
     "submitted": true,
-    "last_submitted_ts": "2026-07-30T20:46:32.558617+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-30_04_45PM.pdf",
+    "last_submitted_ts": "2026-07-30T21:01:06.335599+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-30_05_00PM.pdf",
     "game_dates": [
       "07/30/2026"
     ],
@@ -137,22 +137,15 @@
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-07-30T03:46:03.690697+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-29_11_45PM.pdf",
+    "last_submitted_ts": "2026-07-30T21:01:06.335599+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-30_05_00PM.pdf",
     "game_dates": [
-      "07/29/2026"
+      "07/31/2026"
     ],
     "matchups": [
-      "ATL@DAL"
+      "SEA@ATL"
     ],
     "players": [
-      {
-        "name_last_first": "Nivar, Indya",
-        "name": "Indya Nivar",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
-      },
       {
         "name_last_first": "Paopao, Te-Hina",
         "name": "Te-Hina Paopao",
@@ -160,14 +153,13 @@
         "reason": "Injury/Illness - Right Leg; N/A",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-07-30T20:46:32.558617+00:00"
+    ]
   },
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-07-30T20:46:32.558617+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-30_04_45PM.pdf",
+    "last_submitted_ts": "2026-07-30T21:01:06.335599+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-30_05_00PM.pdf",
     "game_dates": [
       "07/30/2026"
     ],
@@ -215,8 +207,8 @@
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-07-30T20:46:32.558617+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-30_04_45PM.pdf",
+    "last_submitted_ts": "2026-07-30T21:01:06.335599+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-30_05_00PM.pdf",
     "game_dates": [
       "07/30/2026"
     ],
@@ -274,27 +266,20 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-07-30T20:46:32.558617+00:00"
+    "last_seen_pending_ts": "2026-07-30T21:01:06.335599+00:00"
   },
   "SEA": {
     "team_full": "Seattle Storm",
     "submitted": true,
-    "last_submitted_ts": "2026-07-28T16:16:11.460550+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-28_12_00PM.pdf",
+    "last_submitted_ts": "2026-07-30T21:01:06.335599+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-30_05_00PM.pdf",
     "game_dates": [
-      "07/28/2026"
+      "07/31/2026"
     ],
     "matchups": [
-      "IND@SEA"
+      "SEA@ATL"
     ],
     "players": [
-      {
-        "name_last_first": "Magbegor, Ezi",
-        "name": "Ezi Magbegor",
-        "status": "Out",
-        "reason": "Injury/Illness - Face Injury; Injury/Illness",
-        "reason_category": "injury"
-      },
       {
         "name_last_first": "Mair, Taina",
         "name": "Taina Mair",
@@ -305,18 +290,17 @@
       {
         "name_last_first": "Malonga, Dominique",
         "name": "Dominique Malonga",
-        "status": "Questionable",
+        "status": "Probable",
         "reason": "Injury/Illness - Back; Injury/Illness",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-07-30T20:46:32.558617+00:00"
+    ]
   },
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-07-30T20:46:32.558617+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-30_04_45PM.pdf",
+    "last_submitted_ts": "2026-07-30T21:01:06.335599+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-30_05_00PM.pdf",
     "game_dates": [
       "07/30/2026"
     ],
@@ -343,8 +327,8 @@
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-07-30T20:46:32.558617+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-30_04_45PM.pdf",
+    "last_submitted_ts": "2026-07-30T21:01:06.335599+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-30_05_00PM.pdf",
     "game_dates": [
       "07/30/2026"
     ],

@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/30/26 04:45 PM",
+  "report_ts": "07/30/26 05:00 PM",
   "page_count": 2,
-  "raw_line_count": 20,
+  "raw_line_count": 21,
   "teams": [
     {
       "team_full": "Connecticut Sun",
@@ -171,8 +171,23 @@
       "game_date": "07/31/2026",
       "game_time": "07:30(ET)",
       "matchup": "SEA@ATL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Mair, Taina",
+          "name": "Taina Mair",
+          "status": "Out",
+          "reason": "Coach's Decision - Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Malonga, Dominique",
+          "name": "Dominique Malonga",
+          "status": "Probable",
+          "reason": "Injury/Illness - Back; Injury/Illness",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Atlanta Dream",
@@ -180,8 +195,16 @@
       "game_date": "07/31/2026",
       "game_time": "07:30(ET)",
       "matchup": "SEA@ATL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Paopao, Te-Hina",
+          "name": "Te-Hina Paopao",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Leg; N/A",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Indiana Fever",
@@ -202,7 +225,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-30_04_45PM.pdf",
-  "fetched_slot": "2026-07-30T16:45:00-04:00",
-  "polled_at_utc": "2026-07-30T20:46:32.558617+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-30_05_00PM.pdf",
+  "fetched_slot": "2026-07-30T17:00:00-04:00",
+  "polled_at_utc": "2026-07-30T21:01:06.335599+00:00"
 }
