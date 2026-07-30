@@ -15655,5 +15655,24 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-30T18:01:07.350641+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Dorka Juhasz",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Right Knee; Right Knee",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-30T18:01:07.350641+00:00",
+    "type": "status_change",
+    "team_abbr": "MIN",
+    "player": "Nyara Sabally",
+    "from_status": "Questionable",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Rib Cage; Injury",
+    "reason_category": "injury"
   }
 ]

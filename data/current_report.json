@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/30/26 01:45 PM",
+  "report_ts": "07/30/26 02:00 PM",
   "page_count": 2,
-  "raw_line_count": 21,
+  "raw_line_count": 22,
   "teams": [
     {
       "team_full": "Connecticut Sun",
@@ -74,6 +74,13 @@
           "reason_category": "injury"
         },
         {
+          "name_last_first": "Juhasz, Dorka",
+          "name": "Dorka Juhasz",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Knee; Right Knee",
+          "reason_category": "injury"
+        },
+        {
           "name_last_first": "TorontoTempo Harrison, Isabelle",
           "name": "Isabelle TorontoTempo Harrison",
           "status": "Questionable",
@@ -83,7 +90,7 @@
         {
           "name_last_first": "Sabally, Nyara",
           "name": "Nyara Sabally",
-          "status": "Questionable",
+          "status": "Probable",
           "reason": "Injury/Illness - Rib Cage; Injury",
           "reason_category": "injury"
         },
@@ -213,7 +220,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-30_01_45PM.pdf",
-  "fetched_slot": "2026-07-30T13:45:00-04:00",
-  "polled_at_utc": "2026-07-30T17:49:48.924330+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-30_02_00PM.pdf",
+  "fetched_slot": "2026-07-30T14:00:00-04:00",
+  "polled_at_utc": "2026-07-30T18:01:07.350641+00:00"
 }
