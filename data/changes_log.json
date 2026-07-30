@@ -15749,5 +15749,23 @@
     "to_status": "Probable",
     "reason": "Injury/Illness - Right Knee; Right Knee",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-30T23:16:06.432496+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Ashlon Jackson",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-30T23:16:06.432496+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Liatu King",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
