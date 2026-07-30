@@ -15610,5 +15610,32 @@
     "to_status": "Out",
     "reason": "Injury/Illness - NA; Reconditioning",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-30T01:16:07.799110+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Kara Dunn",
+    "status": "Out",
+    "reason": "Player Coach's Decision - Developmental Player",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-30T01:16:07.799110+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Quionche Carter",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental"
+  },
+  {
+    "ts": "2026-07-30T01:16:07.799110+00:00",
+    "type": "reason_change",
+    "team_abbr": "PHX",
+    "player": "Shay Ciezki",
+    "status": "Out",
+    "from_reason": "player Coach's Decision - Developmental player",
+    "to_reason": "Coach's Decision - Developmental",
+    "reason_category": "rest_coach"
   }
 ]

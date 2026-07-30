@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/29/26 09:00 PM",
+  "report_ts": "07/29/26 09:15 PM",
   "page_count": 2,
-  "raw_line_count": 21,
+  "raw_line_count": 27,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -72,6 +72,30 @@
           "status": "Out",
           "reason": "Injury/Illness - NA; Reconditioning",
           "reason_category": "injury"
+        }
+      ]
+    },
+    {
+      "team_full": "Phoenix Mercury",
+      "team_abbr": "PHX",
+      "game_date": "07/29/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "GSV@PHX",
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Ciezki, Shay",
+          "name": "Shay Ciezki",
+          "status": "Out",
+          "reason": "Coach's Decision - Developmental",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Dunn, Kara",
+          "name": "Kara Dunn",
+          "status": "Out",
+          "reason": "Player Coach's Decision - Developmental Player",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -231,7 +255,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-29_09_00PM.pdf",
-  "fetched_slot": "2026-07-29T21:00:00-04:00",
-  "polled_at_utc": "2026-07-30T01:04:23.184639+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-29_09_15PM.pdf",
+  "fetched_slot": "2026-07-29T21:15:00-04:00",
+  "polled_at_utc": "2026-07-30T01:16:07.799110+00:00"
 }
