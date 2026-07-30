@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/30/26 06:45 PM",
+  "report_ts": "07/30/26 07:00 PM",
   "page_count": 2,
-  "raw_line_count": 21,
+  "raw_line_count": 22,
   "teams": [
     {
       "team_full": "Connecticut Sun",
@@ -38,7 +38,7 @@
         {
           "name_last_first": "Carrington, DiJonai",
           "name": "DiJonai Carrington",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Left Foot; Left Foot",
           "reason_category": "injury"
         },
@@ -55,6 +55,13 @@
           "status": "Out",
           "reason": "Personal Reasons",
           "reason_category": "offcourt"
+        },
+        {
+          "name_last_first": "Westbeld, Maddy",
+          "name": "Maddy Westbeld",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -76,7 +83,7 @@
         {
           "name_last_first": "Juhasz, Dorka",
           "name": "Dorka Juhasz",
-          "status": "Questionable",
+          "status": "Probable",
           "reason": "Injury/Illness - Right Knee; Right Knee",
           "reason_category": "injury"
         },
@@ -225,7 +232,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-30_06_45PM.pdf",
-  "fetched_slot": "2026-07-30T18:45:00-04:00",
-  "polled_at_utc": "2026-07-30T22:46:09.763403+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-30_07_00PM.pdf",
+  "fetched_slot": "2026-07-30T19:00:00-04:00",
+  "polled_at_utc": "2026-07-30T23:01:04.969736+00:00"
 }

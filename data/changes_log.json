@@ -15720,5 +15720,34 @@
     "to_status": "Probable",
     "reason": "Injury/Illness - N/a; Illness",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-30T23:01:04.969736+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Maddy Westbeld",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-30T23:01:04.969736+00:00",
+    "type": "status_change",
+    "team_abbr": "CHI",
+    "player": "DiJonai Carrington",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Foot; Left Foot",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-30T23:01:04.969736+00:00",
+    "type": "status_change",
+    "team_abbr": "MIN",
+    "player": "Dorka Juhasz",
+    "from_status": "Questionable",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Right Knee; Right Knee",
+    "reason_category": "injury"
   }
 ]

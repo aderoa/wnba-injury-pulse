@@ -4,6 +4,12 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-07-30 23:01 UTC
+
+- **Maddy Westbeld** (CHI) newly listed as **Out** — Coach's Decision
+- **DiJonai Carrington** (CHI): **Questionable** → **Available** — Injury/Illness - Left Foot; Left Foot
+- **Dorka Juhasz** (MIN): **Questionable** → **Probable** — Injury/Illness - Right Knee; Right Knee
+
 ## 2026-07-30 22:05 UTC
 
 - **NaLyssa Smith** (LVA): **Questionable** → **Probable** — Injury/Illness - N/a; Illness
