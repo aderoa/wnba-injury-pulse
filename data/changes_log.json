@@ -15767,5 +15767,15 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-30T23:31:07.278983+00:00",
+    "type": "status_change",
+    "team_abbr": "MIN",
+    "player": "Dorka Juhasz",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Knee; Right Knee",
+    "reason_category": "injury"
   }
 ]
