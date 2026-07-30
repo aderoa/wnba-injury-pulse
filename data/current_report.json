@@ -1,118 +1,8 @@
 {
-  "report_ts": "07/29/26 11:45 PM",
+  "report_ts": "07/30/26 12:00 AM",
   "page_count": 2,
-  "raw_line_count": 29,
+  "raw_line_count": 21,
   "teams": [
-    {
-      "team_full": "Atlanta Dream",
-      "team_abbr": "ATL",
-      "game_date": "07/29/2026",
-      "game_time": "08:00(ET)",
-      "matchup": "ATL@DAL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Nivar, Indya",
-          "name": "Indya Nivar",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Paopao, Te-Hina",
-          "name": "Te-Hina Paopao",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Leg; N/A",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Dallas Wings",
-      "team_abbr": "DAL",
-      "game_date": "07/29/2026",
-      "game_time": "08:00(ET)",
-      "matchup": "ATL@DAL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Jones, Haley",
-          "name": "Haley Jones",
-          "status": "Out",
-          "reason": "Coach's Decision - coach'sdecision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Smith, Alanna",
-          "name": "Alanna Smith",
-          "status": "Available",
-          "reason": "Injury/Illness - Right Leg; n/a",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Verona, Costanza",
-          "name": "Costanza Verona",
-          "status": "Out",
-          "reason": "Coach's Decision - coach'sdecision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Golden State Valkyries",
-      "team_abbr": "GSV",
-      "game_date": "07/29/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "GSV@PHX",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Prechtel, Ashten",
-          "name": "Ashten Prechtel",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Sowah, Miela",
-          "name": "Miela Sowah",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Williams, Gabby",
-          "name": "Gabby Williams",
-          "status": "Out",
-          "reason": "Injury/Illness - NA; Reconditioning",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Phoenix Mercury",
-      "team_abbr": "PHX",
-      "game_date": "07/29/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "GSV@PHX",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Ciezki, Shay",
-          "name": "Shay Ciezki",
-          "status": "Out",
-          "reason": "Coach's Decision - Developmental",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Dunn, Kara",
-          "name": "Kara Dunn",
-          "status": "Out",
-          "reason": "Player Coach's Decision - Developmental Player",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
     {
       "team_full": "Connecticut Sun",
       "team_abbr": "CON",
@@ -267,9 +157,63 @@
           "reason_category": "injury"
         }
       ]
+    },
+    {
+      "team_full": "Dallas Wings",
+      "team_abbr": "DAL",
+      "game_date": "07/31/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "DAL@WAS",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Washington Mystics",
+      "team_abbr": "WAS",
+      "game_date": "07/31/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "DAL@WAS",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Seattle Storm",
+      "team_abbr": "SEA",
+      "game_date": "07/31/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "SEA@ATL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Atlanta Dream",
+      "team_abbr": "ATL",
+      "game_date": "07/31/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "SEA@ATL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Indiana Fever",
+      "team_abbr": "IND",
+      "game_date": "07/31/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "IND@PDX",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Portland Fire",
+      "team_abbr": "PDX",
+      "game_date": "07/31/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "IND@PDX",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-29_11_45PM.pdf",
-  "fetched_slot": "2026-07-29T23:45:00-04:00",
-  "polled_at_utc": "2026-07-30T03:46:03.690697+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-30_12_00AM.pdf",
+  "fetched_slot": "2026-07-30T00:00:00-04:00",
+  "polled_at_utc": "2026-07-30T04:01:04.696559+00:00"
 }
