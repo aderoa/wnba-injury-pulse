@@ -15581,5 +15581,24 @@
     "status": "Out",
     "reason": "Coach's Decision - coach'sdecision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-30T00:01:04.455972+00:00",
+    "type": "added",
+    "team_abbr": "LVA",
+    "player": "NaLyssa Smith",
+    "status": "Questionable",
+    "reason": "Injury/Illness - N/a; Illness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-30T00:01:04.455972+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Kierstan Bell",
+    "from_status": "Out",
+    "to_status": "Doubtful",
+    "reason": "Injury/Illness - Right Leg; R.Leg",
+    "reason_category": "injury"
   }
 ]
