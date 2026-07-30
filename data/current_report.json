@@ -1,5 +1,5 @@
 {
-  "report_ts": "07/30/26 05:45 PM",
+  "report_ts": "07/30/26 06:00 PM",
   "page_count": 2,
   "raw_line_count": 21,
   "teams": [
@@ -159,7 +159,7 @@
         {
           "name_last_first": "Smith, NaLyssa",
           "name": "NaLyssa Smith",
-          "status": "Questionable",
+          "status": "Probable",
           "reason": "Injury/Illness - N/a; Illness",
           "reason_category": "injury"
         }
@@ -225,7 +225,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-30_05_45PM.pdf",
-  "fetched_slot": "2026-07-30T17:45:00-04:00",
-  "polled_at_utc": "2026-07-30T21:46:06.170166+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-30_06_00PM.pdf",
+  "fetched_slot": "2026-07-30T18:00:00-04:00",
+  "polled_at_utc": "2026-07-30T22:05:28.575036+00:00"
 }
