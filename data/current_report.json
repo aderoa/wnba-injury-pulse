@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/29/26 09:15 PM",
+  "report_ts": "07/29/26 09:30 PM",
   "page_count": 2,
-  "raw_line_count": 27,
+  "raw_line_count": 29,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -66,6 +66,20 @@
       "matchup": "GSV@PHX",
       "submitted": true,
       "players": [
+        {
+          "name_last_first": "Prechtel, Ashten",
+          "name": "Ashten Prechtel",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Sowah, Miela",
+          "name": "Miela Sowah",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
         {
           "name_last_first": "Williams, Gabby",
           "name": "Gabby Williams",
@@ -255,7 +269,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-29_09_15PM.pdf",
-  "fetched_slot": "2026-07-29T21:15:00-04:00",
-  "polled_at_utc": "2026-07-30T01:16:07.799110+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-29_09_30PM.pdf",
+  "fetched_slot": "2026-07-29T21:30:00-04:00",
+  "polled_at_utc": "2026-07-30T01:31:06.538922+00:00"
 }

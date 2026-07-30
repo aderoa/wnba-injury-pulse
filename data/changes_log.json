@@ -15637,5 +15637,23 @@
     "from_reason": "player Coach's Decision - Developmental player",
     "to_reason": "Coach's Decision - Developmental",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-30T01:31:06.538922+00:00",
+    "type": "added",
+    "team_abbr": "GSV",
+    "player": "Ashten Prechtel",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-30T01:31:06.538922+00:00",
+    "type": "added",
+    "team_abbr": "GSV",
+    "player": "Miela Sowah",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
