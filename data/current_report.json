@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/30/26 07:45 PM",
+  "report_ts": "07/30/26 08:00 PM",
   "page_count": 2,
-  "raw_line_count": 25,
+  "raw_line_count": 29,
   "teams": [
     {
       "team_full": "Connecticut Sun",
@@ -240,8 +240,37 @@
       "game_date": "07/31/2026",
       "game_time": "10:00(ET)",
       "matchup": "IND@PDX",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Billings, Monique",
+          "name": "Monique Billings",
+          "status": "Probable",
+          "reason": "Injury/Illness - Left Hip; Hip",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Boston, Aliyah",
+          "name": "Aliyah Boston",
+          "status": "Probable",
+          "reason": "Injury/Illness - Right Leg; Lower",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Clark, Caitlin",
+          "name": "Caitlin Clark",
+          "status": "Probable",
+          "reason": "Injury/Illness - Back; Back",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Dantas, Damiris",
+          "name": "Damiris Dantas",
+          "status": "Out",
+          "reason": "Not With Team",
+          "reason_category": "offcourt"
+        }
+      ]
     },
     {
       "team_full": "Portland Fire",
@@ -249,11 +278,26 @@
       "game_date": "07/31/2026",
       "game_time": "10:00(ET)",
       "matchup": "IND@PDX",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Barker, SarahAshlee",
+          "name": "SarahAshlee Barker",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Feagin, Sania",
+          "name": "Sania Feagin",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Injury",
+          "reason_category": "injury"
+        }
+      ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-30_07_45PM.pdf",
-  "fetched_slot": "2026-07-30T19:45:00-04:00",
-  "polled_at_utc": "2026-07-30T23:46:04.690582+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-30_08_00PM.pdf",
+  "fetched_slot": "2026-07-30T20:00:00-04:00",
+  "polled_at_utc": "2026-07-31T00:01:10.150906+00:00"
 }

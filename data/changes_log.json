@@ -15813,5 +15813,41 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Rib Cage; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-31T00:01:10.150906+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Monique Billings",
+    "status": "Probable",
+    "reason": "Injury/Illness - Left Hip; Hip",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-31T00:01:10.150906+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Aliyah Boston",
+    "status": "Probable",
+    "reason": "Injury/Illness - Right Leg; Lower",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-31T00:01:10.150906+00:00",
+    "type": "cleared",
+    "team_abbr": "IND",
+    "player": "Bree Hall",
+    "previous_status": "Probable",
+    "previous_reason": "Injury/Illness - Left Ankle; Ankle"
+  },
+  {
+    "ts": "2026-07-31T00:01:10.150906+00:00",
+    "type": "reason_change",
+    "team_abbr": "IND",
+    "player": "Damiris Dantas",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Knee; NWT",
+    "to_reason": "Not With Team",
+    "reason_category": "offcourt"
   }
 ]
