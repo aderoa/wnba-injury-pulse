@@ -1,5 +1,5 @@
 {
-  "report_ts": "07/30/26 09:00 PM",
+  "report_ts": "07/30/26 09:15 PM",
   "page_count": 2,
   "raw_line_count": 29,
   "teams": [
@@ -173,7 +173,7 @@
         {
           "name_last_first": "Bell, Kierstan",
           "name": "Kierstan Bell",
-          "status": "Doubtful",
+          "status": "Out",
           "reason": "Injury/Illness - Right Leg; R.Leg",
           "reason_category": "injury"
         },
@@ -187,7 +187,7 @@
         {
           "name_last_first": "Smith, NaLyssa",
           "name": "NaLyssa Smith",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness - N/a; Illness",
           "reason_category": "injury"
         }
@@ -297,7 +297,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-30_09_00PM.pdf",
-  "fetched_slot": "2026-07-30T21:00:00-04:00",
-  "polled_at_utc": "2026-07-31T01:05:40.751612+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-30_09_15PM.pdf",
+  "fetched_slot": "2026-07-30T21:15:00-04:00",
+  "polled_at_utc": "2026-07-31T01:16:05.962175+00:00"
 }

@@ -15849,5 +15849,25 @@
     "from_reason": "Injury/Illness - Left Knee; NWT",
     "to_reason": "Not With Team",
     "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-07-31T01:16:05.962175+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "NaLyssa Smith",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - N/a; Illness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-31T01:16:05.962175+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Kierstan Bell",
+    "from_status": "Doubtful",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Leg; R.Leg",
+    "reason_category": "injury"
   }
 ]
