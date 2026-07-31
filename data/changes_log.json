@@ -15959,5 +15959,15 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-31T22:45:54.204753+00:00",
+    "type": "status_change",
+    "team_abbr": "SEA",
+    "player": "Dominique Malonga",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
   }
 ]

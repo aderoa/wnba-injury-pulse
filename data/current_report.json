@@ -1,5 +1,5 @@
 {
-  "report_ts": "07/31/26 06:30 PM",
+  "report_ts": "07/31/26 06:45 PM",
   "page_count": 2,
   "raw_line_count": 19,
   "teams": [
@@ -62,9 +62,9 @@
         {
           "name_last_first": "Malonga, Dominique",
           "name": "Dominique Malonga",
-          "status": "Probable",
-          "reason": "Injury/Illness - Back; Injury/Illness",
-          "reason_category": "injury"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
         }
       ]
     },
@@ -221,7 +221,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-31_06_30PM.pdf",
-  "fetched_slot": "2026-07-31T18:30:00-04:00",
-  "polled_at_utc": "2026-07-31T22:36:01.361318+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-31_06_45PM.pdf",
+  "fetched_slot": "2026-07-31T18:45:00-04:00",
+  "polled_at_utc": "2026-07-31T22:45:54.204753+00:00"
 }
