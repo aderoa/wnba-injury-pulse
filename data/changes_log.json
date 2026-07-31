@@ -15922,5 +15922,42 @@
     "from_reason": "Concussion Protocol",
     "to_reason": "Not With Team",
     "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-07-31T22:30:56.297738+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Alanna Smith",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Right Leg; n/a"
+  },
+  {
+    "ts": "2026-07-31T22:30:56.297738+00:00",
+    "type": "reason_change",
+    "team_abbr": "DAL",
+    "player": "Haley Jones",
+    "status": "Out",
+    "from_reason": "Coach's Decision - coach'sdecision",
+    "to_reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-31T22:30:56.297738+00:00",
+    "type": "reason_change",
+    "team_abbr": "DAL",
+    "player": "Costanza Verona",
+    "status": "Out",
+    "from_reason": "Coach's Decision - coach'sdecision",
+    "to_reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-07-31T22:30:56.297738+00:00",
+    "type": "added",
+    "team_abbr": "ATL",
+    "player": "Indya Nivar",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]

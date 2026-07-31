@@ -1,8 +1,49 @@
 {
-  "report_ts": "07/31/26 06:15 PM",
-  "page_count": 1,
-  "raw_line_count": 15,
+  "report_ts": "07/31/26 06:30 PM",
+  "page_count": 2,
+  "raw_line_count": 19,
   "teams": [
+    {
+      "team_full": "Dallas Wings",
+      "team_abbr": "DAL",
+      "game_date": "07/31/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "DAL@WAS",
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Jones, Haley",
+          "name": "Haley Jones",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Verona, Costanza",
+          "name": "Costanza Verona",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        }
+      ]
+    },
+    {
+      "team_full": "Washington Mystics",
+      "team_abbr": "WAS",
+      "game_date": "07/31/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "DAL@WAS",
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Littlepage-Buggs, Darianna",
+          "name": "Darianna Littlepage-Buggs",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        }
+      ]
+    },
     {
       "team_full": "Seattle Storm",
       "team_abbr": "SEA",
@@ -35,6 +76,13 @@
       "matchup": "SEA@ATL",
       "submitted": true,
       "players": [
+        {
+          "name_last_first": "Nivar, Indya",
+          "name": "Indya Nivar",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
         {
           "name_last_first": "Paopao, Te-Hina",
           "name": "Te-Hina Paopao",
@@ -173,7 +221,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-31_06_15PM.pdf",
-  "fetched_slot": "2026-07-31T18:15:00-04:00",
-  "polled_at_utc": "2026-07-31T22:16:03.308262+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-31_06_30PM.pdf",
+  "fetched_slot": "2026-07-31T18:30:00-04:00",
+  "polled_at_utc": "2026-07-31T22:30:56.297738+00:00"
 }
