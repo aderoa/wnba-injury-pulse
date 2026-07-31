@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/31/26 06:00 PM",
+  "report_ts": "07/31/26 06:15 PM",
   "page_count": 1,
-  "raw_line_count": 14,
+  "raw_line_count": 15,
   "teams": [
     {
       "team_full": "Seattle Storm",
@@ -112,8 +112,23 @@
       "game_date": "08/01/2026",
       "game_time": "01:00(ET)",
       "matchup": "LVA@CHI",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Bell, Kierstan",
+          "name": "Kierstan Bell",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Leg; rightleg",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Parker-Tyus, Cheyenne",
+          "name": "Cheyenne Parker-Tyus",
+          "status": "Out",
+          "reason": "Not With Team",
+          "reason_category": "offcourt"
+        }
+      ]
     },
     {
       "team_full": "Chicago Sky",
@@ -158,7 +173,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-31_06_00PM.pdf",
-  "fetched_slot": "2026-07-31T18:00:00-04:00",
-  "polled_at_utc": "2026-07-31T22:00:51.056001+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-31_06_15PM.pdf",
+  "fetched_slot": "2026-07-31T18:15:00-04:00",
+  "polled_at_utc": "2026-07-31T22:16:03.308262+00:00"
 }
