@@ -15869,5 +15869,14 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Right Leg; R.Leg",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-07-31T01:31:14.424951+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Anneli Maley",
+    "status": "Out",
+    "reason": "Coach's Decision - Developmental Player",
+    "reason_category": "rest_coach"
   }
 ]
