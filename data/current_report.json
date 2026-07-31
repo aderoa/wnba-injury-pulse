@@ -1,7 +1,7 @@
 {
-  "report_ts": "07/31/26 05:45 PM",
+  "report_ts": "07/31/26 06:00 PM",
   "page_count": 1,
-  "raw_line_count": 13,
+  "raw_line_count": 14,
   "teams": [
     {
       "team_full": "Seattle Storm",
@@ -121,8 +121,23 @@
       "game_date": "08/01/2026",
       "game_time": "01:00(ET)",
       "matchup": "LVA@CHI",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Diggins, Skylar",
+          "name": "Skylar Diggins",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; Right Knee",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Stevens, Azura",
+          "name": "Azura Stevens",
+          "status": "Out",
+          "reason": "Personal Reasons",
+          "reason_category": "offcourt"
+        }
+      ]
     },
     {
       "team_full": "New York Liberty",
@@ -143,7 +158,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-31_05_45PM.pdf",
-  "fetched_slot": "2026-07-31T17:45:00-04:00",
-  "polled_at_utc": "2026-07-31T21:45:59.116745+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-31_06_00PM.pdf",
+  "fetched_slot": "2026-07-31T18:00:00-04:00",
+  "polled_at_utc": "2026-07-31T22:00:51.056001+00:00"
 }
