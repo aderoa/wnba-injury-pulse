@@ -16163,5 +16163,42 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Left Knee;-",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-01T23:45:51.491669+00:00",
+    "type": "status_change",
+    "team_abbr": "LAS",
+    "player": "Kelsey Plum",
+    "from_status": "Out",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Left Lower Leg; L Lower Leg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-01T23:45:51.491669+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Marina TorontoTempo Mabrey",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Neck; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-01T23:45:51.491669+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Aneesah Morrow",
+    "status": "Out",
+    "reason": "Returnto Competition Reconditioning",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-08-01T23:45:51.491669+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Brittney Sykes",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Foot; Injury",
+    "reason_category": "injury"
   }
 ]
