@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-08-01T22:46:01.844490+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-01_06_45PM.pdf",
-  "report_ts": "08/01/26 06:45 PM",
+  "polled_at_utc": "2026-08-01T23:00:59.126296+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-01_07_00PM.pdf",
+  "report_ts": "08/01/26 07:00 PM",
   "all_players": [
     {
       "name": "Aaliyah Edwards",
@@ -11,7 +11,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee;-",
       "reason_category": "injury",
-      "last_updated": "2026-08-01T22:46:01.844490+00:00"
+      "last_updated": "2026-08-01T23:00:59.126296+00:00"
     },
     {
       "name": "Anneli Maley",
@@ -20,7 +20,7 @@
       "status": "Out",
       "reason": "Coach's Decision - Developmental Player",
       "reason_category": "rest_coach",
-      "last_updated": "2026-08-01T22:46:01.844490+00:00"
+      "last_updated": "2026-08-01T23:00:59.126296+00:00"
     },
     {
       "name": "Ashten Prechtel",
@@ -38,7 +38,7 @@
       "status": "Out",
       "reason": "Personal Reasons",
       "reason_category": "offcourt",
-      "last_updated": "2026-08-01T22:46:01.844490+00:00"
+      "last_updated": "2026-08-01T23:00:59.126296+00:00"
     },
     {
       "name": "Cheyenne Parker-Tyus",
@@ -47,7 +47,7 @@
       "status": "Out",
       "reason": "Not With Team",
       "reason_category": "offcourt",
-      "last_updated": "2026-08-01T22:46:01.844490+00:00"
+      "last_updated": "2026-08-01T23:00:59.126296+00:00"
     },
     {
       "name": "Costanza Verona",
@@ -65,7 +65,7 @@
       "status": "Out",
       "reason": "Not With Team",
       "reason_category": "offcourt",
-      "last_updated": "2026-08-01T22:46:01.844490+00:00"
+      "last_updated": "2026-08-01T23:00:59.126296+00:00"
     },
     {
       "name": "Darianna Littlepage-Buggs",
@@ -83,7 +83,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; Right Knee",
       "reason_category": "injury",
-      "last_updated": "2026-08-01T22:46:01.844490+00:00"
+      "last_updated": "2026-08-01T23:00:59.126296+00:00"
     },
     {
       "name": "Gabby Williams",
@@ -119,7 +119,7 @@
       "status": "Out",
       "reason": "Player Coach's Decision - Developmental Player",
       "reason_category": "rest_coach",
-      "last_updated": "2026-08-01T22:46:01.844490+00:00"
+      "last_updated": "2026-08-01T23:00:59.126296+00:00"
     },
     {
       "name": "Kelsey Plum",
@@ -137,7 +137,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Foot; L.Foot",
       "reason_category": "injury",
-      "last_updated": "2026-08-01T22:46:01.844490+00:00"
+      "last_updated": "2026-08-01T23:00:59.126296+00:00"
     },
     {
       "name": "Maddy Westbeld",
@@ -146,7 +146,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-08-01T22:46:01.844490+00:00"
+      "last_updated": "2026-08-01T23:00:59.126296+00:00"
     },
     {
       "name": "Miela Sowah",
@@ -182,7 +182,7 @@
       "status": "Out",
       "reason": "Concussion Protocol",
       "reason_category": "procedural",
-      "last_updated": "2026-08-01T22:46:01.844490+00:00"
+      "last_updated": "2026-08-01T23:00:59.126296+00:00"
     },
     {
       "name": "Shay Ciezki",
@@ -191,7 +191,7 @@
       "status": "Out",
       "reason": "Coach's Decision - Developmental",
       "reason_category": "rest_coach",
-      "last_updated": "2026-08-01T22:46:01.844490+00:00"
+      "last_updated": "2026-08-01T23:00:59.126296+00:00"
     },
     {
       "name": "Skylar Diggins",
@@ -200,7 +200,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; Right Knee",
       "reason_category": "injury",
-      "last_updated": "2026-08-01T22:46:01.844490+00:00"
+      "last_updated": "2026-08-01T23:00:59.126296+00:00"
     },
     {
       "name": "Taina Mair",
@@ -227,7 +227,7 @@
       "status": "Out",
       "reason": "Not With Team",
       "reason_category": "offcourt",
-      "last_updated": "2026-08-01T22:46:01.844490+00:00"
+      "last_updated": "2026-08-01T23:00:59.126296+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -236,7 +236,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Left Knee;-",
       "reason_category": "injury",
-      "last_updated": "2026-08-01T22:46:01.844490+00:00"
+      "last_updated": "2026-08-01T23:00:59.126296+00:00"
     },
     {
       "name": "Aliyah Boston",
@@ -245,7 +245,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Right Leg; Lower",
       "reason_category": "injury",
-      "last_updated": "2026-08-01T22:46:01.844490+00:00"
+      "last_updated": "2026-08-01T23:00:59.126296+00:00"
     },
     {
       "name": "Caitlin Clark",
@@ -254,7 +254,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Back; Back",
       "reason_category": "injury",
-      "last_updated": "2026-08-01T22:46:01.844490+00:00"
+      "last_updated": "2026-08-01T23:00:59.126296+00:00"
     },
     {
       "name": "Dominique Malonga",
@@ -272,7 +272,7 @@
       "status": "Available",
       "reason": "Injury/Illness - Right Leg; rightleg",
       "reason_category": "injury",
-      "last_updated": "2026-08-01T22:46:01.844490+00:00"
+      "last_updated": "2026-08-01T23:00:59.126296+00:00"
     }
   ],
   "teams": [
@@ -304,7 +304,7 @@
     {
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
-      "last_submitted_ts": "2026-08-01T22:46:01.844490+00:00",
+      "last_submitted_ts": "2026-08-01T23:00:59.126296+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "LVA@CHI"
@@ -336,7 +336,7 @@
     {
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
-      "last_submitted_ts": "2026-08-01T22:46:01.844490+00:00",
+      "last_submitted_ts": "2026-08-01T23:00:59.126296+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "CON@DAL",
@@ -388,7 +388,7 @@
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
       "last_submitted_ts": "2026-07-30T03:46:03.690697+00:00",
-      "last_seen_pending_ts": "2026-08-01T22:46:01.844490+00:00",
+      "last_seen_pending_ts": "2026-08-01T23:00:59.126296+00:00",
       "matchups": [
         "GSV@PHX"
       ],
@@ -419,7 +419,7 @@
     {
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
-      "last_submitted_ts": "2026-08-01T22:46:01.844490+00:00",
+      "last_submitted_ts": "2026-08-01T23:00:59.126296+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "IND@MIN"
@@ -459,7 +459,7 @@
       "team_abbr": "LAS",
       "team_full": "Los Angeles Sparks",
       "last_submitted_ts": "2026-07-28T16:16:11.460550+00:00",
-      "last_seen_pending_ts": "2026-08-01T22:46:01.844490+00:00",
+      "last_seen_pending_ts": "2026-08-01T23:00:59.126296+00:00",
       "matchups": [
         "NYL@LAS"
       ],
@@ -476,7 +476,7 @@
     {
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
-      "last_submitted_ts": "2026-08-01T22:46:01.844490+00:00",
+      "last_submitted_ts": "2026-08-01T23:00:59.126296+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "LVA@CHI"
@@ -501,7 +501,7 @@
     {
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
-      "last_submitted_ts": "2026-08-01T22:46:01.844490+00:00",
+      "last_submitted_ts": "2026-08-01T23:00:59.126296+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "IND@MIN"
@@ -519,7 +519,7 @@
     {
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
-      "last_submitted_ts": "2026-08-01T22:46:01.844490+00:00",
+      "last_submitted_ts": "2026-08-01T23:00:59.126296+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "NYL@PHX"
@@ -552,7 +552,7 @@
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
       "last_submitted_ts": "2026-08-01T03:45:54.482410+00:00",
-      "last_seen_pending_ts": "2026-08-01T22:46:01.844490+00:00",
+      "last_seen_pending_ts": "2026-08-01T23:00:59.126296+00:00",
       "matchups": [
         "IND@PDX"
       ],
@@ -576,7 +576,7 @@
     {
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
-      "last_submitted_ts": "2026-08-01T22:46:01.844490+00:00",
+      "last_submitted_ts": "2026-08-01T23:00:59.126296+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "NYL@PHX"
