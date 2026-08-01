@@ -15985,5 +15985,53 @@
     "player": "Anneli Maley",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision - Developmental Player"
+  },
+  {
+    "ts": "2026-08-01T01:30:51.344495+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Bree Hall",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-01T01:30:51.344495+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Ugonne Onyiah",
+    "status": "Out",
+    "reason": "Not With Team",
+    "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-08-01T01:30:51.344495+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Monique Billings",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Hip; Hip",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-01T01:30:51.344495+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Aliyah Boston",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Leg; Lower",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-01T01:30:51.344495+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Back; Back",
+    "reason_category": "injury"
   }
 ]
