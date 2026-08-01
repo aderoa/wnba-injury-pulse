@@ -25,7 +25,8 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-08-01T04:00:54.916959+00:00"
   },
   "IND": {
     "team_full": "Indiana Fever",
@@ -81,7 +82,8 @@
         "reason": "Not With Team",
         "reason_category": "offcourt"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-08-01T04:00:54.916959+00:00"
   },
   "PHX": {
     "team_full": "Phoenix Mercury",
@@ -115,8 +117,8 @@
   "LVA": {
     "team_full": "Las Vegas Aces",
     "submitted": true,
-    "last_submitted_ts": "2026-08-01T03:45:54.482410+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-31_11_45PM.pdf",
+    "last_submitted_ts": "2026-08-01T04:00:54.916959+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-01_12_00AM.pdf",
     "game_dates": [
       "08/01/2026"
     ],
@@ -229,13 +231,14 @@
         "reason": "Injury/Illness - Left Foot; Injury",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-08-01T04:00:54.916959+00:00"
   },
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-08-01T03:45:54.482410+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-31_11_45PM.pdf",
+    "last_submitted_ts": "2026-08-01T04:00:54.916959+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-01_12_00AM.pdf",
     "game_dates": [
       "08/01/2026"
     ],
@@ -285,7 +288,8 @@
         "reason": "Injury/Illness - Left Knee; Injury",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-08-01T04:00:54.916959+00:00"
   },
   "SEA": {
     "team_full": "Seattle Storm",
@@ -348,13 +352,14 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-08-01T04:00:54.916959+00:00"
   },
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-08-01T03:45:54.482410+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-31_11_45PM.pdf",
+    "last_submitted_ts": "2026-08-01T04:00:54.916959+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-01_12_00AM.pdf",
     "game_dates": [
       "08/01/2026"
     ],
@@ -432,7 +437,8 @@
         "reason": "Injury/Illness - NA; Reconditioning",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-08-01T04:00:54.916959+00:00"
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",
@@ -453,6 +459,7 @@
         "reason": "Injury/Illness - Left Lower Leg; L Lower Leg",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-08-01T04:00:54.916959+00:00"
   }
 }

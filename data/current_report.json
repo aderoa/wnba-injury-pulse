@@ -1,173 +1,8 @@
 {
-  "report_ts": "07/31/26 11:45 PM",
-  "page_count": 2,
-  "raw_line_count": 21,
+  "report_ts": "08/01/26 12:00 AM",
+  "page_count": 1,
+  "raw_line_count": 14,
   "teams": [
-    {
-      "team_full": "Dallas Wings",
-      "team_abbr": "DAL",
-      "game_date": "07/31/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "DAL@WAS",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Jones, Haley",
-          "name": "Haley Jones",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Verona, Costanza",
-          "name": "Costanza Verona",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Washington Mystics",
-      "team_abbr": "WAS",
-      "game_date": "07/31/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "DAL@WAS",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Littlepage-Buggs, Darianna",
-          "name": "Darianna Littlepage-Buggs",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Seattle Storm",
-      "team_abbr": "SEA",
-      "game_date": "07/31/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "SEA@ATL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Mair, Taina",
-          "name": "Taina Mair",
-          "status": "Out",
-          "reason": "Coach's Decision - Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Malonga, Dominique",
-          "name": "Dominique Malonga",
-          "status": "Available",
-          "reason": "-",
-          "reason_category": "other"
-        }
-      ]
-    },
-    {
-      "team_full": "Atlanta Dream",
-      "team_abbr": "ATL",
-      "game_date": "07/31/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "SEA@ATL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Nivar, Indya",
-          "name": "Indya Nivar",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Paopao, Te-Hina",
-          "name": "Te-Hina Paopao",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Leg; N/A",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Indiana Fever",
-      "team_abbr": "IND",
-      "game_date": "07/31/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "IND@PDX",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Billings, Monique",
-          "name": "Monique Billings",
-          "status": "Available",
-          "reason": "Injury/Illness - Left Hip; Hip",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Boston, Aliyah",
-          "name": "Aliyah Boston",
-          "status": "Available",
-          "reason": "Injury/Illness - Right Leg; Lower",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Clark, Caitlin",
-          "name": "Caitlin Clark",
-          "status": "Available",
-          "reason": "Injury/Illness - Back; Back",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Dantas, Damiris",
-          "name": "Damiris Dantas",
-          "status": "Out",
-          "reason": "Not With Team",
-          "reason_category": "offcourt"
-        },
-        {
-          "name_last_first": "Hall, Bree",
-          "name": "Bree Hall",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Onyiah, Ugonne",
-          "name": "Ugonne Onyiah",
-          "status": "Out",
-          "reason": "Not With Team",
-          "reason_category": "offcourt"
-        }
-      ]
-    },
-    {
-      "team_full": "Portland Fire",
-      "team_abbr": "PDX",
-      "game_date": "07/31/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "IND@PDX",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Barker, SarahAshlee",
-          "name": "SarahAshlee Barker",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Knee; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Feagin, Sania",
-          "name": "Sania Feagin",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Knee; Injury",
-          "reason_category": "injury"
-        }
-      ]
-    },
     {
       "team_full": "Las Vegas Aces",
       "team_abbr": "LVA",
@@ -239,9 +74,81 @@
           "reason_category": "procedural"
         }
       ]
+    },
+    {
+      "team_full": "Indiana Fever",
+      "team_abbr": "IND",
+      "game_date": "08/02/2026",
+      "game_time": "01:00(ET)",
+      "matchup": "IND@MIN",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Minnesota Lynx",
+      "team_abbr": "MIN",
+      "game_date": "08/02/2026",
+      "game_time": "01:00(ET)",
+      "matchup": "IND@MIN",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Los Angeles Sparks",
+      "team_abbr": "LAS",
+      "game_date": "08/02/2026",
+      "game_time": "03:30(ET)",
+      "matchup": "LAS@PDX",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Portland Fire",
+      "team_abbr": "PDX",
+      "game_date": "08/02/2026",
+      "game_time": "03:30(ET)",
+      "matchup": "LAS@PDX",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Connecticut Sun",
+      "team_abbr": "CON",
+      "game_date": "08/02/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "CON@DAL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Dallas Wings",
+      "team_abbr": "DAL",
+      "game_date": "08/02/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "CON@DAL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Dallas Wings",
+      "team_abbr": "DAL",
+      "game_date": "08/02/2026",
+      "game_time": "08:30(ET)",
+      "matchup": "TOR@GSV",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Golden State Valkyries",
+      "team_abbr": "GSV",
+      "game_date": "08/02/2026",
+      "game_time": "08:30(ET)",
+      "matchup": "TOR@GSV",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-31_11_45PM.pdf",
-  "fetched_slot": "2026-07-31T23:45:00-04:00",
-  "polled_at_utc": "2026-08-01T03:45:54.482410+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-01_12_00AM.pdf",
+  "fetched_slot": "2026-08-01T00:00:00-04:00",
+  "polled_at_utc": "2026-08-01T04:00:54.916959+00:00"
 }
