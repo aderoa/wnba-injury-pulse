@@ -16033,5 +16033,15 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Back; Back",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-01T15:45:55.546269+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Kierstan Bell",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Leg; rightleg",
+    "reason_category": "injury"
   }
 ]
