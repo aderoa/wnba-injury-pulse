@@ -15969,5 +15969,21 @@
     "to_status": "Available",
     "reason": "-",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-08-01T00:00:52.393626+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Marine Johannes",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Left Ankle; L.Ankle"
+  },
+  {
+    "ts": "2026-08-01T00:00:52.393626+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Anneli Maley",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental Player"
   }
 ]
