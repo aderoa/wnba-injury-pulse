@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/01/26 05:30 PM",
+  "report_ts": "08/01/26 05:45 PM",
   "page_count": 2,
-  "raw_line_count": 24,
+  "raw_line_count": 23,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -128,8 +128,16 @@
       "game_date": "08/02/2026",
       "game_time": "01:00(ET)",
       "matchup": "IND@MIN",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Cechova, Emma",
+          "name": "Emma Cechova",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; Right Knee",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Los Angeles Sparks",
@@ -159,17 +167,8 @@
       "players": []
     },
     {
-      "team_full": "Dallas Wings",
-      "team_abbr": "DAL",
-      "game_date": "08/02/2026",
-      "game_time": "07:00(ET)",
-      "matchup": "CON@DAL",
-      "submitted": false,
-      "players": []
-    },
-    {
-      "team_full": "Dallas Wings",
-      "team_abbr": "DAL",
+      "team_full": "Connecticut Sun",
+      "team_abbr": "CON",
       "game_date": "08/02/2026",
       "game_time": "08:30(ET)",
       "matchup": "TOR@GSV",
@@ -186,7 +185,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-01_05_30PM.pdf",
-  "fetched_slot": "2026-08-01T17:30:00-04:00",
-  "polled_at_utc": "2026-08-01T21:30:56.397606+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-01_05_45PM.pdf",
+  "fetched_slot": "2026-08-01T17:45:00-04:00",
+  "polled_at_utc": "2026-08-01T21:45:53.292523+00:00"
 }

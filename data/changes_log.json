@@ -16061,5 +16061,53 @@
     "status": "Out",
     "reason": "Coach's Decision - Developmental Player",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-01T21:45:53.292523+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Dorka Juhasz",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Right Knee; Right Knee"
+  },
+  {
+    "ts": "2026-08-01T21:45:53.292523+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Liatu King",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-01T21:45:53.292523+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Ornella TorontoTempo Bankole",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-01T21:45:53.292523+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Isabelle Harrison",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Knee; Injury"
+  },
+  {
+    "ts": "2026-08-01T21:45:53.292523+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Nyara Sabally",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Rib Cage; Injury"
+  },
+  {
+    "ts": "2026-08-01T21:45:53.292523+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Brittney Sykes",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Foot; Injury"
   }
 ]

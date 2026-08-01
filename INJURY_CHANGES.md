@@ -4,6 +4,15 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-08-01 21:45 UTC
+
+- **Dorka Juhasz** (MIN) cleared (was Available)
+- **Liatu King** (MIN) cleared (was Out)
+- **Ornella TorontoTempo Bankole** (MIN) cleared (was Out)
+- **Isabelle Harrison** (MIN) cleared (was Out)
+- **Nyara Sabally** (MIN) cleared (was Available)
+- **Brittney Sykes** (MIN) cleared (was Out)
+
 ## 2026-08-01 18:15 UTC
 
 - **Anneli Maley** (NYL) newly listed as **Out** — Coach's Decision - Developmental Player
