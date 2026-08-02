@@ -31,8 +31,8 @@
   "IND": {
     "team_full": "Indiana Fever",
     "submitted": true,
-    "last_submitted_ts": "2026-08-02T20:30:15.368993+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-02_04_30PM.pdf",
+    "last_submitted_ts": "2026-08-02T20:45:13.816336+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-02_04_45PM.pdf",
     "game_dates": [
       "08/02/2026"
     ],
@@ -104,7 +104,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-08-02T20:30:15.368993+00:00"
+    "last_seen_pending_ts": "2026-08-02T20:45:13.816336+00:00"
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
@@ -133,27 +133,20 @@
         "reason_category": "offcourt"
       }
     ],
-    "last_seen_pending_ts": "2026-08-02T20:30:15.368993+00:00"
+    "last_seen_pending_ts": "2026-08-02T20:45:13.816336+00:00"
   },
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-08-01T03:45:54.482410+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-31_11_45PM.pdf",
+    "last_submitted_ts": "2026-08-02T20:45:13.816336+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-02_04_45PM.pdf",
     "game_dates": [
-      "07/31/2026"
+      "08/03/2026"
     ],
     "matchups": [
-      "SEA@ATL"
+      "LVA@ATL"
     ],
     "players": [
-      {
-        "name_last_first": "Nivar, Indya",
-        "name": "Indya Nivar",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
-      },
       {
         "name_last_first": "Paopao, Te-Hina",
         "name": "Te-Hina Paopao",
@@ -161,14 +154,13 @@
         "reason": "Injury/Illness - Right Leg; N/A",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-08-02T20:30:15.368993+00:00"
+    ]
   },
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-08-02T20:30:15.368993+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-02_04_30PM.pdf",
+    "last_submitted_ts": "2026-08-02T20:45:13.816336+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-02_04_45PM.pdf",
     "game_dates": [
       "08/02/2026"
     ],
@@ -219,13 +211,13 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-08-02T20:30:15.368993+00:00"
+    "last_seen_pending_ts": "2026-08-02T20:45:13.816336+00:00"
   },
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-08-02T20:30:15.368993+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-02_04_30PM.pdf",
+    "last_submitted_ts": "2026-08-02T20:45:13.816336+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-02_04_45PM.pdf",
     "game_dates": [
       "08/02/2026"
     ],
@@ -259,13 +251,13 @@
   "SEA": {
     "team_full": "Seattle Storm",
     "submitted": true,
-    "last_submitted_ts": "2026-08-01T03:45:54.482410+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-07-31_11_45PM.pdf",
+    "last_submitted_ts": "2026-08-02T20:45:13.816336+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-02_04_45PM.pdf",
     "game_dates": [
-      "07/31/2026"
+      "08/03/2026"
     ],
     "matchups": [
-      "SEA@ATL"
+      "SEA@NYL"
     ],
     "players": [
       {
@@ -274,22 +266,14 @@
         "status": "Out",
         "reason": "Coach's Decision - Coach's Decision",
         "reason_category": "rest_coach"
-      },
-      {
-        "name_last_first": "Malonga, Dominique",
-        "name": "Dominique Malonga",
-        "status": "Available",
-        "reason": "-",
-        "reason_category": "other"
       }
-    ],
-    "last_seen_pending_ts": "2026-08-02T20:30:15.368993+00:00"
+    ]
   },
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-08-02T20:30:15.368993+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-02_04_30PM.pdf",
+    "last_submitted_ts": "2026-08-02T20:45:13.816336+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-02_04_45PM.pdf",
     "game_dates": [
       "08/02/2026"
     ],
@@ -369,7 +353,7 @@
         "reason_category": "procedural"
       }
     ],
-    "last_seen_pending_ts": "2026-08-02T20:30:15.368993+00:00"
+    "last_seen_pending_ts": "2026-08-02T20:45:13.816336+00:00"
   },
   "WAS": {
     "team_full": "Washington Mystics",
@@ -395,8 +379,8 @@
   "GSV": {
     "team_full": "Golden State Valkyries",
     "submitted": true,
-    "last_submitted_ts": "2026-08-02T20:30:15.368993+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-02_04_30PM.pdf",
+    "last_submitted_ts": "2026-08-02T20:45:13.816336+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-02_04_45PM.pdf",
     "game_dates": [
       "08/02/2026"
     ],
@@ -416,8 +400,8 @@
   "LAS": {
     "team_full": "Los Angeles Sparks",
     "submitted": true,
-    "last_submitted_ts": "2026-08-02T20:30:15.368993+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-02_04_30PM.pdf",
+    "last_submitted_ts": "2026-08-02T20:45:13.816336+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-02_04_45PM.pdf",
     "game_dates": [
       "08/02/2026"
     ],
