@@ -16272,5 +16272,42 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Right Leg; Lower",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-02T18:45:13.890900+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Tonie Morgan",
+    "status": "Out",
+    "reason": "Coach's Decision - Coach\u2019sdecision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-02T18:45:13.890900+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Alissa Pili",
+    "status": "Out",
+    "reason": "Coach's Decision - Coach\u2019sdecision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-02T18:45:13.890900+00:00",
+    "type": "status_change",
+    "team_abbr": "LAS",
+    "player": "Kelsey Plum",
+    "from_status": "Probable",
+    "to_status": "Out",
+    "reason": "Not With Team",
+    "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-08-02T18:45:13.890900+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Jordan Harrison",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]

@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/02/26 02:30 PM",
+  "report_ts": "08/02/26 02:45 PM",
   "page_count": 2,
-  "raw_line_count": 25,
+  "raw_line_count": 26,
   "teams": [
     {
       "team_full": "Indiana Fever",
@@ -74,11 +74,25 @@
       "submitted": true,
       "players": [
         {
+          "name_last_first": "Morgan, Tonie",
+          "name": "Tonie Morgan",
+          "status": "Out",
+          "reason": "Coach's Decision - Coach\u2019sdecision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Pili, Alissa",
+          "name": "Alissa Pili",
+          "status": "Out",
+          "reason": "Coach's Decision - Coach\u2019sdecision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Plum, Kelsey",
           "name": "Kelsey Plum",
-          "status": "Probable",
-          "reason": "Injury/Illness - Left Lower Leg; L Lower Leg",
-          "reason_category": "injury"
+          "status": "Out",
+          "reason": "Not With Team",
+          "reason_category": "offcourt"
         }
       ]
     },
@@ -103,6 +117,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Knee; Injury",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Harrison, Jordan",
+          "name": "Jordan Harrison",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -233,7 +254,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-02_02_30PM.pdf",
-  "fetched_slot": "2026-08-02T14:30:00-04:00",
-  "polled_at_utc": "2026-08-02T18:31:42.889703+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-02_02_45PM.pdf",
+  "fetched_slot": "2026-08-02T14:45:00-04:00",
+  "polled_at_utc": "2026-08-02T18:45:13.890900+00:00"
 }
