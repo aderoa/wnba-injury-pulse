@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/02/26 05:30 PM",
+  "report_ts": "08/02/26 05:45 PM",
   "page_count": 2,
-  "raw_line_count": 27,
+  "raw_line_count": 28,
   "teams": [
     {
       "team_full": "Indiana Fever",
@@ -289,11 +289,26 @@
       "game_date": "08/03/2026",
       "game_time": "09:00(ET)",
       "matchup": "PHX@CHI",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Diggins, Skylar",
+          "name": "Skylar Diggins",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; Right Knee",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Stevens, Azura",
+          "name": "Azura Stevens",
+          "status": "Out",
+          "reason": "Personal Reasons",
+          "reason_category": "offcourt"
+        }
+      ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-02_05_30PM.pdf",
-  "fetched_slot": "2026-08-02T17:30:00-04:00",
-  "polled_at_utc": "2026-08-02T21:30:17.590022+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-02_05_45PM.pdf",
+  "fetched_slot": "2026-08-02T17:45:00-04:00",
+  "polled_at_utc": "2026-08-02T21:45:15.247099+00:00"
 }
