@@ -16359,5 +16359,90 @@
     "player": "Maddy Westbeld",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-02T22:00:25.440595+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Marina TorontoTempo Mabrey",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Neck; Injury"
+  },
+  {
+    "ts": "2026-08-02T22:00:25.440595+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Aneesah Morrow",
+    "previous_status": "Out",
+    "previous_reason": "Returnto Competition Reconditioning"
+  },
+  {
+    "ts": "2026-08-02T22:00:25.440595+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Brittney Sykes",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Foot; Injury"
+  },
+  {
+    "ts": "2026-08-02T22:00:25.440595+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Marina TorontoTempo Mabrey",
+    "status": "Out",
+    "reason": "Injury/Illness - Neck; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-02T22:00:25.440595+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Aneesah Morrow",
+    "status": "Out",
+    "reason": "Returnto Competition Reconditioning",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-08-02T22:00:25.440595+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Brittney Sykes",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Foot; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-02T22:00:25.440595+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Kelsey Plum",
+    "status": "Questionable",
+    "reason": "Injury/Illness--; Pending Physical",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-02T22:00:25.440595+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Sami Whitcomb",
+    "status": "Probable",
+    "reason": "Results Injury/Illness - Left Knee; Injury Management",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-02T22:00:25.440595+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Shay Ciezki",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental"
+  },
+  {
+    "ts": "2026-08-02T22:00:25.440595+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Kara Dunn",
+    "previous_status": "Out",
+    "previous_reason": "Player Coach's Decision - Developmental Player"
   }
 ]

@@ -4,6 +4,19 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-08-02 22:00 UTC
+
+- **Marina TorontoTempo Mabrey** (CON) cleared (was Out)
+- **Aneesah Morrow** (CON) cleared (was Out)
+- **Brittney Sykes** (CON) cleared (was Out)
+- **Marina TorontoTempo Mabrey** (DAL) newly listed as **Out** — Injury/Illness - Neck; Injury
+- **Aneesah Morrow** (DAL) newly listed as **Out** — Returnto Competition Reconditioning
+- **Brittney Sykes** (DAL) newly listed as **Out** — Injury/Illness - Left Foot; Injury
+- **Kelsey Plum** (PHX) newly listed as **Questionable** — Injury/Illness--; Pending Physical
+- **Sami Whitcomb** (PHX) newly listed as **Probable** — Results Injury/Illness - Left Knee; Injury Management
+- **Shay Ciezki** (PHX) cleared (was Out)
+- **Kara Dunn** (PHX) cleared (was Out)
+
 ## 2026-08-02 21:45 UTC
 
 - **Maddy Westbeld** (CHI) cleared (was Out)

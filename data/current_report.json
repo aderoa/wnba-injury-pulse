@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/02/26 05:45 PM",
+  "report_ts": "08/02/26 06:00 PM",
   "page_count": 2,
-  "raw_line_count": 28,
+  "raw_line_count": 35,
   "teams": [
     {
       "team_full": "Indiana Fever",
@@ -152,8 +152,32 @@
       ]
     },
     {
-      "team_full": "Connecticut Sun",
-      "team_abbr": "CON",
+      "team_full": "Dallas Wings",
+      "team_abbr": "DAL",
+      "game_date": "08/02/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "CON@DAL",
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Jones, Haley",
+          "name": "Haley Jones",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Verona, Costanza",
+          "name": "Costanza Verona",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        }
+      ]
+    },
+    {
+      "team_full": "Dallas Wings",
+      "team_abbr": "DAL",
       "game_date": "08/02/2026",
       "game_time": "08:30(ET)",
       "matchup": "TOR@GSV",
@@ -280,8 +304,23 @@
       "game_date": "08/03/2026",
       "game_time": "09:00(ET)",
       "matchup": "PHX@CHI",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Plum, Kelsey",
+          "name": "Kelsey Plum",
+          "status": "Questionable",
+          "reason": "Injury/Illness--; Pending Physical",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Whitcomb, Sami",
+          "name": "Sami Whitcomb",
+          "status": "Probable",
+          "reason": "Results Injury/Illness - Left Knee; Injury Management",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Chicago Sky",
@@ -308,7 +347,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-02_05_45PM.pdf",
-  "fetched_slot": "2026-08-02T17:45:00-04:00",
-  "polled_at_utc": "2026-08-02T21:45:15.247099+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-02_06_00PM.pdf",
+  "fetched_slot": "2026-08-02T18:00:00-04:00",
+  "polled_at_utc": "2026-08-02T22:00:25.440595+00:00"
 }
