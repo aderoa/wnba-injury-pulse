@@ -4,6 +4,13 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-08-02 23:45 UTC
+
+- **Ornella TorontoTempo Bankole** (DAL) newly listed as **Out** — Coach's Decision
+- **Marina Mabrey** (DAL) newly listed as **Out** — Injury/Illness - Neck; Injury
+- **Marina TorontoTempo Mabrey** (DAL) cleared (was Out)
+- **Miela Sowah** (GSV) newly listed as **Out** — Coach's Decision
+
 ## 2026-08-02 22:30 UTC
 
 - **Brittney Griner** (CON): **Questionable** → **Out** — Injury/Illness - Left Knee;-

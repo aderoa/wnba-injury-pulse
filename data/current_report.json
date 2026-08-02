@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/02/26 07:30 PM",
+  "report_ts": "08/02/26 07:45 PM",
   "page_count": 2,
-  "raw_line_count": 36,
+  "raw_line_count": 38,
   "teams": [
     {
       "team_full": "Indiana Fever",
@@ -191,8 +191,15 @@
       "submitted": true,
       "players": [
         {
-          "name_last_first": "TorontoTempo Mabrey, Marina",
-          "name": "Marina TorontoTempo Mabrey",
+          "name_last_first": "TorontoTempo Bankole, Ornella",
+          "name": "Ornella TorontoTempo Bankole",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Mabrey, Marina",
+          "name": "Marina Mabrey",
           "status": "Out",
           "reason": "Injury/Illness - Neck; Injury",
           "reason_category": "injury"
@@ -221,6 +228,13 @@
       "matchup": "TOR@GSV",
       "submitted": true,
       "players": [
+        {
+          "name_last_first": "Sowah, Miela",
+          "name": "Miela Sowah",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
         {
           "name_last_first": "Williams, Gabby",
           "name": "Gabby Williams",
@@ -354,7 +368,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-02_07_30PM.pdf",
-  "fetched_slot": "2026-08-02T19:30:00-04:00",
-  "polled_at_utc": "2026-08-02T23:30:16.887754+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-02_07_45PM.pdf",
+  "fetched_slot": "2026-08-02T19:45:00-04:00",
+  "polled_at_utc": "2026-08-02T23:45:14.757621+00:00"
 }

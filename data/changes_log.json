@@ -16463,5 +16463,40 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Left Knee;-",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-02T23:45:14.757621+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Ornella TorontoTempo Bankole",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-02T23:45:14.757621+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Marina Mabrey",
+    "status": "Out",
+    "reason": "Injury/Illness - Neck; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-02T23:45:14.757621+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Marina TorontoTempo Mabrey",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Neck; Injury"
+  },
+  {
+    "ts": "2026-08-02T23:45:14.757621+00:00",
+    "type": "added",
+    "team_abbr": "GSV",
+    "player": "Miela Sowah",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
