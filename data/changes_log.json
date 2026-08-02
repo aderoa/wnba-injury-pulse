@@ -16226,5 +16226,22 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Na; Reconditioning",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-02T15:45:17.262162+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Liatu King",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-02T15:45:17.262162+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Emma Cechova",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Right Knee; Right Knee"
   }
 ]

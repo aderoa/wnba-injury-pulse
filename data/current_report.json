@@ -1,5 +1,5 @@
 {
-  "report_ts": "08/02/26 11:30 AM",
+  "report_ts": "08/02/26 11:45 AM",
   "page_count": 2,
   "raw_line_count": 24,
   "teams": [
@@ -50,11 +50,11 @@
       "submitted": true,
       "players": [
         {
-          "name_last_first": "Cechova, Emma",
-          "name": "Emma Cechova",
+          "name_last_first": "King, Liatu",
+          "name": "Liatu King",
           "status": "Out",
-          "reason": "Injury/Illness - Right Knee; Right Knee",
-          "reason_category": "injury"
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -226,7 +226,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-02_11_30AM.pdf",
-  "fetched_slot": "2026-08-02T11:30:00-04:00",
-  "polled_at_utc": "2026-08-02T15:30:15.299432+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-02_11_45AM.pdf",
+  "fetched_slot": "2026-08-02T11:45:00-04:00",
+  "polled_at_utc": "2026-08-02T15:45:17.262162+00:00"
 }
