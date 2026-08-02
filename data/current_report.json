@@ -1,118 +1,8 @@
 {
-  "report_ts": "08/01/26 11:45 PM",
+  "report_ts": "08/02/26 12:00 AM",
   "page_count": 2,
-  "raw_line_count": 34,
+  "raw_line_count": 24,
   "teams": [
-    {
-      "team_full": "Las Vegas Aces",
-      "team_abbr": "LVA",
-      "game_date": "08/01/2026",
-      "game_time": "01:00(ET)",
-      "matchup": "LVA@CHI",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Bell, Kierstan",
-          "name": "Kierstan Bell",
-          "status": "Available",
-          "reason": "Injury/Illness - Right Leg; rightleg",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Parker-Tyus, Cheyenne",
-          "name": "Cheyenne Parker-Tyus",
-          "status": "Out",
-          "reason": "Not With Team",
-          "reason_category": "offcourt"
-        }
-      ]
-    },
-    {
-      "team_full": "Chicago Sky",
-      "team_abbr": "CHI",
-      "game_date": "08/01/2026",
-      "game_time": "01:00(ET)",
-      "matchup": "LVA@CHI",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Diggins, Skylar",
-          "name": "Skylar Diggins",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee; Right Knee",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Stevens, Azura",
-          "name": "Azura Stevens",
-          "status": "Out",
-          "reason": "Personal Reasons",
-          "reason_category": "offcourt"
-        },
-        {
-          "name_last_first": "Westbeld, Maddy",
-          "name": "Maddy Westbeld",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "New York Liberty",
-      "team_abbr": "NYL",
-      "game_date": "08/01/2026",
-      "game_time": "03:00(ET)",
-      "matchup": "NYL@PHX",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Fiebich, Leonie",
-          "name": "Leonie Fiebich",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Foot; L.Foot",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Maley, Anneli",
-          "name": "Anneli Maley",
-          "status": "Out",
-          "reason": "Coach's Decision - Developmental Player",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Sabally, Satou",
-          "name": "Satou Sabally",
-          "status": "Out",
-          "reason": "Concussion Protocol",
-          "reason_category": "procedural"
-        }
-      ]
-    },
-    {
-      "team_full": "Phoenix Mercury",
-      "team_abbr": "PHX",
-      "game_date": "08/01/2026",
-      "game_time": "03:00(ET)",
-      "matchup": "NYL@PHX",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Ciezki, Shay",
-          "name": "Shay Ciezki",
-          "status": "Out",
-          "reason": "Coach's Decision - Developmental",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Dunn, Kara",
-          "name": "Kara Dunn",
-          "status": "Out",
-          "reason": "Player Coach's Decision - Developmental Player",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
     {
       "team_full": "Indiana Fever",
       "team_abbr": "IND",
@@ -280,9 +170,63 @@
           "reason_category": "injury"
         }
       ]
+    },
+    {
+      "team_full": "Las Vegas Aces",
+      "team_abbr": "LVA",
+      "game_date": "08/03/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "LVA@ATL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Atlanta Dream",
+      "team_abbr": "ATL",
+      "game_date": "08/03/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "LVA@ATL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Seattle Storm",
+      "team_abbr": "SEA",
+      "game_date": "08/03/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "SEA@NYL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "New York Liberty",
+      "team_abbr": "NYL",
+      "game_date": "08/03/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "SEA@NYL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Phoenix Mercury",
+      "team_abbr": "PHX",
+      "game_date": "08/03/2026",
+      "game_time": "09:00(ET)",
+      "matchup": "PHX@CHI",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Chicago Sky",
+      "team_abbr": "CHI",
+      "game_date": "08/03/2026",
+      "game_time": "09:00(ET)",
+      "matchup": "PHX@CHI",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-01_11_45PM.pdf",
-  "fetched_slot": "2026-08-01T23:45:00-04:00",
-  "polled_at_utc": "2026-08-02T03:58:29.938102+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-02_12_00AM.pdf",
+  "fetched_slot": "2026-08-02T00:00:00-04:00",
+  "polled_at_utc": "2026-08-02T04:00:53.963515+00:00"
 }
