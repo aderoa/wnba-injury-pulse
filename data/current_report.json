@@ -1,5 +1,5 @@
 {
-  "report_ts": "08/02/26 02:45 PM",
+  "report_ts": "08/02/26 03:00 PM",
   "page_count": 2,
   "raw_line_count": 26,
   "teams": [
@@ -162,7 +162,7 @@
         {
           "name_last_first": "TorontoTempo Mabrey, Marina",
           "name": "Marina TorontoTempo Mabrey",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Neck; Injury",
           "reason_category": "injury"
         },
@@ -254,7 +254,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-02_02_45PM.pdf",
-  "fetched_slot": "2026-08-02T14:45:00-04:00",
-  "polled_at_utc": "2026-08-02T18:45:13.890900+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-02_03_00PM.pdf",
+  "fetched_slot": "2026-08-02T15:00:00-04:00",
+  "polled_at_utc": "2026-08-02T19:00:19.926276+00:00"
 }
