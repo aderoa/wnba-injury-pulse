@@ -16243,5 +16243,34 @@
     "player": "Emma Cechova",
     "previous_status": "Out",
     "previous_reason": "Injury/Illness - Right Knee; Right Knee"
+  },
+  {
+    "ts": "2026-08-02T16:15:23.028084+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Bree Hall",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-02T16:15:23.028084+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Back; Back",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-02T16:15:23.028084+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Aliyah Boston",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Leg; Lower",
+    "reason_category": "injury"
   }
 ]

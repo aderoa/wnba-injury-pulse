@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/02/26 12:00 PM",
+  "report_ts": "08/02/26 12:15 PM",
   "page_count": 2,
-  "raw_line_count": 24,
+  "raw_line_count": 25,
   "teams": [
     {
       "team_full": "Indiana Fever",
@@ -14,14 +14,14 @@
         {
           "name_last_first": "Boston, Aliyah",
           "name": "Aliyah Boston",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness - Right Leg; Lower",
           "reason_category": "injury"
         },
         {
           "name_last_first": "Clark, Caitlin",
           "name": "Caitlin Clark",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness - Back; Back",
           "reason_category": "injury"
         },
@@ -31,6 +31,13 @@
           "status": "Out",
           "reason": "Not With Team",
           "reason_category": "offcourt"
+        },
+        {
+          "name_last_first": "Hall, Bree",
+          "name": "Bree Hall",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         },
         {
           "name_last_first": "Onyiah, Ugonne",
@@ -226,7 +233,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-02_12_00PM.pdf",
-  "fetched_slot": "2026-08-02T12:00:00-04:00",
-  "polled_at_utc": "2026-08-02T16:13:29.897580+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-02_12_15PM.pdf",
+  "fetched_slot": "2026-08-02T12:15:00-04:00",
+  "polled_at_utc": "2026-08-02T16:15:23.028084+00:00"
 }
