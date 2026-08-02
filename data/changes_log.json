@@ -16444,5 +16444,14 @@
     "player": "Kara Dunn",
     "previous_status": "Out",
     "previous_reason": "Player Coach's Decision - Developmental Player"
+  },
+  {
+    "ts": "2026-08-02T22:15:14.527810+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Hailey VanLith",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
