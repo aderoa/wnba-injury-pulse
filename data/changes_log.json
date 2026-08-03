@@ -16508,5 +16508,25 @@
     "to_status": "Available",
     "reason": "-",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-08-03T21:15:18.146200+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "Sami Whitcomb",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Results Injury/Illness - Left Knee; Injury Management",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-03T21:15:18.146200+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "Kelsey Plum",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness--; Pending Physical",
+    "reason_category": "injury"
   }
 ]

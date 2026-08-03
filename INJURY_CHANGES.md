@@ -4,6 +4,11 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-08-03 21:15 UTC
+
+- **Sami Whitcomb** (PHX): **Probable** → **Available** — Results Injury/Illness - Left Knee; Injury Management
+- **Kelsey Plum** (PHX): **Questionable** → **Available** — Injury/Illness--; Pending Physical
+
 ## 2026-08-03 00:00 UTC
 
 - **Gabby Williams** (GSV): **Questionable** → **Available** — -
