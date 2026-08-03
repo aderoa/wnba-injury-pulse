@@ -1,5 +1,5 @@
 {
-  "report_ts": "08/02/26 07:45 PM",
+  "report_ts": "08/02/26 08:00 PM",
   "page_count": 2,
   "raw_line_count": 38,
   "teams": [
@@ -238,9 +238,9 @@
         {
           "name_last_first": "Williams, Gabby",
           "name": "Gabby Williams",
-          "status": "Questionable",
-          "reason": "Injury/Illness - Na; Reconditioning",
-          "reason_category": "injury"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
         }
       ]
     },
@@ -368,7 +368,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-02_07_45PM.pdf",
-  "fetched_slot": "2026-08-02T19:45:00-04:00",
-  "polled_at_utc": "2026-08-02T23:45:14.757621+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-02_08_00PM.pdf",
+  "fetched_slot": "2026-08-02T20:00:00-04:00",
+  "polled_at_utc": "2026-08-03T00:00:14.871275+00:00"
 }
