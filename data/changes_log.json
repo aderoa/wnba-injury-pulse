@@ -16601,5 +16601,23 @@
     "from_reason": "Injury/Illness--; Pending Physical",
     "to_reason": "Player Injury/Illness--; Pending Physical",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-04T21:00:17.797121+00:00",
+    "type": "reason_change",
+    "team_abbr": "SEA",
+    "player": "Taina Mair",
+    "status": "Out",
+    "from_reason": "Coach's Decision - Coach's Decision",
+    "to_reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-04T21:00:17.797121+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Anneli Maley",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental Player"
   }
 ]
