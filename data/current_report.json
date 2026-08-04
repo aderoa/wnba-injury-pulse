@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/04/26 05:15 PM",
+  "report_ts": "08/04/26 05:30 PM",
   "page_count": 1,
-  "raw_line_count": 11,
+  "raw_line_count": 10,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -62,15 +62,6 @@
       ]
     },
     {
-      "team_full": "Los Angeles Sparks",
-      "team_abbr": "LAS",
-      "game_date": "08/05/2026",
-      "game_time": "09:00(ET)",
-      "matchup": "LAS@CHI",
-      "submitted": false,
-      "players": []
-    },
-    {
       "team_full": "Chicago Sky",
       "team_abbr": "CHI",
       "game_date": "08/05/2026",
@@ -80,7 +71,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-04_05_15PM.pdf",
-  "fetched_slot": "2026-08-04T17:15:00-04:00",
-  "polled_at_utc": "2026-08-04T21:15:18.874011+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-04_05_30PM.pdf",
+  "fetched_slot": "2026-08-04T17:30:00-04:00",
+  "polled_at_utc": "2026-08-04T21:30:28.453123+00:00"
 }
