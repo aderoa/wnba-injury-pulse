@@ -16564,5 +16564,14 @@
     "status": "Out",
     "reason": "Injury/Illness - Left Foot; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-04T00:15:15.400910+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Maddy Westbeld",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
