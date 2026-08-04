@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/03/26 08:15 PM",
-  "page_count": 1,
-  "raw_line_count": 22,
+  "report_ts": "08/03/26 08:30 PM",
+  "page_count": 2,
+  "raw_line_count": 28,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -94,10 +94,24 @@
       "submitted": true,
       "players": [
         {
+          "name_last_first": "Ciezki, Shay",
+          "name": "Shay Ciezki",
+          "status": "Out",
+          "reason": "Coach's Decision - Developmental",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Dunn, Kara",
+          "name": "Kara Dunn",
+          "status": "Out",
+          "reason": "Player Coach's Decision - Developmental",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Plum, Kelsey",
           "name": "Kelsey Plum",
           "status": "Available",
-          "reason": "Injury/Illness--; Pending Physical",
+          "reason": "Player Injury/Illness--; Pending Physical",
           "reason_category": "injury"
         },
         {
@@ -172,7 +186,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-03_08_15PM.pdf",
-  "fetched_slot": "2026-08-03T20:15:00-04:00",
-  "polled_at_utc": "2026-08-04T00:15:15.400910+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-03_08_30PM.pdf",
+  "fetched_slot": "2026-08-03T20:30:00-04:00",
+  "polled_at_utc": "2026-08-04T00:30:24.880603+00:00"
 }

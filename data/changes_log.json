@@ -16573,5 +16573,33 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-04T00:30:24.880603+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Shay Ciezki",
+    "status": "Out",
+    "reason": "Coach's Decision - Developmental",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-04T00:30:24.880603+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Kara Dunn",
+    "status": "Out",
+    "reason": "Player Coach's Decision - Developmental",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-04T00:30:24.880603+00:00",
+    "type": "reason_change",
+    "team_abbr": "PHX",
+    "player": "Kelsey Plum",
+    "status": "Available",
+    "from_reason": "Injury/Illness--; Pending Physical",
+    "to_reason": "Player Injury/Illness--; Pending Physical",
+    "reason_category": "injury"
   }
 ]

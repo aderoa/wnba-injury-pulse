@@ -4,6 +4,12 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-08-04 00:30 UTC
+
+- **Shay Ciezki** (PHX) newly listed as **Out** — Coach's Decision - Developmental
+- **Kara Dunn** (PHX) newly listed as **Out** — Player Coach's Decision - Developmental
+- **Kelsey Plum** (PHX, Available): reason updated (Injury/Illness--; Pending Physical → Player Injury/Illness--; Pending Physical)
+
 ## 2026-08-04 00:15 UTC
 
 - **Maddy Westbeld** (CHI) newly listed as **Out** — Coach's Decision

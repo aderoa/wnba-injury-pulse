@@ -108,8 +108,8 @@
   "PHX": {
     "team_full": "Phoenix Mercury",
     "submitted": true,
-    "last_submitted_ts": "2026-08-04T00:15:15.400910+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-03_08_15PM.pdf",
+    "last_submitted_ts": "2026-08-04T00:30:24.880603+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-03_08_30PM.pdf",
     "game_dates": [
       "08/03/2026"
     ],
@@ -118,10 +118,24 @@
     ],
     "players": [
       {
+        "name_last_first": "Ciezki, Shay",
+        "name": "Shay Ciezki",
+        "status": "Out",
+        "reason": "Coach's Decision - Developmental",
+        "reason_category": "rest_coach"
+      },
+      {
+        "name_last_first": "Dunn, Kara",
+        "name": "Kara Dunn",
+        "status": "Out",
+        "reason": "Player Coach's Decision - Developmental",
+        "reason_category": "rest_coach"
+      },
+      {
         "name_last_first": "Plum, Kelsey",
         "name": "Kelsey Plum",
         "status": "Available",
-        "reason": "Injury/Illness--; Pending Physical",
+        "reason": "Player Injury/Illness--; Pending Physical",
         "reason_category": "injury"
       },
       {
@@ -136,8 +150,8 @@
   "LVA": {
     "team_full": "Las Vegas Aces",
     "submitted": true,
-    "last_submitted_ts": "2026-08-04T00:15:15.400910+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-03_08_15PM.pdf",
+    "last_submitted_ts": "2026-08-04T00:30:24.880603+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-03_08_30PM.pdf",
     "game_dates": [
       "08/03/2026"
     ],
@@ -157,8 +171,8 @@
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-08-04T00:15:15.400910+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-03_08_15PM.pdf",
+    "last_submitted_ts": "2026-08-04T00:30:24.880603+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-03_08_30PM.pdf",
     "game_dates": [
       "08/03/2026"
     ],
@@ -199,8 +213,8 @@
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-08-04T00:15:15.400910+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-03_08_15PM.pdf",
+    "last_submitted_ts": "2026-08-04T00:30:24.880603+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-03_08_30PM.pdf",
     "game_dates": [
       "08/03/2026",
       "08/04/2026"
@@ -292,8 +306,8 @@
   "SEA": {
     "team_full": "Seattle Storm",
     "submitted": true,
-    "last_submitted_ts": "2026-08-04T00:15:15.400910+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-03_08_15PM.pdf",
+    "last_submitted_ts": "2026-08-04T00:30:24.880603+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-03_08_30PM.pdf",
     "game_dates": [
       "08/03/2026"
     ],
@@ -348,8 +362,8 @@
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-08-04T00:15:15.400910+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-03_08_15PM.pdf",
+    "last_submitted_ts": "2026-08-04T00:30:24.880603+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-03_08_30PM.pdf",
     "game_dates": [
       "08/03/2026"
     ],
