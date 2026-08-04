@@ -16619,5 +16619,46 @@
     "player": "Anneli Maley",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision - Developmental Player"
+  },
+  {
+    "ts": "2026-08-04T22:00:14.420081+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Sydney Taylor",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Left Groin; Left Groin",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-04T22:00:14.420081+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Maddy Westbeld",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-04T22:00:14.420081+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Marina TorontoTempo Mabrey",
+    "previous_status": "Questionable",
+    "previous_reason": "Injury/Illness - Neck; Injury"
+  },
+  {
+    "ts": "2026-08-04T22:00:14.420081+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Aneesah Morrow",
+    "previous_status": "Probable",
+    "previous_reason": "Returnto Competition Reconditioning"
+  },
+  {
+    "ts": "2026-08-04T22:00:14.420081+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Brittney Sykes",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Foot; Injury"
   }
 ]

@@ -4,6 +4,14 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-08-04 22:00 UTC
+
+- **Sydney Taylor** (CHI) newly listed as **Questionable** — Injury/Illness - Left Groin; Left Groin
+- **Maddy Westbeld** (CHI) cleared (was Out)
+- **Marina TorontoTempo Mabrey** (CHI) cleared (was Questionable)
+- **Aneesah Morrow** (CHI) cleared (was Probable)
+- **Brittney Sykes** (CHI) cleared (was Out)
+
 ## 2026-08-04 21:00 UTC
 
 - **Taina Mair** (SEA, Out): reason updated (Coach's Decision - Coach's Decision → Coach's Decision)

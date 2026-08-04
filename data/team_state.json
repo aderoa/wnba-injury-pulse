@@ -173,8 +173,8 @@
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-08-04T21:59:06.427264+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-04_05_45PM.pdf",
+    "last_submitted_ts": "2026-08-04T22:00:14.420081+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-04_06_00PM.pdf",
     "game_dates": [
       "08/05/2026"
     ],
@@ -215,15 +215,13 @@
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-08-04T03:45:12.739276+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-03_11_45PM.pdf",
+    "last_submitted_ts": "2026-08-04T22:00:14.420081+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-04_06_00PM.pdf",
     "game_dates": [
-      "08/03/2026",
-      "08/04/2026"
+      "08/05/2026"
     ],
     "matchups": [
-      "PHX@CHI",
-      "TOR@GSV"
+      "LAS@CHI"
     ],
     "players": [
       {
@@ -241,35 +239,13 @@
         "reason_category": "offcourt"
       },
       {
-        "name_last_first": "Westbeld, Maddy",
-        "name": "Maddy Westbeld",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
-      },
-      {
-        "name_last_first": "TorontoTempo Mabrey, Marina",
-        "name": "Marina TorontoTempo Mabrey",
+        "name_last_first": "Taylor, Sydney",
+        "name": "Sydney Taylor",
         "status": "Questionable",
-        "reason": "Injury/Illness - Neck; Injury",
-        "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Morrow, Aneesah",
-        "name": "Aneesah Morrow",
-        "status": "Probable",
-        "reason": "Returnto Competition Reconditioning",
-        "reason_category": "other"
-      },
-      {
-        "name_last_first": "Sykes, Brittney",
-        "name": "Brittney Sykes",
-        "status": "Out",
-        "reason": "Injury/Illness - Left Foot; Injury",
+        "reason": "Injury/Illness - Left Groin; Left Groin",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-08-04T21:59:06.427264+00:00"
+    ]
   },
   "PDX": {
     "team_full": "Portland Fire",
@@ -309,8 +285,8 @@
   "SEA": {
     "team_full": "Seattle Storm",
     "submitted": true,
-    "last_submitted_ts": "2026-08-04T21:59:06.427264+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-04_05_45PM.pdf",
+    "last_submitted_ts": "2026-08-04T22:00:14.420081+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-04_06_00PM.pdf",
     "game_dates": [
       "08/05/2026"
     ],
@@ -365,8 +341,8 @@
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-08-04T21:59:06.427264+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-04_05_45PM.pdf",
+    "last_submitted_ts": "2026-08-04T22:00:14.420081+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-04_06_00PM.pdf",
     "game_dates": [
       "08/05/2026"
     ],
