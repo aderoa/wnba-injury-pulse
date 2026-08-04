@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-08-04T15:45:19.779004+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-04_11_45AM.pdf",
-  "report_ts": "08/04/26 11:45 AM",
+  "polled_at_utc": "2026-08-04T16:00:25.279353+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-04_12_00PM.pdf",
+  "report_ts": "08/04/26 12:00 PM",
   "all_players": [
     {
       "name": "Aaliyah Edwards",
@@ -370,7 +370,7 @@
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
       "last_submitted_ts": "2026-08-04T03:45:12.739276+00:00",
-      "last_seen_pending_ts": "2026-08-04T15:45:19.779004+00:00",
+      "last_seen_pending_ts": "2026-08-04T16:00:25.279353+00:00",
       "matchups": [
         "LVA@ATL"
       ],
@@ -388,7 +388,7 @@
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
       "last_submitted_ts": "2026-08-04T03:45:12.739276+00:00",
-      "last_seen_pending_ts": "2026-08-04T15:45:19.779004+00:00",
+      "last_seen_pending_ts": "2026-08-04T16:00:25.279353+00:00",
       "matchups": [
         "PHX@CHI",
         "TOR@GSV"
@@ -474,7 +474,7 @@
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
       "last_submitted_ts": "2026-08-03T03:45:17.905639+00:00",
-      "last_seen_pending_ts": "2026-08-04T15:45:19.779004+00:00",
+      "last_seen_pending_ts": "2026-08-04T16:00:25.279353+00:00",
       "matchups": [
         "CON@DAL",
         "TOR@GSV"
@@ -599,7 +599,7 @@
       "team_abbr": "LAS",
       "team_full": "Los Angeles Sparks",
       "last_submitted_ts": "2026-08-03T03:45:17.905639+00:00",
-      "last_seen_pending_ts": "2026-08-04T15:45:19.779004+00:00",
+      "last_seen_pending_ts": "2026-08-04T16:00:25.279353+00:00",
       "matchups": [
         "LAS@PDX"
       ],
@@ -667,7 +667,7 @@
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
       "last_submitted_ts": "2026-08-04T03:45:12.739276+00:00",
-      "last_seen_pending_ts": "2026-08-04T15:45:19.779004+00:00",
+      "last_seen_pending_ts": "2026-08-04T16:00:25.279353+00:00",
       "matchups": [
         "SEA@NYL"
       ],
@@ -731,7 +731,7 @@
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
       "last_submitted_ts": "2026-08-04T03:45:12.739276+00:00",
-      "last_seen_pending_ts": "2026-08-04T15:45:19.779004+00:00",
+      "last_seen_pending_ts": "2026-08-04T16:00:25.279353+00:00",
       "matchups": [
         "PHX@CHI"
       ],
@@ -770,7 +770,7 @@
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
       "last_submitted_ts": "2026-08-04T03:45:12.739276+00:00",
-      "last_seen_pending_ts": "2026-08-04T15:45:19.779004+00:00",
+      "last_seen_pending_ts": "2026-08-04T16:00:25.279353+00:00",
       "matchups": [
         "SEA@NYL"
       ],
@@ -788,7 +788,7 @@
       "team_abbr": "WAS",
       "team_full": "Washington Mystics",
       "last_submitted_ts": "2026-08-01T03:45:54.482410+00:00",
-      "last_seen_pending_ts": "2026-08-04T15:45:19.779004+00:00",
+      "last_seen_pending_ts": "2026-08-04T16:00:25.279353+00:00",
       "matchups": [
         "DAL@WAS"
       ],
