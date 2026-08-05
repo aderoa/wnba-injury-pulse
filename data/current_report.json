@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/05/26 04:45 PM",
+  "report_ts": "08/05/26 05:00 PM",
   "page_count": 1,
-  "raw_line_count": 14,
+  "raw_line_count": 16,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -132,8 +132,30 @@
       "game_date": "08/06/2026",
       "game_time": "07:00(ET)",
       "matchup": "LVA@IND",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Boston, Aliyah",
+          "name": "Aliyah Boston",
+          "status": "Probable",
+          "reason": "Injury/Illness - Right Leg; Lower",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Clark, Caitlin",
+          "name": "Caitlin Clark",
+          "status": "Probable",
+          "reason": "Injury/Illness - Back; Back",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Dantas, Damiris",
+          "name": "Damiris Dantas",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Left Knee",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Los Angeles Sparks",
@@ -172,7 +194,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-05_04_45PM.pdf",
-  "fetched_slot": "2026-08-05T16:45:00-04:00",
-  "polled_at_utc": "2026-08-05T20:45:52.556611+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-05_05_00PM.pdf",
+  "fetched_slot": "2026-08-05T17:00:00-04:00",
+  "polled_at_utc": "2026-08-05T21:00:55.102310+00:00"
 }
