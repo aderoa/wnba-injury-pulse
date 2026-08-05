@@ -16800,5 +16800,22 @@
     "to_status": "Out",
     "reason": "Injury/Illness - back; n/a",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-05T22:00:57.755618+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Chloe Bibby",
+    "status": "Out",
+    "reason": "Personal Reasons",
+    "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-08-05T22:00:57.755618+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Liatu King",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]
