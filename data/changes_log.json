@@ -16677,5 +16677,62 @@
     "player": "Gabby Williams",
     "previous_status": "Available",
     "previous_reason": "-"
+  },
+  {
+    "ts": "2026-08-05T15:31:03.174100+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Alysha Clark",
+    "status": "Questionable",
+    "reason": "Injury/Illness - back; n/a",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-05T15:31:03.174100+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Haley Jones",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-05T15:31:03.174100+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Costanza Verona",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-05T15:31:03.174100+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Ornella TorontoTempo Bankole",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-05T15:31:03.174100+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Marina Mabrey",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Neck; Injury"
+  },
+  {
+    "ts": "2026-08-05T15:31:03.174100+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Aneesah Morrow",
+    "previous_status": "Out",
+    "previous_reason": "Returnto Competition Reconditioning"
+  },
+  {
+    "ts": "2026-08-05T15:31:03.174100+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Brittney Sykes",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Foot; Injury"
   }
 ]
