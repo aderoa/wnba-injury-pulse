@@ -16734,5 +16734,15 @@
     "player": "Brittney Sykes",
     "previous_status": "Out",
     "previous_reason": "Injury/Illness - Left Foot; Injury"
+  },
+  {
+    "ts": "2026-08-05T20:31:01.168127+00:00",
+    "type": "reason_change",
+    "team_abbr": "LVA",
+    "player": "Cheyenne Parker-Tyus",
+    "status": "Out",
+    "from_reason": "Not With Team",
+    "to_reason": "Concussion Protocol",
+    "reason_category": "procedural"
   }
 ]
