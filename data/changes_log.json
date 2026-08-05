@@ -16790,5 +16790,15 @@
     "to_status": "Probable",
     "reason": "Injury/Illness - Right Leg; Lower",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-05T21:15:46.053113+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Alysha Clark",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - back; n/a",
+    "reason_category": "injury"
   }
 ]
