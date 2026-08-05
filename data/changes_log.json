@@ -16660,5 +16660,22 @@
     "player": "Brittney Sykes",
     "previous_status": "Out",
     "previous_reason": "Injury/Illness - Left Foot; Injury"
+  },
+  {
+    "ts": "2026-08-05T01:15:57.014691+00:00",
+    "type": "added",
+    "team_abbr": "GSV",
+    "player": "Ashten Prechtel",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-05T01:15:57.014691+00:00",
+    "type": "cleared",
+    "team_abbr": "GSV",
+    "player": "Gabby Williams",
+    "previous_status": "Available",
+    "previous_reason": "-"
   }
 ]

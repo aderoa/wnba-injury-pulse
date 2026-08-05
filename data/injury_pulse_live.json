@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-08-05T01:01:02.115797+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-04_09_00PM.pdf",
-  "report_ts": "08/04/26 09:00 PM",
+  "polled_at_utc": "2026-08-05T01:15:57.014691+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-04_09_15PM.pdf",
+  "report_ts": "08/04/26 09:15 PM",
   "all_players": [
     {
       "name": "Aaliyah Edwards",
@@ -32,13 +32,22 @@
       "last_updated": "2026-08-03T03:45:17.905639+00:00"
     },
     {
+      "name": "Ashten Prechtel",
+      "team_abbr": "GSV",
+      "team_full": "Golden State Valkyries",
+      "status": "Out",
+      "reason": "Coach's Decision",
+      "reason_category": "rest_coach",
+      "last_updated": "2026-08-05T01:15:57.014691+00:00"
+    },
+    {
       "name": "Azura Stevens",
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
       "status": "Out",
       "reason": "Personal Reasons",
       "reason_category": "offcourt",
-      "last_updated": "2026-08-05T01:01:02.115797+00:00"
+      "last_updated": "2026-08-05T01:15:57.014691+00:00"
     },
     {
       "name": "Bree Hall",
@@ -155,7 +164,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Foot; L.Foot",
       "reason_category": "injury",
-      "last_updated": "2026-08-05T01:01:02.115797+00:00"
+      "last_updated": "2026-08-05T01:15:57.014691+00:00"
     },
     {
       "name": "Liatu King",
@@ -182,7 +191,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-08-03T03:45:17.905639+00:00"
+      "last_updated": "2026-08-05T01:15:57.014691+00:00"
     },
     {
       "name": "Ornella TorontoTempo Bankole",
@@ -218,7 +227,7 @@
       "status": "Out",
       "reason": "Concussion Protocol",
       "reason_category": "procedural",
-      "last_updated": "2026-08-05T01:01:02.115797+00:00"
+      "last_updated": "2026-08-05T01:15:57.014691+00:00"
     },
     {
       "name": "Shay Ciezki",
@@ -236,7 +245,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; Right Knee",
       "reason_category": "injury",
-      "last_updated": "2026-08-05T01:01:02.115797+00:00"
+      "last_updated": "2026-08-05T01:15:57.014691+00:00"
     },
     {
       "name": "Taina Mair",
@@ -245,7 +254,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-08-05T01:01:02.115797+00:00"
+      "last_updated": "2026-08-05T01:15:57.014691+00:00"
     },
     {
       "name": "Te-Hina Paopao",
@@ -254,7 +263,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Leg; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-08-05T01:01:02.115797+00:00"
+      "last_updated": "2026-08-05T01:15:57.014691+00:00"
     },
     {
       "name": "Tonie Morgan",
@@ -281,7 +290,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Left Groin; Left Groin",
       "reason_category": "injury",
-      "last_updated": "2026-08-05T01:01:02.115797+00:00"
+      "last_updated": "2026-08-05T01:15:57.014691+00:00"
     },
     {
       "name": "Aliyah Boston",
@@ -299,15 +308,6 @@
       "status": "Available",
       "reason": "Injury/Illness - Back; Back",
       "reason_category": "injury",
-      "last_updated": "2026-08-03T03:45:17.905639+00:00"
-    },
-    {
-      "name": "Gabby Williams",
-      "team_abbr": "GSV",
-      "team_full": "Golden State Valkyries",
-      "status": "Available",
-      "reason": "-",
-      "reason_category": "other",
       "last_updated": "2026-08-03T03:45:17.905639+00:00"
     },
     {
@@ -333,7 +333,7 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-08-05T01:01:02.115797+00:00",
+      "last_submitted_ts": "2026-08-05T01:15:57.014691+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "PHX@ATL"
@@ -351,7 +351,7 @@
     {
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
-      "last_submitted_ts": "2026-08-05T01:01:02.115797+00:00",
+      "last_submitted_ts": "2026-08-05T01:15:57.014691+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "LAS@CHI"
@@ -469,25 +469,25 @@
     {
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
-      "last_submitted_ts": "2026-08-03T03:45:17.905639+00:00",
-      "last_seen_pending_ts": "2026-08-03T23:50:02.755371+00:00",
+      "last_submitted_ts": "2026-08-05T01:15:57.014691+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
         "TOR@GSV"
       ],
       "players": [
+        {
+          "name_last_first": "Prechtel, Ashten",
+          "name": "Ashten Prechtel",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
         {
           "name_last_first": "Sowah, Miela",
           "name": "Miela Sowah",
           "status": "Out",
           "reason": "Coach's Decision",
           "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Williams, Gabby",
-          "name": "Gabby Williams",
-          "status": "Available",
-          "reason": "-",
-          "reason_category": "other"
         }
       ]
     },
@@ -608,7 +608,7 @@
     {
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
-      "last_submitted_ts": "2026-08-05T01:01:02.115797+00:00",
+      "last_submitted_ts": "2026-08-05T01:15:57.014691+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "SEA@NYL"
@@ -704,7 +704,7 @@
     {
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
-      "last_submitted_ts": "2026-08-05T01:01:02.115797+00:00",
+      "last_submitted_ts": "2026-08-05T01:15:57.014691+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "SEA@NYL"
@@ -739,6 +739,23 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-08-05T01:15:57.014691+00:00",
+      "type": "cleared",
+      "team_abbr": "GSV",
+      "player": "Gabby Williams",
+      "previous_status": "Available",
+      "previous_reason": "-"
+    },
+    {
+      "ts": "2026-08-05T01:15:57.014691+00:00",
+      "type": "added",
+      "team_abbr": "GSV",
+      "player": "Ashten Prechtel",
+      "status": "Out",
+      "reason": "Coach's Decision",
+      "reason_category": "rest_coach"
+    },
     {
       "ts": "2026-08-04T22:00:14.420081+00:00",
       "type": "cleared",
@@ -2966,26 +2983,6 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach"
-    },
-    {
-      "ts": "2026-07-19T21:30:22.630464+00:00",
-      "type": "reason_change",
-      "team_abbr": "LVA",
-      "player": "Kierstan Bell",
-      "status": "Out",
-      "from_reason": "Management Injury/Illness - Right Leg; rightleg injury",
-      "to_reason": "Injury/Illness - Right Leg; rightleg injury",
-      "reason_category": "injury"
-    },
-    {
-      "ts": "2026-07-19T21:30:22.630464+00:00",
-      "type": "status_change",
-      "team_abbr": "PHX",
-      "player": "Natasha Mack",
-      "from_status": "Probable",
-      "to_status": "Available",
-      "reason": "Injury/Illness - Left Foot;-",
-      "reason_category": "injury"
     }
   ]
 }
