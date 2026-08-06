@@ -16992,5 +16992,73 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Left Knee;-",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-06T22:59:59.183936+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Dana Evans",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - N/a; illness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-06T22:59:59.183936+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Bree Hall",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-06T22:59:59.183936+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Michelle Onyiah",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-06T22:59:59.183936+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-08-06T22:59:59.183936+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Aliyah Boston",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-08-06T22:59:59.183936+00:00",
+    "type": "status_change",
+    "team_abbr": "MIN",
+    "player": "Marina TorontoTempo Mabrey",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Neck; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-06T22:59:59.183936+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Alysha Clark",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Back; n/a",
+    "reason_category": "injury"
   }
 ]
