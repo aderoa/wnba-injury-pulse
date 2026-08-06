@@ -16923,5 +16923,74 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Left Groin; Left Groin",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-06T21:23:19.125895+00:00",
+    "type": "added",
+    "team_abbr": "LVA",
+    "player": "Dana Evans",
+    "status": "Questionable",
+    "reason": "Injury/Illness - N/a; illness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-06T21:23:19.125895+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Ariel Atkins",
+    "status": "Probable",
+    "reason": "Injury/Illness - Ribs; Ribs",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-06T21:23:19.125895+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Tonie Morgan",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Coach\u2019sdecision"
+  },
+  {
+    "ts": "2026-08-06T21:23:19.125895+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Alissa Pili",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Coach\u2019sdecision"
+  },
+  {
+    "ts": "2026-08-06T21:23:19.125895+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Raegan Beers",
+    "status": "Out",
+    "reason": "Concussion Protocol",
+    "reason_category": "procedural"
+  },
+  {
+    "ts": "2026-08-06T21:23:19.125895+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Aaliyah Edwards",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Right Knee;-"
+  },
+  {
+    "ts": "2026-08-06T21:23:19.125895+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Hailey VanLith",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-06T21:23:19.125895+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Brittney Griner",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Knee;-",
+    "reason_category": "injury"
   }
 ]

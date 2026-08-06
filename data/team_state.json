@@ -19,13 +19,13 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-08-06T16:34:48.775871+00:00"
+    "last_seen_pending_ts": "2026-08-06T21:23:19.125895+00:00"
   },
   "IND": {
     "team_full": "Indiana Fever",
     "submitted": true,
-    "last_submitted_ts": "2026-08-06T16:34:48.775871+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-06_12_30PM.pdf",
+    "last_submitted_ts": "2026-08-06T21:23:19.125895+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-06_05_15PM.pdf",
     "game_dates": [
       "08/06/2026"
     ],
@@ -88,8 +88,8 @@
   "LVA": {
     "team_full": "Las Vegas Aces",
     "submitted": true,
-    "last_submitted_ts": "2026-08-06T16:34:48.775871+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-06_12_30PM.pdf",
+    "last_submitted_ts": "2026-08-06T21:23:19.125895+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-06_05_15PM.pdf",
     "game_dates": [
       "08/06/2026"
     ],
@@ -97,6 +97,13 @@
       "LVA@IND"
     ],
     "players": [
+      {
+        "name_last_first": "Evans, Dana",
+        "name": "Dana Evans",
+        "status": "Questionable",
+        "reason": "Injury/Illness - N/a; illness",
+        "reason_category": "injury"
+      },
       {
         "name_last_first": "Parker-Tyus, Cheyenne",
         "name": "Cheyenne Parker-Tyus",
@@ -109,13 +116,13 @@
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-08-06T03:45:46.569372+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-05_11_45PM.pdf",
+    "last_submitted_ts": "2026-08-06T21:23:19.125895+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-06_05_15PM.pdf",
     "game_dates": [
-      "08/05/2026"
+      "08/07/2026"
     ],
     "matchups": [
-      "PHX@ATL"
+      "ATL@WAS"
     ],
     "players": [
       {
@@ -125,14 +132,13 @@
         "reason": "Injury/Illness - Right Leg; N/A",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-08-06T16:34:48.775871+00:00"
+    ]
   },
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-08-06T16:34:48.775871+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-06_12_30PM.pdf",
+    "last_submitted_ts": "2026-08-06T21:23:19.125895+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-06_05_15PM.pdf",
     "game_dates": [
       "08/06/2026"
     ],
@@ -209,8 +215,8 @@
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-08-06T16:34:48.775871+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-06_12_30PM.pdf",
+    "last_submitted_ts": "2026-08-06T21:23:19.125895+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-06_05_15PM.pdf",
     "game_dates": [
       "08/06/2026"
     ],
@@ -272,38 +278,30 @@
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-08-03T03:45:17.905639+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-02_11_45PM.pdf",
+    "last_submitted_ts": "2026-08-06T21:23:19.125895+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-06_05_15PM.pdf",
     "game_dates": [
-      "08/02/2026"
+      "08/07/2026"
     ],
     "matchups": [
-      "CON@DAL"
+      "PHX@CON"
     ],
     "players": [
       {
-        "name_last_first": "Edwards, Aaliyah",
-        "name": "Aaliyah Edwards",
+        "name_last_first": "Beers, Raegan",
+        "name": "Raegan Beers",
         "status": "Out",
-        "reason": "Injury/Illness - Right Knee;-",
-        "reason_category": "injury"
+        "reason": "Concussion Protocol",
+        "reason_category": "procedural"
       },
       {
         "name_last_first": "Griner, Brittney",
         "name": "Brittney Griner",
-        "status": "Out",
+        "status": "Questionable",
         "reason": "Injury/Illness - Left Knee;-",
         "reason_category": "injury"
-      },
-      {
-        "name_last_first": "VanLith, Hailey",
-        "name": "Hailey VanLith",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
       }
-    ],
-    "last_seen_pending_ts": "2026-08-06T16:34:48.775871+00:00"
+    ]
   },
   "NYL": {
     "team_full": "New York Liberty",
@@ -389,37 +387,27 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-08-06T16:34:48.775871+00:00"
+    "last_seen_pending_ts": "2026-08-06T21:23:19.125895+00:00"
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",
     "submitted": true,
-    "last_submitted_ts": "2026-08-06T03:45:46.569372+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-05_11_45PM.pdf",
+    "last_submitted_ts": "2026-08-06T21:23:19.125895+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-06_05_15PM.pdf",
     "game_dates": [
-      "08/05/2026",
       "08/06/2026"
     ],
     "matchups": [
-      "LAS@CHI",
       "LAS@MIN"
     ],
     "players": [
       {
-        "name_last_first": "Morgan, Tonie",
-        "name": "Tonie Morgan",
-        "status": "Out",
-        "reason": "Coach's Decision - Coach\u2019sdecision",
-        "reason_category": "rest_coach"
-      },
-      {
-        "name_last_first": "Pili, Alissa",
-        "name": "Alissa Pili",
-        "status": "Out",
-        "reason": "Coach's Decision - Coach\u2019sdecision",
-        "reason_category": "rest_coach"
+        "name_last_first": "Atkins, Ariel",
+        "name": "Ariel Atkins",
+        "status": "Probable",
+        "reason": "Injury/Illness - Ribs; Ribs",
+        "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-08-06T16:34:48.775871+00:00"
+    ]
   }
 }
