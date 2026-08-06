@@ -16913,5 +16913,15 @@
     "player": "Jordan Harrison",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-06T00:15:45.652658+00:00",
+    "type": "status_change",
+    "team_abbr": "CHI",
+    "player": "Sydney Taylor",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Groin; Left Groin",
+    "reason_category": "injury"
   }
 ]
