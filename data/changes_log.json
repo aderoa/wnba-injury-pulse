@@ -17060,5 +17060,14 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Back; n/a",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-06T23:45:46.336942+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Liatu King",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
