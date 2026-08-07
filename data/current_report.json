@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/06/26 07:45 PM",
+  "report_ts": "08/06/26 08:00 PM",
   "page_count": 2,
-  "raw_line_count": 20,
+  "raw_line_count": 22,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -83,9 +83,23 @@
         {
           "name_last_first": "Atkins, Ariel",
           "name": "Ariel Atkins",
-          "status": "Probable",
-          "reason": "Injury/Illness - Ribs; Ribs",
-          "reason_category": "injury"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
+        },
+        {
+          "name_last_first": "Morgan, Tonie",
+          "name": "Tonie Morgan",
+          "status": "Out",
+          "reason": "Coach's Decision - Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Pili, Alissa",
+          "name": "Alissa Pili",
+          "status": "Out",
+          "reason": "Coach's Decision - Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -234,7 +248,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-06_07_45PM.pdf",
-  "fetched_slot": "2026-08-06T19:45:00-04:00",
-  "polled_at_utc": "2026-08-06T23:45:46.336942+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-06_08_00PM.pdf",
+  "fetched_slot": "2026-08-06T20:00:00-04:00",
+  "polled_at_utc": "2026-08-07T00:00:48.662719+00:00"
 }

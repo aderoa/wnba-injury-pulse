@@ -17069,5 +17069,33 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-07T00:00:48.662719+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Tonie Morgan",
+    "status": "Out",
+    "reason": "Coach's Decision - Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-07T00:00:48.662719+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Alissa Pili",
+    "status": "Out",
+    "reason": "Coach's Decision - Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-07T00:00:48.662719+00:00",
+    "type": "status_change",
+    "team_abbr": "LAS",
+    "player": "Ariel Atkins",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
   }
 ]
