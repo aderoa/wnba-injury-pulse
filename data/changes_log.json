@@ -17117,5 +17117,31 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Right Foot; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-07T02:00:38.953776+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Ornella TorontoTempo Bankole",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-07T02:00:38.953776+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Marina Mabrey",
+    "status": "Available",
+    "reason": "Injury/Illness - Neck; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-07T02:00:38.953776+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Marina TorontoTempo Mabrey",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Neck; Injury"
   }
 ]

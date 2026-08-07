@@ -4,6 +4,12 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-08-07 02:00 UTC
+
+- **Ornella TorontoTempo Bankole** (MIN) newly listed as **Out** — Coach's Decision
+- **Marina Mabrey** (MIN) newly listed as **Available** — Injury/Illness - Neck; Injury
+- **Marina TorontoTempo Mabrey** (MIN) cleared (was Available)
+
 ## 2026-08-07 00:15 UTC
 
 - **Teja Oblak** (PDX): **Doubtful** → **Out** — Injury/Illness - Left Knee; Injury

@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/06/26 09:45 PM",
+  "report_ts": "08/06/26 10:00 PM",
   "page_count": 2,
-  "raw_line_count": 22,
+  "raw_line_count": 23,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -136,8 +136,15 @@
       "submitted": true,
       "players": [
         {
-          "name_last_first": "TorontoTempo Mabrey, Marina",
-          "name": "Marina TorontoTempo Mabrey",
+          "name_last_first": "TorontoTempo Bankole, Ornella",
+          "name": "Ornella TorontoTempo Bankole",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Mabrey, Marina",
+          "name": "Marina Mabrey",
           "status": "Available",
           "reason": "Injury/Illness - Neck; Injury",
           "reason_category": "injury"
@@ -248,7 +255,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-06_09_45PM.pdf",
-  "fetched_slot": "2026-08-06T21:45:00-04:00",
-  "polled_at_utc": "2026-08-07T01:45:22.044731+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-06_10_00PM.pdf",
+  "fetched_slot": "2026-08-06T22:00:00-04:00",
+  "polled_at_utc": "2026-08-07T02:00:38.953776+00:00"
 }
