@@ -17241,5 +17241,46 @@
     "player": "Maddy Westbeld",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-07T22:15:13.144034+00:00",
+    "type": "added",
+    "team_abbr": "ATL",
+    "player": "Indya Nivar",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-07T22:15:13.144034+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Liatu King",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-07T22:15:13.144034+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Ornella TorontoTempo Bankole",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-07T22:15:13.144034+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Marina Mabrey",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Neck; Injury"
+  },
+  {
+    "ts": "2026-08-07T22:15:13.144034+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Brittney Sykes",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Foot; Injury"
   }
 ]
