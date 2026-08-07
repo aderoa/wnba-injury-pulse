@@ -17097,5 +17097,25 @@
     "to_status": "Available",
     "reason": "-",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-08-07T00:15:53.462639+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Teja Oblak",
+    "from_status": "Doubtful",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Knee; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-07T00:15:53.462639+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Bridget Carleton",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Foot; Injury",
+    "reason_category": "injury"
   }
 ]
