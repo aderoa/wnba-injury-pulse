@@ -17152,5 +17152,94 @@
     "status": "Probable",
     "reason": "Injury/Illness - General; Illness",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-07T22:00:17.396073+00:00",
+    "type": "added",
+    "team_abbr": "LVA",
+    "player": "Justine Pissott",
+    "status": "Out",
+    "reason": "Injury/Illness - Right Leg; rightleg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-07T22:00:17.396073+00:00",
+    "type": "cleared",
+    "team_abbr": "LVA",
+    "player": "Dana Evans",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - N/a; illness"
+  },
+  {
+    "ts": "2026-08-07T22:00:17.396073+00:00",
+    "type": "reason_change",
+    "team_abbr": "LVA",
+    "player": "Cheyenne Parker-Tyus",
+    "status": "Out",
+    "from_reason": "Concussion Protocol",
+    "to_reason": "Not With Team",
+    "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-08-07T22:00:17.396073+00:00",
+    "type": "cleared",
+    "team_abbr": "IND",
+    "player": "Bree Hall",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-07T22:00:17.396073+00:00",
+    "type": "cleared",
+    "team_abbr": "IND",
+    "player": "Michelle Onyiah",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-07T22:00:17.396073+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Available",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Back; Back",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-07T22:00:17.396073+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Aliyah Boston",
+    "from_status": "Available",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Right Leg; Lower",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-07T22:00:17.396073+00:00",
+    "type": "reason_change",
+    "team_abbr": "IND",
+    "player": "Damiris Dantas",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Knee; Left Knee",
+    "to_reason": "Not With Team",
+    "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-08-07T22:00:17.396073+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Azura Stevens",
+    "previous_status": "Out",
+    "previous_reason": "Personal Reasons"
+  },
+  {
+    "ts": "2026-08-07T22:00:17.396073+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Maddy Westbeld",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]
