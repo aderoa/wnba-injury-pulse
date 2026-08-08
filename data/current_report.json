@@ -1,142 +1,8 @@
 {
-  "report_ts": "08/07/26 11:45 PM",
+  "report_ts": "08/08/26 12:00 AM",
   "page_count": 2,
-  "raw_line_count": 30,
+  "raw_line_count": 22,
   "teams": [
-    {
-      "team_full": "Atlanta Dream",
-      "team_abbr": "ATL",
-      "game_date": "08/07/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "ATL@WAS",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Nivar, Indya",
-          "name": "Indya Nivar",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Paopao, Te-Hina",
-          "name": "Te-Hina Paopao",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Leg; N/A",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Phoenix Mercury",
-      "team_abbr": "PHX",
-      "game_date": "08/07/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "PHX@CON",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Ciezki, Shay",
-          "name": "Shay Ciezki",
-          "status": "Out",
-          "reason": "Coach's Decision - Developmental",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Dunn, Kara",
-          "name": "Kara Dunn",
-          "status": "Out",
-          "reason": "Player Coach's Decision - Developmental Player",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Connecticut Sun",
-      "team_abbr": "CON",
-      "game_date": "08/07/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "PHX@CON",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Beers, Raegan",
-          "name": "Raegan Beers",
-          "status": "Out",
-          "reason": "Concussion Protocol",
-          "reason_category": "procedural"
-        },
-        {
-          "name_last_first": "Griner, Brittney",
-          "name": "Brittney Griner",
-          "status": "Available",
-          "reason": "Injury/Illness - Left Knee;-",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Jackson, Ashlon",
-          "name": "Ashlon Jackson",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Nelson-Ododa, Olivia",
-          "name": "Olivia Nelson-Ododa",
-          "status": "Available",
-          "reason": "Injury/Illness - General; Illness",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Golden State Valkyries",
-      "team_abbr": "GSV",
-      "game_date": "08/07/2026",
-      "game_time": "09:30(ET)",
-      "matchup": "GSV@DAL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Prechtel, Ashten",
-          "name": "Ashten Prechtel",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Sowah, Miela",
-          "name": "Miela Sowah",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Dallas Wings",
-      "team_abbr": "DAL",
-      "game_date": "08/07/2026",
-      "game_time": "09:30(ET)",
-      "matchup": "GSV@DAL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Clark, Alysha",
-          "name": "Alysha Clark",
-          "status": "Out",
-          "reason": "Injury/Illness - Back; n/a",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Fudd, Azzi",
-          "name": "Azzi Fudd",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee; rightknee",
-          "reason_category": "injury"
-        }
-      ]
-    },
     {
       "team_full": "Las Vegas Aces",
       "team_abbr": "LVA",
@@ -294,9 +160,81 @@
           "reason_category": "injury"
         }
       ]
+    },
+    {
+      "team_full": "Phoenix Mercury",
+      "team_abbr": "PHX",
+      "game_date": "08/09/2026",
+      "game_time": "03:00(ET)",
+      "matchup": "PHX@WAS",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Washington Mystics",
+      "team_abbr": "WAS",
+      "game_date": "08/09/2026",
+      "game_time": "03:00(ET)",
+      "matchup": "PHX@WAS",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Dallas Wings",
+      "team_abbr": "DAL",
+      "game_date": "08/09/2026",
+      "game_time": "03:30(ET)",
+      "matchup": "DAL@MIN",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Minnesota Lynx",
+      "team_abbr": "MIN",
+      "game_date": "08/09/2026",
+      "game_time": "03:30(ET)",
+      "matchup": "DAL@MIN",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Golden State Valkyries",
+      "team_abbr": "GSV",
+      "game_date": "08/09/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "GSV@LAS",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Los Angeles Sparks",
+      "team_abbr": "LAS",
+      "game_date": "08/09/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "GSV@LAS",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Las Vegas Aces",
+      "team_abbr": "LVA",
+      "game_date": "08/09/2026",
+      "game_time": "12:30(ET)",
+      "matchup": "LVA@NYL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "New York Liberty",
+      "team_abbr": "NYL",
+      "game_date": "08/09/2026",
+      "game_time": "12:30(ET)",
+      "matchup": "LVA@NYL",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-07_11_45PM.pdf",
-  "fetched_slot": "2026-08-07T23:45:00-04:00",
-  "polled_at_utc": "2026-08-08T03:58:32.493652+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-08_12_00AM.pdf",
+  "fetched_slot": "2026-08-08T00:00:00-04:00",
+  "polled_at_utc": "2026-08-08T04:00:21.039696+00:00"
 }
