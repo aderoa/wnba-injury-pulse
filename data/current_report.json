@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/08/26 02:15 PM",
+  "report_ts": "08/08/26 02:30 PM",
   "page_count": 2,
-  "raw_line_count": 23,
+  "raw_line_count": 25,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -62,16 +62,16 @@
         {
           "name_last_first": "Boston, Aliyah",
           "name": "Aliyah Boston",
-          "status": "Probable",
-          "reason": "Injury/Illness - Right Leg; Lower",
-          "reason_category": "injury"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
         },
         {
           "name_last_first": "Clark, Caitlin",
           "name": "Caitlin Clark",
-          "status": "Probable",
-          "reason": "Injury/Illness - Back; Back",
-          "reason_category": "injury"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
         },
         {
           "name_last_first": "Dantas, Damiris",
@@ -79,6 +79,20 @@
           "status": "Out",
           "reason": "Not With Team",
           "reason_category": "offcourt"
+        },
+        {
+          "name_last_first": "Hall, Bree",
+          "name": "Bree Hall",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Onyiah, Michelle",
+          "name": "Michelle Onyiah",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -241,7 +255,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-08_02_15PM.pdf",
-  "fetched_slot": "2026-08-08T14:15:00-04:00",
-  "polled_at_utc": "2026-08-08T18:15:11.638258+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-08_02_30PM.pdf",
+  "fetched_slot": "2026-08-08T14:30:00-04:00",
+  "polled_at_utc": "2026-08-08T18:30:14.463906+00:00"
 }
