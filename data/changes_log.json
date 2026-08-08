@@ -17350,5 +17350,14 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Back; n/a",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-08T01:00:14.825114+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Azzi Fudd",
+    "status": "Out",
+    "reason": "Injury/Illness - Right Knee; rightknee",
+    "reason_category": "injury"
   }
 ]

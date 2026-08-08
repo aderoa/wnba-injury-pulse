@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/07/26 08:45 PM",
+  "report_ts": "08/07/26 09:00 PM",
   "page_count": 2,
-  "raw_line_count": 27,
+  "raw_line_count": 30,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -90,6 +90,30 @@
       ]
     },
     {
+      "team_full": "Golden State Valkyries",
+      "team_abbr": "GSV",
+      "game_date": "08/07/2026",
+      "game_time": "09:30(ET)",
+      "matchup": "GSV@DAL",
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Prechtel, Ashten",
+          "name": "Ashten Prechtel",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Sowah, Miela",
+          "name": "Miela Sowah",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        }
+      ]
+    },
+    {
       "team_full": "Dallas Wings",
       "team_abbr": "DAL",
       "game_date": "08/07/2026",
@@ -102,6 +126,13 @@
           "name": "Alysha Clark",
           "status": "Out",
           "reason": "Injury/Illness - Back; n/a",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Fudd, Azzi",
+          "name": "Azzi Fudd",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; rightknee",
           "reason_category": "injury"
         }
       ]
@@ -265,7 +296,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-07_08_45PM.pdf",
-  "fetched_slot": "2026-08-07T20:45:00-04:00",
-  "polled_at_utc": "2026-08-08T00:45:15.758209+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-07_09_00PM.pdf",
+  "fetched_slot": "2026-08-07T21:00:00-04:00",
+  "polled_at_utc": "2026-08-08T01:00:14.825114+00:00"
 }
