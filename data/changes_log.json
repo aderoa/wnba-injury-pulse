@@ -17470,5 +17470,14 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Right Knee; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-08T23:00:13.485908+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Luisa Geiselsoder",
+    "status": "Out",
+    "reason": "Not With Team",
+    "reason_category": "offcourt"
   }
 ]
