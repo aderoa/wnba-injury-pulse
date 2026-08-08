@@ -1,5 +1,5 @@
 {
-  "report_ts": "08/08/26 06:15 PM",
+  "report_ts": "08/08/26 06:30 PM",
   "page_count": 2,
   "raw_line_count": 29,
   "teams": [
@@ -145,7 +145,7 @@
         {
           "name_last_first": "Samuelson, KatieLou",
           "name": "KatieLou Samuelson",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Right Knee; Injury",
           "reason_category": "injury"
         }
@@ -303,7 +303,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-08_06_15PM.pdf",
-  "fetched_slot": "2026-08-08T18:15:00-04:00",
-  "polled_at_utc": "2026-08-08T22:15:13.628510+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-08_06_30PM.pdf",
+  "fetched_slot": "2026-08-08T18:30:00-04:00",
+  "polled_at_utc": "2026-08-08T22:30:11.264032+00:00"
 }

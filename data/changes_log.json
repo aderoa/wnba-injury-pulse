@@ -17460,5 +17460,15 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Right Knee; n/a",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-08T22:30:11.264032+00:00",
+    "type": "status_change",
+    "team_abbr": "SEA",
+    "player": "KatieLou Samuelson",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Knee; Injury",
+    "reason_category": "injury"
   }
 ]
