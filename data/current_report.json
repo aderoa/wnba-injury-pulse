@@ -1,5 +1,5 @@
 {
-  "report_ts": "08/08/26 07:30 PM",
+  "report_ts": "08/08/26 07:45 PM",
   "page_count": 2,
   "raw_line_count": 30,
   "teams": [
@@ -138,7 +138,7 @@
         {
           "name_last_first": "Mair, Taina",
           "name": "Taina Mair",
-          "status": "Out",
+          "status": "Available",
           "reason": "Coach's Decision",
           "reason_category": "rest_coach"
         },
@@ -190,7 +190,7 @@
         {
           "name_last_first": "Oblak, Teja",
           "name": "Teja Oblak",
-          "status": "Probable",
+          "status": "Out",
           "reason": "Injury/Illness - Left Knee; Injury",
           "reason_category": "injury"
         }
@@ -310,7 +310,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-08_07_30PM.pdf",
-  "fetched_slot": "2026-08-08T19:30:00-04:00",
-  "polled_at_utc": "2026-08-08T23:30:12.587838+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-08_07_45PM.pdf",
+  "fetched_slot": "2026-08-08T19:45:00-04:00",
+  "polled_at_utc": "2026-08-08T23:45:12.062037+00:00"
 }
