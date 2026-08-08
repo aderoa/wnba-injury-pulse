@@ -17423,5 +17423,32 @@
     "player": "Anneli Maley",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision - Developmental Player"
+  },
+  {
+    "ts": "2026-08-08T21:45:11.317866+00:00",
+    "type": "added",
+    "team_abbr": "LVA",
+    "player": "Chelsea Gray",
+    "status": "Questionable",
+    "reason": "Rest",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-08-08T21:45:11.317866+00:00",
+    "type": "added",
+    "team_abbr": "LVA",
+    "player": "A'ja Wilson",
+    "status": "Questionable",
+    "reason": "Rest",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-08-08T21:45:11.317866+00:00",
+    "type": "added",
+    "team_abbr": "LVA",
+    "player": "Jackie Young",
+    "status": "Questionable",
+    "reason": "Rest",
+    "reason_category": "other"
   }
 ]
