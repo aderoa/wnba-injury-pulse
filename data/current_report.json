@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/08/26 04:30 PM",
+  "report_ts": "08/08/26 04:45 PM",
   "page_count": 2,
-  "raw_line_count": 26,
+  "raw_line_count": 25,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -199,15 +199,6 @@
       "players": []
     },
     {
-      "team_full": "Washington Mystics",
-      "team_abbr": "WAS",
-      "game_date": "08/09/2026",
-      "game_time": "03:00(ET)",
-      "matchup": "PHX@WAS",
-      "submitted": false,
-      "players": []
-    },
-    {
       "team_full": "Dallas Wings",
       "team_abbr": "DAL",
       "game_date": "08/09/2026",
@@ -262,7 +253,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-08_04_30PM.pdf",
-  "fetched_slot": "2026-08-08T16:30:00-04:00",
-  "polled_at_utc": "2026-08-08T20:33:50.191530+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-08_04_45PM.pdf",
+  "fetched_slot": "2026-08-08T16:45:00-04:00",
+  "polled_at_utc": "2026-08-08T20:45:17.015707+00:00"
 }
