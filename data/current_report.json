@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/08/26 06:00 PM",
+  "report_ts": "08/08/26 06:15 PM",
   "page_count": 2,
-  "raw_line_count": 28,
+  "raw_line_count": 29,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -195,8 +195,23 @@
       "game_date": "08/09/2026",
       "game_time": "03:30(ET)",
       "matchup": "DAL@MIN",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Clark, Alysha",
+          "name": "Alysha Clark",
+          "status": "Out",
+          "reason": "Injury/Illness - Back; n/a",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Fudd, Azzi",
+          "name": "Azzi Fudd",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Knee; n/a",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Minnesota Lynx",
@@ -288,7 +303,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-08_06_00PM.pdf",
-  "fetched_slot": "2026-08-08T18:00:00-04:00",
-  "polled_at_utc": "2026-08-08T22:00:11.523995+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-08_06_15PM.pdf",
+  "fetched_slot": "2026-08-08T18:15:00-04:00",
+  "polled_at_utc": "2026-08-08T22:15:13.628510+00:00"
 }

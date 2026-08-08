@@ -17450,5 +17450,15 @@
     "status": "Questionable",
     "reason": "Rest",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-08-08T22:15:13.628510+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Azzi Fudd",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Right Knee; n/a",
+    "reason_category": "injury"
   }
 ]
