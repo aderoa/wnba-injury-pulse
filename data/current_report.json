@@ -1,5 +1,5 @@
 {
-  "report_ts": "08/07/26 08:15 PM",
+  "report_ts": "08/07/26 08:30 PM",
   "page_count": 2,
   "raw_line_count": 27,
   "teams": [
@@ -100,7 +100,7 @@
         {
           "name_last_first": "Clark, Alysha",
           "name": "Alysha Clark",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Back; n/a",
           "reason_category": "injury"
         }
@@ -265,7 +265,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-07_08_15PM.pdf",
-  "fetched_slot": "2026-08-07T20:15:00-04:00",
-  "polled_at_utc": "2026-08-08T00:15:11.440589+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-07_08_30PM.pdf",
+  "fetched_slot": "2026-08-07T20:30:00-04:00",
+  "polled_at_utc": "2026-08-08T00:30:12.665966+00:00"
 }
