@@ -17643,5 +17643,30 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Right Leg; rightleg",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-09T15:30:49.518385+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "DeWanna Bonner",
+    "status": "Probable",
+    "reason": "Injury/Illness--; Illness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-09T15:30:49.518385+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Shay Ciezki",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental"
+  },
+  {
+    "ts": "2026-08-09T15:30:49.518385+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Kara Dunn",
+    "previous_status": "Out",
+    "previous_reason": "Player Coach's Decision - Developmental Player"
   }
 ]
