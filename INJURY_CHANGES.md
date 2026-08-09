@@ -4,6 +4,15 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-08-09 22:15 UTC
+
+- **Ashten Prechtel** (GSV) newly listed as **Out** — Coach's Decision
+- **Miela Sowah** (GSV) newly listed as **Out** — Coach's Decision
+- **Tonie Morgan** (LAS) newly listed as **Out** — Coach's Decision - Coach’sdecision
+- **Alissa Pili** (LAS) newly listed as **Out** — Coach's Decision - Coach’sdecision
+- **Rae Burrell** (LAS): **Probable** → **Available** — -
+- **Monique AkoaMakani** (LAS): **Questionable** → **Out** — Injury/Illness - Right Ankle; RAnkle
+
 ## 2026-08-09 21:00 UTC
 
 - **Marina TorontoTempo Mabrey** (NYL) newly listed as **Probable** — Injury/Illness - Neck; Injury
