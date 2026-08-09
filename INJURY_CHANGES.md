@@ -4,6 +4,12 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-08-09 21:00 UTC
+
+- **Marina TorontoTempo Mabrey** (NYL) newly listed as **Probable** — Injury/Illness - Neck; Injury
+- **Brittney Sykes** (NYL) newly listed as **Out** — Injury/Illness - Left Foot; Injury
+- **Indya Nivar** (ATL) cleared (was Out)
+
 ## 2026-08-09 20:15 UTC
 
 - **Jessica Shepard** (DAL) newly listed as **Out** — Injury/Illness - Right Ankle; n/a

@@ -17767,5 +17767,31 @@
     "status": "Out",
     "reason": "Injury/Illness - Right Ankle; n/a",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-09T21:00:46.917645+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Marina TorontoTempo Mabrey",
+    "status": "Probable",
+    "reason": "Injury/Illness - Neck; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-09T21:00:46.917645+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Brittney Sykes",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Foot; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-09T21:00:46.917645+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Indya Nivar",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]

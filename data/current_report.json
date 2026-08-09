@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/09/26 04:45 PM",
+  "report_ts": "08/09/26 05:00 PM",
   "page_count": 2,
-  "raw_line_count": 28,
+  "raw_line_count": 29,
   "teams": [
     {
       "team_full": "Phoenix Mercury",
@@ -229,8 +229,23 @@
       "game_date": "08/10/2026",
       "game_time": "08:00(ET)",
       "matchup": "TOR@ATL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "TorontoTempo Mabrey, Marina",
+          "name": "Marina TorontoTempo Mabrey",
+          "status": "Probable",
+          "reason": "Injury/Illness - Neck; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sykes, Brittney",
+          "name": "Brittney Sykes",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Foot; Injury",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Atlanta Dream",
@@ -238,8 +253,16 @@
       "game_date": "08/10/2026",
       "game_time": "08:00(ET)",
       "matchup": "TOR@ATL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Paopao, Te-Hina",
+          "name": "Te-Hina Paopao",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Leg; N/A",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Chicago Sky",
@@ -260,7 +283,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-09_04_45PM.pdf",
-  "fetched_slot": "2026-08-09T16:45:00-04:00",
-  "polled_at_utc": "2026-08-09T20:52:23.681101+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-09_05_00PM.pdf",
+  "fetched_slot": "2026-08-09T17:00:00-04:00",
+  "polled_at_utc": "2026-08-09T21:00:46.917645+00:00"
 }
