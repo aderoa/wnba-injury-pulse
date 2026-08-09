@@ -17585,5 +17585,23 @@
     "status": "Out",
     "reason": "Injury/Illness - Left Knee; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-09T04:00:14.484384+00:00",
+    "type": "cleared",
+    "team_abbr": "LVA",
+    "player": "Cheyenne Parker-Tyus",
+    "previous_status": "Out",
+    "previous_reason": "Not With Team"
+  },
+  {
+    "ts": "2026-08-09T04:00:14.484384+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Justine Pissott",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Right Leg; rightleg",
+    "reason_category": "injury"
   }
 ]

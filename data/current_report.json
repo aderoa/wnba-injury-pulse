@@ -1,208 +1,8 @@
 {
-  "report_ts": "08/08/26 11:45 PM",
-  "page_count": 2,
-  "raw_line_count": 32,
+  "report_ts": "08/09/26 12:00 AM",
+  "page_count": 1,
+  "raw_line_count": 16,
   "teams": [
-    {
-      "team_full": "Las Vegas Aces",
-      "team_abbr": "LVA",
-      "game_date": "08/08/2026",
-      "game_time": "01:00(ET)",
-      "matchup": "LVA@MIN",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Parker-Tyus, Cheyenne",
-          "name": "Cheyenne Parker-Tyus",
-          "status": "Out",
-          "reason": "Not With Team",
-          "reason_category": "offcourt"
-        },
-        {
-          "name_last_first": "Pissott, Justine",
-          "name": "Justine Pissott",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Leg; rightleg",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Minnesota Lynx",
-      "team_abbr": "MIN",
-      "game_date": "08/08/2026",
-      "game_time": "01:00(ET)",
-      "matchup": "LVA@MIN",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Bibby, Chloe",
-          "name": "Chloe Bibby",
-          "status": "Out",
-          "reason": "Personal Reasons",
-          "reason_category": "offcourt"
-        },
-        {
-          "name_last_first": "King, Liatu",
-          "name": "Liatu King",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Indiana Fever",
-      "team_abbr": "IND",
-      "game_date": "08/08/2026",
-      "game_time": "03:30(ET)",
-      "matchup": "IND@CHI",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Boston, Aliyah",
-          "name": "Aliyah Boston",
-          "status": "Available",
-          "reason": "-",
-          "reason_category": "other"
-        },
-        {
-          "name_last_first": "Clark, Caitlin",
-          "name": "Caitlin Clark",
-          "status": "Available",
-          "reason": "-",
-          "reason_category": "other"
-        },
-        {
-          "name_last_first": "Dantas, Damiris",
-          "name": "Damiris Dantas",
-          "status": "Out",
-          "reason": "Not With Team",
-          "reason_category": "offcourt"
-        },
-        {
-          "name_last_first": "Hall, Bree",
-          "name": "Bree Hall",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Onyiah, Michelle",
-          "name": "Michelle Onyiah",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Chicago Sky",
-      "team_abbr": "CHI",
-      "game_date": "08/08/2026",
-      "game_time": "03:30(ET)",
-      "matchup": "IND@CHI",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Diggins, Skylar",
-          "name": "Skylar Diggins",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee; Right Knee",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Taylor, Sydney",
-          "name": "Sydney Taylor",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Groin; Left Groin",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Westbeld, Maddy",
-          "name": "Maddy Westbeld",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Seattle Storm",
-      "team_abbr": "SEA",
-      "game_date": "08/08/2026",
-      "game_time": "08:30(ET)",
-      "matchup": "SEA@PDX",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Mair, Taina",
-          "name": "Taina Mair",
-          "status": "Available",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Samuelson, KatieLou",
-          "name": "KatieLou Samuelson",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee; Injury",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Portland Fire",
-      "team_abbr": "PDX",
-      "game_date": "08/08/2026",
-      "game_time": "08:30(ET)",
-      "matchup": "SEA@PDX",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Barker, SarahAshlee",
-          "name": "SarahAshlee Barker",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Knee; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Carleton, Bridget",
-          "name": "Bridget Carleton",
-          "status": "Available",
-          "reason": "Injury/Illness - Right Foot; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Feagin, Sania",
-          "name": "Sania Feagin",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Knee; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Geiselsoder, Luisa",
-          "name": "Luisa Geiselsoder",
-          "status": "Out",
-          "reason": "Not With Team",
-          "reason_category": "offcourt"
-        },
-        {
-          "name_last_first": "Leite, Carla",
-          "name": "Carla Leite",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Knee; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Oblak, Teja",
-          "name": "Teja Oblak",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Knee; Injury",
-          "reason_category": "injury"
-        }
-      ]
-    },
     {
       "team_full": "Dallas Wings",
       "team_abbr": "DAL",
@@ -338,9 +138,45 @@
           "reason_category": "procedural"
         }
       ]
+    },
+    {
+      "team_full": "New York Liberty",
+      "team_abbr": "NYL",
+      "game_date": "08/10/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "TOR@ATL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Atlanta Dream",
+      "team_abbr": "ATL",
+      "game_date": "08/10/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "TOR@ATL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Chicago Sky",
+      "team_abbr": "CHI",
+      "game_date": "08/10/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "CHI@SEA",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Seattle Storm",
+      "team_abbr": "SEA",
+      "game_date": "08/10/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "CHI@SEA",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-08_11_45PM.pdf",
-  "fetched_slot": "2026-08-08T23:45:00-04:00",
-  "polled_at_utc": "2026-08-09T03:52:59.171961+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-09_12_00AM.pdf",
+  "fetched_slot": "2026-08-09T00:00:00-04:00",
+  "polled_at_utc": "2026-08-09T04:00:14.484384+00:00"
 }
