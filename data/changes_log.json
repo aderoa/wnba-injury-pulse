@@ -17603,5 +17603,35 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Right Leg; rightleg",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-09T13:45:48.804031+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Jackie Young",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Rest",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-08-09T13:45:48.804031+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Chelsea Gray",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Rest",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-08-09T13:45:48.804031+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "A'ja Wilson",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Rest",
+    "reason_category": "other"
   }
 ]
