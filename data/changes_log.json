@@ -17849,5 +17849,15 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Right Ankle; RAnkle",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-09T22:30:46.130066+00:00",
+    "type": "status_change",
+    "team_abbr": "GSV",
+    "player": "Cecilia Zandalasini",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
   }
 ]
