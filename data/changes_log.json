@@ -17633,5 +17633,15 @@
     "to_status": "Out",
     "reason": "Rest",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-08-09T14:00:47.241058+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Justine Pissott",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Leg; rightleg",
+    "reason_category": "injury"
   }
 ]
