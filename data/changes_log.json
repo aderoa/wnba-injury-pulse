@@ -17677,5 +17677,15 @@
     "status": "Out",
     "reason": "Not With Team",
     "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-08-09T17:30:44.176107+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Azzi Fudd",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Knee; n/a",
+    "reason_category": "injury"
   }
 ]
