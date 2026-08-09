@@ -17758,5 +17758,14 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-09T20:15:43.041543+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Jessica Shepard",
+    "status": "Out",
+    "reason": "Injury/Illness - Right Ankle; n/a",
+    "reason_category": "injury"
   }
 ]
