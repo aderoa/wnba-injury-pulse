@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/09/26 02:00 PM",
+  "report_ts": "08/09/26 02:15 PM",
   "page_count": 2,
-  "raw_line_count": 19,
+  "raw_line_count": 26,
   "teams": [
     {
       "team_full": "Phoenix Mercury",
@@ -14,9 +14,23 @@
         {
           "name_last_first": "Bonner, DeWanna",
           "name": "DeWanna Bonner",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness--; Illness",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Ciezki, Shay",
+          "name": "Shay Ciezki",
+          "status": "Out",
+          "reason": "Coach's Decision - Developmental",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Dunn, Kara",
+          "name": "Kara Dunn",
+          "status": "Out",
+          "reason": "Player Coach's Decision - Developmental Player",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -34,6 +48,13 @@
           "status": "Out",
           "reason": "Personal Reasons",
           "reason_category": "offcourt"
+        },
+        {
+          "name_last_first": "Littlepage-Buggs, Darianna",
+          "name": "Darianna Littlepage-Buggs",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -225,7 +246,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-09_02_00PM.pdf",
-  "fetched_slot": "2026-08-09T14:00:00-04:00",
-  "polled_at_utc": "2026-08-09T18:00:45.641724+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-09_02_15PM.pdf",
+  "fetched_slot": "2026-08-09T14:15:00-04:00",
+  "polled_at_utc": "2026-08-09T18:15:46.850283+00:00"
 }

@@ -4,6 +4,13 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-08-09 18:15 UTC
+
+- **Shay Ciezki** (PHX) newly listed as **Out** — Coach's Decision - Developmental
+- **Kara Dunn** (PHX) newly listed as **Out** — Player Coach's Decision - Developmental Player
+- **DeWanna Bonner** (PHX): **Probable** → **Available** — Injury/Illness--; Illness
+- **Darianna Littlepage-Buggs** (WAS) newly listed as **Out** — Coach's Decision
+
 ## 2026-08-09 17:45 UTC
 
 - **Betnijah Laney-Hamilton** (WAS) newly listed as **Out** — Personal Reasons
