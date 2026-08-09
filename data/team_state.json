@@ -2,8 +2,8 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-08-08T23:45:44.223106+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-08_07_45PM.pdf",
+    "last_submitted_ts": "2026-08-09T00:00:16.502607+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-08_08_00PM.pdf",
     "game_dates": [
       "08/09/2026"
     ],
@@ -30,8 +30,8 @@
   "IND": {
     "team_full": "Indiana Fever",
     "submitted": true,
-    "last_submitted_ts": "2026-08-08T23:45:44.223106+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-08_07_45PM.pdf",
+    "last_submitted_ts": "2026-08-09T00:00:16.502607+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-08_08_00PM.pdf",
     "game_dates": [
       "08/08/2026"
     ],
@@ -108,8 +108,8 @@
   "LVA": {
     "team_full": "Las Vegas Aces",
     "submitted": true,
-    "last_submitted_ts": "2026-08-08T23:45:44.223106+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-08_07_45PM.pdf",
+    "last_submitted_ts": "2026-08-09T00:00:16.502607+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-08_08_00PM.pdf",
     "game_dates": [
       "08/08/2026",
       "08/09/2026"
@@ -187,8 +187,8 @@
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-08-08T23:45:44.223106+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-08_07_45PM.pdf",
+    "last_submitted_ts": "2026-08-09T00:00:16.502607+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-08_08_00PM.pdf",
     "game_dates": [
       "08/08/2026",
       "08/09/2026"
@@ -217,8 +217,8 @@
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-08-08T23:45:44.223106+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-08_07_45PM.pdf",
+    "last_submitted_ts": "2026-08-09T00:00:16.502607+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-08_08_00PM.pdf",
     "game_dates": [
       "08/08/2026"
     ],
@@ -252,8 +252,8 @@
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-08-08T23:45:44.223106+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-08_07_45PM.pdf",
+    "last_submitted_ts": "2026-08-09T00:00:16.502607+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-08_08_00PM.pdf",
     "game_dates": [
       "08/08/2026"
     ],
@@ -271,7 +271,7 @@
       {
         "name_last_first": "Carleton, Bridget",
         "name": "Bridget Carleton",
-        "status": "Probable",
+        "status": "Available",
         "reason": "Injury/Illness - Right Foot; Injury",
         "reason_category": "injury"
       },
@@ -301,8 +301,8 @@
   "SEA": {
     "team_full": "Seattle Storm",
     "submitted": true,
-    "last_submitted_ts": "2026-08-08T23:45:44.223106+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-08_07_45PM.pdf",
+    "last_submitted_ts": "2026-08-09T00:00:16.502607+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-08_08_00PM.pdf",
     "game_dates": [
       "08/08/2026"
     ],
@@ -371,8 +371,8 @@
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-08-08T23:45:44.223106+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-08_07_45PM.pdf",
+    "last_submitted_ts": "2026-08-09T00:00:16.502607+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-08_08_00PM.pdf",
     "game_dates": [
       "08/09/2026"
     ],
@@ -421,66 +421,50 @@
   "GSV": {
     "team_full": "Golden State Valkyries",
     "submitted": true,
-    "last_submitted_ts": "2026-08-08T03:58:32.493652+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-07_11_45PM.pdf",
+    "last_submitted_ts": "2026-08-09T00:00:16.502607+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-08_08_00PM.pdf",
     "game_dates": [
-      "08/07/2026"
+      "08/09/2026"
     ],
     "matchups": [
-      "GSV@DAL"
+      "GSV@LAS"
     ],
     "players": [
       {
-        "name_last_first": "Prechtel, Ashten",
-        "name": "Ashten Prechtel",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
-      },
-      {
-        "name_last_first": "Sowah, Miela",
-        "name": "Miela Sowah",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
+        "name_last_first": "Zandalasini, Cecilia",
+        "name": "Cecilia Zandalasini",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Left Quad; Soreness",
+        "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-08-08T23:45:44.223106+00:00"
+    ]
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",
     "submitted": true,
-    "last_submitted_ts": "2026-08-07T03:45:24.507498+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-06_11_45PM.pdf",
+    "last_submitted_ts": "2026-08-09T00:00:16.502607+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-08_08_00PM.pdf",
     "game_dates": [
-      "08/06/2026"
+      "08/09/2026"
     ],
     "matchups": [
-      "LAS@MIN"
+      "GSV@LAS"
     ],
     "players": [
       {
-        "name_last_first": "Atkins, Ariel",
-        "name": "Ariel Atkins",
-        "status": "Available",
-        "reason": "-",
-        "reason_category": "other"
+        "name_last_first": "AkoaMakani, Monique",
+        "name": "Monique AkoaMakani",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Right Ankle; RAnkle",
+        "reason_category": "injury"
       },
       {
-        "name_last_first": "Morgan, Tonie",
-        "name": "Tonie Morgan",
-        "status": "Out",
-        "reason": "Coach's Decision - Coach's Decision",
-        "reason_category": "rest_coach"
-      },
-      {
-        "name_last_first": "Pili, Alissa",
-        "name": "Alissa Pili",
-        "status": "Out",
-        "reason": "Coach's Decision - Coach's Decision",
-        "reason_category": "rest_coach"
+        "name_last_first": "Burrell, Rae",
+        "name": "Rae Burrell",
+        "status": "Probable",
+        "reason": "Injury/Illness - Right Leg; RLeg",
+        "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-08-08T23:45:44.223106+00:00"
+    ]
   }
 }

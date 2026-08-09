@@ -4,6 +4,18 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-08-09 00:00 UTC
+
+- **Bridget Carleton** (PDX): **Probable** → **Available** — Injury/Illness - Right Foot; Injury
+- **Cecilia Zandalasini** (GSV) newly listed as **Questionable** — Injury/Illness - Left Quad; Soreness
+- **Ashten Prechtel** (GSV) cleared (was Out)
+- **Miela Sowah** (GSV) cleared (was Out)
+- **Monique AkoaMakani** (LAS) newly listed as **Questionable** — Injury/Illness - Right Ankle; RAnkle
+- **Rae Burrell** (LAS) newly listed as **Probable** — Injury/Illness - Right Leg; RLeg
+- **Ariel Atkins** (LAS) cleared (was Available)
+- **Tonie Morgan** (LAS) cleared (was Out)
+- **Alissa Pili** (LAS) cleared (was Out)
+
 ## 2026-08-08 23:45 UTC
 
 - **Taina Mair** (SEA): **Out** → **Available** — Coach's Decision
