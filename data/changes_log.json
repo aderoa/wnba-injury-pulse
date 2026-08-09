@@ -17859,5 +17859,13 @@
     "to_status": "Available",
     "reason": "-",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-08-09T23:00:47.279908+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Maddy Westbeld",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]
