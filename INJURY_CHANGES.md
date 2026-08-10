@@ -4,6 +4,15 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-08-10 21:45 UTC
+
+- **Grace VanSlooten** (IND) newly listed as **Questionable** — Injury/Illness - Illness; Illness
+- **Aliyah Boston** (IND) cleared (was Available)
+- **Damiris Dantas** (IND) cleared (was Out)
+- **Bree Hall** (IND) cleared (was Out)
+- **Michelle Onyiah** (IND) cleared (was Out)
+- **Caitlin Clark** (IND): **Available** → **Probable** — Injury/Illness - Back; Back
+
 ## 2026-08-10 21:00 UTC
 
 - **Marina TorontoTempo Mabrey** (NYL) cleared (was Probable)

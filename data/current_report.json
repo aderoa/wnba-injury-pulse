@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/10/26 05:30 PM",
+  "report_ts": "08/10/26 05:45 PM",
   "page_count": 1,
-  "raw_line_count": 16,
+  "raw_line_count": 17,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -112,8 +112,23 @@
       "game_date": "08/11/2026",
       "game_time": "07:30(ET)",
       "matchup": "NYL@IND",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Clark, Caitlin",
+          "name": "Caitlin Clark",
+          "status": "Probable",
+          "reason": "Injury/Illness - Back; Back",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "VanSlooten, Grace",
+          "name": "Grace VanSlooten",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Illness; Illness",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Phoenix Mercury",
@@ -152,7 +167,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-10_05_30PM.pdf",
-  "fetched_slot": "2026-08-10T17:30:00-04:00",
-  "polled_at_utc": "2026-08-10T21:30:49.285253+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-10_05_45PM.pdf",
+  "fetched_slot": "2026-08-10T17:45:00-04:00",
+  "polled_at_utc": "2026-08-10T21:45:51.255142+00:00"
 }
