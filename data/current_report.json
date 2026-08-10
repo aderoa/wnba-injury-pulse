@@ -1,280 +1,8 @@
 {
-  "report_ts": "08/09/26 11:45 PM",
-  "page_count": 2,
-  "raw_line_count": 37,
+  "report_ts": "08/10/26 12:00 AM",
+  "page_count": 1,
+  "raw_line_count": 15,
   "teams": [
-    {
-      "team_full": "Phoenix Mercury",
-      "team_abbr": "PHX",
-      "game_date": "08/09/2026",
-      "game_time": "03:00(ET)",
-      "matchup": "PHX@WAS",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Bonner, DeWanna",
-          "name": "DeWanna Bonner",
-          "status": "Available",
-          "reason": "Injury/Illness--; Illness",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Ciezki, Shay",
-          "name": "Shay Ciezki",
-          "status": "Out",
-          "reason": "Coach's Decision - Developmental",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Dunn, Kara",
-          "name": "Kara Dunn",
-          "status": "Out",
-          "reason": "Player Coach's Decision - Developmental Player",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Washington Mystics",
-      "team_abbr": "WAS",
-      "game_date": "08/09/2026",
-      "game_time": "03:00(ET)",
-      "matchup": "PHX@WAS",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Laney-Hamilton, Betnijah",
-          "name": "Betnijah Laney-Hamilton",
-          "status": "Out",
-          "reason": "Personal Reasons",
-          "reason_category": "offcourt"
-        },
-        {
-          "name_last_first": "Littlepage-Buggs, Darianna",
-          "name": "Darianna Littlepage-Buggs",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Dallas Wings",
-      "team_abbr": "DAL",
-      "game_date": "08/09/2026",
-      "game_time": "03:30(ET)",
-      "matchup": "DAL@MIN",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Clark, Alysha",
-          "name": "Alysha Clark",
-          "status": "Out",
-          "reason": "Injury/Illness - Back; n/a",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Fudd, Azzi",
-          "name": "Azzi Fudd",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee; n/a",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Shepard, Jessica",
-          "name": "Jessica Shepard",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Ankle; n/a",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Minnesota Lynx",
-      "team_abbr": "MIN",
-      "game_date": "08/09/2026",
-      "game_time": "03:30(ET)",
-      "matchup": "DAL@MIN",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Bibby, Chloe",
-          "name": "Chloe Bibby",
-          "status": "Out",
-          "reason": "Personal Reasons",
-          "reason_category": "offcourt"
-        },
-        {
-          "name_last_first": "King, Liatu",
-          "name": "Liatu King",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Golden State Valkyries",
-      "team_abbr": "GSV",
-      "game_date": "08/09/2026",
-      "game_time": "07:00(ET)",
-      "matchup": "GSV@LAS",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Prechtel, Ashten",
-          "name": "Ashten Prechtel",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Sowah, Miela",
-          "name": "Miela Sowah",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Zandalasini, Cecilia",
-          "name": "Cecilia Zandalasini",
-          "status": "Available",
-          "reason": "-",
-          "reason_category": "other"
-        }
-      ]
-    },
-    {
-      "team_full": "Los Angeles Sparks",
-      "team_abbr": "LAS",
-      "game_date": "08/09/2026",
-      "game_time": "07:00(ET)",
-      "matchup": "GSV@LAS",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "AkoaMakani, Monique",
-          "name": "Monique AkoaMakani",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Ankle; RAnkle",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Burrell, Rae",
-          "name": "Rae Burrell",
-          "status": "Available",
-          "reason": "-",
-          "reason_category": "other"
-        },
-        {
-          "name_last_first": "Morgan, Tonie",
-          "name": "Tonie Morgan",
-          "status": "Out",
-          "reason": "Coach's Decision - Coach\u2019sdecision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Pili, Alissa",
-          "name": "Alissa Pili",
-          "status": "Out",
-          "reason": "Coach's Decision - Coach\u2019sdecision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Las Vegas Aces",
-      "team_abbr": "LVA",
-      "game_date": "08/09/2026",
-      "game_time": "12:30(ET)",
-      "matchup": "LVA@NYL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Gray, Chelsea",
-          "name": "Chelsea Gray",
-          "status": "Out",
-          "reason": "Rest",
-          "reason_category": "other"
-        },
-        {
-          "name_last_first": "Parker-Tyus, Cheyenne",
-          "name": "Cheyenne Parker-Tyus",
-          "status": "Out",
-          "reason": "Not With Team",
-          "reason_category": "offcourt"
-        },
-        {
-          "name_last_first": "Pissott, Justine",
-          "name": "Justine Pissott",
-          "status": "Available",
-          "reason": "Injury/Illness - Right Leg; rightleg",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Wilson, A'ja",
-          "name": "A'ja Wilson",
-          "status": "Out",
-          "reason": "Rest",
-          "reason_category": "other"
-        },
-        {
-          "name_last_first": "Young, Jackie",
-          "name": "Jackie Young",
-          "status": "Out",
-          "reason": "Rest",
-          "reason_category": "other"
-        }
-      ]
-    },
-    {
-      "team_full": "New York Liberty",
-      "team_abbr": "NYL",
-      "game_date": "08/09/2026",
-      "game_time": "12:30(ET)",
-      "matchup": "LVA@NYL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Fiebich, Leonie",
-          "name": "Leonie Fiebich",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Foot; L.Foot",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Sabally, Satou",
-          "name": "Satou Sabally",
-          "status": "Out",
-          "reason": "Concussion Protocol",
-          "reason_category": "procedural"
-        }
-      ]
-    },
-    {
-      "team_full": "New York Liberty",
-      "team_abbr": "NYL",
-      "game_date": "08/10/2026",
-      "game_time": "08:00(ET)",
-      "matchup": "TOR@ATL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "TorontoTempo Mabrey, Marina",
-          "name": "Marina TorontoTempo Mabrey",
-          "status": "Probable",
-          "reason": "Injury/Illness - Neck; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Sykes, Brittney",
-          "name": "Brittney Sykes",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Foot; Injury",
-          "reason_category": "injury"
-        }
-      ]
-    },
     {
       "team_full": "Atlanta Dream",
       "team_abbr": "ATL",
@@ -353,9 +81,63 @@
           "reason_category": "injury"
         }
       ]
+    },
+    {
+      "team_full": "New York Liberty",
+      "team_abbr": "NYL",
+      "game_date": "08/11/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "NYL@IND",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Indiana Fever",
+      "team_abbr": "IND",
+      "game_date": "08/11/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "NYL@IND",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Phoenix Mercury",
+      "team_abbr": "PHX",
+      "game_date": "08/11/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "PHX@LAS",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Los Angeles Sparks",
+      "team_abbr": "LAS",
+      "game_date": "08/11/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "PHX@LAS",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Washington Mystics",
+      "team_abbr": "WAS",
+      "game_date": "08/11/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "WAS@LVA",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Las Vegas Aces",
+      "team_abbr": "LVA",
+      "game_date": "08/11/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "WAS@LVA",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-09_11_45PM.pdf",
-  "fetched_slot": "2026-08-09T23:45:00-04:00",
-  "polled_at_utc": "2026-08-10T03:45:44.142321+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-10_12_00AM.pdf",
+  "fetched_slot": "2026-08-10T00:00:00-04:00",
+  "polled_at_utc": "2026-08-10T04:00:47.315062+00:00"
 }

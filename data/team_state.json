@@ -81,7 +81,8 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-08-10T04:00:47.315062+00:00"
   },
   "PHX": {
     "team_full": "Phoenix Mercury",
@@ -116,7 +117,8 @@
         "reason": "Player Coach's Decision - Developmental Player",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-08-10T04:00:47.315062+00:00"
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
@@ -165,13 +167,14 @@
         "reason": "Rest",
         "reason_category": "other"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-08-10T04:00:47.315062+00:00"
   },
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-08-10T03:45:44.142321+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-09_11_45PM.pdf",
+    "last_submitted_ts": "2026-08-10T04:00:47.315062+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-10_12_00AM.pdf",
     "game_dates": [
       "08/10/2026"
     ],
@@ -219,8 +222,8 @@
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-08-10T03:45:44.142321+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-09_11_45PM.pdf",
+    "last_submitted_ts": "2026-08-10T04:00:47.315062+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-10_12_00AM.pdf",
     "game_dates": [
       "08/10/2026"
     ],
@@ -303,8 +306,8 @@
   "SEA": {
     "team_full": "Seattle Storm",
     "submitted": true,
-    "last_submitted_ts": "2026-08-10T03:45:44.142321+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-09_11_45PM.pdf",
+    "last_submitted_ts": "2026-08-10T04:00:47.315062+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-10_12_00AM.pdf",
     "game_dates": [
       "08/10/2026"
     ],
@@ -426,7 +429,8 @@
         "reason": "Injury/Illness - Left Foot; Injury",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-08-10T04:00:47.315062+00:00"
   },
   "WAS": {
     "team_full": "Washington Mystics",
@@ -454,7 +458,8 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-08-10T04:00:47.315062+00:00"
   },
   "GSV": {
     "team_full": "Golden State Valkyries",
@@ -531,6 +536,7 @@
         "reason": "Coach's Decision - Coach\u2019sdecision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-08-10T04:00:47.315062+00:00"
   }
 }
