@@ -17867,5 +17867,43 @@
     "player": "Maddy Westbeld",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-10T00:00:46.891497+00:00",
+    "type": "added",
+    "team_abbr": "SEA",
+    "player": "Flau'jae Johnson",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Left Ankle; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-10T00:00:46.891497+00:00",
+    "type": "added",
+    "team_abbr": "SEA",
+    "player": "Ezi Magbegor",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Face; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-10T00:00:46.891497+00:00",
+    "type": "status_change",
+    "team_abbr": "SEA",
+    "player": "KatieLou Samuelson",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Right Knee; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-10T00:00:46.891497+00:00",
+    "type": "status_change",
+    "team_abbr": "SEA",
+    "player": "Taina Mair",
+    "from_status": "Available",
+    "to_status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
