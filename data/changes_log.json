@@ -2,33 +2,6 @@
   {
     "ts": "2026-05-10T00:03:14.870484+00:00",
     "type": "added",
-    "team_abbr": "CHI",
-    "player": "Azura Stevens",
-    "status": "Out",
-    "reason": "Injury/Illness - Left Knee; Left Knee",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
-    "team_abbr": "CHI",
-    "player": "Courtney Vandersloot",
-    "status": "Out",
-    "reason": "Injury/Illness - Right Knee; Right Knee",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
-    "team_abbr": "CHI",
-    "player": "Maddy Westbeld",
-    "status": "Out",
-    "reason": "Returnto Competition Reconditioning",
-    "reason_category": "other"
-  },
-  {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
     "team_abbr": "PDX",
     "player": "Karlie Samuelson",
     "status": "Out",
@@ -17994,5 +17967,32 @@
     "status": "Out",
     "reason": "Personal Reasons",
     "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-08-11T21:45:46.913688+00:00",
+    "type": "added",
+    "team_abbr": "LVA",
+    "player": "Julie TorontoTempo Allemand",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Left Thigh; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-11T21:45:46.913688+00:00",
+    "type": "added",
+    "team_abbr": "LVA",
+    "player": "Maria Conde",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Left Calf; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-11T21:45:46.913688+00:00",
+    "type": "added",
+    "team_abbr": "LVA",
+    "player": "Brittney Sykes",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Foot; Injury",
+    "reason_category": "injury"
   }
 ]
