@@ -4,6 +4,11 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-08-11 23:30 UTC
+
+- **Leonie Fiebich** (NYL, Out): reason updated (Injury/Illness - Left Foot; L.Foot → Not With Team)
+- **Satou Sabally** (NYL, Out): reason updated (Concussion Protocol → Not With Team)
+
 ## 2026-08-11 22:15 UTC
 
 - **Anneli Maley** (NYL) newly listed as **Out** — Coach's Decision - Developmental Player

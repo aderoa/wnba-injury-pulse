@@ -3,24 +3,6 @@
     "ts": "2026-05-10T00:03:14.870484+00:00",
     "type": "added",
     "team_abbr": "NYL",
-    "player": "Rebecca Allen",
-    "status": "Out",
-    "reason": "Injury/Illness - Left Leg; L.Leg",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
-    "team_abbr": "NYL",
-    "player": "Marine Fauthoux",
-    "status": "Out",
-    "reason": "Injury/Illness - Leftknee; Rehabilitation",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
-    "team_abbr": "NYL",
     "player": "Sabrina Ionescu",
     "status": "Out",
     "reason": "Injury/Illness - Left Foot; NWT",
@@ -17998,5 +17980,25 @@
     "status": "Out",
     "reason": "Coach's Decision - Developmental Player",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-11T23:30:47.570237+00:00",
+    "type": "reason_change",
+    "team_abbr": "NYL",
+    "player": "Leonie Fiebich",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Foot; L.Foot",
+    "to_reason": "Not With Team",
+    "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-08-11T23:30:47.570237+00:00",
+    "type": "reason_change",
+    "team_abbr": "NYL",
+    "player": "Satou Sabally",
+    "status": "Out",
+    "from_reason": "Concussion Protocol",
+    "to_reason": "Not With Team",
+    "reason_category": "offcourt"
   }
 ]

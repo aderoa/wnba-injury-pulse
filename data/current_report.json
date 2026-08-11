@@ -1,5 +1,5 @@
 {
-  "report_ts": "08/11/26 07:15 PM",
+  "report_ts": "08/11/26 07:30 PM",
   "page_count": 2,
   "raw_line_count": 24,
   "teams": [
@@ -15,8 +15,8 @@
           "name_last_first": "Fiebich, Leonie",
           "name": "Leonie Fiebich",
           "status": "Out",
-          "reason": "Injury/Illness - Left Foot; L.Foot",
-          "reason_category": "injury"
+          "reason": "Not With Team",
+          "reason_category": "offcourt"
         },
         {
           "name_last_first": "Maley, Anneli",
@@ -29,8 +29,8 @@
           "name_last_first": "Sabally, Satou",
           "name": "Satou Sabally",
           "status": "Out",
-          "reason": "Concussion Protocol",
-          "reason_category": "procedural"
+          "reason": "Not With Team",
+          "reason_category": "offcourt"
         }
       ]
     },
@@ -236,7 +236,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-11_07_15PM.pdf",
-  "fetched_slot": "2026-08-11T19:15:00-04:00",
-  "polled_at_utc": "2026-08-11T23:15:44.793137+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-11_07_30PM.pdf",
+  "fetched_slot": "2026-08-11T19:30:00-04:00",
+  "polled_at_utc": "2026-08-11T23:30:47.570237+00:00"
 }
