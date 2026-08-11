@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/11/26 05:45 PM",
-  "page_count": 1,
-  "raw_line_count": 17,
+  "report_ts": "08/11/26 06:00 PM",
+  "page_count": 2,
+  "raw_line_count": 21,
   "teams": [
     {
       "team_full": "New York Liberty",
@@ -38,16 +38,30 @@
         {
           "name_last_first": "Clark, Caitlin",
           "name": "Caitlin Clark",
-          "status": "Probable",
-          "reason": "Injury/Illness - Back; Back",
-          "reason_category": "injury"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
+        },
+        {
+          "name_last_first": "Hall, Bree",
+          "name": "Bree Hall",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Onyiah, Michelle",
+          "name": "Michelle Onyiah",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         },
         {
           "name_last_first": "VanSlooten, Grace",
           "name": "Grace VanSlooten",
-          "status": "Questionable",
-          "reason": "Injury/Illness - Illness; Illness",
-          "reason_category": "injury"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
         }
       ]
     },
@@ -153,8 +167,30 @@
       "game_date": "08/12/2026",
       "game_time": "08:00(ET)",
       "matchup": "TOR@DAL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Clark, Alysha",
+          "name": "Alysha Clark",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Back; n/a",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Fudd, Azzi",
+          "name": "Azzi Fudd",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Knee; n/a",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Shepard, Jessica",
+          "name": "Jessica Shepard",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Ankle; n/a",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Chicago Sky",
@@ -193,7 +229,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-11_05_45PM.pdf",
-  "fetched_slot": "2026-08-11T17:45:00-04:00",
-  "polled_at_utc": "2026-08-11T21:52:28.982340+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-11_06_00PM.pdf",
+  "fetched_slot": "2026-08-11T18:00:00-04:00",
+  "polled_at_utc": "2026-08-11T22:00:48.519805+00:00"
 }

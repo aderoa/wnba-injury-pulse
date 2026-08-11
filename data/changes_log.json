@@ -2,60 +2,6 @@
   {
     "ts": "2026-05-10T00:03:14.870484+00:00",
     "type": "added",
-    "team_abbr": "PDX",
-    "player": "Karlie Samuelson",
-    "status": "Out",
-    "reason": "Injury/Illness - Left Foot; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
-    "team_abbr": "PDX",
-    "player": "Sug Sutton",
-    "status": "Out",
-    "reason": "Injury/Illness - Right Knee; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
-    "team_abbr": "SEA",
-    "player": "Ezi Magbegor",
-    "status": "Out",
-    "reason": "Injury/Illness - Right Foot; N/A",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
-    "team_abbr": "SEA",
-    "player": "Taina Mair",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
-    "team_abbr": "SEA",
-    "player": "KatieLou Samuelson",
-    "status": "Out",
-    "reason": "Injury/Illness - Right Knee; N/A",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
-    "team_abbr": "CON",
-    "player": "Aaliyah Edwards",
-    "status": "Out",
-    "reason": "Injury/Illness - Left Thigh; Adductor",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
     "team_abbr": "CON",
     "player": "Shey Peddy",
     "status": "Out",
@@ -17993,6 +17939,64 @@
     "player": "Brittney Sykes",
     "status": "Out",
     "reason": "Injury/Illness - Left Foot; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-11T22:00:48.519805+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Bree Hall",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-11T22:00:48.519805+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Michelle Onyiah",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-11T22:00:48.519805+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Grace VanSlooten",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-08-11T22:00:48.519805+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-08-11T22:00:48.519805+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Alysha Clark",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Back; n/a",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-11T22:00:48.519805+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Azzi Fudd",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Right Knee; n/a",
     "reason_category": "injury"
   }
 ]
