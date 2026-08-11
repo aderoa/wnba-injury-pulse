@@ -2,15 +2,6 @@
   {
     "ts": "2026-05-10T00:03:14.870484+00:00",
     "type": "added",
-    "team_abbr": "CON",
-    "player": "Shey Peddy",
-    "status": "Out",
-    "reason": "Injury/Illness - Left Knee; OA",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
     "team_abbr": "NYL",
     "player": "Rebecca Allen",
     "status": "Out",
@@ -17998,5 +17989,14 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Right Knee; n/a",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-11T22:15:51.371748+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Anneli Maley",
+    "status": "Out",
+    "reason": "Coach's Decision - Developmental Player",
+    "reason_category": "rest_coach"
   }
 ]
