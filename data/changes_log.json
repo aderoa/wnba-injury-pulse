@@ -2,105 +2,6 @@
   {
     "ts": "2026-05-10T00:03:14.870484+00:00",
     "type": "added",
-    "team_abbr": "DAL",
-    "player": "Aziaha James",
-    "status": "Available",
-    "reason": "Injury/Illness - Left Ankle; Sprain",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
-    "team_abbr": "DAL",
-    "player": "Alanna Smith",
-    "status": "Available",
-    "reason": "Injury/Illness - Face; Nasal Fracture",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
-    "team_abbr": "DAL",
-    "player": "Costanza Verona",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
-    "team_abbr": "IND",
-    "player": "Monique Billings",
-    "status": "Out",
-    "reason": "Injury/Illness - Right Ankle; Right Ankle",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
-    "team_abbr": "IND",
-    "player": "Justine Pissott",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
-    "team_abbr": "PHX",
-    "player": "Shay Ciezki",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
-    "team_abbr": "PHX",
-    "player": "Marta Suarez",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
-    "team_abbr": "PHX",
-    "player": "Sami Whitcomb",
-    "status": "Out",
-    "reason": "Injury/Illness - Left Knee; Arthroscopy",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
-    "team_abbr": "LVA",
-    "player": "Janiah Barker",
-    "status": "Out",
-    "reason": "Concussion Protocol",
-    "reason_category": "procedural"
-  },
-  {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
-    "team_abbr": "LVA",
-    "player": "Dana Evans",
-    "status": "Out",
-    "reason": "Injury/Illness - Left Leg; N/A",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
-    "team_abbr": "ATL",
-    "player": "Brionna Jones",
-    "status": "Out",
-    "reason": "Injury/Illness - Right Knee; N/A",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
     "team_abbr": "ATL",
     "player": "Aaliyah Nye",
     "status": "Out",
@@ -17981,5 +17882,119 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-11T00:00:49.760092+00:00",
+    "type": "status_change",
+    "team_abbr": "SEA",
+    "player": "Ezi Magbegor",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-08-11T00:00:49.760092+00:00",
+    "type": "status_change",
+    "team_abbr": "SEA",
+    "player": "KatieLou Samuelson",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Knee; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-11T00:00:49.760092+00:00",
+    "type": "status_change",
+    "team_abbr": "SEA",
+    "player": "Flau'jae Johnson",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Ankle; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-11T00:00:49.760092+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Kelsey Plum",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Lower Leg;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-11T00:00:49.760092+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "DeWanna Bonner",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness--; Illness"
+  },
+  {
+    "ts": "2026-08-11T00:00:49.760092+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Shay Ciezki",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental"
+  },
+  {
+    "ts": "2026-08-11T00:00:49.760092+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Kara Dunn",
+    "previous_status": "Out",
+    "previous_reason": "Player Coach's Decision - Developmental Player"
+  },
+  {
+    "ts": "2026-08-11T00:00:49.760092+00:00",
+    "type": "added",
+    "team_abbr": "LVA",
+    "player": "Dana Evans",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Leg; L.Leg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-11T00:00:49.760092+00:00",
+    "type": "cleared",
+    "team_abbr": "LVA",
+    "player": "Chelsea Gray",
+    "previous_status": "Out",
+    "previous_reason": "Rest"
+  },
+  {
+    "ts": "2026-08-11T00:00:49.760092+00:00",
+    "type": "cleared",
+    "team_abbr": "LVA",
+    "player": "Justine Pissott",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Right Leg; rightleg"
+  },
+  {
+    "ts": "2026-08-11T00:00:49.760092+00:00",
+    "type": "cleared",
+    "team_abbr": "LVA",
+    "player": "A'ja Wilson",
+    "previous_status": "Out",
+    "previous_reason": "Rest"
+  },
+  {
+    "ts": "2026-08-11T00:00:49.760092+00:00",
+    "type": "cleared",
+    "team_abbr": "LVA",
+    "player": "Jackie Young",
+    "previous_status": "Out",
+    "previous_reason": "Rest"
+  },
+  {
+    "ts": "2026-08-11T00:00:49.760092+00:00",
+    "type": "reason_change",
+    "team_abbr": "LVA",
+    "player": "Cheyenne Parker-Tyus",
+    "status": "Out",
+    "from_reason": "Not With Team",
+    "to_reason": "Concussion Protocol",
+    "reason_category": "procedural"
   }
 ]

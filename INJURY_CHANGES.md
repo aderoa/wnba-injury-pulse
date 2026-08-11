@@ -4,6 +4,22 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-08-11 00:00 UTC
+
+- **Ezi Magbegor** (SEA): **Questionable** → **Available** — -
+- **KatieLou Samuelson** (SEA): **Questionable** → **Out** — Injury/Illness - Right Knee; Injury
+- **Flau'jae Johnson** (SEA): **Questionable** → **Out** — Injury/Illness - Left Ankle; Injury
+- **Kelsey Plum** (PHX) newly listed as **Out** — Injury/Illness - Left Lower Leg;-
+- **DeWanna Bonner** (PHX) cleared (was Available)
+- **Shay Ciezki** (PHX) cleared (was Out)
+- **Kara Dunn** (PHX) cleared (was Out)
+- **Dana Evans** (LVA) newly listed as **Out** — Injury/Illness - Left Leg; L.Leg
+- **Chelsea Gray** (LVA) cleared (was Out)
+- **Justine Pissott** (LVA) cleared (was Available)
+- **A'ja Wilson** (LVA) cleared (was Out)
+- **Jackie Young** (LVA) cleared (was Out)
+- **Cheyenne Parker-Tyus** (LVA, Out): reason updated (Not With Team → Concussion Protocol)
+
 ## 2026-08-10 23:00 UTC
 
 - **Indya Nivar** (ATL) newly listed as **Out** — Coach's Decision
