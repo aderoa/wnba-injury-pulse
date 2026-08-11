@@ -1,101 +1,8 @@
 {
-  "report_ts": "08/10/26 11:45 PM",
-  "page_count": 2,
-  "raw_line_count": 20,
+  "report_ts": "08/11/26 12:00 AM",
+  "page_count": 1,
+  "raw_line_count": 14,
   "teams": [
-    {
-      "team_full": "Atlanta Dream",
-      "team_abbr": "ATL",
-      "game_date": "08/10/2026",
-      "game_time": "08:00(ET)",
-      "matchup": "TOR@ATL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Nivar, Indya",
-          "name": "Indya Nivar",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Paopao, Te-Hina",
-          "name": "Te-Hina Paopao",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Leg; N/A",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Chicago Sky",
-      "team_abbr": "CHI",
-      "game_date": "08/10/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "CHI@SEA",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Diggins, Skylar",
-          "name": "Skylar Diggins",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee; Right Knee",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Taylor, Sydney",
-          "name": "Sydney Taylor",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Groin; Left Groin",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Westbeld, Maddy",
-          "name": "Maddy Westbeld",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Seattle Storm",
-      "team_abbr": "SEA",
-      "game_date": "08/10/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "CHI@SEA",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Johnson, Flau'jae",
-          "name": "Flau'jae Johnson",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Ankle; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Magbegor, Ezi",
-          "name": "Ezi Magbegor",
-          "status": "Available",
-          "reason": "-",
-          "reason_category": "other"
-        },
-        {
-          "name_last_first": "Mair, Taina",
-          "name": "Taina Mair",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Samuelson, KatieLou",
-          "name": "KatieLou Samuelson",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee; Injury",
-          "reason_category": "injury"
-        }
-      ]
-    },
     {
       "team_full": "New York Liberty",
       "team_abbr": "NYL",
@@ -201,9 +108,63 @@
           "reason_category": "procedural"
         }
       ]
+    },
+    {
+      "team_full": "Las Vegas Aces",
+      "team_abbr": "LVA",
+      "game_date": "08/12/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "TOR@DAL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Dallas Wings",
+      "team_abbr": "DAL",
+      "game_date": "08/12/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "TOR@DAL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Chicago Sky",
+      "team_abbr": "CHI",
+      "game_date": "08/12/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "CHI@GSV",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Golden State Valkyries",
+      "team_abbr": "GSV",
+      "game_date": "08/12/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "CHI@GSV",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Minnesota Lynx",
+      "team_abbr": "MIN",
+      "game_date": "08/12/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "MIN@PDX",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Portland Fire",
+      "team_abbr": "PDX",
+      "game_date": "08/12/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "MIN@PDX",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-10_11_45PM.pdf",
-  "fetched_slot": "2026-08-10T23:45:00-04:00",
-  "polled_at_utc": "2026-08-11T03:45:46.008388+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-11_12_00AM.pdf",
+  "fetched_slot": "2026-08-11T00:00:00-04:00",
+  "polled_at_utc": "2026-08-11T04:00:44.498741+00:00"
 }
