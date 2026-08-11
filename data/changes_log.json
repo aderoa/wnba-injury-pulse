@@ -2,42 +2,6 @@
   {
     "ts": "2026-05-10T00:03:14.870484+00:00",
     "type": "added",
-    "team_abbr": "ATL",
-    "player": "Aaliyah Nye",
-    "status": "Out",
-    "reason": "Not With Team",
-    "reason_category": "offcourt"
-  },
-  {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
-    "team_abbr": "MIN",
-    "player": "Napheesa Collier",
-    "status": "Out",
-    "reason": "Injury/Illness - Left Ankle; NA",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
-    "team_abbr": "MIN",
-    "player": "Dorka Juhasz",
-    "status": "Out",
-    "reason": "Injury/Illness - Right Foot; NA",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
-    "team_abbr": "MIN",
-    "player": "Liatu King",
-    "status": "Out",
-    "reason": "Coach's Decision - NA",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
     "team_abbr": "CHI",
     "player": "DiJonai Carrington",
     "status": "Out",
@@ -17996,5 +17960,39 @@
     "from_reason": "Not With Team",
     "to_reason": "Concussion Protocol",
     "reason_category": "procedural"
+  },
+  {
+    "ts": "2026-08-11T00:15:49.316838+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Rae Burrell",
+    "previous_status": "Available",
+    "previous_reason": "-"
+  },
+  {
+    "ts": "2026-08-11T00:15:49.316838+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Tonie Morgan",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Coach\u2019sdecision"
+  },
+  {
+    "ts": "2026-08-11T00:15:49.316838+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Alissa Pili",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Coach\u2019sdecision"
+  },
+  {
+    "ts": "2026-08-11T00:15:49.316838+00:00",
+    "type": "status_change",
+    "team_abbr": "LAS",
+    "player": "Monique AkoaMakani",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Right Ankle; RAnkle",
+    "reason_category": "injury"
   }
 ]
