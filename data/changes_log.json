@@ -1,87 +1,5 @@
 [
   {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
-    "team_abbr": "NYL",
-    "player": "Sabrina Ionescu",
-    "status": "Out",
-    "reason": "Injury/Illness - Left Foot; NWT",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
-    "team_abbr": "NYL",
-    "player": "Satou Sabally",
-    "status": "Out",
-    "reason": "Injury/Illness - Cyst; NWT",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
-    "team_abbr": "WAS",
-    "player": "Alicia FlorezGetino",
-    "status": "Out",
-    "reason": "Personal Reasons",
-    "reason_category": "offcourt"
-  },
-  {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
-    "team_abbr": "WAS",
-    "player": "Cotie McMahon",
-    "status": "Out",
-    "reason": "Injury/Illness - Left Elbow; Sprain",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
-    "team_abbr": "WAS",
-    "player": "Michaela Onyenwere",
-    "status": "Out",
-    "reason": "Injury/Illness - Left Knee; Injury Management",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
-    "team_abbr": "GSV",
-    "player": "Tiffany Hayes",
-    "status": "Out",
-    "reason": "Injury/Illness - Leftpinky; Pinky",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
-    "team_abbr": "GSV",
-    "player": "Cecilia Zandalasini",
-    "status": "Out",
-    "reason": "dislocation Injury/Illness - head; Concussion protocol",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-10T16:30:16.968153+00:00",
-    "type": "added",
-    "team_abbr": "CON",
-    "player": "Ashlon Jackson",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-10T20:00:21.203870+00:00",
-    "type": "reason_change",
-    "team_abbr": "LVA",
-    "player": "Dana Evans",
-    "status": "Out",
-    "from_reason": "Injury/Illness - Left Leg; N/A",
-    "to_reason": "Injury/Illness - Leftleg; out",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-05-10T20:00:21.203870+00:00",
     "type": "reason_change",
     "team_abbr": "LVA",
@@ -18000,5 +17918,84 @@
     "from_reason": "Concussion Protocol",
     "to_reason": "Not With Team",
     "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-08-11T23:45:49.132239+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Maddy Westbeld",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-11T23:45:49.132239+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Liatu King",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-11T23:45:49.132239+00:00",
+    "type": "status_change",
+    "team_abbr": "MIN",
+    "player": "Chloe Bibby",
+    "from_status": "Out",
+    "to_status": "Doubtful",
+    "reason": "Personal Reasons",
+    "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-08-11T23:45:49.132239+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Amy Okonkwo",
+    "status": "Out",
+    "reason": "Rest",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-08-11T23:45:49.132239+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "SarahAshlee Barker",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Knee; Injury"
+  },
+  {
+    "ts": "2026-08-11T23:45:49.132239+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Bridget Carleton",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Right Foot; Injury"
+  },
+  {
+    "ts": "2026-08-11T23:45:49.132239+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Luisa Geiselsoder",
+    "previous_status": "Out",
+    "previous_reason": "Not With Team"
+  },
+  {
+    "ts": "2026-08-11T23:45:49.132239+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Teja Oblak",
+    "from_status": "Out",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Left Knee; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-11T23:45:49.132239+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Carla Leite",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Knee; Soreness",
+    "reason_category": "injury"
   }
 ]
