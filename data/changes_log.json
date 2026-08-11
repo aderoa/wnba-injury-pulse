@@ -3,15 +3,6 @@
     "ts": "2026-05-10T00:03:14.870484+00:00",
     "type": "added",
     "team_abbr": "CHI",
-    "player": "DiJonai Carrington",
-    "status": "Out",
-    "reason": "Injury/Illness - Left Foot; Left Foot",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-10T00:03:14.870484+00:00",
-    "type": "added",
-    "team_abbr": "CHI",
     "player": "Natasha Cloud",
     "status": "Out",
     "reason": "Injury/Illness - N/A; Illness",
@@ -17994,5 +17985,14 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Right Ankle; RAnkle",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-11T01:00:54.636449+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Maddy Westbeld",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
