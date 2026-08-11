@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/11/26 01:30 PM",
+  "report_ts": "08/11/26 01:45 PM",
   "page_count": 1,
-  "raw_line_count": 14,
+  "raw_line_count": 15,
   "teams": [
     {
       "team_full": "New York Liberty",
@@ -94,6 +94,13 @@
       "submitted": true,
       "players": [
         {
+          "name_last_first": "Bell, Kierstan",
+          "name": "Kierstan Bell",
+          "status": "Out",
+          "reason": "Personal Reasons",
+          "reason_category": "offcourt"
+        },
+        {
           "name_last_first": "Evans, Dana",
           "name": "Dana Evans",
           "status": "Out",
@@ -164,7 +171,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-11_01_30PM.pdf",
-  "fetched_slot": "2026-08-11T13:30:00-04:00",
-  "polled_at_utc": "2026-08-11T17:42:30.752761+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-11_01_45PM.pdf",
+  "fetched_slot": "2026-08-11T13:45:00-04:00",
+  "polled_at_utc": "2026-08-11T17:45:46.906690+00:00"
 }
