@@ -1,15 +1,6 @@
 [
   {
     "ts": "2026-05-11T23:30:52.547719+00:00",
-    "type": "added",
-    "team_abbr": "PDX",
-    "player": "Kamiah Smalls",
-    "status": "Questionable",
-    "reason": "Injury/Illness - Left Knee; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-11T23:30:52.547719+00:00",
     "type": "status_change",
     "team_abbr": "PDX",
     "player": "Sug Sutton",
@@ -17995,5 +17986,13 @@
     "from_reason": "Not With Team",
     "to_reason": "Injury/Illness - Left Foot; L.Foot",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-12T22:30:47.258853+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Alissa Pili",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Coach\u2019sdecision"
   }
 ]
