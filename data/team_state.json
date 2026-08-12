@@ -2,8 +2,8 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-08-12T20:30:46.551123+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-12_04_30PM.pdf",
+    "last_submitted_ts": "2026-08-12T20:45:55.489375+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-12_04_45PM.pdf",
     "game_dates": [
       "08/12/2026"
     ],
@@ -21,7 +21,7 @@
       {
         "name_last_first": "Fudd, Azzi",
         "name": "Azzi Fudd",
-        "status": "Questionable",
+        "status": "Out",
         "reason": "Injury/Illness - Right Knee; n/a",
         "reason_category": "injury"
       },
@@ -168,7 +168,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-08-12T20:30:46.551123+00:00"
+    "last_seen_pending_ts": "2026-08-12T20:45:55.489375+00:00"
   },
   "ATL": {
     "team_full": "Atlanta Dream",
@@ -197,13 +197,13 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-08-12T20:30:46.551123+00:00"
+    "last_seen_pending_ts": "2026-08-12T20:45:55.489375+00:00"
   },
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-08-12T20:30:46.551123+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-12_04_30PM.pdf",
+    "last_submitted_ts": "2026-08-12T20:45:55.489375+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-12_04_45PM.pdf",
     "game_dates": [
       "08/12/2026"
     ],
@@ -223,8 +223,8 @@
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-08-12T20:30:46.551123+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-12_04_30PM.pdf",
+    "last_submitted_ts": "2026-08-12T20:45:55.489375+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-12_04_45PM.pdf",
     "game_dates": [
       "08/12/2026"
     ],
@@ -251,8 +251,8 @@
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-08-12T20:30:46.551123+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-12_04_30PM.pdf",
+    "last_submitted_ts": "2026-08-12T20:45:55.489375+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-12_04_45PM.pdf",
     "game_dates": [
       "08/12/2026"
     ],
@@ -335,45 +335,23 @@
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-08-08T03:58:32.493652+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-07_11_45PM.pdf",
+    "last_submitted_ts": "2026-08-12T20:45:55.489375+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-12_04_45PM.pdf",
     "game_dates": [
-      "08/07/2026"
+      "08/13/2026"
     ],
     "matchups": [
-      "PHX@CON"
+      "ATL@CON"
     ],
     "players": [
       {
-        "name_last_first": "Beers, Raegan",
-        "name": "Raegan Beers",
-        "status": "Out",
-        "reason": "Concussion Protocol",
-        "reason_category": "procedural"
-      },
-      {
         "name_last_first": "Griner, Brittney",
         "name": "Brittney Griner",
-        "status": "Available",
+        "status": "Questionable",
         "reason": "Injury/Illness - Left Knee;-",
         "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Jackson, Ashlon",
-        "name": "Ashlon Jackson",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
-      },
-      {
-        "name_last_first": "Nelson-Ododa, Olivia",
-        "name": "Olivia Nelson-Ododa",
-        "status": "Available",
-        "reason": "Injury/Illness - General; Illness",
-        "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-08-12T20:30:46.551123+00:00"
+    ]
   },
   "NYL": {
     "team_full": "New York Liberty",
@@ -409,7 +387,7 @@
         "reason_category": "offcourt"
       }
     ],
-    "last_seen_pending_ts": "2026-08-12T20:30:46.551123+00:00"
+    "last_seen_pending_ts": "2026-08-12T20:45:55.489375+00:00"
   },
   "WAS": {
     "team_full": "Washington Mystics",
@@ -438,13 +416,13 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-08-12T20:30:46.551123+00:00"
+    "last_seen_pending_ts": "2026-08-12T20:45:55.489375+00:00"
   },
   "GSV": {
     "team_full": "Golden State Valkyries",
     "submitted": true,
-    "last_submitted_ts": "2026-08-12T20:30:46.551123+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-12_04_30PM.pdf",
+    "last_submitted_ts": "2026-08-12T20:45:55.489375+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-12_04_45PM.pdf",
     "game_dates": [
       "08/12/2026"
     ],
@@ -495,6 +473,6 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-08-12T20:30:46.551123+00:00"
+    "last_seen_pending_ts": "2026-08-12T20:45:55.489375+00:00"
   }
 }

@@ -1,46 +1,5 @@
 [
   {
-    "ts": "2026-05-11T22:00:55.734716+00:00",
-    "type": "cleared",
-    "team_abbr": "ATL",
-    "player": "Aaliyah Nye",
-    "previous_status": "Out",
-    "previous_reason": "Not With Team"
-  },
-  {
-    "ts": "2026-05-11T22:00:55.734716+00:00",
-    "type": "added",
-    "team_abbr": "DAL",
-    "player": "Azzi Fudd",
-    "status": "Probable",
-    "reason": "Injury/Illness - Rightknee; Right Knee",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-11T22:00:55.734716+00:00",
-    "type": "cleared",
-    "team_abbr": "DAL",
-    "player": "Aziaha James",
-    "previous_status": "Available",
-    "previous_reason": "Injury/Illness - Left Ankle; Sprain"
-  },
-  {
-    "ts": "2026-05-11T22:00:55.734716+00:00",
-    "type": "cleared",
-    "team_abbr": "DAL",
-    "player": "Alanna Smith",
-    "previous_status": "Available",
-    "previous_reason": "Injury/Illness - Face; Nasal Fracture"
-  },
-  {
-    "ts": "2026-05-11T22:00:55.734716+00:00",
-    "type": "cleared",
-    "team_abbr": "DAL",
-    "player": "Costanza Verona",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
     "ts": "2026-05-11T23:30:52.547719+00:00",
     "type": "reason_change",
     "team_abbr": "NYL",
@@ -17993,6 +17952,50 @@
     "player": "Justine Pissott",
     "status": "Out",
     "reason": "Injury/Illness - Right Leg; rightleg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-12T20:45:55.489375+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Azzi Fudd",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Knee; n/a",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-12T20:45:55.489375+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Raegan Beers",
+    "previous_status": "Out",
+    "previous_reason": "Concussion Protocol"
+  },
+  {
+    "ts": "2026-08-12T20:45:55.489375+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Ashlon Jackson",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-12T20:45:55.489375+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Olivia Nelson-Ododa",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - General; Illness"
+  },
+  {
+    "ts": "2026-08-12T20:45:55.489375+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Brittney Griner",
+    "from_status": "Available",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Knee;-",
     "reason_category": "injury"
   }
 ]

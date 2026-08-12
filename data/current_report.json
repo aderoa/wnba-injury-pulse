@@ -1,5 +1,5 @@
 {
-  "report_ts": "08/12/26 04:30 PM",
+  "report_ts": "08/12/26 04:45 PM",
   "page_count": 2,
   "raw_line_count": 23,
   "teams": [
@@ -21,7 +21,7 @@
         {
           "name_last_first": "Fudd, Azzi",
           "name": "Azzi Fudd",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Right Knee; n/a",
           "reason_category": "injury"
         },
@@ -152,8 +152,16 @@
       "game_date": "08/13/2026",
       "game_time": "07:00(ET)",
       "matchup": "ATL@CON",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Griner, Brittney",
+          "name": "Brittney Griner",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Knee;-",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Los Angeles Sparks",
@@ -192,7 +200,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-12_04_30PM.pdf",
-  "fetched_slot": "2026-08-12T16:30:00-04:00",
-  "polled_at_utc": "2026-08-12T20:30:46.551123+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-12_04_45PM.pdf",
+  "fetched_slot": "2026-08-12T16:45:00-04:00",
+  "polled_at_utc": "2026-08-12T20:45:55.489375+00:00"
 }
