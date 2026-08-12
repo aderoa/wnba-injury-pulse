@@ -2,8 +2,8 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-08-12T20:45:55.489375+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-12_04_45PM.pdf",
+    "last_submitted_ts": "2026-08-12T21:00:44.293021+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-12_05_00PM.pdf",
     "game_dates": [
       "08/12/2026"
     ],
@@ -168,26 +168,26 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-08-12T20:45:55.489375+00:00"
+    "last_seen_pending_ts": "2026-08-12T21:00:44.293021+00:00"
   },
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-08-11T03:45:46.008388+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-10_11_45PM.pdf",
+    "last_submitted_ts": "2026-08-12T21:00:44.293021+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-12_05_00PM.pdf",
     "game_dates": [
-      "08/10/2026"
+      "08/13/2026"
     ],
     "matchups": [
-      "TOR@ATL"
+      "ATL@CON"
     ],
     "players": [
       {
         "name_last_first": "Nivar, Indya",
         "name": "Indya Nivar",
         "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
+        "reason": "Personal Reasons",
+        "reason_category": "offcourt"
       },
       {
         "name_last_first": "Paopao, Te-Hina",
@@ -196,14 +196,13 @@
         "reason": "Injury/Illness - Right Leg; N/A",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-08-12T20:45:55.489375+00:00"
+    ]
   },
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-08-12T20:45:55.489375+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-12_04_45PM.pdf",
+    "last_submitted_ts": "2026-08-12T21:00:44.293021+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-12_05_00PM.pdf",
     "game_dates": [
       "08/12/2026"
     ],
@@ -223,8 +222,8 @@
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-08-12T20:45:55.489375+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-12_04_45PM.pdf",
+    "last_submitted_ts": "2026-08-12T21:00:44.293021+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-12_05_00PM.pdf",
     "game_dates": [
       "08/12/2026"
     ],
@@ -251,8 +250,8 @@
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-08-12T20:45:55.489375+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-12_04_45PM.pdf",
+    "last_submitted_ts": "2026-08-12T21:00:44.293021+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-12_05_00PM.pdf",
     "game_dates": [
       "08/12/2026"
     ],
@@ -335,8 +334,8 @@
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-08-12T20:45:55.489375+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-12_04_45PM.pdf",
+    "last_submitted_ts": "2026-08-12T21:00:44.293021+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-12_05_00PM.pdf",
     "game_dates": [
       "08/13/2026"
     ],
@@ -356,38 +355,30 @@
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-08-12T03:45:45.806425+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-11_11_45PM.pdf",
+    "last_submitted_ts": "2026-08-12T21:00:44.293021+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-12_05_00PM.pdf",
     "game_dates": [
-      "08/11/2026"
+      "08/13/2026"
     ],
     "matchups": [
-      "NYL@IND"
+      "LAS@NYL"
     ],
     "players": [
       {
         "name_last_first": "Fiebich, Leonie",
         "name": "Leonie Fiebich",
         "status": "Out",
-        "reason": "Not With Team",
-        "reason_category": "offcourt"
-      },
-      {
-        "name_last_first": "Maley, Anneli",
-        "name": "Anneli Maley",
-        "status": "Out",
-        "reason": "Coach's Decision - Developmental Player",
-        "reason_category": "rest_coach"
+        "reason": "Injury/Illness - Left Foot; L.Foot",
+        "reason_category": "injury"
       },
       {
         "name_last_first": "Sabally, Satou",
         "name": "Satou Sabally",
         "status": "Out",
-        "reason": "Not With Team",
-        "reason_category": "offcourt"
+        "reason": "Injury/Illness - Head; Not With Team",
+        "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-08-12T20:45:55.489375+00:00"
+    ]
   },
   "WAS": {
     "team_full": "Washington Mystics",
@@ -416,13 +407,13 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-08-12T20:45:55.489375+00:00"
+    "last_seen_pending_ts": "2026-08-12T21:00:44.293021+00:00"
   },
   "GSV": {
     "team_full": "Golden State Valkyries",
     "submitted": true,
-    "last_submitted_ts": "2026-08-12T20:45:55.489375+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-12_04_45PM.pdf",
+    "last_submitted_ts": "2026-08-12T21:00:44.293021+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-12_05_00PM.pdf",
     "game_dates": [
       "08/12/2026"
     ],
@@ -473,6 +464,6 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-08-12T20:45:55.489375+00:00"
+    "last_seen_pending_ts": "2026-08-12T21:00:44.293021+00:00"
   }
 }

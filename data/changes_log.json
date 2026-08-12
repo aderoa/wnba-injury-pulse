@@ -1,46 +1,6 @@
 [
   {
     "ts": "2026-05-11T23:30:52.547719+00:00",
-    "type": "reason_change",
-    "team_abbr": "NYL",
-    "player": "Sabrina Ionescu",
-    "status": "Out",
-    "from_reason": "Injury/Illness - Left Foot; NWT",
-    "to_reason": "Injury/Illness - Left Foot; Foot",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-11T23:30:52.547719+00:00",
-    "type": "reason_change",
-    "team_abbr": "NYL",
-    "player": "Marine Fauthoux",
-    "status": "Out",
-    "from_reason": "Injury/Illness - Leftknee; Rehabilitation",
-    "to_reason": "Injury/Illness - Left Knee; Rehabilitation",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-11T23:30:52.547719+00:00",
-    "type": "reason_change",
-    "team_abbr": "NYL",
-    "player": "Rebecca Allen",
-    "status": "Out",
-    "from_reason": "Injury/Illness - Left Leg; L.Leg",
-    "to_reason": "Injury/Illness - Left Leg; Leg",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-11T23:30:52.547719+00:00",
-    "type": "reason_change",
-    "team_abbr": "NYL",
-    "player": "Satou Sabally",
-    "status": "Out",
-    "from_reason": "Injury/Illness - Cyst; NWT",
-    "to_reason": "Injury/Illness - Cyst; Cyst",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-11T23:30:52.547719+00:00",
     "type": "added",
     "team_abbr": "PDX",
     "player": "Kamiah Smalls",
@@ -17996,6 +17956,44 @@
     "from_status": "Available",
     "to_status": "Questionable",
     "reason": "Injury/Illness - Left Knee;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-12T21:00:44.293021+00:00",
+    "type": "reason_change",
+    "team_abbr": "ATL",
+    "player": "Indya Nivar",
+    "status": "Out",
+    "from_reason": "Coach's Decision",
+    "to_reason": "Personal Reasons",
+    "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-08-12T21:00:44.293021+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Anneli Maley",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental Player"
+  },
+  {
+    "ts": "2026-08-12T21:00:44.293021+00:00",
+    "type": "reason_change",
+    "team_abbr": "NYL",
+    "player": "Satou Sabally",
+    "status": "Out",
+    "from_reason": "Not With Team",
+    "to_reason": "Injury/Illness - Head; Not With Team",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-12T21:00:44.293021+00:00",
+    "type": "reason_change",
+    "team_abbr": "NYL",
+    "player": "Leonie Fiebich",
+    "status": "Out",
+    "from_reason": "Not With Team",
+    "to_reason": "Injury/Illness - Left Foot; L.Foot",
     "reason_category": "injury"
   }
 ]
