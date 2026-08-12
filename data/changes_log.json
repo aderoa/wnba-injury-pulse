@@ -1,51 +1,5 @@
 [
   {
-    "ts": "2026-05-10T20:00:21.203870+00:00",
-    "type": "reason_change",
-    "team_abbr": "LVA",
-    "player": "Janiah Barker",
-    "status": "Out",
-    "from_reason": "Concussion Protocol",
-    "to_reason": "Injury/Illness - head; out",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-10T20:00:21.203870+00:00",
-    "type": "cleared",
-    "team_abbr": "PHX",
-    "player": "Shay Ciezki",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-05-10T20:00:21.203870+00:00",
-    "type": "cleared",
-    "team_abbr": "PHX",
-    "player": "Marta Suarez",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-05-10T20:00:21.203870+00:00",
-    "type": "reason_change",
-    "team_abbr": "PHX",
-    "player": "Sami Whitcomb",
-    "status": "Out",
-    "from_reason": "Injury/Illness - Left Knee; Arthroscopy",
-    "to_reason": "Injury/Illness - Left Knee;",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-10T20:00:21.203870+00:00",
-    "type": "reason_change",
-    "team_abbr": "GSV",
-    "player": "Tiffany Hayes",
-    "status": "Out",
-    "from_reason": "Injury/Illness - Leftpinky; Pinky",
-    "to_reason": "Arthroscopy Injury/Illness - Leftpinky; Pinky",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-05-10T21:00:19.397209+00:00",
     "type": "added",
     "team_abbr": "LAS",
@@ -17997,5 +17951,47 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Left Knee; Soreness",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-12T00:00:48.373124+00:00",
+    "type": "added",
+    "team_abbr": "GSV",
+    "player": "Janelle Salaun",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Rightknee; Soreness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-12T00:00:48.373124+00:00",
+    "type": "added",
+    "team_abbr": "GSV",
+    "player": "Kiah Stokes",
+    "status": "Out",
+    "reason": "Injury/Illness - Head; Concussion protocol",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-12T00:00:48.373124+00:00",
+    "type": "cleared",
+    "team_abbr": "GSV",
+    "player": "Ashten Prechtel",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-12T00:00:48.373124+00:00",
+    "type": "cleared",
+    "team_abbr": "GSV",
+    "player": "Miela Sowah",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-12T00:00:48.373124+00:00",
+    "type": "cleared",
+    "team_abbr": "GSV",
+    "player": "Cecilia Zandalasini",
+    "previous_status": "Available",
+    "previous_reason": "-"
   }
 ]
