@@ -1,41 +1,5 @@
 [
   {
-    "ts": "2026-05-10T21:00:19.397209+00:00",
-    "type": "added",
-    "team_abbr": "LAS",
-    "player": "Kate Martin",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-10T21:00:19.397209+00:00",
-    "type": "added",
-    "team_abbr": "LAS",
-    "player": "Laura Ziegler",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-10T23:30:18.910845+00:00",
-    "type": "added",
-    "team_abbr": "PHX",
-    "player": "Shay Ciezki",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-10T23:30:18.910845+00:00",
-    "type": "added",
-    "team_abbr": "PHX",
-    "player": "Marta Suarez",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
     "ts": "2026-05-11T22:00:55.734716+00:00",
     "type": "cleared",
     "team_abbr": "ATL",
@@ -17993,5 +17957,42 @@
     "player": "Cecilia Zandalasini",
     "previous_status": "Available",
     "previous_reason": "-"
+  },
+  {
+    "ts": "2026-08-12T01:00:48.749559+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Kara Dunn",
+    "status": "Out",
+    "reason": "Coach's Decision - Developmental Player",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-12T01:00:48.749559+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Alissa Pili",
+    "status": "Out",
+    "reason": "Coach's Decision - Coach\u2019sdecision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-12T01:00:48.749559+00:00",
+    "type": "status_change",
+    "team_abbr": "LAS",
+    "player": "Monique AkoaMakani",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Ankle; RAnkle",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-12T01:00:48.749559+00:00",
+    "type": "added",
+    "team_abbr": "LVA",
+    "player": "Justine Pissott",
+    "status": "Out",
+    "reason": "Injury/Illness - Right Leg; rightleg",
+    "reason_category": "injury"
   }
 ]

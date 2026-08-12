@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/11/26 08:45 PM",
+  "report_ts": "08/11/26 09:00 PM",
   "page_count": 2,
-  "raw_line_count": 31,
+  "raw_line_count": 36,
   "teams": [
     {
       "team_full": "New York Liberty",
@@ -81,6 +81,13 @@
       "submitted": true,
       "players": [
         {
+          "name_last_first": "Dunn, Kara",
+          "name": "Kara Dunn",
+          "status": "Out",
+          "reason": "Coach's Decision - Developmental Player",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Plum, Kelsey",
           "name": "Kelsey Plum",
           "status": "Out",
@@ -100,9 +107,16 @@
         {
           "name_last_first": "AkoaMakani, Monique",
           "name": "Monique AkoaMakani",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Right Ankle; RAnkle",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Pili, Alissa",
+          "name": "Alissa Pili",
+          "status": "Out",
+          "reason": "Coach's Decision - Coach\u2019sdecision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -134,6 +148,13 @@
           "status": "Out",
           "reason": "Concussion Protocol",
           "reason_category": "procedural"
+        },
+        {
+          "name_last_first": "Pissott, Justine",
+          "name": "Justine Pissott",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Leg; rightleg",
+          "reason_category": "injury"
         }
       ]
     },
@@ -303,7 +324,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-11_08_45PM.pdf",
-  "fetched_slot": "2026-08-11T20:45:00-04:00",
-  "polled_at_utc": "2026-08-12T00:45:50.305053+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-11_09_00PM.pdf",
+  "fetched_slot": "2026-08-11T21:00:00-04:00",
+  "polled_at_utc": "2026-08-12T01:00:48.749559+00:00"
 }
