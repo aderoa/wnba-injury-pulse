@@ -1,15 +1,5 @@
 [
   {
-    "ts": "2026-05-11T23:30:52.547719+00:00",
-    "type": "status_change",
-    "team_abbr": "PDX",
-    "player": "Sug Sutton",
-    "from_status": "Out",
-    "to_status": "Questionable",
-    "reason": "Injury/Illness - Right Knee; Injury",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-05-12T00:00:57.660307+00:00",
     "type": "cleared",
     "team_abbr": "MIN",
@@ -17994,5 +17984,15 @@
     "player": "Alissa Pili",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision - Coach\u2019sdecision"
+  },
+  {
+    "ts": "2026-08-12T23:00:48.777594+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Alysha Clark",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Back; n/a",
+    "reason_category": "injury"
   }
 ]
