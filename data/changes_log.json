@@ -1,14 +1,6 @@
 [
   {
     "ts": "2026-05-12T00:00:57.660307+00:00",
-    "type": "cleared",
-    "team_abbr": "MIN",
-    "player": "Liatu King",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision - NA"
-  },
-  {
-    "ts": "2026-05-12T00:00:57.660307+00:00",
     "type": "reason_change",
     "team_abbr": "MIN",
     "player": "Dorka Juhasz",
@@ -17994,5 +17986,14 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Back; n/a",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-12T23:15:44.856406+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Haley Jones",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
