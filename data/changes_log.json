@@ -1,22 +1,5 @@
 [
   {
-    "ts": "2026-05-12T20:45:46.400765+00:00",
-    "type": "cleared",
-    "team_abbr": "CON",
-    "player": "Ashlon Jackson",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-05-12T21:00:48.562149+00:00",
-    "type": "added",
-    "team_abbr": "SEA",
-    "player": "Temi TorontoTempo Fagbenle",
-    "status": "Questionable",
-    "reason": "Injury/Illness - Right Shoulder; Injury",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-05-12T21:00:48.562149+00:00",
     "type": "added",
     "team_abbr": "SEA",
@@ -17993,5 +17976,23 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Right Leg; R.Leg",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-13T00:45:44.613013+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Elena Buenavida",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-13T00:45:44.613013+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Liatu King",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
