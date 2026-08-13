@@ -3,15 +3,6 @@
     "ts": "2026-05-13T01:00:39.049276+00:00",
     "type": "added",
     "team_abbr": "MIN",
-    "player": "Emese Hof",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-13T01:00:39.049276+00:00",
-    "type": "added",
-    "team_abbr": "MIN",
     "player": "Liatu King",
     "status": "Out",
     "reason": "Coach's Decision",
@@ -17988,5 +17979,14 @@
     "to_status": "Probable",
     "reason": "Injury/Illness - Back; Back",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-13T22:15:46.900239+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Ashlon Jackson",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
