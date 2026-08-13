@@ -1,35 +1,5 @@
 [
   {
-    "ts": "2026-05-12T21:00:48.562149+00:00",
-    "type": "reason_change",
-    "team_abbr": "SEA",
-    "player": "KatieLou Samuelson",
-    "status": "Out",
-    "from_reason": "Injury/Illness - Right Knee; N/A",
-    "to_reason": "Injury/Illness - Right Knee; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-12T21:00:48.562149+00:00",
-    "type": "reason_change",
-    "team_abbr": "LVA",
-    "player": "Janiah Barker",
-    "status": "Out",
-    "from_reason": "Injury/Illness - head; out",
-    "to_reason": "Injury/Illness - Head; head",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-12T21:00:48.562149+00:00",
-    "type": "reason_change",
-    "team_abbr": "LVA",
-    "player": "Dana Evans",
-    "status": "Out",
-    "from_reason": "Injury/Illness - Leftleg; out",
-    "to_reason": "Injury/Illness - Left Leg; injury",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-05-12T22:00:52.001440+00:00",
     "type": "status_change",
     "team_abbr": "DAL",
@@ -17993,5 +17963,35 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-13T01:30:48.163556+00:00",
+    "type": "status_change",
+    "team_abbr": "GSV",
+    "player": "Janelle Salaun",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Rightknee; Soreness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-13T01:30:48.163556+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Carla Leite",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Knee; Soreness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-13T01:30:48.163556+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Teja Oblak",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Knee; Injury",
+    "reason_category": "injury"
   }
 ]
