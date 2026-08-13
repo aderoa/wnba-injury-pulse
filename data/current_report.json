@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/13/26 07:15 PM",
+  "report_ts": "08/13/26 07:30 PM",
   "page_count": 2,
-  "raw_line_count": 21,
+  "raw_line_count": 22,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -198,8 +198,23 @@
       "game_date": "08/14/2026",
       "game_time": "10:00(ET)",
       "matchup": "PDX@SEA",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Feagin, Sania",
+          "name": "Sania Feagin",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Leite, Carla",
+          "name": "Carla Leite",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Knee; Soreness",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Seattle Storm",
@@ -211,7 +226,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-13_07_15PM.pdf",
-  "fetched_slot": "2026-08-13T19:15:00-04:00",
-  "polled_at_utc": "2026-08-13T23:15:46.749081+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-13_07_30PM.pdf",
+  "fetched_slot": "2026-08-13T19:30:00-04:00",
+  "polled_at_utc": "2026-08-13T23:30:45.647887+00:00"
 }

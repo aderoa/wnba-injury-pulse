@@ -1,33 +1,5 @@
 [
   {
-    "ts": "2026-05-13T01:15:46.988956+00:00",
-    "type": "added",
-    "team_abbr": "PHX",
-    "player": "Marta Suarez",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-13T15:45:31.570227+00:00",
-    "type": "added",
-    "team_abbr": "CON",
-    "player": "Brittney Griner",
-    "status": "Out",
-    "reason": "Injury/Illness - Left Foot; Sprain",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-13T16:45:18.263566+00:00",
-    "type": "status_change",
-    "team_abbr": "SEA",
-    "player": "Temi TorontoTempo Fagbenle",
-    "from_status": "Questionable",
-    "to_status": "Out",
-    "reason": "Injury/Illness - Right Shoulder; Injury",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-05-13T22:01:16.046724+00:00",
     "type": "cleared",
     "team_abbr": "MIN",
@@ -17989,5 +17961,31 @@
     "status": "Out",
     "reason": "Coach's Decision - Coach\u2019sdecision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-13T23:30:45.647887+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Teja Oblak",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Left Knee; Injury"
+  },
+  {
+    "ts": "2026-08-13T23:30:45.647887+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Amy Okonkwo",
+    "previous_status": "Out",
+    "previous_reason": "Rest"
+  },
+  {
+    "ts": "2026-08-13T23:30:45.647887+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Carla Leite",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Knee; Soreness",
+    "reason_category": "injury"
   }
 ]
