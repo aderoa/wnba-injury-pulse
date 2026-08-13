@@ -3,15 +3,6 @@
     "ts": "2026-05-13T01:15:46.988956+00:00",
     "type": "added",
     "team_abbr": "PHX",
-    "player": "Shay Ciezki",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-13T01:15:46.988956+00:00",
-    "type": "added",
-    "team_abbr": "PHX",
     "player": "Marta Suarez",
     "status": "Out",
     "reason": "Coach's Decision",
@@ -17989,5 +17980,14 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Left Knee;-",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-13T23:00:44.984515+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Alissa Pili",
+    "status": "Out",
+    "reason": "Coach's Decision - Coach\u2019sdecision",
+    "reason_category": "rest_coach"
   }
 ]
