@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/12/26 09:00 PM",
+  "report_ts": "08/12/26 09:15 PM",
   "page_count": 2,
-  "raw_line_count": 32,
+  "raw_line_count": 33,
   "teams": [
     {
       "team_full": "Dallas Wings",
@@ -86,6 +86,13 @@
           "status": "Questionable",
           "reason": "Injury/Illness - Rightknee; Soreness",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sowah, Miela",
+          "name": "Miela Sowah",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         },
         {
           "name_last_first": "Stokes, Kiah",
@@ -286,7 +293,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-12_09_00PM.pdf",
-  "fetched_slot": "2026-08-12T21:00:00-04:00",
-  "polled_at_utc": "2026-08-13T01:00:48.822083+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-12_09_15PM.pdf",
+  "fetched_slot": "2026-08-12T21:15:00-04:00",
+  "polled_at_utc": "2026-08-13T01:15:46.685370+00:00"
 }
