@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/12/26 08:45 PM",
+  "report_ts": "08/12/26 09:00 PM",
   "page_count": 2,
-  "raw_line_count": 31,
+  "raw_line_count": 32,
   "teams": [
     {
       "team_full": "Dallas Wings",
@@ -62,6 +62,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Groin; Left Groin",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Westbeld, Maddy",
+          "name": "Maddy Westbeld",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -279,7 +286,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-12_08_45PM.pdf",
-  "fetched_slot": "2026-08-12T20:45:00-04:00",
-  "polled_at_utc": "2026-08-13T00:45:44.613013+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-12_09_00PM.pdf",
+  "fetched_slot": "2026-08-12T21:00:00-04:00",
+  "polled_at_utc": "2026-08-13T01:00:48.822083+00:00"
 }

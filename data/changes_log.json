@@ -1,15 +1,6 @@
 [
   {
     "ts": "2026-05-12T21:00:48.562149+00:00",
-    "type": "added",
-    "team_abbr": "SEA",
-    "player": "Isabelle Harrison",
-    "status": "Out",
-    "reason": "Injury/Illness - Right Hand; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-12T21:00:48.562149+00:00",
     "type": "reason_change",
     "team_abbr": "SEA",
     "player": "Ezi Magbegor",
@@ -17991,6 +17982,15 @@
     "type": "added",
     "team_abbr": "MIN",
     "player": "Liatu King",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-13T01:00:48.822083+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Maddy Westbeld",
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
