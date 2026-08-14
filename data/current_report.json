@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/14/26 04:15 PM",
+  "report_ts": "08/14/26 04:30 PM",
   "page_count": 1,
-  "raw_line_count": 17,
+  "raw_line_count": 16,
   "teams": [
     {
       "team_full": "Dallas Wings",
@@ -134,15 +134,6 @@
       "players": []
     },
     {
-      "team_full": "Washington Mystics",
-      "team_abbr": "WAS",
-      "game_date": "08/15/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "LAS@WAS",
-      "submitted": false,
-      "players": []
-    },
-    {
       "team_full": "Minnesota Lynx",
       "team_abbr": "MIN",
       "game_date": "08/15/2026",
@@ -161,7 +152,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-14_04_15PM.pdf",
-  "fetched_slot": "2026-08-14T16:15:00-04:00",
-  "polled_at_utc": "2026-08-14T20:15:37.495898+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-14_04_30PM.pdf",
+  "fetched_slot": "2026-08-14T16:30:00-04:00",
+  "polled_at_utc": "2026-08-14T20:30:48.841195+00:00"
 }
