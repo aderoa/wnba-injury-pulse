@@ -1,149 +1,8 @@
 {
-  "report_ts": "08/13/26 11:45 PM",
-  "page_count": 2,
-  "raw_line_count": 26,
+  "report_ts": "08/14/26 12:00 AM",
+  "page_count": 1,
+  "raw_line_count": 17,
   "teams": [
-    {
-      "team_full": "Atlanta Dream",
-      "team_abbr": "ATL",
-      "game_date": "08/13/2026",
-      "game_time": "07:00(ET)",
-      "matchup": "ATL@CON",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Nivar, Indya",
-          "name": "Indya Nivar",
-          "status": "Out",
-          "reason": "Personal Reasons",
-          "reason_category": "offcourt"
-        },
-        {
-          "name_last_first": "Paopao, Te-Hina",
-          "name": "Te-Hina Paopao",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Leg; N/A",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Connecticut Sun",
-      "team_abbr": "CON",
-      "game_date": "08/13/2026",
-      "game_time": "07:00(ET)",
-      "matchup": "ATL@CON",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Griner, Brittney",
-          "name": "Brittney Griner",
-          "status": "Available",
-          "reason": "Injury/Illness - Left Knee;-",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Jackson, Ashlon",
-          "name": "Ashlon Jackson",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Los Angeles Sparks",
-      "team_abbr": "LAS",
-      "game_date": "08/13/2026",
-      "game_time": "08:00(ET)",
-      "matchup": "LAS@NYL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "AkoaMakani, Monique",
-          "name": "Monique AkoaMakani",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Ankle; RAnkle",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Pili, Alissa",
-          "name": "Alissa Pili",
-          "status": "Out",
-          "reason": "Coach's Decision - Coach\u2019sdecision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "New York Liberty",
-      "team_abbr": "NYL",
-      "game_date": "08/13/2026",
-      "game_time": "08:00(ET)",
-      "matchup": "LAS@NYL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Fiebich, Leonie",
-          "name": "Leonie Fiebich",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Foot; L.Foot",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Maley, Anneli",
-          "name": "Anneli Maley",
-          "status": "Out",
-          "reason": "Coach's Decision - Developmental Player",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Sabally, Satou",
-          "name": "Satou Sabally",
-          "status": "Out",
-          "reason": "Injury/Illness - Head; Not With Team",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Las Vegas Aces",
-      "team_abbr": "LVA",
-      "game_date": "08/13/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "WAS@LVA",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Bell, Kierstan",
-          "name": "Kierstan Bell",
-          "status": "Out",
-          "reason": "Personal Reasons",
-          "reason_category": "offcourt"
-        },
-        {
-          "name_last_first": "Evans, Dana",
-          "name": "Dana Evans",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Leg; L.Leg",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Parker-Tyus, Cheyenne",
-          "name": "Cheyenne Parker-Tyus",
-          "status": "Out",
-          "reason": "Concussion Protocol",
-          "reason_category": "procedural"
-        },
-        {
-          "name_last_first": "Pissott, Justine",
-          "name": "Justine Pissott",
-          "status": "Available",
-          "reason": "Injury/Illness - Right Leg; R.Leg",
-          "reason_category": "injury"
-        }
-      ]
-    },
     {
       "team_full": "Dallas Wings",
       "team_abbr": "DAL",
@@ -246,9 +105,63 @@
           "reason_category": "rest_coach"
         }
       ]
+    },
+    {
+      "team_full": "New York Liberty",
+      "team_abbr": "NYL",
+      "game_date": "08/15/2026",
+      "game_time": "01:00(ET)",
+      "matchup": "NYL@CON",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Connecticut Sun",
+      "team_abbr": "CON",
+      "game_date": "08/15/2026",
+      "game_time": "01:00(ET)",
+      "matchup": "NYL@CON",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Los Angeles Sparks",
+      "team_abbr": "LAS",
+      "game_date": "08/15/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "LAS@WAS",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Washington Mystics",
+      "team_abbr": "WAS",
+      "game_date": "08/15/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "LAS@WAS",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Minnesota Lynx",
+      "team_abbr": "MIN",
+      "game_date": "08/15/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "MIN@LVA",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Las Vegas Aces",
+      "team_abbr": "LVA",
+      "game_date": "08/15/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "MIN@LVA",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-13_11_45PM.pdf",
-  "fetched_slot": "2026-08-13T23:45:00-04:00",
-  "polled_at_utc": "2026-08-14T03:45:47.298947+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-14_12_00AM.pdf",
+  "fetched_slot": "2026-08-14T00:00:00-04:00",
+  "polled_at_utc": "2026-08-14T04:00:48.225043+00:00"
 }
