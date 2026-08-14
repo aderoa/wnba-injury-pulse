@@ -1,14 +1,6 @@
 [
   {
     "ts": "2026-05-13T22:01:16.046724+00:00",
-    "type": "cleared",
-    "team_abbr": "DAL",
-    "player": "Costanza Verona",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-05-13T22:01:16.046724+00:00",
     "type": "status_change",
     "team_abbr": "DAL",
     "player": "Azzi Fudd",
@@ -17988,5 +17980,15 @@
     "player": "KatieLou Samuelson",
     "previous_status": "Out",
     "previous_reason": "Injury/Illness - Right Knee; Injury"
+  },
+  {
+    "ts": "2026-08-14T03:30:45.360938+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Justine Pissott",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Leg; R.Leg",
+    "reason_category": "injury"
   }
 ]
