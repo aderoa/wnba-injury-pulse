@@ -1,41 +1,5 @@
 [
   {
-    "ts": "2026-05-14T01:01:14.322853+00:00",
-    "type": "status_change",
-    "team_abbr": "CHI",
-    "player": "Natasha Cloud",
-    "from_status": "Questionable",
-    "to_status": "Available",
-    "reason": "Injury/Illness - N/a; Illness",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-14T01:01:14.322853+00:00",
-    "type": "added",
-    "team_abbr": "IND",
-    "player": "Bree Hall",
-    "status": "Out",
-    "reason": "Not With Team",
-    "reason_category": "offcourt"
-  },
-  {
-    "ts": "2026-05-14T01:01:14.322853+00:00",
-    "type": "cleared",
-    "team_abbr": "IND",
-    "player": "Monique Billings",
-    "previous_status": "Out",
-    "previous_reason": "Injury/Illness - Right Ankle; Right Ankle"
-  },
-  {
-    "ts": "2026-05-14T18:00:18.187255+00:00",
-    "type": "added",
-    "team_abbr": "MIN",
-    "player": "Nia Coffey",
-    "status": "Questionable",
-    "reason": "Injury/Illness - Right Shoulder; Right Shoulder",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-05-14T20:45:18.238932+00:00",
     "type": "added",
     "team_abbr": "CON",
@@ -17987,5 +17951,43 @@
     "player": "Alissa Pili",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision - Coach\u2019sdecision"
+  },
+  {
+    "ts": "2026-08-14T22:30:50.055829+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Bree Hall",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-14T22:30:50.055829+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Michelle Onyiah",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-14T22:30:50.055829+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-08-14T22:30:50.055829+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Aliyah Boston",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
   }
 ]
