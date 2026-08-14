@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-08-14T12:09:36.563510+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-14_08_00AM.pdf",
-  "report_ts": "08/14/26 08:00 AM",
+  "polled_at_utc": "2026-08-14T12:15:44.276681+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-14_08_15AM.pdf",
+  "report_ts": "08/14/26 08:15 AM",
   "all_players": [
     {
       "name": "Alissa Pili",
@@ -38,7 +38,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Lower Leg; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-08-14T12:09:36.563510+00:00"
+      "last_updated": "2026-08-14T12:15:44.276681+00:00"
     },
     {
       "name": "Azzi Fudd",
@@ -47,7 +47,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-08-14T12:09:36.563510+00:00"
+      "last_updated": "2026-08-14T12:15:44.276681+00:00"
     },
     {
       "name": "Betnijah Laney-Hamilton",
@@ -110,7 +110,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Ankle; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-08-14T12:09:36.563510+00:00"
+      "last_updated": "2026-08-14T12:15:44.276681+00:00"
     },
     {
       "name": "Indya Nivar",
@@ -137,7 +137,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Ankle; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-08-14T12:09:36.563510+00:00"
+      "last_updated": "2026-08-14T12:15:44.276681+00:00"
     },
     {
       "name": "Kara Dunn",
@@ -227,7 +227,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-08-14T12:09:36.563510+00:00"
+      "last_updated": "2026-08-14T12:15:44.276681+00:00"
     },
     {
       "name": "Satou Sabally",
@@ -263,7 +263,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-08-14T12:09:36.563510+00:00"
+      "last_updated": "2026-08-14T12:15:44.276681+00:00"
     },
     {
       "name": "Te-Hina Paopao",
@@ -281,7 +281,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Left Knee; Soreness",
       "reason_category": "injury",
-      "last_updated": "2026-08-14T12:09:36.563510+00:00"
+      "last_updated": "2026-08-14T12:15:44.276681+00:00"
     },
     {
       "name": "Aliyah Boston",
@@ -290,7 +290,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Right Lower Leg; Right lowerleg",
       "reason_category": "injury",
-      "last_updated": "2026-08-14T12:09:36.563510+00:00"
+      "last_updated": "2026-08-14T12:15:44.276681+00:00"
     },
     {
       "name": "Caitlin Clark",
@@ -299,7 +299,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Back; Back",
       "reason_category": "injury",
-      "last_updated": "2026-08-14T12:09:36.563510+00:00"
+      "last_updated": "2026-08-14T12:15:44.276681+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -382,7 +382,7 @@
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
       "last_submitted_ts": "2026-08-14T03:45:47.298947+00:00",
-      "last_seen_pending_ts": "2026-08-14T12:09:36.563510+00:00",
+      "last_seen_pending_ts": "2026-08-14T12:15:44.276681+00:00",
       "matchups": [
         "ATL@CON"
       ],
@@ -406,7 +406,7 @@
     {
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
-      "last_submitted_ts": "2026-08-14T12:09:36.563510+00:00",
+      "last_submitted_ts": "2026-08-14T12:15:44.276681+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "DAL@IND"
@@ -470,7 +470,7 @@
     {
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
-      "last_submitted_ts": "2026-08-14T12:09:36.563510+00:00",
+      "last_submitted_ts": "2026-08-14T12:15:44.276681+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "DAL@IND"
@@ -496,7 +496,7 @@
       "team_abbr": "LAS",
       "team_full": "Los Angeles Sparks",
       "last_submitted_ts": "2026-08-14T03:45:47.298947+00:00",
-      "last_seen_pending_ts": "2026-08-14T12:09:36.563510+00:00",
+      "last_seen_pending_ts": "2026-08-14T12:15:44.276681+00:00",
       "matchups": [
         "LAS@NYL"
       ],
@@ -521,7 +521,7 @@
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
       "last_submitted_ts": "2026-08-14T03:45:47.298947+00:00",
-      "last_seen_pending_ts": "2026-08-14T12:09:36.563510+00:00",
+      "last_seen_pending_ts": "2026-08-14T12:15:44.276681+00:00",
       "matchups": [
         "WAS@LVA"
       ],
@@ -560,7 +560,7 @@
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
       "last_submitted_ts": "2026-08-13T03:45:45.627638+00:00",
-      "last_seen_pending_ts": "2026-08-14T12:09:36.563510+00:00",
+      "last_seen_pending_ts": "2026-08-14T12:15:44.276681+00:00",
       "matchups": [
         "MIN@PDX"
       ],
@@ -592,7 +592,7 @@
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
       "last_submitted_ts": "2026-08-14T03:45:47.298947+00:00",
-      "last_seen_pending_ts": "2026-08-14T12:09:36.563510+00:00",
+      "last_seen_pending_ts": "2026-08-14T12:15:44.276681+00:00",
       "matchups": [
         "LAS@NYL"
       ],
@@ -623,7 +623,7 @@
     {
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
-      "last_submitted_ts": "2026-08-14T12:09:36.563510+00:00",
+      "last_submitted_ts": "2026-08-14T12:15:44.276681+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "PDX@SEA"
@@ -673,7 +673,7 @@
     {
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
-      "last_submitted_ts": "2026-08-14T12:09:36.563510+00:00",
+      "last_submitted_ts": "2026-08-14T12:15:44.276681+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "PDX@SEA"
@@ -699,7 +699,7 @@
       "team_abbr": "WAS",
       "team_full": "Washington Mystics",
       "last_submitted_ts": "2026-08-10T03:45:44.142321+00:00",
-      "last_seen_pending_ts": "2026-08-14T12:09:36.563510+00:00",
+      "last_seen_pending_ts": "2026-08-14T12:15:44.276681+00:00",
       "matchups": [
         "PHX@WAS"
       ],
