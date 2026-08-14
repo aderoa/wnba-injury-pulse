@@ -1,50 +1,5 @@
 [
   {
-    "ts": "2026-05-14T00:01:11.643564+00:00",
-    "type": "added",
-    "team_abbr": "PDX",
-    "player": "Carla Leite",
-    "status": "Questionable",
-    "reason": "Injury/Illness - Right Ankle; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-14T00:01:11.643564+00:00",
-    "type": "cleared",
-    "team_abbr": "PDX",
-    "player": "Kamiah Smalls",
-    "previous_status": "Available",
-    "previous_reason": "-"
-  },
-  {
-    "ts": "2026-05-14T00:01:11.643564+00:00",
-    "type": "status_change",
-    "team_abbr": "PDX",
-    "player": "Sug Sutton",
-    "from_status": "Out",
-    "to_status": "Questionable",
-    "reason": "Injury/Illness - Right Knee; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-14T00:46:07.247592+00:00",
-    "type": "added",
-    "team_abbr": "LAS",
-    "player": "Kate Martin",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-14T00:46:07.247592+00:00",
-    "type": "added",
-    "team_abbr": "LAS",
-    "player": "Laura Ziegler",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
     "ts": "2026-05-14T01:01:14.322853+00:00",
     "type": "status_change",
     "team_abbr": "CHI",
@@ -17988,5 +17943,49 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Left Knee;-",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-14T21:00:48.822901+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Sabrina Ionescu",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Left Foot; L.Foot",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-14T21:00:48.822901+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Anneli Maley",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental Player"
+  },
+  {
+    "ts": "2026-08-14T21:00:48.822901+00:00",
+    "type": "reason_change",
+    "team_abbr": "NYL",
+    "player": "Leonie Fiebich",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Foot; L.Foot",
+    "to_reason": "Injury/Illness - Left Foot; Not With Team",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-14T21:00:48.822901+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Cameron Brink",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Ribs; Ribs",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-14T21:00:48.822901+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Alissa Pili",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Coach\u2019sdecision"
   }
 ]

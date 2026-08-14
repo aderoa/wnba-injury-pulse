@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/14/26 04:45 PM",
-  "page_count": 1,
-  "raw_line_count": 17,
+  "report_ts": "08/14/26 05:00 PM",
+  "page_count": 2,
+  "raw_line_count": 22,
   "teams": [
     {
       "team_full": "Dallas Wings",
@@ -112,8 +112,30 @@
       "game_date": "08/15/2026",
       "game_time": "01:00(ET)",
       "matchup": "NYL@CON",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Fiebich, Leonie",
+          "name": "Leonie Fiebich",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Foot; Not With Team",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Ionescu, Sabrina",
+          "name": "Sabrina Ionescu",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Foot; L.Foot",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sabally, Satou",
+          "name": "Satou Sabally",
+          "status": "Out",
+          "reason": "Injury/Illness - Head; Not With Team",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Connecticut Sun",
@@ -145,8 +167,23 @@
       "game_date": "08/15/2026",
       "game_time": "07:30(ET)",
       "matchup": "LAS@WAS",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "AkoaMakani, Monique",
+          "name": "Monique AkoaMakani",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Ankle; RAnkle",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Brink, Cameron",
+          "name": "Cameron Brink",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Ribs; Ribs",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Minnesota Lynx",
@@ -167,7 +204,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-14_04_45PM.pdf",
-  "fetched_slot": "2026-08-14T16:45:00-04:00",
-  "polled_at_utc": "2026-08-14T20:56:31.204090+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-14_05_00PM.pdf",
+  "fetched_slot": "2026-08-14T17:00:00-04:00",
+  "polled_at_utc": "2026-08-14T21:00:48.822901+00:00"
 }
