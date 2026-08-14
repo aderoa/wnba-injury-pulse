@@ -1,34 +1,5 @@
 [
   {
-    "ts": "2026-05-13T22:01:16.046724+00:00",
-    "type": "status_change",
-    "team_abbr": "DAL",
-    "player": "Azzi Fudd",
-    "from_status": "Out",
-    "to_status": "Questionable",
-    "reason": "Injury/Illness - Right Knee; n/a",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-13T23:16:08.680867+00:00",
-    "type": "status_change",
-    "team_abbr": "NYL",
-    "player": "Rebecca Allen",
-    "from_status": "Out",
-    "to_status": "Questionable",
-    "reason": "Injury/Illness - Left Leg; Leg",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-13T23:31:13.783447+00:00",
-    "type": "added",
-    "team_abbr": "CON",
-    "player": "Ashlon Jackson",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
     "ts": "2026-05-14T00:01:11.643564+00:00",
     "type": "added",
     "team_abbr": "PDX",
@@ -17989,6 +17960,33 @@
     "from_status": "Questionable",
     "to_status": "Available",
     "reason": "Injury/Illness - Right Leg; R.Leg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-14T20:45:44.137123+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Aaliyah Edwards",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Left Ankle;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-14T20:45:44.137123+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Ashlon Jackson",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-14T20:45:44.137123+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Brittney Griner",
+    "from_status": "Available",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Knee;-",
     "reason_category": "injury"
   }
 ]
