@@ -1,15 +1,6 @@
 [
   {
     "ts": "2026-05-14T20:45:18.238932+00:00",
-    "type": "added",
-    "team_abbr": "CON",
-    "player": "Olivia Nelson-Ododa",
-    "status": "Questionable",
-    "reason": "Injury/Illness - Right Ankle; Sprain",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-14T20:45:18.238932+00:00",
     "type": "cleared",
     "team_abbr": "CON",
     "player": "Aaliyah Edwards",
@@ -17989,5 +17980,14 @@
     "to_status": "Available",
     "reason": "-",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-08-14T23:00:30.605614+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Christyn Williams",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
