@@ -1,22 +1,6 @@
 [
   {
     "ts": "2026-05-14T21:00:16.935426+00:00",
-    "type": "cleared",
-    "team_abbr": "WAS",
-    "player": "Alicia FlorezGetino",
-    "previous_status": "Out",
-    "previous_reason": "Personal Reasons"
-  },
-  {
-    "ts": "2026-05-14T21:00:16.935426+00:00",
-    "type": "cleared",
-    "team_abbr": "WAS",
-    "player": "Cotie McMahon",
-    "previous_status": "Out",
-    "previous_reason": "Injury/Illness - Left Elbow; Sprain"
-  },
-  {
-    "ts": "2026-05-14T21:00:16.935426+00:00",
     "type": "reason_change",
     "team_abbr": "WAS",
     "player": "Michaela Onyenwere",
@@ -17996,6 +17980,25 @@
     "from_status": "Questionable",
     "to_status": "Out",
     "reason": "Injury/Illness - Left Foot; L.Foot",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-15T16:30:57.030107+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Hailey VanLith",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-15T16:30:57.030107+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Brittney Griner",
+    "from_status": "Available",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Knee;-",
     "reason_category": "injury"
   }
 ]
