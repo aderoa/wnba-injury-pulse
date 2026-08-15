@@ -1,15 +1,6 @@
 [
   {
     "ts": "2026-05-15T00:00:19.770232+00:00",
-    "type": "added",
-    "team_abbr": "PHX",
-    "player": "Isabelle Harrison",
-    "status": "Out",
-    "reason": "Injury/Illness - Right Hand; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-15T00:00:19.770232+00:00",
     "type": "cleared",
     "team_abbr": "PHX",
     "player": "Shay Ciezki",
@@ -17997,6 +17988,16 @@
     "from_status": "Out",
     "to_status": "Questionable",
     "reason": "Injury/Illness - Right Leg; N/A",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-15T22:30:58.562595+00:00",
+    "type": "status_change",
+    "team_abbr": "LAS",
+    "player": "Cameron Brink",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Ribs; Ribs",
     "reason_category": "injury"
   }
 ]
