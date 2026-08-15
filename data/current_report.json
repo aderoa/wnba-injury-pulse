@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/15/26 07:15 PM",
+  "report_ts": "08/15/26 07:30 PM",
   "page_count": 2,
-  "raw_line_count": 26,
+  "raw_line_count": 27,
   "teams": [
     {
       "team_full": "New York Liberty",
@@ -164,8 +164,23 @@
       "game_date": "08/16/2026",
       "game_time": "05:00(ET)",
       "matchup": "CHI@SEA",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Diggins, Skylar",
+          "name": "Skylar Diggins",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; Right Knee",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Taylor, Sydney",
+          "name": "Sydney Taylor",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Groin; Left Groin",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Seattle Storm",
@@ -258,7 +273,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-15_07_15PM.pdf",
-  "fetched_slot": "2026-08-15T19:15:00-04:00",
-  "polled_at_utc": "2026-08-15T23:23:07.808268+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-15_07_30PM.pdf",
+  "fetched_slot": "2026-08-15T19:30:00-04:00",
+  "polled_at_utc": "2026-08-15T23:30:56.274201+00:00"
 }
