@@ -3,14 +3,6 @@
     "ts": "2026-05-14T20:45:18.238932+00:00",
     "type": "cleared",
     "team_abbr": "CON",
-    "player": "Brittney Griner",
-    "previous_status": "Out",
-    "previous_reason": "Injury/Illness - Left Foot; Sprain"
-  },
-  {
-    "ts": "2026-05-14T20:45:18.238932+00:00",
-    "type": "cleared",
-    "team_abbr": "CON",
     "player": "Ashlon Jackson",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
@@ -17990,6 +17982,16 @@
     "from_status": "Available",
     "to_status": "Questionable",
     "reason": "Injury/Illness - Right Leg; R.Leg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-15T01:15:44.528019+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Carla Leite",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Knee; Soreness",
     "reason_category": "injury"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "report_ts": "08/14/26 09:00 PM",
+  "report_ts": "08/14/26 09:15 PM",
   "page_count": 2,
   "raw_line_count": 25,
   "teams": [
@@ -97,7 +97,7 @@
         {
           "name_last_first": "Leite, Carla",
           "name": "Carla Leite",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Left Knee; Soreness",
           "reason_category": "injury"
         }
@@ -245,7 +245,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-14_09_00PM.pdf",
-  "fetched_slot": "2026-08-14T21:00:00-04:00",
-  "polled_at_utc": "2026-08-15T01:00:48.078242+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-14_09_15PM.pdf",
+  "fetched_slot": "2026-08-14T21:15:00-04:00",
+  "polled_at_utc": "2026-08-15T01:15:44.528019+00:00"
 }
