@@ -1,21 +1,5 @@
 [
   {
-    "ts": "2026-05-14T20:45:18.238932+00:00",
-    "type": "cleared",
-    "team_abbr": "CON",
-    "player": "Ashlon Jackson",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-05-14T20:45:18.238932+00:00",
-    "type": "cleared",
-    "team_abbr": "CON",
-    "player": "Shey Peddy",
-    "previous_status": "Out",
-    "previous_reason": "Injury/Illness - Left Knee; OA"
-  },
-  {
     "ts": "2026-05-14T21:00:16.935426+00:00",
     "type": "reason_change",
     "team_abbr": "LVA",
@@ -17992,6 +17976,26 @@
     "from_status": "Questionable",
     "to_status": "Available",
     "reason": "Injury/Illness - Left Knee; Soreness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-15T15:01:00.787978+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Brittney Griner",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Knee;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-15T15:01:00.787978+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Aaliyah Edwards",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Ankle;-",
     "reason_category": "injury"
   }
 ]
