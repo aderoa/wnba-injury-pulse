@@ -1,22 +1,6 @@
 [
   {
     "ts": "2026-05-15T00:00:19.770232+00:00",
-    "type": "cleared",
-    "team_abbr": "PHX",
-    "player": "Shay Ciezki",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-05-15T00:00:19.770232+00:00",
-    "type": "cleared",
-    "team_abbr": "PHX",
-    "player": "Marta Suarez",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-05-15T00:00:19.770232+00:00",
     "type": "added",
     "team_abbr": "LAS",
     "player": "Ariel Atkins",
@@ -17999,5 +17983,21 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Ribs; Ribs",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-15T22:45:52.526366+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Chloe Bibby",
+    "previous_status": "Out",
+    "previous_reason": "Personal Reasons"
+  },
+  {
+    "ts": "2026-08-15T22:45:52.526366+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Kara Dunn",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental Player"
   }
 ]

@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/15/26 06:30 PM",
+  "report_ts": "08/15/26 06:45 PM",
   "page_count": 2,
-  "raw_line_count": 23,
+  "raw_line_count": 25,
   "teams": [
     {
       "team_full": "New York Liberty",
@@ -86,6 +86,30 @@
           "status": "Out",
           "reason": "Injury/Illness - Ribs; Ribs",
           "reason_category": "injury"
+        }
+      ]
+    },
+    {
+      "team_full": "Minnesota Lynx",
+      "team_abbr": "MIN",
+      "game_date": "08/15/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "MIN@LVA",
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Buenavida, Elena",
+          "name": "Elena Buenavida",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "King, Liatu",
+          "name": "Liatu King",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -215,11 +239,19 @@
       "game_date": "08/16/2026",
       "game_time": "07:00(ET)",
       "matchup": "PDX@PHX",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Plum, Kelsey",
+          "name": "Kelsey Plum",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Lower Leg;-",
+          "reason_category": "injury"
+        }
+      ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-15_06_30PM.pdf",
-  "fetched_slot": "2026-08-15T18:30:00-04:00",
-  "polled_at_utc": "2026-08-15T22:30:58.562595+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-15_06_45PM.pdf",
+  "fetched_slot": "2026-08-15T18:45:00-04:00",
+  "polled_at_utc": "2026-08-15T22:45:52.526366+00:00"
 }
