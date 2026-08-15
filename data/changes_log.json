@@ -1,16 +1,6 @@
 [
   {
     "ts": "2026-05-14T21:00:16.935426+00:00",
-    "type": "reason_change",
-    "team_abbr": "LVA",
-    "player": "Dana Evans",
-    "status": "Out",
-    "from_reason": "Injury/Illness - Left Leg; injury",
-    "to_reason": "Injury/Illness - Left Leg; leg",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-14T21:00:16.935426+00:00",
     "type": "cleared",
     "team_abbr": "WAS",
     "player": "Alicia FlorezGetino",
@@ -17996,6 +17986,16 @@
     "from_status": "Questionable",
     "to_status": "Out",
     "reason": "Injury/Illness - Left Ankle;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-15T15:31:00.128942+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Sabrina Ionescu",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Foot; L.Foot",
     "reason_category": "injury"
   }
 ]
