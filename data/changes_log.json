@@ -1,23 +1,6 @@
 [
   {
     "ts": "2026-05-15T00:00:19.770232+00:00",
-    "type": "added",
-    "team_abbr": "LAS",
-    "player": "Ariel Atkins",
-    "status": "Out",
-    "reason": "Injury/Illness - Head; Concussion Protocol",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-15T00:00:19.770232+00:00",
-    "type": "cleared",
-    "team_abbr": "LAS",
-    "player": "Kate Martin",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-05-15T00:00:19.770232+00:00",
     "type": "cleared",
     "team_abbr": "LAS",
     "player": "Laura Ziegler",
@@ -17999,5 +17982,24 @@
     "player": "Kara Dunn",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision - Developmental Player"
+  },
+  {
+    "ts": "2026-08-15T23:01:04.237867+00:00",
+    "type": "added",
+    "team_abbr": "LVA",
+    "player": "Ta'Niya Latson",
+    "status": "Out",
+    "reason": "Coach's Decision - Notactivating",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-15T23:01:04.237867+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Justine Pissott",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Leg; R.Leg",
+    "reason_category": "injury"
   }
 ]
