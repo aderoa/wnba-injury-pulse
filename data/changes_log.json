@@ -3,14 +3,6 @@
     "ts": "2026-05-14T20:45:18.238932+00:00",
     "type": "cleared",
     "team_abbr": "CON",
-    "player": "Aaliyah Edwards",
-    "previous_status": "Out",
-    "previous_reason": "Injury/Illness - Left Thigh; Adductor"
-  },
-  {
-    "ts": "2026-05-14T20:45:18.238932+00:00",
-    "type": "cleared",
-    "team_abbr": "CON",
     "player": "Brittney Griner",
     "previous_status": "Out",
     "previous_reason": "Injury/Illness - Left Foot; Sprain"
@@ -17989,5 +17981,15 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-15T00:00:20.971021+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Justine Pissott",
+    "from_status": "Available",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Right Leg; R.Leg",
+    "reason_category": "injury"
   }
 ]
