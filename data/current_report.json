@@ -1,5 +1,5 @@
 {
-  "report_ts": "08/16/26 04:00 PM",
+  "report_ts": "08/16/26 04:15 PM",
   "page_count": 1,
   "raw_line_count": 16,
   "teams": [
@@ -52,9 +52,9 @@
         {
           "name_last_first": "Mair, Taina",
           "name": "Taina Mair",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
         }
       ]
     },
@@ -180,7 +180,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-16_04_00PM.pdf",
-  "fetched_slot": "2026-08-16T16:00:00-04:00",
-  "polled_at_utc": "2026-08-16T20:00:57.631720+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-16_04_15PM.pdf",
+  "fetched_slot": "2026-08-16T16:15:00-04:00",
+  "polled_at_utc": "2026-08-16T20:15:52.831807+00:00"
 }

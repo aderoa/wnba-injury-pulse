@@ -1,15 +1,5 @@
 [
   {
-    "ts": "2026-05-15T22:15:25.645124+00:00",
-    "type": "reason_change",
-    "team_abbr": "IND",
-    "player": "Bree Hall",
-    "status": "Out",
-    "from_reason": "Not With Team",
-    "to_reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
     "ts": "2026-05-15T22:30:29.852120+00:00",
     "type": "added",
     "team_abbr": "WAS",
@@ -17996,5 +17986,15 @@
     "to_status": "Out",
     "reason": "Injury/Illness - illness; N/A",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-16T20:15:52.831807+00:00",
+    "type": "status_change",
+    "team_abbr": "SEA",
+    "player": "Taina Mair",
+    "from_status": "Out",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
   }
 ]
