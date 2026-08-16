@@ -3,15 +3,6 @@
     "ts": "2026-05-15T22:30:29.852120+00:00",
     "type": "added",
     "team_abbr": "WAS",
-    "player": "Alicia FlorezGetino",
-    "status": "Out",
-    "reason": "Personal Reasons",
-    "reason_category": "offcourt"
-  },
-  {
-    "ts": "2026-05-15T22:30:29.852120+00:00",
-    "type": "added",
-    "team_abbr": "WAS",
     "player": "Darianna Littlepage-Buggs",
     "status": "Out",
     "reason": "Not With Team",
@@ -17996,5 +17987,15 @@
     "to_status": "Available",
     "reason": "-",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-08-16T20:30:05.136612+00:00",
+    "type": "status_change",
+    "team_abbr": "ATL",
+    "player": "Te-Hina Paopao",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Leg; N/A",
+    "reason_category": "injury"
   }
 ]
