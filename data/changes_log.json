@@ -1,15 +1,5 @@
 [
   {
-    "ts": "2026-05-15T20:45:23.533093+00:00",
-    "type": "status_change",
-    "team_abbr": "CON",
-    "player": "Olivia Nelson-Ododa",
-    "from_status": "Questionable",
-    "to_status": "Out",
-    "reason": "Injury/Illness - Right Ankle; Sprain",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-05-15T22:15:25.645124+00:00",
     "type": "reason_change",
     "team_abbr": "IND",
@@ -17996,5 +17986,15 @@
     "to_status": "Available",
     "reason": "-",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-08-16T20:00:57.631720+00:00",
+    "type": "status_change",
+    "team_abbr": "ATL",
+    "player": "Jordin Canada",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - illness; N/A",
+    "reason_category": "injury"
   }
 ]
