@@ -1,25 +1,6 @@
 [
   {
     "ts": "2026-05-15T22:30:29.852120+00:00",
-    "type": "added",
-    "team_abbr": "WAS",
-    "player": "Darianna Littlepage-Buggs",
-    "status": "Out",
-    "reason": "Not With Team",
-    "reason_category": "offcourt"
-  },
-  {
-    "ts": "2026-05-15T22:30:29.852120+00:00",
-    "type": "reason_change",
-    "team_abbr": "WAS",
-    "player": "Georgia Amoore",
-    "status": "Questionable",
-    "from_reason": "Injury/Illness - Right Knee; Injury",
-    "to_reason": "Injury/Illness - Right Knee; Injury Management",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-15T22:30:29.852120+00:00",
     "type": "reason_change",
     "team_abbr": "WAS",
     "player": "Michaela Onyenwere",
@@ -17997,5 +17978,23 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Right Leg; N/A",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-16T23:15:55.032807+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Shay Ciezki",
+    "status": "Out",
+    "reason": "Coach's Decision - Developmental",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-16T23:15:55.032807+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Kara Dunn",
+    "status": "Out",
+    "reason": "Player Coach's Decision - Developmental Player",
+    "reason_category": "rest_coach"
   }
 ]

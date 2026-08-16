@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/16/26 07:00 PM",
-  "page_count": 1,
-  "raw_line_count": 16,
+  "report_ts": "08/16/26 07:15 PM",
+  "page_count": 2,
+  "raw_line_count": 22,
   "teams": [
     {
       "team_full": "Chicago Sky",
@@ -153,6 +153,20 @@
       "submitted": true,
       "players": [
         {
+          "name_last_first": "Ciezki, Shay",
+          "name": "Shay Ciezki",
+          "status": "Out",
+          "reason": "Coach's Decision - Developmental",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Dunn, Kara",
+          "name": "Kara Dunn",
+          "status": "Out",
+          "reason": "Player Coach's Decision - Developmental Player",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Plum, Kelsey",
           "name": "Kelsey Plum",
           "status": "Out",
@@ -180,7 +194,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-16_07_00PM.pdf",
-  "fetched_slot": "2026-08-16T19:00:00-04:00",
-  "polled_at_utc": "2026-08-16T23:00:54.472954+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-16_07_15PM.pdf",
+  "fetched_slot": "2026-08-16T19:15:00-04:00",
+  "polled_at_utc": "2026-08-16T23:15:55.032807+00:00"
 }
