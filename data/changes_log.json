@@ -1,25 +1,5 @@
 [
   {
-    "ts": "2026-05-15T01:00:21.748279+00:00",
-    "type": "status_change",
-    "team_abbr": "PDX",
-    "player": "Sug Sutton",
-    "from_status": "Questionable",
-    "to_status": "Available",
-    "reason": "Injury/Illness - Right Knee; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-15T01:31:12.174928+00:00",
-    "type": "status_change",
-    "team_abbr": "NYL",
-    "player": "Rebecca Allen",
-    "from_status": "Questionable",
-    "to_status": "Available",
-    "reason": "Injury/Illness - Left Leg; Leg",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-05-15T01:31:12.174928+00:00",
     "type": "status_change",
     "team_abbr": "PDX",
@@ -17999,5 +17979,22 @@
     "player": "Carla Leite",
     "previous_status": "Available",
     "previous_reason": "Injury/Illness - Left Knee; Soreness"
+  },
+  {
+    "ts": "2026-08-16T00:01:02.218215+00:00",
+    "type": "added",
+    "team_abbr": "SEA",
+    "player": "Natisha Hiedeman",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Shoulder; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-16T00:01:02.218215+00:00",
+    "type": "cleared",
+    "team_abbr": "SEA",
+    "player": "Flau'jae Johnson",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Ankle; Injury"
   }
 ]
