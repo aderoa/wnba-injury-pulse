@@ -4,6 +4,13 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-08-16 23:45 UTC
+
+- **Christyn Williams** (DAL) cleared (was Out)
+- **Azzi Fudd** (DAL, Out): reason updated (Injury/Illness - Right Knee; Injury → Injury/Illness - Right Knee; rightknee)
+- **Jessica Shepard** (DAL): **Out** → **Probable** — Injury/Illness - Right Ankle; right ankle
+- **Aziaha James** (DAL, Out): reason updated (Injury/Illness - Left Lower Leg; Injury → Injury/Illness - Left Leg; lowerleftleg)
+
 ## 2026-08-16 23:15 UTC
 
 - **Shay Ciezki** (PHX) newly listed as **Out** — Coach's Decision - Developmental
