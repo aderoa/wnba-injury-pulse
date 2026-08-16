@@ -1,52 +1,5 @@
 [
   {
-    "ts": "2026-05-15T01:31:12.174928+00:00",
-    "type": "status_change",
-    "team_abbr": "PDX",
-    "player": "Carla Leite",
-    "from_status": "Questionable",
-    "to_status": "Out",
-    "reason": "Injury/Illness - Right Ankle; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-15T01:46:11.115964+00:00",
-    "type": "added",
-    "team_abbr": "MIN",
-    "player": "Emma Cechova",
-    "status": "Out",
-    "reason": "Injury/Illness - Right Knee; Right Knee",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-15T20:30:21.125135+00:00",
-    "type": "added",
-    "team_abbr": "WAS",
-    "player": "Georgia Amoore",
-    "status": "Questionable",
-    "reason": "Injury/Illness - Right Knee; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-15T20:30:21.125135+00:00",
-    "type": "reason_change",
-    "team_abbr": "WAS",
-    "player": "Michaela Onyenwere",
-    "status": "Out",
-    "from_reason": "Injury/Illness - Left Knee; Injury management",
-    "to_reason": "Management Injury/Illness - Left Knee; Injury management",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-15T20:45:23.533093+00:00",
-    "type": "added",
-    "team_abbr": "CON",
-    "player": "Brittney Griner",
-    "status": "Out",
-    "reason": "Injury/Illness - Left Foot; Sprain",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-05-15T20:45:23.533093+00:00",
     "type": "status_change",
     "team_abbr": "CON",
@@ -17996,5 +17949,52 @@
     "player": "Flau'jae Johnson",
     "previous_status": "Out",
     "previous_reason": "Injury/Illness - Left Ankle; Injury"
+  },
+  {
+    "ts": "2026-08-16T19:45:51.088782+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Maddy Westbeld",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-16T19:45:51.088782+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Bree Hall",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-16T19:45:51.088782+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Michelle Onyiah",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-16T19:45:51.088782+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-08-16T19:45:51.088782+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Aliyah Boston",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
   }
 ]

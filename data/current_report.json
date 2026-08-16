@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/16/26 03:30 PM",
+  "report_ts": "08/16/26 03:45 PM",
   "page_count": 1,
-  "raw_line_count": 13,
+  "raw_line_count": 16,
   "teams": [
     {
       "team_full": "Chicago Sky",
@@ -24,6 +24,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Groin; Left Groin",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Westbeld, Maddy",
+          "name": "Maddy Westbeld",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -62,16 +69,30 @@
         {
           "name_last_first": "Boston, Aliyah",
           "name": "Aliyah Boston",
-          "status": "Probable",
-          "reason": "Injury/Illness - Right Leg; Lower",
-          "reason_category": "injury"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
         },
         {
           "name_last_first": "Clark, Caitlin",
           "name": "Caitlin Clark",
-          "status": "Probable",
-          "reason": "Injury/Illness - Back; Back",
-          "reason_category": "injury"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
+        },
+        {
+          "name_last_first": "Hall, Bree",
+          "name": "Bree Hall",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Onyiah, Michelle",
+          "name": "Michelle Onyiah",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -159,7 +180,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-16_03_30PM.pdf",
-  "fetched_slot": "2026-08-16T15:30:00-04:00",
-  "polled_at_utc": "2026-08-16T19:34:41.844362+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-16_03_45PM.pdf",
+  "fetched_slot": "2026-08-16T15:45:00-04:00",
+  "polled_at_utc": "2026-08-16T19:45:51.088782+00:00"
 }
