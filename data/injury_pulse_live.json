@@ -1,18 +1,9 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-08-17T20:44:25.282604+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-17_04_30PM.pdf",
-  "report_ts": "08/17/26 04:30 PM",
+  "polled_at_utc": "2026-08-17T20:45:21.659367+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-17_04_45PM.pdf",
+  "report_ts": "08/17/26 04:45 PM",
   "all_players": [
-    {
-      "name": "Aaliyah Edwards",
-      "team_abbr": "CON",
-      "team_full": "Connecticut Sun",
-      "status": "Out",
-      "reason": "Injury/Illness - Left Ankle;-",
-      "reason_category": "injury",
-      "last_updated": "2026-08-16T03:51:02.815079+00:00"
-    },
     {
       "name": "Aziaha James",
       "team_abbr": "DAL",
@@ -20,7 +11,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; lowerleftleg",
       "reason_category": "injury",
-      "last_updated": "2026-08-17T20:44:25.282604+00:00"
+      "last_updated": "2026-08-17T20:45:21.659367+00:00"
     },
     {
       "name": "Azzi Fudd",
@@ -29,7 +20,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; rightknee",
       "reason_category": "injury",
-      "last_updated": "2026-08-17T20:44:25.282604+00:00"
+      "last_updated": "2026-08-17T20:45:21.659367+00:00"
     },
     {
       "name": "Betnijah Laney-Hamilton",
@@ -57,15 +48,6 @@
       "reason": "Injury/Illness - Left Leg; N/A",
       "reason_category": "injury",
       "last_updated": "2026-08-17T03:45:50.452716+00:00"
-    },
-    {
-      "name": "Brittney Griner",
-      "team_abbr": "CON",
-      "team_full": "Connecticut Sun",
-      "status": "Out",
-      "reason": "Injury/Illness - Left Knee;-",
-      "reason_category": "injury",
-      "last_updated": "2026-08-16T03:51:02.815079+00:00"
     },
     {
       "name": "Cameron Brink",
@@ -107,15 +89,6 @@
       "name": "Elena Buenavida",
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
-      "status": "Out",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach",
-      "last_updated": "2026-08-16T03:51:02.815079+00:00"
-    },
-    {
-      "name": "Hailey VanLith",
-      "team_abbr": "CON",
-      "team_full": "Connecticut Sun",
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
@@ -275,13 +248,31 @@
       "last_updated": "2026-08-16T03:51:02.815079+00:00"
     },
     {
+      "name": "Aaliyah Edwards",
+      "team_abbr": "CON",
+      "team_full": "Connecticut Sun",
+      "status": "Questionable",
+      "reason": "Injury/Illness - Left Ankle;-",
+      "reason_category": "injury",
+      "last_updated": "2026-08-17T20:45:21.659367+00:00"
+    },
+    {
+      "name": "Brittney Griner",
+      "team_abbr": "CON",
+      "team_full": "Connecticut Sun",
+      "status": "Questionable",
+      "reason": "Injury/Illness - Left Knee;-",
+      "reason_category": "injury",
+      "last_updated": "2026-08-17T20:45:21.659367+00:00"
+    },
+    {
       "name": "Janelle Salaun",
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
       "status": "Questionable",
       "reason": "Injury/Illness - Right Knee; Soreness",
       "reason_category": "injury",
-      "last_updated": "2026-08-17T20:44:25.282604+00:00"
+      "last_updated": "2026-08-17T20:45:21.659367+00:00"
     },
     {
       "name": "Jessica Shepard",
@@ -290,7 +281,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Right Ankle; right ankle",
       "reason_category": "injury",
-      "last_updated": "2026-08-17T20:44:25.282604+00:00"
+      "last_updated": "2026-08-17T20:45:21.659367+00:00"
     },
     {
       "name": "Aliyah Boston",
@@ -343,7 +334,7 @@
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
       "last_submitted_ts": "2026-08-17T03:45:50.452716+00:00",
-      "last_seen_pending_ts": "2026-08-17T20:44:25.282604+00:00",
+      "last_seen_pending_ts": "2026-08-17T20:45:21.659367+00:00",
       "matchups": [
         "IND@ATL"
       ],
@@ -375,7 +366,7 @@
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
       "last_submitted_ts": "2026-08-17T03:45:50.452716+00:00",
-      "last_seen_pending_ts": "2026-08-17T20:44:25.282604+00:00",
+      "last_seen_pending_ts": "2026-08-17T20:45:21.659367+00:00",
       "matchups": [
         "CHI@SEA"
       ],
@@ -406,39 +397,32 @@
     {
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
-      "last_submitted_ts": "2026-08-16T03:51:02.815079+00:00",
-      "last_seen_pending_ts": "2026-08-17T20:44:25.282604+00:00",
+      "last_submitted_ts": "2026-08-17T20:45:21.659367+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "NYL@CON"
+        "LAS@CON"
       ],
       "players": [
         {
           "name_last_first": "Edwards, Aaliyah",
           "name": "Aaliyah Edwards",
-          "status": "Out",
+          "status": "Questionable",
           "reason": "Injury/Illness - Left Ankle;-",
           "reason_category": "injury"
         },
         {
           "name_last_first": "Griner, Brittney",
           "name": "Brittney Griner",
-          "status": "Out",
+          "status": "Questionable",
           "reason": "Injury/Illness - Left Knee;-",
           "reason_category": "injury"
-        },
-        {
-          "name_last_first": "VanLith, Hailey",
-          "name": "Hailey VanLith",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
         }
       ]
     },
     {
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
-      "last_submitted_ts": "2026-08-17T20:44:25.282604+00:00",
+      "last_submitted_ts": "2026-08-17T20:45:21.659367+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "DAL@GSV"
@@ -470,7 +454,7 @@
     {
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
-      "last_submitted_ts": "2026-08-17T20:44:25.282604+00:00",
+      "last_submitted_ts": "2026-08-17T20:45:21.659367+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "DAL@GSV"
@@ -489,7 +473,7 @@
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
       "last_submitted_ts": "2026-08-17T03:45:50.452716+00:00",
-      "last_seen_pending_ts": "2026-08-17T20:44:25.282604+00:00",
+      "last_seen_pending_ts": "2026-08-17T20:45:21.659367+00:00",
       "matchups": [
         "IND@ATL"
       ],
@@ -528,7 +512,7 @@
       "team_abbr": "LAS",
       "team_full": "Los Angeles Sparks",
       "last_submitted_ts": "2026-08-16T03:51:02.815079+00:00",
-      "last_seen_pending_ts": "2026-08-17T20:44:25.282604+00:00",
+      "last_seen_pending_ts": "2026-08-17T20:45:21.659367+00:00",
       "matchups": [
         "LAS@WAS"
       ],
@@ -553,7 +537,7 @@
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
       "last_submitted_ts": "2026-08-16T03:51:02.815079+00:00",
-      "last_seen_pending_ts": "2026-08-17T20:44:25.282604+00:00",
+      "last_seen_pending_ts": "2026-08-17T20:45:21.659367+00:00",
       "matchups": [
         "MIN@LVA"
       ],
@@ -624,7 +608,7 @@
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
       "last_submitted_ts": "2026-08-16T03:51:02.815079+00:00",
-      "last_seen_pending_ts": "2026-08-17T20:44:25.282604+00:00",
+      "last_seen_pending_ts": "2026-08-17T20:45:21.659367+00:00",
       "matchups": [
         "NYL@CON"
       ],
@@ -754,6 +738,34 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-08-17T20:45:21.659367+00:00",
+      "type": "status_change",
+      "team_abbr": "CON",
+      "player": "Brittney Griner",
+      "from_status": "Out",
+      "to_status": "Questionable",
+      "reason": "Injury/Illness - Left Knee;-",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-08-17T20:45:21.659367+00:00",
+      "type": "status_change",
+      "team_abbr": "CON",
+      "player": "Aaliyah Edwards",
+      "from_status": "Out",
+      "to_status": "Questionable",
+      "reason": "Injury/Illness - Left Ankle;-",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-08-17T20:45:21.659367+00:00",
+      "type": "cleared",
+      "team_abbr": "CON",
+      "player": "Hailey VanLith",
+      "previous_status": "Out",
+      "previous_reason": "Coach's Decision"
+    },
     {
       "ts": "2026-08-17T00:00:58.138245+00:00",
       "type": "status_change",
@@ -2987,33 +2999,6 @@
       "to_status": "Available",
       "reason": "-",
       "reason_category": "other"
-    },
-    {
-      "ts": "2026-08-07T00:00:48.662719+00:00",
-      "type": "added",
-      "team_abbr": "LAS",
-      "player": "Alissa Pili",
-      "status": "Out",
-      "reason": "Coach's Decision - Coach's Decision",
-      "reason_category": "rest_coach"
-    },
-    {
-      "ts": "2026-08-07T00:00:48.662719+00:00",
-      "type": "added",
-      "team_abbr": "LAS",
-      "player": "Tonie Morgan",
-      "status": "Out",
-      "reason": "Coach's Decision - Coach's Decision",
-      "reason_category": "rest_coach"
-    },
-    {
-      "ts": "2026-08-06T23:45:46.336942+00:00",
-      "type": "added",
-      "team_abbr": "MIN",
-      "player": "Liatu King",
-      "status": "Out",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach"
     }
   ]
 }

@@ -1,32 +1,5 @@
 [
   {
-    "ts": "2026-05-16T01:15:26.626208+00:00",
-    "type": "added",
-    "team_abbr": "LAS",
-    "player": "Laura Ziegler",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-16T01:45:22.034011+00:00",
-    "type": "added",
-    "team_abbr": "PHX",
-    "player": "Mariella Fasoula",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-16T03:30:22.707297+00:00",
-    "type": "added",
-    "team_abbr": "CHI",
-    "player": "Skylar Diggins",
-    "status": "Questionable",
-    "reason": "Injury/Illness - Eye; Eye",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-05-16T03:45:21.641126+00:00",
     "type": "status_change",
     "team_abbr": "CHI",
@@ -17993,6 +17966,34 @@
     "from_status": "Out",
     "to_status": "Questionable",
     "reason": "Injury/Illness - Right Knee; Soreness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-17T20:45:21.659367+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Hailey VanLith",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-17T20:45:21.659367+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Aaliyah Edwards",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Ankle;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-17T20:45:21.659367+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Brittney Griner",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Knee;-",
     "reason_category": "injury"
   }
 ]
