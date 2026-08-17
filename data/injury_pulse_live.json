@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-08-16T23:45:44.378260+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-16_07_45PM.pdf",
-  "report_ts": "08/16/26 07:45 PM",
+  "polled_at_utc": "2026-08-17T00:00:58.138245+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-16_08_00PM.pdf",
+  "report_ts": "08/16/26 08:00 PM",
   "all_players": [
     {
       "name": "Aaliyah Edwards",
@@ -20,7 +20,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; lowerleftleg",
       "reason_category": "injury",
-      "last_updated": "2026-08-16T23:45:44.378260+00:00"
+      "last_updated": "2026-08-17T00:00:58.138245+00:00"
     },
     {
       "name": "Azzi Fudd",
@@ -29,7 +29,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; rightknee",
       "reason_category": "injury",
-      "last_updated": "2026-08-16T23:45:44.378260+00:00"
+      "last_updated": "2026-08-17T00:00:58.138245+00:00"
     },
     {
       "name": "Betnijah Laney-Hamilton",
@@ -47,7 +47,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-08-16T23:45:44.378260+00:00"
+      "last_updated": "2026-08-17T00:00:58.138245+00:00"
     },
     {
       "name": "Brionna Jones",
@@ -56,7 +56,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-08-16T23:45:44.378260+00:00"
+      "last_updated": "2026-08-17T00:00:58.138245+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -122,22 +122,13 @@
       "last_updated": "2026-08-16T03:51:02.815079+00:00"
     },
     {
-      "name": "Janelle Salaun",
-      "team_abbr": "GSV",
-      "team_full": "Golden State Valkyries",
-      "status": "Out",
-      "reason": "Injury/Illness - Rightknee; Soreness",
-      "reason_category": "injury",
-      "last_updated": "2026-08-13T03:45:45.627638+00:00"
-    },
-    {
       "name": "Jordin Canada",
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
       "status": "Out",
       "reason": "Injury/Illness - illness; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-08-16T23:45:44.378260+00:00"
+      "last_updated": "2026-08-17T00:00:58.138245+00:00"
     },
     {
       "name": "Kara Dunn",
@@ -146,7 +137,7 @@
       "status": "Out",
       "reason": "Player Coach's Decision - Developmental Player",
       "reason_category": "rest_coach",
-      "last_updated": "2026-08-16T23:45:44.378260+00:00"
+      "last_updated": "2026-08-17T00:00:58.138245+00:00"
     },
     {
       "name": "Kelsey Plum",
@@ -155,16 +146,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Lower Leg;-",
       "reason_category": "injury",
-      "last_updated": "2026-08-16T23:45:44.378260+00:00"
-    },
-    {
-      "name": "Kiah Stokes",
-      "team_abbr": "GSV",
-      "team_full": "Golden State Valkyries",
-      "status": "Out",
-      "reason": "Injury/Illness - Head; Concussion protocol",
-      "reason_category": "injury",
-      "last_updated": "2026-08-13T03:45:45.627638+00:00"
+      "last_updated": "2026-08-17T00:00:58.138245+00:00"
     },
     {
       "name": "Kierstan Bell",
@@ -200,7 +182,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-08-16T23:45:44.378260+00:00"
+      "last_updated": "2026-08-17T00:00:58.138245+00:00"
     },
     {
       "name": "Michelle Onyiah",
@@ -209,16 +191,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-08-16T23:45:44.378260+00:00"
-    },
-    {
-      "name": "Miela Sowah",
-      "team_abbr": "GSV",
-      "team_full": "Golden State Valkyries",
-      "status": "Out",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach",
-      "last_updated": "2026-08-13T03:45:45.627638+00:00"
+      "last_updated": "2026-08-17T00:00:58.138245+00:00"
     },
     {
       "name": "Monique AkoaMakani",
@@ -236,7 +209,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Shoulder; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-08-16T23:45:44.378260+00:00"
+      "last_updated": "2026-08-17T00:00:58.138245+00:00"
     },
     {
       "name": "Sabrina Ionescu",
@@ -254,7 +227,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-08-16T23:45:44.378260+00:00"
+      "last_updated": "2026-08-17T00:00:58.138245+00:00"
     },
     {
       "name": "Satou Sabally",
@@ -272,7 +245,7 @@
       "status": "Out",
       "reason": "Coach's Decision - Developmental",
       "reason_category": "rest_coach",
-      "last_updated": "2026-08-16T23:45:44.378260+00:00"
+      "last_updated": "2026-08-17T00:00:58.138245+00:00"
     },
     {
       "name": "Skylar Diggins",
@@ -281,7 +254,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; Right Knee",
       "reason_category": "injury",
-      "last_updated": "2026-08-16T23:45:44.378260+00:00"
+      "last_updated": "2026-08-17T00:00:58.138245+00:00"
     },
     {
       "name": "Sydney Taylor",
@@ -290,7 +263,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Groin; Left Groin",
       "reason_category": "injury",
-      "last_updated": "2026-08-16T23:45:44.378260+00:00"
+      "last_updated": "2026-08-17T00:00:58.138245+00:00"
     },
     {
       "name": "Ta'Niya Latson",
@@ -302,13 +275,22 @@
       "last_updated": "2026-08-16T03:51:02.815079+00:00"
     },
     {
+      "name": "Janelle Salaun",
+      "team_abbr": "GSV",
+      "team_full": "Golden State Valkyries",
+      "status": "Questionable",
+      "reason": "Injury/Illness - Right Knee; Soreness",
+      "reason_category": "injury",
+      "last_updated": "2026-08-17T00:00:58.138245+00:00"
+    },
+    {
       "name": "Jessica Shepard",
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
       "status": "Probable",
       "reason": "Injury/Illness - Right Ankle; right ankle",
       "reason_category": "injury",
-      "last_updated": "2026-08-16T23:45:44.378260+00:00"
+      "last_updated": "2026-08-17T00:00:58.138245+00:00"
     },
     {
       "name": "Aliyah Boston",
@@ -317,7 +299,7 @@
       "status": "Available",
       "reason": "-",
       "reason_category": "other",
-      "last_updated": "2026-08-16T23:45:44.378260+00:00"
+      "last_updated": "2026-08-17T00:00:58.138245+00:00"
     },
     {
       "name": "Caitlin Clark",
@@ -326,7 +308,7 @@
       "status": "Available",
       "reason": "-",
       "reason_category": "other",
-      "last_updated": "2026-08-16T23:45:44.378260+00:00"
+      "last_updated": "2026-08-17T00:00:58.138245+00:00"
     },
     {
       "name": "Justine Pissott",
@@ -344,7 +326,7 @@
       "status": "Available",
       "reason": "-",
       "reason_category": "other",
-      "last_updated": "2026-08-16T23:45:44.378260+00:00"
+      "last_updated": "2026-08-17T00:00:58.138245+00:00"
     },
     {
       "name": "Te-Hina Paopao",
@@ -353,14 +335,14 @@
       "status": "Available",
       "reason": "Injury/Illness - Right Leg; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-08-16T23:45:44.378260+00:00"
+      "last_updated": "2026-08-17T00:00:58.138245+00:00"
     }
   ],
   "teams": [
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-08-16T23:45:44.378260+00:00",
+      "last_submitted_ts": "2026-08-17T00:00:58.138245+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "IND@ATL"
@@ -392,7 +374,7 @@
     {
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
-      "last_submitted_ts": "2026-08-16T23:45:44.378260+00:00",
+      "last_submitted_ts": "2026-08-17T00:00:58.138245+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "CHI@SEA"
@@ -456,7 +438,7 @@
     {
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
-      "last_submitted_ts": "2026-08-16T23:45:44.378260+00:00",
+      "last_submitted_ts": "2026-08-17T00:00:58.138245+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "DAL@GSV"
@@ -488,31 +470,17 @@
     {
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
-      "last_submitted_ts": "2026-08-13T03:45:45.627638+00:00",
-      "last_seen_pending_ts": "2026-08-16T23:45:44.378260+00:00",
+      "last_submitted_ts": "2026-08-17T00:00:58.138245+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "CHI@GSV"
+        "DAL@GSV"
       ],
       "players": [
         {
           "name_last_first": "Salaun, Janelle",
           "name": "Janelle Salaun",
-          "status": "Out",
-          "reason": "Injury/Illness - Rightknee; Soreness",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Sowah, Miela",
-          "name": "Miela Sowah",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Stokes, Kiah",
-          "name": "Kiah Stokes",
-          "status": "Out",
-          "reason": "Injury/Illness - Head; Concussion protocol",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Knee; Soreness",
           "reason_category": "injury"
         }
       ]
@@ -520,7 +488,7 @@
     {
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
-      "last_submitted_ts": "2026-08-16T23:45:44.378260+00:00",
+      "last_submitted_ts": "2026-08-17T00:00:58.138245+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "IND@ATL"
@@ -687,7 +655,7 @@
     {
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
-      "last_submitted_ts": "2026-08-16T23:45:44.378260+00:00",
+      "last_submitted_ts": "2026-08-17T00:00:58.138245+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "PDX@PHX"
@@ -705,7 +673,7 @@
     {
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
-      "last_submitted_ts": "2026-08-16T23:45:44.378260+00:00",
+      "last_submitted_ts": "2026-08-17T00:00:58.138245+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "PDX@PHX"
@@ -737,7 +705,7 @@
     {
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
-      "last_submitted_ts": "2026-08-16T23:45:44.378260+00:00",
+      "last_submitted_ts": "2026-08-17T00:00:58.138245+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "CHI@SEA"
@@ -786,6 +754,32 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-08-17T00:00:58.138245+00:00",
+      "type": "status_change",
+      "team_abbr": "GSV",
+      "player": "Janelle Salaun",
+      "from_status": "Out",
+      "to_status": "Questionable",
+      "reason": "Injury/Illness - Right Knee; Soreness",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-08-17T00:00:58.138245+00:00",
+      "type": "cleared",
+      "team_abbr": "GSV",
+      "player": "Kiah Stokes",
+      "previous_status": "Out",
+      "previous_reason": "Injury/Illness - Head; Concussion protocol"
+    },
+    {
+      "ts": "2026-08-17T00:00:58.138245+00:00",
+      "type": "cleared",
+      "team_abbr": "GSV",
+      "player": "Miela Sowah",
+      "previous_status": "Out",
+      "previous_reason": "Coach's Decision"
+    },
     {
       "ts": "2026-08-16T23:45:44.378260+00:00",
       "type": "reason_change",
@@ -3020,36 +3014,6 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach"
-    },
-    {
-      "ts": "2026-08-06T22:59:59.183936+00:00",
-      "type": "status_change",
-      "team_abbr": "DAL",
-      "player": "Alysha Clark",
-      "from_status": "Out",
-      "to_status": "Questionable",
-      "reason": "Injury/Illness - Back; n/a",
-      "reason_category": "injury"
-    },
-    {
-      "ts": "2026-08-06T22:59:59.183936+00:00",
-      "type": "status_change",
-      "team_abbr": "MIN",
-      "player": "Marina TorontoTempo Mabrey",
-      "from_status": "Questionable",
-      "to_status": "Available",
-      "reason": "Injury/Illness - Neck; Injury",
-      "reason_category": "injury"
-    },
-    {
-      "ts": "2026-08-06T22:59:59.183936+00:00",
-      "type": "status_change",
-      "team_abbr": "IND",
-      "player": "Aliyah Boston",
-      "from_status": "Probable",
-      "to_status": "Available",
-      "reason": "-",
-      "reason_category": "other"
     }
   ]
 }
