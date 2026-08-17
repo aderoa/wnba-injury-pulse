@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/17/26 04:45 PM",
-  "page_count": 1,
-  "raw_line_count": 15,
+  "report_ts": "08/17/26 05:00 PM",
+  "page_count": 2,
+  "raw_line_count": 23,
   "teams": [
     {
       "team_full": "Dallas Wings",
@@ -57,8 +57,51 @@
       "game_date": "08/18/2026",
       "game_time": "07:00(ET)",
       "matchup": "IND@TOR",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Boston, Aliyah",
+          "name": "Aliyah Boston",
+          "status": "Probable",
+          "reason": "Injury/Illness - Right Lower Leg; right lowerleg",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Clark, Caitlin",
+          "name": "Caitlin Clark",
+          "status": "Probable",
+          "reason": "Injury/Illness - Back; back",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "TorontoTempo Allemand, Julie",
+          "name": "Julie TorontoTempo Allemand",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Thigh; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Conde, Maria",
+          "name": "Maria Conde",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Calf; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sabally, Nyara",
+          "name": "Nyara Sabally",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Calf; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sykes, Brittney",
+          "name": "Brittney Sykes",
+          "status": "Probable",
+          "reason": "Injury/Illness - Left Foot; Injury",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Los Angeles Sparks",
@@ -66,8 +109,30 @@
       "game_date": "08/18/2026",
       "game_time": "07:00(ET)",
       "matchup": "LAS@CON",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "AkoaMakani, Monique",
+          "name": "Monique AkoaMakani",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Ankle; RAnkle",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Brink, Cameron",
+          "name": "Cameron Brink",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Ribs; Ribs",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Wheeler, Erica",
+          "name": "Erica Wheeler",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Ankle; RAnkle",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Connecticut Sun",
@@ -130,7 +195,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-17_04_45PM.pdf",
-  "fetched_slot": "2026-08-17T16:45:00-04:00",
-  "polled_at_utc": "2026-08-17T20:45:21.659367+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-17_05_00PM.pdf",
+  "fetched_slot": "2026-08-17T17:00:00-04:00",
+  "polled_at_utc": "2026-08-17T21:00:25.822478+00:00"
 }

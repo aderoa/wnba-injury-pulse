@@ -4,6 +4,20 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-08-17 21:00 UTC
+
+- **Julie TorontoTempo Allemand** (IND) newly listed as **Out** — Injury/Illness - Left Thigh; Injury
+- **Maria Conde** (IND) newly listed as **Out** — Injury/Illness - Left Calf; Injury
+- **Nyara Sabally** (IND) newly listed as **Out** — Injury/Illness - Left Calf; Injury
+- **Brittney Sykes** (IND) newly listed as **Probable** — Injury/Illness - Left Foot; Injury
+- **Bree Hall** (IND) cleared (was Out)
+- **Michelle Onyiah** (IND) cleared (was Out)
+- **Aliyah Boston** (IND): **Available** → **Probable** — Injury/Illness - Right Lower Leg; right lowerleg
+- **Caitlin Clark** (IND): **Available** → **Probable** — Injury/Illness - Back; back
+- **Erica Wheeler** (LAS) newly listed as **Questionable** — Injury/Illness - Right Ankle; RAnkle
+- **Cameron Brink** (LAS): **Out** → **Questionable** — Injury/Illness - Ribs; Ribs
+- **Monique AkoaMakani** (LAS): **Out** → **Questionable** — Injury/Illness - Right Ankle; RAnkle
+
 ## 2026-08-17 20:45 UTC
 
 - **Hailey VanLith** (CON) cleared (was Out)
