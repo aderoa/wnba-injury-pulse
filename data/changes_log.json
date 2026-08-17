@@ -1,41 +1,5 @@
 [
   {
-    "ts": "2026-05-16T21:16:05.075792+00:00",
-    "type": "reason_change",
-    "team_abbr": "LVA",
-    "player": "Janiah Barker",
-    "status": "Out",
-    "from_reason": "Injury/Illness - Head; head",
-    "to_reason": "Injury/Illness - Head; concussion",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-16T21:16:05.075792+00:00",
-    "type": "reason_change",
-    "team_abbr": "LVA",
-    "player": "Dana Evans",
-    "status": "Out",
-    "from_reason": "Injury/Illness - Left Leg; leg",
-    "to_reason": "Injury/Illness - Left Leg; lower",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-16T22:01:00.567289+00:00",
-    "type": "cleared",
-    "team_abbr": "MIN",
-    "player": "Nia Coffey",
-    "previous_status": "Available",
-    "previous_reason": "Injury/Illness - Right Shoulder; Right Shoulder"
-  },
-  {
-    "ts": "2026-05-16T22:01:00.567289+00:00",
-    "type": "cleared",
-    "team_abbr": "MIN",
-    "player": "Emese Hof",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
     "ts": "2026-05-16T23:45:56.635050+00:00",
     "type": "added",
     "team_abbr": "MIN",
@@ -17999,6 +17963,44 @@
     "from_status": "Out",
     "to_status": "Questionable",
     "reason": "Injury/Illness - Right Ankle; RAnkle",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-17T22:00:19.973834+00:00",
+    "type": "reason_change",
+    "team_abbr": "NYL",
+    "player": "Leonie Fiebich",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Foot; Not With Team",
+    "to_reason": "Injury/Illness - Left Foot; L.Foot",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-17T22:00:19.973834+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Sabrina Ionescu",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Foot; L.Foot",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-17T22:00:19.973834+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "Maddy Westbeld",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-17T22:00:19.973834+00:00",
+    "type": "status_change",
+    "team_abbr": "CHI",
+    "player": "Sydney Taylor",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Groin; Left Groin",
     "reason_category": "injury"
   }
 ]

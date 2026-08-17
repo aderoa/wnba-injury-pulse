@@ -4,6 +4,13 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-08-17 22:00 UTC
+
+- **Leonie Fiebich** (NYL, Out): reason updated (Injury/Illness - Left Foot; Not With Team → Injury/Illness - Left Foot; L.Foot)
+- **Sabrina Ionescu** (NYL): **Out** → **Questionable** — Injury/Illness - Left Foot; L.Foot
+- **Maddy Westbeld** (CHI) cleared (was Out)
+- **Sydney Taylor** (CHI): **Out** → **Questionable** — Injury/Illness - Left Groin; Left Groin
+
 ## 2026-08-17 21:00 UTC
 
 - **Julie TorontoTempo Allemand** (IND) newly listed as **Out** — Injury/Illness - Left Thigh; Injury
