@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-08-17T10:15:55.419764+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-17_06_15AM.pdf",
-  "report_ts": "08/17/26 06:15 AM",
+  "polled_at_utc": "2026-08-17T10:30:53.194278+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-17_06_30AM.pdf",
+  "report_ts": "08/17/26 06:30 AM",
   "all_players": [
     {
       "name": "Aaliyah Edwards",
@@ -20,7 +20,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; lowerleftleg",
       "reason_category": "injury",
-      "last_updated": "2026-08-17T10:15:55.419764+00:00"
+      "last_updated": "2026-08-17T10:30:53.194278+00:00"
     },
     {
       "name": "Azzi Fudd",
@@ -29,7 +29,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; rightknee",
       "reason_category": "injury",
-      "last_updated": "2026-08-17T10:15:55.419764+00:00"
+      "last_updated": "2026-08-17T10:30:53.194278+00:00"
     },
     {
       "name": "Betnijah Laney-Hamilton",
@@ -281,7 +281,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Right Knee; Soreness",
       "reason_category": "injury",
-      "last_updated": "2026-08-17T10:15:55.419764+00:00"
+      "last_updated": "2026-08-17T10:30:53.194278+00:00"
     },
     {
       "name": "Jessica Shepard",
@@ -290,7 +290,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Right Ankle; right ankle",
       "reason_category": "injury",
-      "last_updated": "2026-08-17T10:15:55.419764+00:00"
+      "last_updated": "2026-08-17T10:30:53.194278+00:00"
     },
     {
       "name": "Aliyah Boston",
@@ -343,7 +343,7 @@
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
       "last_submitted_ts": "2026-08-17T03:45:50.452716+00:00",
-      "last_seen_pending_ts": "2026-08-17T10:15:55.419764+00:00",
+      "last_seen_pending_ts": "2026-08-17T10:30:53.194278+00:00",
       "matchups": [
         "IND@ATL"
       ],
@@ -375,7 +375,7 @@
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
       "last_submitted_ts": "2026-08-17T03:45:50.452716+00:00",
-      "last_seen_pending_ts": "2026-08-17T10:15:55.419764+00:00",
+      "last_seen_pending_ts": "2026-08-17T10:30:53.194278+00:00",
       "matchups": [
         "CHI@SEA"
       ],
@@ -407,7 +407,7 @@
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
       "last_submitted_ts": "2026-08-16T03:51:02.815079+00:00",
-      "last_seen_pending_ts": "2026-08-17T10:15:55.419764+00:00",
+      "last_seen_pending_ts": "2026-08-17T10:30:53.194278+00:00",
       "matchups": [
         "NYL@CON"
       ],
@@ -438,7 +438,7 @@
     {
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
-      "last_submitted_ts": "2026-08-17T10:15:55.419764+00:00",
+      "last_submitted_ts": "2026-08-17T10:30:53.194278+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "DAL@GSV"
@@ -470,7 +470,7 @@
     {
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
-      "last_submitted_ts": "2026-08-17T10:15:55.419764+00:00",
+      "last_submitted_ts": "2026-08-17T10:30:53.194278+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "DAL@GSV"
@@ -489,7 +489,7 @@
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
       "last_submitted_ts": "2026-08-17T03:45:50.452716+00:00",
-      "last_seen_pending_ts": "2026-08-17T10:15:55.419764+00:00",
+      "last_seen_pending_ts": "2026-08-17T10:30:53.194278+00:00",
       "matchups": [
         "IND@ATL"
       ],
@@ -528,7 +528,7 @@
       "team_abbr": "LAS",
       "team_full": "Los Angeles Sparks",
       "last_submitted_ts": "2026-08-16T03:51:02.815079+00:00",
-      "last_seen_pending_ts": "2026-08-17T10:15:55.419764+00:00",
+      "last_seen_pending_ts": "2026-08-17T10:30:53.194278+00:00",
       "matchups": [
         "LAS@WAS"
       ],
@@ -553,7 +553,7 @@
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
       "last_submitted_ts": "2026-08-16T03:51:02.815079+00:00",
-      "last_seen_pending_ts": "2026-08-17T10:15:55.419764+00:00",
+      "last_seen_pending_ts": "2026-08-17T10:30:53.194278+00:00",
       "matchups": [
         "MIN@LVA"
       ],
@@ -624,7 +624,7 @@
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
       "last_submitted_ts": "2026-08-16T03:51:02.815079+00:00",
-      "last_seen_pending_ts": "2026-08-17T10:15:55.419764+00:00",
+      "last_seen_pending_ts": "2026-08-17T10:30:53.194278+00:00",
       "matchups": [
         "NYL@CON"
       ],
