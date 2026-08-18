@@ -1,5 +1,5 @@
 {
-  "report_ts": "08/18/26 05:00 PM",
+  "report_ts": "08/18/26 05:15 PM",
   "page_count": 2,
   "raw_line_count": 25,
   "teams": [
@@ -66,21 +66,21 @@
         {
           "name_last_first": "AkoaMakani, Monique",
           "name": "Monique AkoaMakani",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Right Ankle; RAnkle",
           "reason_category": "injury"
         },
         {
           "name_last_first": "Brink, Cameron",
           "name": "Cameron Brink",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Ribs; Ribs",
           "reason_category": "injury"
         },
         {
           "name_last_first": "Wheeler, Erica",
           "name": "Erica Wheeler",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Right Ankle; RAnkle",
           "reason_category": "injury"
         }
@@ -241,7 +241,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-18_05_00PM.pdf",
-  "fetched_slot": "2026-08-18T17:00:00-04:00",
-  "polled_at_utc": "2026-08-18T21:01:12.381514+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-18_05_15PM.pdf",
+  "fetched_slot": "2026-08-18T17:15:00-04:00",
+  "polled_at_utc": "2026-08-18T21:15:20.797708+00:00"
 }
