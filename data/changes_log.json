@@ -1,33 +1,5 @@
 [
   {
-    "ts": "2026-05-17T23:16:08.468697+00:00",
-    "type": "status_change",
-    "team_abbr": "PDX",
-    "player": "Carla Leite",
-    "from_status": "Out",
-    "to_status": "Questionable",
-    "reason": "Injury/Illness - Right Ankle; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-17T23:31:08.994681+00:00",
-    "type": "cleared",
-    "team_abbr": "CON",
-    "player": "Ashlon Jackson",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-05-17T23:31:08.994681+00:00",
-    "type": "status_change",
-    "team_abbr": "CON",
-    "player": "Brittney Griner",
-    "from_status": "Out",
-    "to_status": "Probable",
-    "reason": "Injury/Illness - Left Foot; Sprain",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-05-18T00:16:09.540397+00:00",
     "type": "added",
     "team_abbr": "CHI",
@@ -18010,5 +17982,32 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Right Lower Leg; right lowerleg",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-18T22:15:21.410401+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Zaay Green",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-18T22:15:21.410401+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Rayah Marshall",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-18T22:15:21.410401+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Hailey VanLith",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]

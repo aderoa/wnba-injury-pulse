@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/18/26 06:00 PM",
+  "report_ts": "08/18/26 06:15 PM",
   "page_count": 2,
-  "raw_line_count": 27,
+  "raw_line_count": 30,
   "teams": [
     {
       "team_full": "Indiana Fever",
@@ -52,6 +52,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Calf; Injury",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Green, Zaay",
+          "name": "Zaay Green",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         },
         {
           "name_last_first": "Sabally, Nyara",
@@ -121,6 +128,20 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Knee;-",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Marshall, Rayah",
+          "name": "Rayah Marshall",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "VanLith, Hailey",
+          "name": "Hailey VanLith",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -255,7 +276,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-18_06_00PM.pdf",
-  "fetched_slot": "2026-08-18T18:00:00-04:00",
-  "polled_at_utc": "2026-08-18T22:00:22.214376+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-18_06_15PM.pdf",
+  "fetched_slot": "2026-08-18T18:15:00-04:00",
+  "polled_at_utc": "2026-08-18T22:15:21.410401+00:00"
 }
