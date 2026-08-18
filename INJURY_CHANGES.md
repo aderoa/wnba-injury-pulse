@@ -4,6 +4,11 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-08-18 00:45 UTC
+
+- **Christyn Williams** (DAL) newly listed as **Out** — Coach's Decision
+- **Jessica Shepard** (DAL): **Probable** → **Available** — Injury/Illness - Right Ankle; right ankle
+
 ## 2026-08-18 00:00 UTC
 
 - **Te-Hina Paopao** (ATL) cleared (was Available)

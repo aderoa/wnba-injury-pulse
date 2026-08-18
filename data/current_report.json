@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/17/26 08:30 PM",
+  "report_ts": "08/17/26 08:45 PM",
   "page_count": 2,
-  "raw_line_count": 28,
+  "raw_line_count": 29,
   "teams": [
     {
       "team_full": "Dallas Wings",
@@ -28,9 +28,16 @@
         {
           "name_last_first": "Shepard, Jessica",
           "name": "Jessica Shepard",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness - Right Ankle; right ankle",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Williams, Christyn",
+          "name": "Christyn Williams",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -262,7 +269,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-17_08_30PM.pdf",
-  "fetched_slot": "2026-08-17T20:30:00-04:00",
-  "polled_at_utc": "2026-08-18T00:30:21.368524+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-17_08_45PM.pdf",
+  "fetched_slot": "2026-08-17T20:45:00-04:00",
+  "polled_at_utc": "2026-08-18T00:45:26.715689+00:00"
 }

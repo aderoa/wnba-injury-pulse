@@ -1,25 +1,5 @@
 [
   {
-    "ts": "2026-05-17T20:16:09.294605+00:00",
-    "type": "status_change",
-    "team_abbr": "IND",
-    "player": "Aliyah Boston",
-    "from_status": "Questionable",
-    "to_status": "Out",
-    "reason": "Injury/Illness - Rightlowerleg; right lowerleg",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-17T21:16:06.403584+00:00",
-    "type": "status_change",
-    "team_abbr": "SEA",
-    "player": "Taina Mair",
-    "from_status": "Out",
-    "to_status": "Available",
-    "reason": "-",
-    "reason_category": "other"
-  },
-  {
     "ts": "2026-05-17T21:16:06.403584+00:00",
     "type": "status_change",
     "team_abbr": "SEA",
@@ -18000,5 +17980,24 @@
     "to_status": "Questionable",
     "reason": "Concussion Protocol",
     "reason_category": "procedural"
+  },
+  {
+    "ts": "2026-08-18T00:45:26.715689+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Christyn Williams",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-18T00:45:26.715689+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Jessica Shepard",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Ankle; right ankle",
+    "reason_category": "injury"
   }
 ]
