@@ -4,6 +4,13 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-08-18 22:00 UTC
+
+- **Bree Hall** (IND) newly listed as **Out** — Coach's Decision
+- **Michelle Onyiah** (IND) newly listed as **Out** — Coach's Decision
+- **Caitlin Clark** (IND): **Probable** → **Available** — Injury/Illness - Back; back
+- **Aliyah Boston** (IND): **Probable** → **Available** — Injury/Illness - Right Lower Leg; right lowerleg
+
 ## 2026-08-18 21:15 UTC
 
 - **Monique AkoaMakani** (LAS): **Questionable** → **Out** — Injury/Illness - Right Ankle; RAnkle
