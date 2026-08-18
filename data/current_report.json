@@ -1,5 +1,5 @@
 {
-  "report_ts": "08/18/26 01:00 PM",
+  "report_ts": "08/18/26 01:15 PM",
   "page_count": 2,
   "raw_line_count": 26,
   "teams": [
@@ -97,14 +97,14 @@
         {
           "name_last_first": "Edwards, Aaliyah",
           "name": "Aaliyah Edwards",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Left Ankle;-",
           "reason_category": "injury"
         },
         {
           "name_last_first": "Griner, Brittney",
           "name": "Brittney Griner",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Left Knee;-",
           "reason_category": "injury"
         }
@@ -176,7 +176,7 @@
         {
           "name_last_first": "Ionescu, Sabrina",
           "name": "Sabrina Ionescu",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Left Foot; L.Foot",
           "reason_category": "injury"
         },
@@ -250,7 +250,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-18_01_00PM.pdf",
-  "fetched_slot": "2026-08-18T13:00:00-04:00",
-  "polled_at_utc": "2026-08-18T17:04:34.990427+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-18_01_15PM.pdf",
+  "fetched_slot": "2026-08-18T13:15:00-04:00",
+  "polled_at_utc": "2026-08-18T17:15:23.190559+00:00"
 }

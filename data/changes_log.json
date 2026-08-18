@@ -1,33 +1,6 @@
 [
   {
     "ts": "2026-05-17T22:01:16.185177+00:00",
-    "type": "status_change",
-    "team_abbr": "CHI",
-    "player": "Skylar Diggins",
-    "from_status": "Questionable",
-    "to_status": "Out",
-    "reason": "Injury/Illness - Eye; Eye",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-17T22:01:16.185177+00:00",
-    "type": "added",
-    "team_abbr": "MIN",
-    "player": "Nikolina Milic",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-17T22:01:16.185177+00:00",
-    "type": "cleared",
-    "team_abbr": "WAS",
-    "player": "Georgia Amoore",
-    "previous_status": "Available",
-    "previous_reason": "-"
-  },
-  {
-    "ts": "2026-05-17T22:01:16.185177+00:00",
     "type": "cleared",
     "team_abbr": "WAS",
     "player": "Alicia FlorezGetino",
@@ -17999,6 +17972,36 @@
     "from_status": "Probable",
     "to_status": "Available",
     "reason": "Injury/Illness - Left Foot; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-18T17:15:23.190559+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Brittney Griner",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Knee;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-18T17:15:23.190559+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Aaliyah Edwards",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Ankle;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-18T17:15:23.190559+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Sabrina Ionescu",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Foot; L.Foot",
     "reason_category": "injury"
   }
 ]
