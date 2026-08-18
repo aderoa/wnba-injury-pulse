@@ -1,14 +1,5 @@
 [
   {
-    "ts": "2026-05-17T21:46:07.901256+00:00",
-    "type": "added",
-    "team_abbr": "MIN",
-    "player": "Liatu King",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
     "ts": "2026-05-17T22:01:16.185177+00:00",
     "type": "status_change",
     "team_abbr": "CHI",
@@ -17998,6 +17989,16 @@
     "from_status": "Questionable",
     "to_status": "Available",
     "reason": "Injury/Illness - Right Knee; Soreness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-18T15:45:22.096012+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Brittney Sykes",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Foot; Injury",
     "reason_category": "injury"
   }
 ]

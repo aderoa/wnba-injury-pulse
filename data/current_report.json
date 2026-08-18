@@ -1,5 +1,5 @@
 {
-  "report_ts": "08/18/26 11:30 AM",
+  "report_ts": "08/18/26 11:45 AM",
   "page_count": 2,
   "raw_line_count": 26,
   "teams": [
@@ -49,7 +49,7 @@
         {
           "name_last_first": "Sykes, Brittney",
           "name": "Brittney Sykes",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness - Left Foot; Injury",
           "reason_category": "injury"
         }
@@ -250,7 +250,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-18_11_30AM.pdf",
-  "fetched_slot": "2026-08-18T11:30:00-04:00",
-  "polled_at_utc": "2026-08-18T15:30:24.974202+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-18_11_45AM.pdf",
+  "fetched_slot": "2026-08-18T11:45:00-04:00",
+  "polled_at_utc": "2026-08-18T15:45:22.096012+00:00"
 }
