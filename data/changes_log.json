@@ -1,33 +1,5 @@
 [
   {
-    "ts": "2026-05-17T21:16:06.403584+00:00",
-    "type": "status_change",
-    "team_abbr": "SEA",
-    "player": "Taylor Thierry",
-    "from_status": "Out",
-    "to_status": "Available",
-    "reason": "-",
-    "reason_category": "other"
-  },
-  {
-    "ts": "2026-05-17T21:31:09.638206+00:00",
-    "type": "added",
-    "team_abbr": "IND",
-    "player": "Bree Hall",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-17T21:31:09.638206+00:00",
-    "type": "added",
-    "team_abbr": "IND",
-    "player": "Justine Pissott",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
     "ts": "2026-05-17T21:46:07.901256+00:00",
     "type": "added",
     "team_abbr": "MIN",
@@ -17998,6 +17970,34 @@
     "from_status": "Probable",
     "to_status": "Available",
     "reason": "Injury/Illness - Right Ankle; right ankle",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-18T01:30:20.896614+00:00",
+    "type": "added",
+    "team_abbr": "GSV",
+    "player": "Ashten Prechtel",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-18T01:30:20.896614+00:00",
+    "type": "added",
+    "team_abbr": "GSV",
+    "player": "Miela Sowah",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-18T01:30:20.896614+00:00",
+    "type": "status_change",
+    "team_abbr": "GSV",
+    "player": "Janelle Salaun",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Knee; Soreness",
     "reason_category": "injury"
   }
 ]

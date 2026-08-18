@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/17/26 09:15 PM",
+  "report_ts": "08/17/26 09:30 PM",
   "page_count": 2,
-  "raw_line_count": 29,
+  "raw_line_count": 31,
   "teams": [
     {
       "team_full": "Dallas Wings",
@@ -50,11 +50,25 @@
       "submitted": true,
       "players": [
         {
+          "name_last_first": "Prechtel, Ashten",
+          "name": "Ashten Prechtel",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Salaun, Janelle",
           "name": "Janelle Salaun",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Right Knee; Soreness",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sowah, Miela",
+          "name": "Miela Sowah",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -269,7 +283,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-17_09_15PM.pdf",
-  "fetched_slot": "2026-08-17T21:15:00-04:00",
-  "polled_at_utc": "2026-08-18T01:15:23.220586+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-17_09_30PM.pdf",
+  "fetched_slot": "2026-08-17T21:30:00-04:00",
+  "polled_at_utc": "2026-08-18T01:30:20.896614+00:00"
 }
