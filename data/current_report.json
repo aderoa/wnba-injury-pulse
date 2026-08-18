@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/17/26 07:45 PM",
+  "report_ts": "08/17/26 08:00 PM",
   "page_count": 2,
-  "raw_line_count": 26,
+  "raw_line_count": 28,
   "teams": [
     {
       "team_full": "Dallas Wings",
@@ -164,8 +164,23 @@
       "game_date": "08/18/2026",
       "game_time": "09:00(ET)",
       "matchup": "ATL@LVA",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Canada, Jordin",
+          "name": "Jordin Canada",
+          "status": "Probable",
+          "reason": "Injury/Illness - Illness; Illness",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Jones, Brionna",
+          "name": "Brionna Jones",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Leg; N/A",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Las Vegas Aces",
@@ -173,8 +188,23 @@
       "game_date": "08/18/2026",
       "game_time": "09:00(ET)",
       "matchup": "ATL@LVA",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Evans, Dana",
+          "name": "Dana Evans",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Leg; L.Leg",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Parker-Tyus, Cheyenne",
+          "name": "Cheyenne Parker-Tyus",
+          "status": "Questionable",
+          "reason": "Concussion Protocol",
+          "reason_category": "procedural"
+        }
+      ]
     },
     {
       "team_full": "New York Liberty",
@@ -232,7 +262,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-17_07_45PM.pdf",
-  "fetched_slot": "2026-08-17T19:45:00-04:00",
-  "polled_at_utc": "2026-08-17T23:59:08.010054+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-17_08_00PM.pdf",
+  "fetched_slot": "2026-08-17T20:00:00-04:00",
+  "polled_at_utc": "2026-08-18T00:00:23.470597+00:00"
 }
