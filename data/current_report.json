@@ -1,77 +1,8 @@
 {
-  "report_ts": "08/17/26 11:45 PM",
+  "report_ts": "08/18/26 12:00 AM",
   "page_count": 2,
-  "raw_line_count": 31,
+  "raw_line_count": 26,
   "teams": [
-    {
-      "team_full": "Dallas Wings",
-      "team_abbr": "DAL",
-      "game_date": "08/17/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "DAL@GSV",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Fudd, Azzi",
-          "name": "Azzi Fudd",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee; rightknee",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "James, Aziaha",
-          "name": "Aziaha James",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Leg; lowerleftleg",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Shepard, Jessica",
-          "name": "Jessica Shepard",
-          "status": "Available",
-          "reason": "Injury/Illness - Right Ankle; right ankle",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Williams, Christyn",
-          "name": "Christyn Williams",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Golden State Valkyries",
-      "team_abbr": "GSV",
-      "game_date": "08/17/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "DAL@GSV",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Prechtel, Ashten",
-          "name": "Ashten Prechtel",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Salaun, Janelle",
-          "name": "Janelle Salaun",
-          "status": "Available",
-          "reason": "Injury/Illness - Right Knee; Soreness",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Sowah, Miela",
-          "name": "Miela Sowah",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
     {
       "team_full": "Indiana Fever",
       "team_abbr": "IND",
@@ -281,9 +212,45 @@
           "reason_category": "injury"
         }
       ]
+    },
+    {
+      "team_full": "Chicago Sky",
+      "team_abbr": "CHI",
+      "game_date": "08/19/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "TOR@WAS",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Washington Mystics",
+      "team_abbr": "WAS",
+      "game_date": "08/19/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "TOR@WAS",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Minnesota Lynx",
+      "team_abbr": "MIN",
+      "game_date": "08/19/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "MIN@GSV",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Golden State Valkyries",
+      "team_abbr": "GSV",
+      "game_date": "08/19/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "MIN@GSV",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-17_11_45PM.pdf",
-  "fetched_slot": "2026-08-17T23:45:00-04:00",
-  "polled_at_utc": "2026-08-18T03:45:24.564968+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-18_12_00AM.pdf",
+  "fetched_slot": "2026-08-18T00:00:00-04:00",
+  "polled_at_utc": "2026-08-18T04:00:21.254282+00:00"
 }
