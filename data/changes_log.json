@@ -3,15 +3,6 @@
     "ts": "2026-05-18T22:00:36.226733+00:00",
     "type": "added",
     "team_abbr": "PDX",
-    "player": "Isabelle Harrison",
-    "status": "Out",
-    "reason": "Injury/Illness - Right Hand; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-18T22:00:36.226733+00:00",
-    "type": "added",
-    "team_abbr": "PDX",
     "player": "Nyara Sabally",
     "status": "Probable",
     "reason": "Injury/Illness - Neck; Injury",
@@ -18011,5 +18002,15 @@
     "to_status": "Available",
     "reason": "Concussion Protocol",
     "reason_category": "procedural"
+  },
+  {
+    "ts": "2026-08-19T00:15:21.133328+00:00",
+    "type": "status_change",
+    "team_abbr": "CHI",
+    "player": "Sydney Taylor",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Groin; Left Groin",
+    "reason_category": "injury"
   }
 ]
