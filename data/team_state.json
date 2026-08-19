@@ -39,7 +39,8 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-08-19T04:00:19.708042+00:00"
   },
   "IND": {
     "team_full": "Indiana Fever",
@@ -116,7 +117,8 @@
         "reason": "Injury/Illness - Left Foot; Injury",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-08-19T04:00:19.708042+00:00"
   },
   "PHX": {
     "team_full": "Phoenix Mercury",
@@ -179,7 +181,8 @@
         "reason": "Concussion Protocol",
         "reason_category": "procedural"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-08-19T04:00:19.708042+00:00"
   },
   "ATL": {
     "team_full": "Atlanta Dream",
@@ -214,7 +217,8 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-08-19T04:00:19.708042+00:00"
   },
   "MIN": {
     "team_full": "Minnesota Lynx",
@@ -364,7 +368,8 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-08-19T04:00:19.708042+00:00"
   },
   "NYL": {
     "team_full": "New York Liberty",
@@ -506,6 +511,7 @@
         "reason": "Injury/Illness - Right Ankle; RAnkle",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-08-19T04:00:19.708042+00:00"
   }
 }
