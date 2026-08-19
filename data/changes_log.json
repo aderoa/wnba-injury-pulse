@@ -1,109 +1,5 @@
 [
   {
-    "ts": "2026-05-18T23:00:33.198993+00:00",
-    "type": "added",
-    "team_abbr": "WAS",
-    "player": "Alicia FlorezGetino",
-    "status": "Out",
-    "reason": "Personal Reasons",
-    "reason_category": "offcourt"
-  },
-  {
-    "ts": "2026-05-18T23:00:33.198993+00:00",
-    "type": "added",
-    "team_abbr": "WAS",
-    "player": "Darianna Littlepage-Buggs",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-18T23:45:32.897344+00:00",
-    "type": "added",
-    "team_abbr": "DAL",
-    "player": "Dulcy FankamMendjiadeu",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-18T23:45:32.897344+00:00",
-    "type": "added",
-    "team_abbr": "DAL",
-    "player": "Costanza Verona",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-18T23:45:32.897344+00:00",
-    "type": "cleared",
-    "team_abbr": "DAL",
-    "player": "Azzi Fudd",
-    "previous_status": "Available",
-    "previous_reason": "Injury/Illness - Right Knee; n/a"
-  },
-  {
-    "ts": "2026-05-19T00:00:35.140327+00:00",
-    "type": "cleared",
-    "team_abbr": "PHX",
-    "player": "Shay Ciezki",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision - Developmental"
-  },
-  {
-    "ts": "2026-05-19T00:00:35.140327+00:00",
-    "type": "cleared",
-    "team_abbr": "PHX",
-    "player": "Marta Suarez",
-    "previous_status": "Out",
-    "previous_reason": "Player Coach's Decision - Developmental"
-  },
-  {
-    "ts": "2026-05-19T00:00:35.140327+00:00",
-    "type": "cleared",
-    "team_abbr": "PHX",
-    "player": "Temi TorontoTempo Fagbenle",
-    "previous_status": "Out",
-    "previous_reason": "Injury/Illness - Right Shoulder; Injury"
-  },
-  {
-    "ts": "2026-05-19T00:00:35.140327+00:00",
-    "type": "cleared",
-    "team_abbr": "PHX",
-    "player": "Mariella Fasoula",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-05-19T00:00:35.140327+00:00",
-    "type": "cleared",
-    "team_abbr": "PHX",
-    "player": "Isabelle Harrison",
-    "previous_status": "Out",
-    "previous_reason": "Injury/Illness - Right Hand; Injury"
-  },
-  {
-    "ts": "2026-05-19T00:00:35.140327+00:00",
-    "type": "reason_change",
-    "team_abbr": "PHX",
-    "player": "Sami Whitcomb",
-    "status": "Out",
-    "from_reason": "Player Injury/Illness - Left Knee; Arthroscopy",
-    "to_reason": "Injury/Illness - Left Knee; Arthroscopy",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-19T01:30:32.895190+00:00",
-    "type": "status_change",
-    "team_abbr": "CON",
-    "player": "Brittney Griner",
-    "from_status": "Probable",
-    "to_status": "Available",
-    "reason": "Injury/Illness - Left Foot; Sprain",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-05-19T01:30:32.895190+00:00",
     "type": "status_change",
     "team_abbr": "PDX",
@@ -18012,5 +17908,104 @@
     "status": "Out",
     "reason": "Injury/Illness - Left Ankle; L.Ankle",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-19T22:00:23.500523+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Kelsey Mitchell",
+    "status": "Probable",
+    "reason": "Injury/Illness - Illness; Illness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-19T22:00:23.500523+00:00",
+    "type": "cleared",
+    "team_abbr": "IND",
+    "player": "Aliyah Boston",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Right Lower Leg; right lowerleg"
+  },
+  {
+    "ts": "2026-08-19T22:00:23.500523+00:00",
+    "type": "cleared",
+    "team_abbr": "IND",
+    "player": "Bree Hall",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-19T22:00:23.500523+00:00",
+    "type": "cleared",
+    "team_abbr": "IND",
+    "player": "Michelle Onyiah",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-19T22:00:23.500523+00:00",
+    "type": "cleared",
+    "team_abbr": "IND",
+    "player": "Julie TorontoTempo Allemand",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Thigh; Injury"
+  },
+  {
+    "ts": "2026-08-19T22:00:23.500523+00:00",
+    "type": "cleared",
+    "team_abbr": "IND",
+    "player": "Maria Conde",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Calf; Injury"
+  },
+  {
+    "ts": "2026-08-19T22:00:23.500523+00:00",
+    "type": "cleared",
+    "team_abbr": "IND",
+    "player": "Zaay Green",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-19T22:00:23.500523+00:00",
+    "type": "cleared",
+    "team_abbr": "IND",
+    "player": "Nyara Sabally",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Calf; Injury"
+  },
+  {
+    "ts": "2026-08-19T22:00:23.500523+00:00",
+    "type": "cleared",
+    "team_abbr": "IND",
+    "player": "Brittney Sykes",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Left Foot; Injury"
+  },
+  {
+    "ts": "2026-08-19T22:00:23.500523+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Available",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Back; Back",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-19T22:00:23.500523+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Jessica Shepard",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Right Ankle; right ankle"
+  },
+  {
+    "ts": "2026-08-19T22:00:23.500523+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Christyn Williams",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]

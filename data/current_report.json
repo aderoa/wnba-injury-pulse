@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/19/26 05:45 PM",
+  "report_ts": "08/19/26 06:00 PM",
   "page_count": 1,
-  "raw_line_count": 15,
+  "raw_line_count": 17,
   "teams": [
     {
       "team_full": "Indiana Fever",
@@ -9,8 +9,23 @@
       "game_date": "08/20/2026",
       "game_time": "08:00(ET)",
       "matchup": "IND@DAL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Clark, Caitlin",
+          "name": "Caitlin Clark",
+          "status": "Probable",
+          "reason": "Injury/Illness - Back; Back",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Mitchell, Kelsey",
+          "name": "Kelsey Mitchell",
+          "status": "Probable",
+          "reason": "Injury/Illness - Illness; Illness",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Dallas Wings",
@@ -18,8 +33,23 @@
       "game_date": "08/20/2026",
       "game_time": "08:00(ET)",
       "matchup": "IND@DAL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Fudd, Azzi",
+          "name": "Azzi Fudd",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; rightknee",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "James, Aziaha",
+          "name": "Aziaha James",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Leg; lowerleftleg",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Atlanta Dream",
@@ -58,7 +88,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-19_05_45PM.pdf",
-  "fetched_slot": "2026-08-19T17:45:00-04:00",
-  "polled_at_utc": "2026-08-19T21:45:19.768196+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-19_06_00PM.pdf",
+  "fetched_slot": "2026-08-19T18:00:00-04:00",
+  "polled_at_utc": "2026-08-19T22:00:23.500523+00:00"
 }

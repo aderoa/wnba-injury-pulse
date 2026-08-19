@@ -4,6 +4,21 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-08-19 22:00 UTC
+
+- **Kelsey Mitchell** (IND) newly listed as **Probable** — Injury/Illness - Illness; Illness
+- **Aliyah Boston** (IND) cleared (was Available)
+- **Bree Hall** (IND) cleared (was Out)
+- **Michelle Onyiah** (IND) cleared (was Out)
+- **Julie TorontoTempo Allemand** (IND) cleared (was Out)
+- **Maria Conde** (IND) cleared (was Out)
+- **Zaay Green** (IND) cleared (was Out)
+- **Nyara Sabally** (IND) cleared (was Out)
+- **Brittney Sykes** (IND) cleared (was Available)
+- **Caitlin Clark** (IND): **Available** → **Probable** — Injury/Illness - Back; Back
+- **Jessica Shepard** (DAL) cleared (was Available)
+- **Christyn Williams** (DAL) cleared (was Out)
+
 ## 2026-08-19 02:15 UTC
 
 - **Jonquel Jones** (NYL) newly listed as **Out** — Injury/Illness - Left Ankle; L.Ankle
