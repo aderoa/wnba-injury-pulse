@@ -2,7 +2,7 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-08-19T23:30:20.671918+00:00",
+    "last_submitted_ts": "2026-08-19T23:37:57.308151+00:00",
     "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-19_07_30PM.pdf",
     "game_dates": [
       "08/20/2026"
@@ -30,7 +30,7 @@
   "IND": {
     "team_full": "Indiana Fever",
     "submitted": true,
-    "last_submitted_ts": "2026-08-19T23:30:20.671918+00:00",
+    "last_submitted_ts": "2026-08-19T23:37:57.308151+00:00",
     "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-19_07_30PM.pdf",
     "game_dates": [
       "08/20/2026"
@@ -117,7 +117,7 @@
         "reason_category": "procedural"
       }
     ],
-    "last_seen_pending_ts": "2026-08-19T23:30:20.671918+00:00"
+    "last_seen_pending_ts": "2026-08-19T23:37:57.308151+00:00"
   },
   "ATL": {
     "team_full": "Atlanta Dream",
@@ -153,7 +153,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-08-19T23:30:20.671918+00:00"
+    "last_seen_pending_ts": "2026-08-19T23:37:57.308151+00:00"
   },
   "MIN": {
     "team_full": "Minnesota Lynx",
@@ -304,7 +304,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-08-19T23:30:20.671918+00:00"
+    "last_seen_pending_ts": "2026-08-19T23:37:57.308151+00:00"
   },
   "NYL": {
     "team_full": "New York Liberty",
@@ -447,6 +447,6 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-08-19T23:30:20.671918+00:00"
+    "last_seen_pending_ts": "2026-08-19T23:37:57.308151+00:00"
   }
 }
