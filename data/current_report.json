@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/18/26 07:45 PM",
+  "report_ts": "08/18/26 08:00 PM",
   "page_count": 2,
-  "raw_line_count": 30,
+  "raw_line_count": 29,
   "teams": [
     {
       "team_full": "Indiana Fever",
@@ -156,7 +156,7 @@
         {
           "name_last_first": "Canada, Jordin",
           "name": "Jordin Canada",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness - Illness; Illness",
           "reason_category": "injury"
         },
@@ -166,6 +166,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Leg; N/A",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Nivar, Indya",
+          "name": "Indya Nivar",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -187,7 +194,7 @@
         {
           "name_last_first": "Parker-Tyus, Cheyenne",
           "name": "Cheyenne Parker-Tyus",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Concussion Protocol",
           "reason_category": "procedural"
         }
@@ -256,27 +263,9 @@
       "matchup": "TOR@WAS",
       "submitted": false,
       "players": []
-    },
-    {
-      "team_full": "Minnesota Lynx",
-      "team_abbr": "MIN",
-      "game_date": "08/19/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "MIN@GSV",
-      "submitted": false,
-      "players": []
-    },
-    {
-      "team_full": "Golden State Valkyries",
-      "team_abbr": "GSV",
-      "game_date": "08/19/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "MIN@GSV",
-      "submitted": false,
-      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-18_07_45PM.pdf",
-  "fetched_slot": "2026-08-18T19:45:00-04:00",
-  "polled_at_utc": "2026-08-18T23:58:53.962823+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-18_08_00PM.pdf",
+  "fetched_slot": "2026-08-18T20:00:00-04:00",
+  "polled_at_utc": "2026-08-19T00:00:21.669278+00:00"
 }

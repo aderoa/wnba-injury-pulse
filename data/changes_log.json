@@ -1,32 +1,5 @@
 [
   {
-    "ts": "2026-05-18T00:16:09.540397+00:00",
-    "type": "added",
-    "team_abbr": "CHI",
-    "player": "Rickea Jackson",
-    "status": "Out",
-    "reason": "Injury/Illness - Left Knee; Left Knee",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-18T22:00:36.226733+00:00",
-    "type": "added",
-    "team_abbr": "PDX",
-    "player": "Julie TorontoTempo Allemand",
-    "status": "Out",
-    "reason": "Injury/Illness - Left Hip; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-18T22:00:36.226733+00:00",
-    "type": "added",
-    "team_abbr": "PDX",
-    "player": "Temi Fagbenle",
-    "status": "Out",
-    "reason": "Injury/Illness - Right Shoulder; Injury",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-05-18T22:00:36.226733+00:00",
     "type": "added",
     "team_abbr": "PDX",
@@ -18009,5 +17982,34 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-19T00:00:21.669278+00:00",
+    "type": "added",
+    "team_abbr": "ATL",
+    "player": "Indya Nivar",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-19T00:00:21.669278+00:00",
+    "type": "status_change",
+    "team_abbr": "ATL",
+    "player": "Jordin Canada",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Illness; Illness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-19T00:00:21.669278+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Cheyenne Parker-Tyus",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Concussion Protocol",
+    "reason_category": "procedural"
   }
 ]
