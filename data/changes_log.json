@@ -1,14 +1,5 @@
 [
   {
-    "ts": "2026-05-18T22:00:36.226733+00:00",
-    "type": "added",
-    "team_abbr": "PDX",
-    "player": "Nyara Sabally",
-    "status": "Probable",
-    "reason": "Injury/Illness - Neck; Injury",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-05-18T23:00:33.198993+00:00",
     "type": "added",
     "team_abbr": "WAS",
@@ -18011,6 +18002,15 @@
     "from_status": "Questionable",
     "to_status": "Available",
     "reason": "Injury/Illness - Left Groin; Left Groin",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-19T02:15:27.155937+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Jonquel Jones",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Ankle; L.Ankle",
     "reason_category": "injury"
   }
 ]
