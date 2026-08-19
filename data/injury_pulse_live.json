@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-08-19T23:37:57.308151+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-19_07_30PM.pdf",
-  "report_ts": "08/19/26 07:30 PM",
+  "polled_at_utc": "2026-08-19T23:45:20.277607+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-19_07_45PM.pdf",
+  "report_ts": "08/19/26 07:45 PM",
   "all_players": [
     {
       "name": "Aaliyah Edwards",
@@ -29,7 +29,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; lowerleftleg",
       "reason_category": "injury",
-      "last_updated": "2026-08-19T23:37:57.308151+00:00"
+      "last_updated": "2026-08-19T23:45:20.277607+00:00"
     },
     {
       "name": "Azzi Fudd",
@@ -38,7 +38,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; rightknee",
       "reason_category": "injury",
-      "last_updated": "2026-08-19T23:37:57.308151+00:00"
+      "last_updated": "2026-08-19T23:45:20.277607+00:00"
     },
     {
       "name": "Betnijah Laney-Hamilton",
@@ -81,9 +81,9 @@
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
       "status": "Out",
-      "reason": "Injury/Illness - Left Leg; L.Leg",
+      "reason": "Injury/Illness - Left Leg; leftlet",
       "reason_category": "injury",
-      "last_updated": "2026-08-19T03:59:30.091791+00:00"
+      "last_updated": "2026-08-19T23:45:20.277607+00:00"
     },
     {
       "name": "Darianna Littlepage-Buggs",
@@ -254,7 +254,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Back; Back",
       "reason_category": "injury",
-      "last_updated": "2026-08-19T23:37:57.308151+00:00"
+      "last_updated": "2026-08-19T23:45:20.277607+00:00"
     },
     {
       "name": "Kelsey Mitchell",
@@ -263,16 +263,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Illness; Illness",
       "reason_category": "injury",
-      "last_updated": "2026-08-19T23:37:57.308151+00:00"
-    },
-    {
-      "name": "Cheyenne Parker-Tyus",
-      "team_abbr": "LVA",
-      "team_full": "Las Vegas Aces",
-      "status": "Available",
-      "reason": "Concussion Protocol",
-      "reason_category": "procedural",
-      "last_updated": "2026-08-19T03:59:30.091791+00:00"
+      "last_updated": "2026-08-19T23:45:20.277607+00:00"
     },
     {
       "name": "Janelle Salaun",
@@ -325,7 +316,7 @@
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
       "last_submitted_ts": "2026-08-19T03:59:30.091791+00:00",
-      "last_seen_pending_ts": "2026-08-19T23:37:57.308151+00:00",
+      "last_seen_pending_ts": "2026-08-19T23:45:20.277607+00:00",
       "matchups": [
         "ATL@LVA"
       ],
@@ -383,7 +374,7 @@
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
       "last_submitted_ts": "2026-08-19T03:59:30.091791+00:00",
-      "last_seen_pending_ts": "2026-08-19T23:37:57.308151+00:00",
+      "last_seen_pending_ts": "2026-08-19T23:45:20.277607+00:00",
       "matchups": [
         "LAS@CON"
       ],
@@ -421,7 +412,7 @@
     {
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
-      "last_submitted_ts": "2026-08-19T23:37:57.308151+00:00",
+      "last_submitted_ts": "2026-08-19T23:45:20.277607+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "IND@DAL"
@@ -478,7 +469,7 @@
     {
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
-      "last_submitted_ts": "2026-08-19T23:37:57.308151+00:00",
+      "last_submitted_ts": "2026-08-19T23:45:20.277607+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "IND@DAL"
@@ -504,7 +495,7 @@
       "team_abbr": "LAS",
       "team_full": "Los Angeles Sparks",
       "last_submitted_ts": "2026-08-19T03:59:30.091791+00:00",
-      "last_seen_pending_ts": "2026-08-19T23:37:57.308151+00:00",
+      "last_seen_pending_ts": "2026-08-19T23:45:20.277607+00:00",
       "matchups": [
         "LAS@CON"
       ],
@@ -535,25 +526,18 @@
     {
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
-      "last_submitted_ts": "2026-08-19T03:59:30.091791+00:00",
-      "last_seen_pending_ts": "2026-08-19T23:37:57.308151+00:00",
+      "last_submitted_ts": "2026-08-19T23:45:20.277607+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "ATL@LVA"
+        "CON@LVA"
       ],
       "players": [
         {
           "name_last_first": "Evans, Dana",
           "name": "Dana Evans",
           "status": "Out",
-          "reason": "Injury/Illness - Left Leg; L.Leg",
+          "reason": "Injury/Illness - Left Leg; leftlet",
           "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Parker-Tyus, Cheyenne",
-          "name": "Cheyenne Parker-Tyus",
-          "status": "Available",
-          "reason": "Concussion Protocol",
-          "reason_category": "procedural"
         }
       ]
     },
@@ -723,6 +707,24 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-08-19T23:45:20.277607+00:00",
+      "type": "reason_change",
+      "team_abbr": "LVA",
+      "player": "Dana Evans",
+      "status": "Out",
+      "from_reason": "Injury/Illness - Left Leg; L.Leg",
+      "to_reason": "Injury/Illness - Left Leg; leftlet",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-08-19T23:45:20.277607+00:00",
+      "type": "cleared",
+      "team_abbr": "LVA",
+      "player": "Cheyenne Parker-Tyus",
+      "previous_status": "Available",
+      "previous_reason": "Concussion Protocol"
+    },
     {
       "ts": "2026-08-19T22:00:23.500523+00:00",
       "type": "cleared",
@@ -2964,26 +2966,6 @@
       "type": "status_change",
       "team_abbr": "LVA",
       "player": "A'ja Wilson",
-      "from_status": "Questionable",
-      "to_status": "Out",
-      "reason": "Rest",
-      "reason_category": "other"
-    },
-    {
-      "ts": "2026-08-09T13:45:48.804031+00:00",
-      "type": "status_change",
-      "team_abbr": "LVA",
-      "player": "Chelsea Gray",
-      "from_status": "Questionable",
-      "to_status": "Out",
-      "reason": "Rest",
-      "reason_category": "other"
-    },
-    {
-      "ts": "2026-08-09T13:45:48.804031+00:00",
-      "type": "status_change",
-      "team_abbr": "LVA",
-      "player": "Jackie Young",
       "from_status": "Questionable",
       "to_status": "Out",
       "reason": "Rest",
