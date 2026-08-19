@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-08-19T18:53:52.452013+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-19_02_45PM.pdf",
-  "report_ts": "08/19/26 02:45 PM",
+  "polled_at_utc": "2026-08-19T19:00:22.124408+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-19_03_00PM.pdf",
+  "report_ts": "08/19/26 03:00 PM",
   "all_players": [
     {
       "name": "Aaliyah Edwards",
@@ -406,7 +406,7 @@
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
       "last_submitted_ts": "2026-08-19T03:59:30.091791+00:00",
-      "last_seen_pending_ts": "2026-08-19T18:53:52.452013+00:00",
+      "last_seen_pending_ts": "2026-08-19T19:00:22.124408+00:00",
       "matchups": [
         "ATL@LVA"
       ],
@@ -464,7 +464,7 @@
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
       "last_submitted_ts": "2026-08-19T03:59:30.091791+00:00",
-      "last_seen_pending_ts": "2026-08-19T18:53:52.452013+00:00",
+      "last_seen_pending_ts": "2026-08-19T19:00:22.124408+00:00",
       "matchups": [
         "LAS@CON"
       ],
@@ -503,7 +503,7 @@
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
       "last_submitted_ts": "2026-08-18T03:45:24.564968+00:00",
-      "last_seen_pending_ts": "2026-08-19T18:53:52.452013+00:00",
+      "last_seen_pending_ts": "2026-08-19T19:00:22.124408+00:00",
       "matchups": [
         "DAL@GSV"
       ],
@@ -574,7 +574,7 @@
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
       "last_submitted_ts": "2026-08-19T03:59:30.091791+00:00",
-      "last_seen_pending_ts": "2026-08-19T18:53:52.452013+00:00",
+      "last_seen_pending_ts": "2026-08-19T19:00:22.124408+00:00",
       "matchups": [
         "IND@TOR"
       ],
@@ -648,7 +648,7 @@
       "team_abbr": "LAS",
       "team_full": "Los Angeles Sparks",
       "last_submitted_ts": "2026-08-19T03:59:30.091791+00:00",
-      "last_seen_pending_ts": "2026-08-19T18:53:52.452013+00:00",
+      "last_seen_pending_ts": "2026-08-19T19:00:22.124408+00:00",
       "matchups": [
         "LAS@CON"
       ],
@@ -680,7 +680,7 @@
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
       "last_submitted_ts": "2026-08-19T03:59:30.091791+00:00",
-      "last_seen_pending_ts": "2026-08-19T18:53:52.452013+00:00",
+      "last_seen_pending_ts": "2026-08-19T19:00:22.124408+00:00",
       "matchups": [
         "ATL@LVA"
       ],
