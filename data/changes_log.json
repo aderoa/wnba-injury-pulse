@@ -1,25 +1,5 @@
 [
   {
-    "ts": "2026-05-20T00:00:33.081730+00:00",
-    "type": "status_change",
-    "team_abbr": "SEA",
-    "player": "Taina Mair",
-    "from_status": "Available",
-    "to_status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-20T00:00:33.081730+00:00",
-    "type": "status_change",
-    "team_abbr": "SEA",
-    "player": "Taylor Thierry",
-    "from_status": "Available",
-    "to_status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
     "ts": "2026-05-20T21:01:15.837911+00:00",
     "type": "added",
     "team_abbr": "GSV",
@@ -18010,5 +17990,25 @@
     "player": "Janelle Salaun",
     "previous_status": "Available",
     "previous_reason": "Injury/Illness - Right Knee; Soreness"
+  },
+  {
+    "ts": "2026-08-20T19:45:24.962680+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Brittney Griner",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Knee;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-20T19:45:24.962680+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Aaliyah Edwards",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Ankle;-",
+    "reason_category": "injury"
   }
 ]
