@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/20/26 05:45 PM",
+  "report_ts": "08/20/26 06:00 PM",
   "page_count": 1,
-  "raw_line_count": 17,
+  "raw_line_count": 16,
   "teams": [
     {
       "team_full": "Indiana Fever",
@@ -141,15 +141,6 @@
       ]
     },
     {
-      "team_full": "Golden State Valkyries",
-      "team_abbr": "GSV",
-      "game_date": "08/21/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "GSV@CHI",
-      "submitted": false,
-      "players": []
-    },
-    {
       "team_full": "Chicago Sky",
       "team_abbr": "CHI",
       "game_date": "08/21/2026",
@@ -192,7 +183,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-20_05_45PM.pdf",
-  "fetched_slot": "2026-08-20T17:45:00-04:00",
-  "polled_at_utc": "2026-08-20T21:45:20.088258+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-20_06_00PM.pdf",
+  "fetched_slot": "2026-08-20T18:00:00-04:00",
+  "polled_at_utc": "2026-08-20T22:00:21.420631+00:00"
 }
