@@ -1,56 +1,8 @@
 {
-  "report_ts": "08/19/26 11:45 PM",
-  "page_count": 2,
-  "raw_line_count": 24,
+  "report_ts": "08/20/26 12:00 AM",
+  "page_count": 1,
+  "raw_line_count": 17,
   "teams": [
-    {
-      "team_full": "Minnesota Lynx",
-      "team_abbr": "MIN",
-      "game_date": "08/19/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "MIN@GSV",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Buenavida, Elena",
-          "name": "Elena Buenavida",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "King, Liatu",
-          "name": "Liatu King",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Golden State Valkyries",
-      "team_abbr": "GSV",
-      "game_date": "08/19/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "MIN@GSV",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Prechtel, Ashten",
-          "name": "Ashten Prechtel",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Sowah, Miela",
-          "name": "Miela Sowah",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
     {
       "team_full": "Indiana Fever",
       "team_abbr": "IND",
@@ -187,9 +139,54 @@
           "reason_category": "injury"
         }
       ]
+    },
+    {
+      "team_full": "Golden State Valkyries",
+      "team_abbr": "GSV",
+      "game_date": "08/21/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "GSV@CHI",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Chicago Sky",
+      "team_abbr": "CHI",
+      "game_date": "08/21/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "GSV@CHI",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Minnesota Lynx",
+      "team_abbr": "MIN",
+      "game_date": "08/21/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "MIN@WAS",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Washington Mystics",
+      "team_abbr": "WAS",
+      "game_date": "08/21/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "MIN@WAS",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Portland Fire",
+      "team_abbr": "PDX",
+      "game_date": "08/21/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "PDX@TOR",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-19_11_45PM.pdf",
-  "fetched_slot": "2026-08-19T23:45:00-04:00",
-  "polled_at_utc": "2026-08-20T03:53:33.809743+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-20_12_00AM.pdf",
+  "fetched_slot": "2026-08-20T00:00:00-04:00",
+  "polled_at_utc": "2026-08-20T04:00:23.658390+00:00"
 }
