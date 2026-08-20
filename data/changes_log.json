@@ -1,82 +1,5 @@
 [
   {
-    "ts": "2026-05-19T21:00:32.633871+00:00",
-    "type": "cleared",
-    "team_abbr": "PDX",
-    "player": "Julie TorontoTempo Allemand",
-    "previous_status": "Out",
-    "previous_reason": "Injury/Illness - Left Hip; Injury"
-  },
-  {
-    "ts": "2026-05-19T21:00:32.633871+00:00",
-    "type": "cleared",
-    "team_abbr": "PDX",
-    "player": "Temi Fagbenle",
-    "previous_status": "Out",
-    "previous_reason": "Injury/Illness - Right Shoulder; Injury"
-  },
-  {
-    "ts": "2026-05-19T21:00:32.633871+00:00",
-    "type": "cleared",
-    "team_abbr": "PDX",
-    "player": "Isabelle Harrison",
-    "previous_status": "Out",
-    "previous_reason": "Injury/Illness - Right Hand; Injury"
-  },
-  {
-    "ts": "2026-05-19T21:00:32.633871+00:00",
-    "type": "cleared",
-    "team_abbr": "PDX",
-    "player": "Nyara Sabally",
-    "previous_status": "Probable",
-    "previous_reason": "Injury/Illness - Neck; Injury"
-  },
-  {
-    "ts": "2026-05-19T21:00:32.633871+00:00",
-    "type": "status_change",
-    "team_abbr": "PDX",
-    "player": "Carla Leite",
-    "from_status": "Out",
-    "to_status": "Questionable",
-    "reason": "Injury/Illness - Right Ankle; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-19T21:00:32.633871+00:00",
-    "type": "status_change",
-    "team_abbr": "PDX",
-    "player": "Kamiah Smalls",
-    "from_status": "Out",
-    "to_status": "Questionable",
-    "reason": "Injury/Illness - Left Ankle; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-19T21:45:33.963616+00:00",
-    "type": "added",
-    "team_abbr": "CHI",
-    "player": "Elizabeth Williams",
-    "status": "Questionable",
-    "reason": "Injury/Illness - Right Knee; Right Knee",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-19T21:45:33.963616+00:00",
-    "type": "cleared",
-    "team_abbr": "CHI",
-    "player": "Skylar Diggins",
-    "previous_status": "Out",
-    "previous_reason": "Injury/Illness - Eye; Eye"
-  },
-  {
-    "ts": "2026-05-19T21:45:33.963616+00:00",
-    "type": "cleared",
-    "team_abbr": "CHI",
-    "player": "Maddy Westbeld",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
     "ts": "2026-05-19T23:15:31.956098+00:00",
     "type": "cleared",
     "team_abbr": "CON",
@@ -18004,6 +17927,88 @@
     "status": "Out",
     "from_reason": "Injury/Illness - Left Leg; L.Leg",
     "to_reason": "Injury/Illness - Left Leg; leftlet",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-20T00:00:22.861887+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Jordin Canada",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Illness; Illness"
+  },
+  {
+    "ts": "2026-08-20T00:00:22.861887+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Indya Nivar",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-20T00:00:22.861887+00:00",
+    "type": "status_change",
+    "team_abbr": "LAS",
+    "player": "Erica Wheeler",
+    "from_status": "Out",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Right R; Ankle",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-20T00:00:22.861887+00:00",
+    "type": "status_change",
+    "team_abbr": "LAS",
+    "player": "Monique AkoaMakani",
+    "from_status": "Out",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Right Ankle; RAnkle",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-20T00:00:22.861887+00:00",
+    "type": "status_change",
+    "team_abbr": "LAS",
+    "player": "Cameron Brink",
+    "from_status": "Out",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Ribs; Ribs",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-20T00:00:22.861887+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Rayah Marshall",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-20T00:00:22.861887+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Hailey VanLith",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-20T00:00:22.861887+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Brittney Griner",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Knee;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-20T00:00:22.861887+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Aaliyah Edwards",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Ankle;-",
     "reason_category": "injury"
   }
 ]
