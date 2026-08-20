@@ -1,5 +1,5 @@
 {
-  "report_ts": "08/20/26 04:30 PM",
+  "report_ts": "08/20/26 04:45 PM",
   "page_count": 1,
   "raw_line_count": 17,
   "teams": [
@@ -164,17 +164,23 @@
       "game_date": "08/21/2026",
       "game_time": "07:30(ET)",
       "matchup": "MIN@WAS",
-      "submitted": false,
-      "players": []
-    },
-    {
-      "team_full": "Washington Mystics",
-      "team_abbr": "WAS",
-      "game_date": "08/21/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "MIN@WAS",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Collier, Napheesa",
+          "name": "Napheesa Collier",
+          "status": "Out",
+          "reason": "Rest",
+          "reason_category": "other"
+        },
+        {
+          "name_last_first": "Miles, Olivia",
+          "name": "Olivia Miles",
+          "status": "Probable",
+          "reason": "Injury/Illness - Left Ankle; Left Ankle",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Portland Fire",
@@ -186,7 +192,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-20_04_30PM.pdf",
-  "fetched_slot": "2026-08-20T16:30:00-04:00",
-  "polled_at_utc": "2026-08-20T20:32:32.917771+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-20_04_45PM.pdf",
+  "fetched_slot": "2026-08-20T16:45:00-04:00",
+  "polled_at_utc": "2026-08-20T20:45:27.039864+00:00"
 }
