@@ -1,8 +1,32 @@
 {
-  "report_ts": "08/19/26 08:30 PM",
-  "page_count": 1,
-  "raw_line_count": 20,
+  "report_ts": "08/19/26 08:45 PM",
+  "page_count": 2,
+  "raw_line_count": 22,
   "teams": [
+    {
+      "team_full": "Minnesota Lynx",
+      "team_abbr": "MIN",
+      "game_date": "08/19/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "MIN@GSV",
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Buenavida, Elena",
+          "name": "Elena Buenavida",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "King, Liatu",
+          "name": "Liatu King",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        }
+      ]
+    },
     {
       "team_full": "Indiana Fever",
       "team_abbr": "IND",
@@ -141,7 +165,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-19_08_30PM.pdf",
-  "fetched_slot": "2026-08-19T20:30:00-04:00",
-  "polled_at_utc": "2026-08-20T00:30:20.333830+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-19_08_45PM.pdf",
+  "fetched_slot": "2026-08-19T20:45:00-04:00",
+  "polled_at_utc": "2026-08-20T00:45:19.672606+00:00"
 }
