@@ -1,40 +1,5 @@
 [
   {
-    "ts": "2026-05-20T21:01:15.837911+00:00",
-    "type": "reason_change",
-    "team_abbr": "NYL",
-    "player": "Marine Fauthoux",
-    "status": "Out",
-    "from_reason": "Injury/Illness - Left Knee; Rehabilitation",
-    "to_reason": "Protocol Injury/Illness - Left Knee; Rehabilitation",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-20T21:31:09.392195+00:00",
-    "type": "added",
-    "team_abbr": "IND",
-    "player": "Caitlin Clark",
-    "status": "Out",
-    "reason": "Injury/Illness - Back; Back",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-20T21:31:09.392195+00:00",
-    "type": "cleared",
-    "team_abbr": "IND",
-    "player": "Aliyah Boston",
-    "previous_status": "Out",
-    "previous_reason": "Injury/Illness - Rightlowerleg; right lowerleg"
-  },
-  {
-    "ts": "2026-05-20T21:31:09.392195+00:00",
-    "type": "cleared",
-    "team_abbr": "IND",
-    "player": "Bree Hall",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
     "ts": "2026-05-20T21:31:09.392195+00:00",
     "type": "cleared",
     "team_abbr": "IND",
@@ -18006,5 +17971,43 @@
     "player": "Sydney Taylor",
     "previous_status": "Available",
     "previous_reason": "Injury/Illness - Left Groin; Left Groin"
+  },
+  {
+    "ts": "2026-08-20T23:30:25.073665+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Bree Hall",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-20T23:30:25.073665+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Michelle Onyiah",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-20T23:30:25.073665+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Back; Back",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-20T23:30:25.073665+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Kelsey Mitchell",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Illness; Illness",
+    "reason_category": "injury"
   }
 ]

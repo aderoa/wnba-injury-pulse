@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/20/26 07:15 PM",
+  "report_ts": "08/20/26 07:30 PM",
   "page_count": 2,
-  "raw_line_count": 18,
+  "raw_line_count": 20,
   "teams": [
     {
       "team_full": "Indiana Fever",
@@ -14,16 +14,30 @@
         {
           "name_last_first": "Clark, Caitlin",
           "name": "Caitlin Clark",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness - Back; Back",
           "reason_category": "injury"
         },
         {
+          "name_last_first": "Hall, Bree",
+          "name": "Bree Hall",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Mitchell, Kelsey",
           "name": "Kelsey Mitchell",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness - Illness; Illness",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Onyiah, Michelle",
+          "name": "Michelle Onyiah",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -213,7 +227,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-20_07_15PM.pdf",
-  "fetched_slot": "2026-08-20T19:15:00-04:00",
-  "polled_at_utc": "2026-08-20T23:28:21.747365+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-20_07_30PM.pdf",
+  "fetched_slot": "2026-08-20T19:30:00-04:00",
+  "polled_at_utc": "2026-08-20T23:30:25.073665+00:00"
 }
