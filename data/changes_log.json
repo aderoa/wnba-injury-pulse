@@ -1,24 +1,6 @@
 [
   {
     "ts": "2026-05-20T21:31:09.392195+00:00",
-    "type": "cleared",
-    "team_abbr": "IND",
-    "player": "Justine Pissott",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-05-20T21:31:09.392195+00:00",
-    "type": "reason_change",
-    "team_abbr": "GSV",
-    "player": "Cecilia Zandalasini",
-    "status": "Out",
-    "from_reason": "Reconditioning Injury/Illness - Head; Concussion",
-    "to_reason": "Injury/Illness - Head; Concussion",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-20T21:31:09.392195+00:00",
     "type": "reason_change",
     "team_abbr": "GSV",
     "player": "Juste Jocyte",
@@ -18009,5 +17991,23 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Illness; Illness",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-20T23:45:23.351263+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Haley Jones",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-20T23:45:23.351263+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Christyn Williams",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
