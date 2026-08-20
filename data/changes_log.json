@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-05-19T23:15:31.956098+00:00",
-    "type": "cleared",
-    "team_abbr": "CON",
-    "player": "Brittney Griner",
-    "previous_status": "Available",
-    "previous_reason": "Injury/Illness - Left Foot; Sprain"
-  },
-  {
     "ts": "2026-05-20T00:00:33.081730+00:00",
     "type": "status_change",
     "team_abbr": "SEA",
@@ -18010,5 +18002,13 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Left Ankle;-",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-20T01:15:21.129975+00:00",
+    "type": "cleared",
+    "team_abbr": "GSV",
+    "player": "Janelle Salaun",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Right Knee; Soreness"
   }
 ]
