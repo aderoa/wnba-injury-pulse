@@ -2,14 +2,6 @@
   {
     "ts": "2026-05-21T21:00:52.180951+00:00",
     "type": "cleared",
-    "team_abbr": "ATL",
-    "player": "Amy Okonkwo",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-05-21T21:00:52.180951+00:00",
-    "type": "cleared",
     "team_abbr": "IND",
     "player": "Bree Hall",
     "previous_status": "Out",
@@ -18008,5 +18000,13 @@
     "player": "Erica Wheeler",
     "previous_status": "Available",
     "previous_reason": "-"
+  },
+  {
+    "ts": "2026-08-21T23:46:07.621751+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Hailey VanLith",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]

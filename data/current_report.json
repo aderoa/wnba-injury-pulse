@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/21/26 07:30 PM",
+  "report_ts": "08/21/26 07:45 PM",
   "page_count": 2,
-  "raw_line_count": 23,
+  "raw_line_count": 24,
   "teams": [
     {
       "team_full": "Chicago Sky",
@@ -178,8 +178,23 @@
       "game_date": "08/22/2026",
       "game_time": "09:00(ET)",
       "matchup": "CON@LAS",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Edwards, Aaliyah",
+          "name": "Aaliyah Edwards",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle;-",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Griner, Brittney",
+          "name": "Brittney Griner",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee;-",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Los Angeles Sparks",
@@ -217,7 +232,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-21_07_30PM.pdf",
-  "fetched_slot": "2026-08-21T19:30:00-04:00",
-  "polled_at_utc": "2026-08-21T23:40:06.470429+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-21_07_45PM.pdf",
+  "fetched_slot": "2026-08-21T19:45:00-04:00",
+  "polled_at_utc": "2026-08-21T23:46:07.621751+00:00"
 }
