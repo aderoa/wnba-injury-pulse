@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/20/26 08:45 PM",
+  "report_ts": "08/20/26 09:00 PM",
   "page_count": 2,
-  "raw_line_count": 26,
+  "raw_line_count": 28,
   "teams": [
     {
       "team_full": "Indiana Fever",
@@ -93,6 +93,20 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Leg; N/A",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Nivar, Indya",
+          "name": "Indya Nivar",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Sherrod, Jaylyn",
+          "name": "Jaylyn Sherrod",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -107,23 +121,23 @@
         {
           "name_last_first": "AkoaMakani, Monique",
           "name": "Monique AkoaMakani",
-          "status": "Probable",
-          "reason": "Injury/Illness - Right Ankle; RAnkle",
-          "reason_category": "injury"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
         },
         {
           "name_last_first": "Brink, Cameron",
           "name": "Cameron Brink",
-          "status": "Probable",
-          "reason": "Injury/Illness - Ribs; Ribs",
-          "reason_category": "injury"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
         },
         {
           "name_last_first": "Wheeler, Erica",
           "name": "Erica Wheeler",
-          "status": "Probable",
-          "reason": "Injury/Illness - Right R; Ankle",
-          "reason_category": "injury"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
         }
       ]
     },
@@ -262,7 +276,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-20_08_45PM.pdf",
-  "fetched_slot": "2026-08-20T20:45:00-04:00",
-  "polled_at_utc": "2026-08-21T00:45:20.480271+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-20_09_00PM.pdf",
+  "fetched_slot": "2026-08-20T21:00:00-04:00",
+  "polled_at_utc": "2026-08-21T01:00:25.750564+00:00"
 }
