@@ -1,35 +1,6 @@
 [
   {
     "ts": "2026-05-20T22:31:13.407067+00:00",
-    "type": "status_change",
-    "team_abbr": "PDX",
-    "player": "Carla Leite",
-    "from_status": "Questionable",
-    "to_status": "Available",
-    "reason": "Injury/Illness - Right Ankle; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-20T22:31:13.407067+00:00",
-    "type": "status_change",
-    "team_abbr": "PDX",
-    "player": "Kamiah Smalls",
-    "from_status": "Questionable",
-    "to_status": "Out",
-    "reason": "Injury/Illness - Left Ankle; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-20T22:31:13.407067+00:00",
-    "type": "added",
-    "team_abbr": "IND",
-    "player": "Bree Hall",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-20T22:31:13.407067+00:00",
     "type": "added",
     "team_abbr": "IND",
     "player": "Justine Pissott",
@@ -18016,5 +17987,33 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-21T20:46:03.948159+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Sabrina Ionescu",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Left Foot; L.Foot"
+  },
+  {
+    "ts": "2026-08-21T20:46:03.948159+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Leonie Fiebich",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Foot; L.Foot",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-21T20:46:03.948159+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Jonquel Jones",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Ankle; L.Ankle",
+    "reason_category": "injury"
   }
 ]

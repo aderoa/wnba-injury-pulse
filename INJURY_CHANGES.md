@@ -4,6 +4,12 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-08-21 20:46 UTC
+
+- **Sabrina Ionescu** (NYL) cleared (was Available)
+- **Leonie Fiebich** (NYL): **Out** → **Questionable** — Injury/Illness - Left Foot; L.Foot
+- **Jonquel Jones** (NYL): **Out** → **Questionable** — Injury/Illness - Left Ankle; L.Ankle
+
 ## 2026-08-21 01:30 UTC
 
 - **Hailey VanLith** (CON) newly listed as **Out** — Coach's Decision

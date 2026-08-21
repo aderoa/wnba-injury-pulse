@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/21/26 04:30 PM",
-  "page_count": 1,
-  "raw_line_count": 17,
+  "report_ts": "08/21/26 04:45 PM",
+  "page_count": 2,
+  "raw_line_count": 19,
   "teams": [
     {
       "team_full": "Chicago Sky",
@@ -111,8 +111,30 @@
       "game_date": "08/22/2026",
       "game_time": "07:00(ET)",
       "matchup": "IND@NYL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Fiebich, Leonie",
+          "name": "Leonie Fiebich",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Foot; L.Foot",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Jones, Jonquel",
+          "name": "Jonquel Jones",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Ankle; L.Ankle",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sabally, Satou",
+          "name": "Satou Sabally",
+          "status": "Out",
+          "reason": "Injury/Illness - Head; Not With Team",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Connecticut Sun",
@@ -151,7 +173,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-21_04_30PM.pdf",
-  "fetched_slot": "2026-08-21T16:30:00-04:00",
-  "polled_at_utc": "2026-08-21T20:34:55.832747+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-21_04_45PM.pdf",
+  "fetched_slot": "2026-08-21T16:45:00-04:00",
+  "polled_at_utc": "2026-08-21T20:46:03.948159+00:00"
 }
