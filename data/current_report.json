@@ -1,5 +1,5 @@
 {
-  "report_ts": "08/21/26 07:15 PM",
+  "report_ts": "08/21/26 07:30 PM",
   "page_count": 2,
   "raw_line_count": 23,
   "teams": [
@@ -187,8 +187,16 @@
       "game_date": "08/22/2026",
       "game_time": "09:00(ET)",
       "matchup": "CON@LAS",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Atkins, Ariel",
+          "name": "Ariel Atkins",
+          "status": "Probable",
+          "reason": "Injury/Illness - Head; Head",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Atlanta Dream",
@@ -209,7 +217,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-21_07_15PM.pdf",
-  "fetched_slot": "2026-08-21T19:15:00-04:00",
-  "polled_at_utc": "2026-08-21T23:16:03.777042+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-21_07_30PM.pdf",
+  "fetched_slot": "2026-08-21T19:30:00-04:00",
+  "polled_at_utc": "2026-08-21T23:31:13.458634+00:00"
 }

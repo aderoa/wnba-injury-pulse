@@ -4,6 +4,13 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-08-21 23:31 UTC
+
+- **Ariel Atkins** (LAS) newly listed as **Probable** — Injury/Illness - Head; Head
+- **Monique AkoaMakani** (LAS) cleared (was Available)
+- **Cameron Brink** (LAS) cleared (was Available)
+- **Erica Wheeler** (LAS) cleared (was Available)
+
 ## 2026-08-21 23:01 UTC
 
 - **Olivia Miles** (MIN): **Probable** → **Available** — Injury/Illness - Left Ankle; Left Ankle
