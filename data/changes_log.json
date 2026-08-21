@@ -3,16 +3,6 @@
     "ts": "2026-05-21T01:16:02.441042+00:00",
     "type": "status_change",
     "team_abbr": "SEA",
-    "player": "Taylor Thierry",
-    "from_status": "Out",
-    "to_status": "Available",
-    "reason": "-",
-    "reason_category": "other"
-  },
-  {
-    "ts": "2026-05-21T01:16:02.441042+00:00",
-    "type": "status_change",
-    "team_abbr": "SEA",
     "player": "Taina Mair",
     "from_status": "Out",
     "to_status": "Available",
@@ -18012,6 +18002,16 @@
     "from_status": "Questionable",
     "to_status": "Available",
     "reason": "Injury/Illness - Right Knee; Right Knee",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-21T23:01:06.558552+00:00",
+    "type": "status_change",
+    "team_abbr": "MIN",
+    "player": "Olivia Miles",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Ankle; Left Ankle",
     "reason_category": "injury"
   }
 ]
