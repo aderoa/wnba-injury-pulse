@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-05-21T00:10:32.556367+00:00",
-    "type": "cleared",
-    "team_abbr": "LAS",
-    "player": "Laura Ziegler",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
     "ts": "2026-05-21T00:46:04.769951+00:00",
     "type": "added",
     "team_abbr": "CON",
@@ -18008,6 +18000,15 @@
     "type": "added",
     "team_abbr": "MIN",
     "player": "Liatu King",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-21T22:31:05.349233+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Morgan Maly",
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
