@@ -1,33 +1,5 @@
 [
   {
-    "ts": "2026-05-20T21:31:09.392195+00:00",
-    "type": "reason_change",
-    "team_abbr": "GSV",
-    "player": "Juste Jocyte",
-    "status": "Out",
-    "from_reason": "Returnto Competition",
-    "to_reason": "Returnto Competition Reconditioning",
-    "reason_category": "other"
-  },
-  {
-    "ts": "2026-05-20T22:01:13.984175+00:00",
-    "type": "added",
-    "team_abbr": "NYL",
-    "player": "Julie TorontoTempo Allemand",
-    "status": "Out",
-    "reason": "Injury/Illness - Left Hip; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-20T22:01:13.984175+00:00",
-    "type": "added",
-    "team_abbr": "NYL",
-    "player": "Temi Fagbenle",
-    "status": "Out",
-    "reason": "Injury/Illness - Right Shoulder; Injury",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-05-20T22:01:13.984175+00:00",
     "type": "added",
     "team_abbr": "NYL",
@@ -18009,5 +17981,32 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-21T00:00:22.125162+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Maria TorontoTempo Conde",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Calf; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-21T00:00:22.125162+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Marina Mabrey",
+    "status": "Out",
+    "reason": "Injury/Illness - Right Adductor; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-21T00:00:22.125162+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Nyara Sabally",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Calf; Not With Team",
+    "reason_category": "injury"
   }
 ]

@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/20/26 07:45 PM",
+  "report_ts": "08/20/26 08:00 PM",
   "page_count": 2,
-  "raw_line_count": 22,
+  "raw_line_count": 26,
   "teams": [
     {
       "team_full": "Indiana Fever",
@@ -237,11 +237,32 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Knee; Injury",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "TorontoTempo Conde, Maria",
+          "name": "Maria TorontoTempo Conde",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Calf; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Mabrey, Marina",
+          "name": "Marina Mabrey",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Adductor; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sabally, Nyara",
+          "name": "Nyara Sabally",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Calf; Not With Team",
+          "reason_category": "injury"
         }
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-20_07_45PM.pdf",
-  "fetched_slot": "2026-08-20T19:45:00-04:00",
-  "polled_at_utc": "2026-08-20T23:53:03.460761+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-20_08_00PM.pdf",
+  "fetched_slot": "2026-08-20T20:00:00-04:00",
+  "polled_at_utc": "2026-08-21T00:00:22.125162+00:00"
 }
