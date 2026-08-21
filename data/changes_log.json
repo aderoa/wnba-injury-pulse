@@ -3,14 +3,6 @@
     "ts": "2026-05-20T22:01:13.984175+00:00",
     "type": "cleared",
     "team_abbr": "MIN",
-    "player": "Isabelle Harrison",
-    "previous_status": "Out",
-    "previous_reason": "Injury/Illness - Right Hand; Injury"
-  },
-  {
-    "ts": "2026-05-20T22:01:13.984175+00:00",
-    "type": "cleared",
-    "team_abbr": "MIN",
     "player": "Nikolina Milic",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
@@ -18014,5 +18006,14 @@
     "to_status": "Available",
     "reason": "-",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-08-21T01:15:21.308783+00:00",
+    "type": "added",
+    "team_abbr": "LVA",
+    "player": "Ta'Niya Latson",
+    "status": "Out",
+    "reason": "Coach's Decision - Notactivating",
+    "reason_category": "rest_coach"
   }
 ]
