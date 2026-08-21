@@ -1,24 +1,6 @@
 [
   {
     "ts": "2026-05-21T00:10:32.556367+00:00",
-    "type": "status_change",
-    "team_abbr": "CHI",
-    "player": "Elizabeth Williams",
-    "from_status": "Questionable",
-    "to_status": "Available",
-    "reason": "Injury/Illness - Right Knee; Right Knee",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-21T00:10:32.556367+00:00",
-    "type": "cleared",
-    "team_abbr": "LAS",
-    "player": "Ariel Atkins",
-    "previous_status": "Out",
-    "previous_reason": "Injury/Illness - Head; Concussion Protocol"
-  },
-  {
-    "ts": "2026-05-21T00:10:32.556367+00:00",
     "type": "cleared",
     "team_abbr": "LAS",
     "player": "Laura Ziegler",
@@ -18011,5 +17993,23 @@
     "to_status": "Probable",
     "reason": "Injury/Illness - Back; Back",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-21T22:16:03.505023+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Elena Buenavida",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-21T22:16:03.505023+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Liatu King",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
