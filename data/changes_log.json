@@ -1,14 +1,5 @@
 [
   {
-    "ts": "2026-05-21T00:46:04.769951+00:00",
-    "type": "added",
-    "team_abbr": "CON",
-    "player": "Brittney Griner",
-    "status": "Out",
-    "reason": "Injury/Illness - Right Rib; Sprain",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-05-21T01:16:02.441042+00:00",
     "type": "status_change",
     "team_abbr": "SEA",
@@ -18012,5 +18003,15 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-21T22:46:05.308449+00:00",
+    "type": "status_change",
+    "team_abbr": "CHI",
+    "player": "Aicha Coulibaly",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Knee; Right Knee",
+    "reason_category": "injury"
   }
 ]
