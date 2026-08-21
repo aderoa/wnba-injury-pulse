@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-08-21T23:01:06.558552+00:00",
+  "polled_at_utc": "2026-08-21T23:02:39.932628+00:00",
   "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-21_07_00PM.pdf",
   "report_ts": "08/21/26 07:00 PM",
   "all_players": [
@@ -101,7 +101,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Foot; Left Foot",
       "reason_category": "injury",
-      "last_updated": "2026-08-21T23:01:06.558552+00:00"
+      "last_updated": "2026-08-21T23:02:39.932628+00:00"
     },
     {
       "name": "Elena Buenavida",
@@ -110,7 +110,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-08-21T23:01:06.558552+00:00"
+      "last_updated": "2026-08-21T23:02:39.932628+00:00"
     },
     {
       "name": "Hailey VanLith",
@@ -173,7 +173,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-08-21T23:01:06.558552+00:00"
+      "last_updated": "2026-08-21T23:02:39.932628+00:00"
     },
     {
       "name": "Maria TorontoTempo Conde",
@@ -182,7 +182,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Calf; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-08-21T23:01:06.558552+00:00"
+      "last_updated": "2026-08-21T23:02:39.932628+00:00"
     },
     {
       "name": "Marina Mabrey",
@@ -191,7 +191,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Adductor; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-08-21T23:01:06.558552+00:00"
+      "last_updated": "2026-08-21T23:02:39.932628+00:00"
     },
     {
       "name": "Miela Sowah",
@@ -209,7 +209,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-08-21T23:01:06.558552+00:00"
+      "last_updated": "2026-08-21T23:02:39.932628+00:00"
     },
     {
       "name": "Napheesa Collier",
@@ -218,7 +218,7 @@
       "status": "Out",
       "reason": "Rest",
       "reason_category": "other",
-      "last_updated": "2026-08-21T23:01:06.558552+00:00"
+      "last_updated": "2026-08-21T23:02:39.932628+00:00"
     },
     {
       "name": "Natisha Hiedeman",
@@ -236,7 +236,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Calf; Not With Team",
       "reason_category": "injury",
-      "last_updated": "2026-08-21T23:01:06.558552+00:00"
+      "last_updated": "2026-08-21T23:02:39.932628+00:00"
     },
     {
       "name": "Sania Feagin",
@@ -245,7 +245,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-08-21T23:01:06.558552+00:00"
+      "last_updated": "2026-08-21T23:02:39.932628+00:00"
     },
     {
       "name": "Satou Sabally",
@@ -254,7 +254,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Head; Not With Team",
       "reason_category": "injury",
-      "last_updated": "2026-08-21T23:01:06.558552+00:00"
+      "last_updated": "2026-08-21T23:02:39.932628+00:00"
     },
     {
       "name": "Shay Ciezki",
@@ -272,7 +272,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; Right Knee",
       "reason_category": "injury",
-      "last_updated": "2026-08-21T23:01:06.558552+00:00"
+      "last_updated": "2026-08-21T23:02:39.932628+00:00"
     },
     {
       "name": "Ta'Niya Latson",
@@ -290,7 +290,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Right Leg; Lower",
       "reason_category": "injury",
-      "last_updated": "2026-08-21T23:01:06.558552+00:00"
+      "last_updated": "2026-08-21T23:02:39.932628+00:00"
     },
     {
       "name": "Jonquel Jones",
@@ -299,7 +299,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Left Ankle; L.Ankle",
       "reason_category": "injury",
-      "last_updated": "2026-08-21T23:01:06.558552+00:00"
+      "last_updated": "2026-08-21T23:02:39.932628+00:00"
     },
     {
       "name": "Leonie Fiebich",
@@ -308,7 +308,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Left Foot; L.Foot",
       "reason_category": "injury",
-      "last_updated": "2026-08-21T23:01:06.558552+00:00"
+      "last_updated": "2026-08-21T23:02:39.932628+00:00"
     },
     {
       "name": "Caitlin Clark",
@@ -317,7 +317,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Back; Back",
       "reason_category": "injury",
-      "last_updated": "2026-08-21T23:01:06.558552+00:00"
+      "last_updated": "2026-08-21T23:02:39.932628+00:00"
     },
     {
       "name": "Aicha Coulibaly",
@@ -326,7 +326,7 @@
       "status": "Available",
       "reason": "Injury/Illness - Right Knee; Right Knee",
       "reason_category": "injury",
-      "last_updated": "2026-08-21T23:01:06.558552+00:00"
+      "last_updated": "2026-08-21T23:02:39.932628+00:00"
     },
     {
       "name": "Cameron Brink",
@@ -362,7 +362,7 @@
       "status": "Available",
       "reason": "Injury/Illness - Left Ankle; Left Ankle",
       "reason_category": "injury",
-      "last_updated": "2026-08-21T23:01:06.558552+00:00"
+      "last_updated": "2026-08-21T23:02:39.932628+00:00"
     },
     {
       "name": "Taina Mair",
@@ -379,7 +379,7 @@
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
       "last_submitted_ts": "2026-08-21T03:52:33.122581+00:00",
-      "last_seen_pending_ts": "2026-08-21T23:01:06.558552+00:00",
+      "last_seen_pending_ts": "2026-08-21T23:02:39.932628+00:00",
       "matchups": [
         "ATL@LAS"
       ],
@@ -410,7 +410,7 @@
     {
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
-      "last_submitted_ts": "2026-08-21T23:01:06.558552+00:00",
+      "last_submitted_ts": "2026-08-21T23:02:39.932628+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "GSV@CHI"
@@ -450,7 +450,7 @@
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
       "last_submitted_ts": "2026-08-21T03:52:33.122581+00:00",
-      "last_seen_pending_ts": "2026-08-21T23:01:06.558552+00:00",
+      "last_seen_pending_ts": "2026-08-21T23:02:39.932628+00:00",
       "matchups": [
         "CON@LVA"
       ],
@@ -545,7 +545,7 @@
     {
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
-      "last_submitted_ts": "2026-08-21T23:01:06.558552+00:00",
+      "last_submitted_ts": "2026-08-21T23:02:39.932628+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "IND@NYL"
@@ -571,7 +571,7 @@
       "team_abbr": "LAS",
       "team_full": "Los Angeles Sparks",
       "last_submitted_ts": "2026-08-21T03:52:33.122581+00:00",
-      "last_seen_pending_ts": "2026-08-21T23:01:06.558552+00:00",
+      "last_seen_pending_ts": "2026-08-21T23:02:39.932628+00:00",
       "matchups": [
         "ATL@LAS"
       ],
@@ -627,7 +627,7 @@
     {
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
-      "last_submitted_ts": "2026-08-21T23:01:06.558552+00:00",
+      "last_submitted_ts": "2026-08-21T23:02:39.932628+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "MIN@WAS"
@@ -666,7 +666,7 @@
     {
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
-      "last_submitted_ts": "2026-08-21T23:01:06.558552+00:00",
+      "last_submitted_ts": "2026-08-21T23:02:39.932628+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "IND@NYL"
@@ -698,7 +698,7 @@
     {
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
-      "last_submitted_ts": "2026-08-21T23:01:06.558552+00:00",
+      "last_submitted_ts": "2026-08-21T23:02:39.932628+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "PDX@TOR"
@@ -738,7 +738,7 @@
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
       "last_submitted_ts": "2026-08-17T03:45:50.452716+00:00",
-      "last_seen_pending_ts": "2026-08-21T23:01:06.558552+00:00",
+      "last_seen_pending_ts": "2026-08-21T23:02:39.932628+00:00",
       "matchups": [
         "PDX@PHX"
       ],
