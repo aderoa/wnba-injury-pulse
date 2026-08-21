@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-05-20T22:01:13.984175+00:00",
-    "type": "cleared",
-    "team_abbr": "MIN",
-    "player": "Nikolina Milic",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
     "ts": "2026-05-20T22:31:13.407067+00:00",
     "type": "status_change",
     "team_abbr": "PDX",
@@ -18014,6 +18006,15 @@
     "player": "Ta'Niya Latson",
     "status": "Out",
     "reason": "Coach's Decision - Notactivating",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-21T01:30:20.820176+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Hailey VanLith",
+    "status": "Out",
+    "reason": "Coach's Decision",
     "reason_category": "rest_coach"
   }
 ]
