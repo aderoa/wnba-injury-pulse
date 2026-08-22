@@ -4,6 +4,12 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-08-22 22:16 UTC
+
+- **Michelle Onyiah** (IND) newly listed as **Out** — Coach's Decision
+- **Aliyah Boston** (IND): **Questionable** → **Available** — Injury/Illness - Right Leg; Lower
+- **Caitlin Clark** (IND): **Probable** → **Available** — Injury/Illness - Back; Back
+
 ## 2026-08-22 22:01 UTC
 
 - **Taina Mair** (SEA) cleared (was Available)
