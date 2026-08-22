@@ -1,14 +1,5 @@
 [
   {
-    "ts": "2026-05-21T22:45:50.357843+00:00",
-    "type": "added",
-    "team_abbr": "MIN",
-    "player": "Emese Hof",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
     "ts": "2026-05-21T23:30:49.176382+00:00",
     "type": "status_change",
     "team_abbr": "CON",
@@ -18004,5 +17995,14 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Left Lower Leg;-",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-22T01:31:03.239885+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Zaay Green",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
