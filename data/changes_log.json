@@ -1,41 +1,5 @@
 [
   {
-    "ts": "2026-05-22T20:01:05.197687+00:00",
-    "type": "cleared",
-    "team_abbr": "PDX",
-    "player": "Kamiah Smalls",
-    "previous_status": "Out",
-    "previous_reason": "Injury/Illness - Left Ankle; Injury"
-  },
-  {
-    "ts": "2026-05-22T20:01:05.197687+00:00",
-    "type": "status_change",
-    "team_abbr": "PDX",
-    "player": "Karlie Samuelson",
-    "from_status": "Out",
-    "to_status": "Questionable",
-    "reason": "Injury/Illness - Left Foot; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-22T21:01:03.833118+00:00",
-    "type": "added",
-    "team_abbr": "PDX",
-    "player": "Julie TorontoTempo Allemand",
-    "status": "Out",
-    "reason": "Injury/Illness - Left Hip; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-22T21:01:03.833118+00:00",
-    "type": "added",
-    "team_abbr": "PDX",
-    "player": "Temi Fagbenle",
-    "status": "Out",
-    "reason": "Injury/Illness - Right Shoulder; Injury",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-05-22T21:01:03.833118+00:00",
     "type": "added",
     "team_abbr": "PDX",
@@ -18000,5 +17964,37 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Left Ankle; L.Ankle",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-22T23:31:10.555583+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Maria TorontoTempo Conde",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Calf; Injury"
+  },
+  {
+    "ts": "2026-08-22T23:31:10.555583+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Zaay Green",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-22T23:31:10.555583+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Marina Mabrey",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Right Adductor; Injury"
+  },
+  {
+    "ts": "2026-08-22T23:31:10.555583+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Nyara Sabally",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Calf; Not With Team"
   }
 ]
