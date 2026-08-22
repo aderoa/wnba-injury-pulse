@@ -1,5 +1,5 @@
 {
-  "report_ts": "08/21/26 07:45 PM",
+  "report_ts": "08/21/26 08:00 PM",
   "page_count": 2,
   "raw_line_count": 24,
   "teams": [
@@ -219,8 +219,16 @@
       "game_date": "08/22/2026",
       "game_time": "10:00(ET)",
       "matchup": "ATL@PHX",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Jones, Brionna",
+          "name": "Brionna Jones",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Leg; N/A",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Phoenix Mercury",
@@ -228,11 +236,19 @@
       "game_date": "08/22/2026",
       "game_time": "10:00(ET)",
       "matchup": "ATL@PHX",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Plum, Kelsey",
+          "name": "Kelsey Plum",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Lower Leg;-",
+          "reason_category": "injury"
+        }
+      ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-21_07_45PM.pdf",
-  "fetched_slot": "2026-08-21T19:45:00-04:00",
-  "polled_at_utc": "2026-08-22T00:00:02.062899+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-21_08_00PM.pdf",
+  "fetched_slot": "2026-08-21T20:00:00-04:00",
+  "polled_at_utc": "2026-08-22T00:01:08.548288+00:00"
 }

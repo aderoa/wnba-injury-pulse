@@ -1,51 +1,5 @@
 [
   {
-    "ts": "2026-05-21T21:00:52.180951+00:00",
-    "type": "cleared",
-    "team_abbr": "IND",
-    "player": "Bree Hall",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-05-21T21:00:52.180951+00:00",
-    "type": "cleared",
-    "team_abbr": "IND",
-    "player": "Justine Pissott",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-05-21T21:00:52.180951+00:00",
-    "type": "status_change",
-    "team_abbr": "IND",
-    "player": "Caitlin Clark",
-    "from_status": "Out",
-    "to_status": "Probable",
-    "reason": "Injury/Illness - Back; Back",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-21T22:00:50.992849+00:00",
-    "type": "status_change",
-    "team_abbr": "NYL",
-    "player": "Sabrina Ionescu",
-    "from_status": "Questionable",
-    "to_status": "Out",
-    "reason": "Injury/Illness - Left Foot; Foot",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-21T22:00:50.992849+00:00",
-    "type": "status_change",
-    "team_abbr": "NYL",
-    "player": "Satou Sabally",
-    "from_status": "Questionable",
-    "to_status": "Available",
-    "reason": "Returnto Competition Reconditioning",
-    "reason_category": "other"
-  },
-  {
     "ts": "2026-05-21T22:45:50.357843+00:00",
     "type": "added",
     "team_abbr": "MIN",
@@ -18008,5 +17962,47 @@
     "player": "Hailey VanLith",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-22T00:01:08.548288+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Indya Nivar",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-22T00:01:08.548288+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Jaylyn Sherrod",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-22T00:01:08.548288+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Shay Ciezki",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental"
+  },
+  {
+    "ts": "2026-08-22T00:01:08.548288+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Kara Dunn",
+    "previous_status": "Out",
+    "previous_reason": "Player Coach's Decision - Developmental Player"
+  },
+  {
+    "ts": "2026-08-22T00:01:08.548288+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "Kelsey Plum",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Lower Leg;-",
+    "reason_category": "injury"
   }
 ]
