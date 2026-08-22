@@ -1,40 +1,6 @@
 [
   {
     "ts": "2026-05-22T20:01:05.197687+00:00",
-    "type": "added",
-    "team_abbr": "PDX",
-    "player": "Teja Oblak",
-    "status": "Questionable",
-    "reason": "Injury/Illness - Right Quad; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-22T20:01:05.197687+00:00",
-    "type": "added",
-    "team_abbr": "PDX",
-    "player": "Nyadiew Puoch",
-    "status": "Questionable",
-    "reason": "Injury/Illness - Right Ankle; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-22T20:01:05.197687+00:00",
-    "type": "cleared",
-    "team_abbr": "PDX",
-    "player": "Frieda Buhner",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-05-22T20:01:05.197687+00:00",
-    "type": "cleared",
-    "team_abbr": "PDX",
-    "player": "Carla Leite",
-    "previous_status": "Available",
-    "previous_reason": "Injury/Illness - Right Ankle; Injury"
-  },
-  {
-    "ts": "2026-05-22T20:01:05.197687+00:00",
     "type": "cleared",
     "team_abbr": "PDX",
     "player": "Kamiah Smalls",
@@ -17995,6 +17961,44 @@
     "from_status": "Probable",
     "to_status": "Available",
     "reason": "Injury/Illness - Back; Back",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-22T22:30:59.200284+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Elizabeth Balogun",
+    "status": "Out",
+    "reason": "Coach's Decision - Developmental Player",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-22T22:30:59.200284+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Anneli Maley",
+    "status": "Out",
+    "reason": "Coach's Decision - Developmental Player",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-22T22:30:59.200284+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Leonie Fiebich",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Foot; L.Foot",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-22T22:30:59.200284+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Jonquel Jones",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Ankle; L.Ankle",
     "reason_category": "injury"
   }
 ]
