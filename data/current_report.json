@@ -1,129 +1,8 @@
 {
-  "report_ts": "08/21/26 11:45 PM",
+  "report_ts": "08/22/26 12:00 AM",
   "page_count": 2,
-  "raw_line_count": 25,
+  "raw_line_count": 18,
   "teams": [
-    {
-      "team_full": "Chicago Sky",
-      "team_abbr": "CHI",
-      "game_date": "08/21/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "GSV@CHI",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Carrington, DiJonai",
-          "name": "DiJonai Carrington",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Foot; Left Foot",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Coulibaly, Aicha",
-          "name": "Aicha Coulibaly",
-          "status": "Available",
-          "reason": "Injury/Illness - Right Knee; Right Knee",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Diggins, Skylar",
-          "name": "Skylar Diggins",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee; Right Knee",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Maly, Morgan",
-          "name": "Morgan Maly",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Minnesota Lynx",
-      "team_abbr": "MIN",
-      "game_date": "08/21/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "MIN@WAS",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Buenavida, Elena",
-          "name": "Elena Buenavida",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Collier, Napheesa",
-          "name": "Napheesa Collier",
-          "status": "Out",
-          "reason": "Rest",
-          "reason_category": "other"
-        },
-        {
-          "name_last_first": "King, Liatu",
-          "name": "Liatu King",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Miles, Olivia",
-          "name": "Olivia Miles",
-          "status": "Available",
-          "reason": "Injury/Illness - Left Ankle; Left Ankle",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Portland Fire",
-      "team_abbr": "PDX",
-      "game_date": "08/21/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "PDX@TOR",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Feagin, Sania",
-          "name": "Sania Feagin",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Knee; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "TorontoTempo Conde, Maria",
-          "name": "Maria TorontoTempo Conde",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Calf; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Green, Zaay",
-          "name": "Zaay Green",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Mabrey, Marina",
-          "name": "Marina Mabrey",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Adductor; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Sabally, Nyara",
-          "name": "Nyara Sabally",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Calf; Not With Team",
-          "reason_category": "injury"
-        }
-      ]
-    },
     {
       "team_full": "Indiana Fever",
       "team_abbr": "IND",
@@ -253,9 +132,72 @@
           "reason_category": "injury"
         }
       ]
+    },
+    {
+      "team_full": "Seattle Storm",
+      "team_abbr": "SEA",
+      "game_date": "08/23/2026",
+      "game_time": "04:00(ET)",
+      "matchup": "SEA@DAL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Dallas Wings",
+      "team_abbr": "DAL",
+      "game_date": "08/23/2026",
+      "game_time": "04:00(ET)",
+      "matchup": "SEA@DAL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Indiana Fever",
+      "team_abbr": "IND",
+      "game_date": "08/23/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "IND@CHI",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Chicago Sky",
+      "team_abbr": "CHI",
+      "game_date": "08/23/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "IND@CHI",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Las Vegas Aces",
+      "team_abbr": "LVA",
+      "game_date": "08/23/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "LVA@TOR",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Washington Mystics",
+      "team_abbr": "WAS",
+      "game_date": "08/23/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "WAS@PDX",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Portland Fire",
+      "team_abbr": "PDX",
+      "game_date": "08/23/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "WAS@PDX",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-21_11_45PM.pdf",
-  "fetched_slot": "2026-08-21T23:45:00-04:00",
-  "polled_at_utc": "2026-08-22T03:46:05.448154+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-22_12_00AM.pdf",
+  "fetched_slot": "2026-08-22T00:00:00-04:00",
+  "polled_at_utc": "2026-08-22T04:01:05.418789+00:00"
 }
