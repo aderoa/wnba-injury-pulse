@@ -4,6 +4,17 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-08-23 00:01 UTC
+
+- **Ariel Atkins** (LAS): **Probable** → **Available** — -
+- **Maria TorontoTempo Conde** (LVA) newly listed as **Out** — Injury/Illness - Left Calf; Injury
+- **Marina Mabrey** (LVA) newly listed as **Out** — Injury/Illness - Right Adductor; Injury
+- **Aneesah Morrow** (LVA) newly listed as **Out** — Injury/Illness - Left Knee; Injury
+- **Nyara Sabally** (LVA) newly listed as **Out** — Injury/Illness - Left Calf; Not With Team
+- **Brittney Sykes** (LVA) newly listed as **Out** — Injury/Illness - Left Foot; Injury
+- **Ta'Niya Latson** (LVA) cleared (was Out)
+- **Dana Evans** (LVA): **Out** → **Questionable** — Injury/Illness - Left Leg; leftleg
+
 ## 2026-08-22 23:31 UTC
 
 - **Maria TorontoTempo Conde** (PDX) cleared (was Out)

@@ -1,77 +1,5 @@
 [
   {
-    "ts": "2026-05-22T21:01:03.833118+00:00",
-    "type": "added",
-    "team_abbr": "PDX",
-    "player": "Isabelle Harrison",
-    "status": "Out",
-    "reason": "Injury/Illness - Right Hand; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-22T21:01:03.833118+00:00",
-    "type": "added",
-    "team_abbr": "PDX",
-    "player": "Nyara Sabally",
-    "status": "Questionable",
-    "reason": "Injury/Illness - Neck; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-22T21:16:02.212207+00:00",
-    "type": "cleared",
-    "team_abbr": "CHI",
-    "player": "Maddy Westbeld",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision - Coach's Decision"
-  },
-  {
-    "ts": "2026-05-22T21:16:02.212207+00:00",
-    "type": "cleared",
-    "team_abbr": "CHI",
-    "player": "Elizabeth Williams",
-    "previous_status": "Available",
-    "previous_reason": "Injury/Illness - Right Knee; Right Knee"
-  },
-  {
-    "ts": "2026-05-22T21:16:02.212207+00:00",
-    "type": "status_change",
-    "team_abbr": "CHI",
-    "player": "Azura Stevens",
-    "from_status": "Out",
-    "to_status": "Questionable",
-    "reason": "Injury/Illness - Left Knee; Left Knee",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-22T21:46:06.490146+00:00",
-    "type": "added",
-    "team_abbr": "IND",
-    "player": "Bree Hall",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-22T21:46:06.490146+00:00",
-    "type": "added",
-    "team_abbr": "IND",
-    "player": "Justine Pissott",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-22T21:46:06.490146+00:00",
-    "type": "status_change",
-    "team_abbr": "IND",
-    "player": "Caitlin Clark",
-    "from_status": "Probable",
-    "to_status": "Available",
-    "reason": "-",
-    "reason_category": "other"
-  },
-  {
     "ts": "2026-05-22T22:01:04.943068+00:00",
     "type": "added",
     "team_abbr": "MIN",
@@ -17996,5 +17924,78 @@
     "player": "Nyara Sabally",
     "previous_status": "Out",
     "previous_reason": "Injury/Illness - Left Calf; Not With Team"
+  },
+  {
+    "ts": "2026-08-23T00:01:05.571642+00:00",
+    "type": "status_change",
+    "team_abbr": "LAS",
+    "player": "Ariel Atkins",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-08-23T00:01:05.571642+00:00",
+    "type": "added",
+    "team_abbr": "LVA",
+    "player": "Maria TorontoTempo Conde",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Calf; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-23T00:01:05.571642+00:00",
+    "type": "added",
+    "team_abbr": "LVA",
+    "player": "Marina Mabrey",
+    "status": "Out",
+    "reason": "Injury/Illness - Right Adductor; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-23T00:01:05.571642+00:00",
+    "type": "added",
+    "team_abbr": "LVA",
+    "player": "Aneesah Morrow",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Knee; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-23T00:01:05.571642+00:00",
+    "type": "added",
+    "team_abbr": "LVA",
+    "player": "Nyara Sabally",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Calf; Not With Team",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-23T00:01:05.571642+00:00",
+    "type": "added",
+    "team_abbr": "LVA",
+    "player": "Brittney Sykes",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Foot; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-23T00:01:05.571642+00:00",
+    "type": "cleared",
+    "team_abbr": "LVA",
+    "player": "Ta'Niya Latson",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Notactivating"
+  },
+  {
+    "ts": "2026-08-23T00:01:05.571642+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Dana Evans",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Leg; leftleg",
+    "reason_category": "injury"
   }
 ]
