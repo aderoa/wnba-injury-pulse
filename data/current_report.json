@@ -1,5 +1,5 @@
 {
-  "report_ts": "08/22/26 09:00 PM",
+  "report_ts": "08/22/26 09:15 PM",
   "page_count": 2,
   "raw_line_count": 41,
   "teams": [
@@ -190,8 +190,8 @@
         {
           "name_last_first": "Suarez, Marta",
           "name": "Marta Suarez",
-          "status": "Questionable",
-          "reason": "Injury/Illness - Head;-",
+          "status": "Out",
+          "reason": "Injury/Illness--; Concussion Protocol",
           "reason_category": "injury"
         }
       ]
@@ -340,7 +340,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-22_09_00PM.pdf",
-  "fetched_slot": "2026-08-22T21:00:00-04:00",
-  "polled_at_utc": "2026-08-23T01:01:04.156652+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-22_09_15PM.pdf",
+  "fetched_slot": "2026-08-22T21:15:00-04:00",
+  "polled_at_utc": "2026-08-23T01:16:11.496620+00:00"
 }

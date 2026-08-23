@@ -1,15 +1,5 @@
 [
   {
-    "ts": "2026-05-23T01:15:59.820765+00:00",
-    "type": "status_change",
-    "team_abbr": "SEA",
-    "player": "Taylor Thierry",
-    "from_status": "Out",
-    "to_status": "Available",
-    "reason": "-",
-    "reason_category": "other"
-  },
-  {
     "ts": "2026-05-23T01:31:02.946617+00:00",
     "type": "status_change",
     "team_abbr": "CON",
@@ -18000,5 +17990,15 @@
     "status": "Out",
     "reason": "Player Coach's Decision - Developmental Player",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-23T01:16:11.496620+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "Marta Suarez",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness--; Concussion Protocol",
+    "reason_category": "injury"
   }
 ]
