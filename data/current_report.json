@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/22/26 10:45 PM",
+  "report_ts": "08/22/26 11:00 PM",
   "page_count": 2,
-  "raw_line_count": 41,
+  "raw_line_count": 43,
   "teams": [
     {
       "team_full": "Indiana Fever",
@@ -87,6 +87,13 @@
       "matchup": "CON@LAS",
       "submitted": true,
       "players": [
+        {
+          "name_last_first": "Beers, Raegan",
+          "name": "Raegan Beers",
+          "status": "Out",
+          "reason": "Injury/Illness - Jaw;-",
+          "reason_category": "injury"
+        },
         {
           "name_last_first": "Edwards, Aaliyah",
           "name": "Aaliyah Edwards",
@@ -340,7 +347,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-22_10_45PM.pdf",
-  "fetched_slot": "2026-08-22T22:45:00-04:00",
-  "polled_at_utc": "2026-08-23T02:49:21.320787+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-22_11_00PM.pdf",
+  "fetched_slot": "2026-08-22T23:00:00-04:00",
+  "polled_at_utc": "2026-08-23T03:01:04.936817+00:00"
 }

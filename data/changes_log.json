@@ -1,15 +1,5 @@
 [
   {
-    "ts": "2026-05-23T01:31:02.946617+00:00",
-    "type": "status_change",
-    "team_abbr": "CON",
-    "player": "Brittney Griner",
-    "from_status": "Questionable",
-    "to_status": "Out",
-    "reason": "Injury/Illness - Right Rib; Sprain",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-05-23T16:00:18.615357+00:00",
     "type": "added",
     "team_abbr": "CHI",
@@ -17999,6 +17989,15 @@
     "from_status": "Questionable",
     "to_status": "Out",
     "reason": "Injury/Illness--; Concussion Protocol",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-23T03:01:04.936817+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Raegan Beers",
+    "status": "Out",
+    "reason": "Injury/Illness - Jaw;-",
     "reason_category": "injury"
   }
 ]
