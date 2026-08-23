@@ -1,208 +1,8 @@
 {
-  "report_ts": "08/22/26 11:45 PM",
+  "report_ts": "08/23/26 12:00 AM",
   "page_count": 2,
-  "raw_line_count": 43,
+  "raw_line_count": 19,
   "teams": [
-    {
-      "team_full": "Indiana Fever",
-      "team_abbr": "IND",
-      "game_date": "08/22/2026",
-      "game_time": "07:00(ET)",
-      "matchup": "IND@NYL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Boston, Aliyah",
-          "name": "Aliyah Boston",
-          "status": "Available",
-          "reason": "Injury/Illness - Right Leg; Lower",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Clark, Caitlin",
-          "name": "Caitlin Clark",
-          "status": "Available",
-          "reason": "Injury/Illness - Back; Back",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Onyiah, Michelle",
-          "name": "Michelle Onyiah",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "New York Liberty",
-      "team_abbr": "NYL",
-      "game_date": "08/22/2026",
-      "game_time": "07:00(ET)",
-      "matchup": "IND@NYL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Balogun, Elizabeth",
-          "name": "Elizabeth Balogun",
-          "status": "Out",
-          "reason": "Coach's Decision - Developmental Player",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Fiebich, Leonie",
-          "name": "Leonie Fiebich",
-          "status": "Available",
-          "reason": "Injury/Illness - Left Foot; L.Foot",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Jones, Jonquel",
-          "name": "Jonquel Jones",
-          "status": "Available",
-          "reason": "Injury/Illness - Left Ankle; L.Ankle",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Maley, Anneli",
-          "name": "Anneli Maley",
-          "status": "Out",
-          "reason": "Coach's Decision - Developmental Player",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Sabally, Satou",
-          "name": "Satou Sabally",
-          "status": "Out",
-          "reason": "Injury/Illness - Head; Not With Team",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Connecticut Sun",
-      "team_abbr": "CON",
-      "game_date": "08/22/2026",
-      "game_time": "09:00(ET)",
-      "matchup": "CON@LAS",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Beers, Raegan",
-          "name": "Raegan Beers",
-          "status": "Out",
-          "reason": "Injury/Illness - Jaw;-",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Edwards, Aaliyah",
-          "name": "Aaliyah Edwards",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Ankle;-",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Griner, Brittney",
-          "name": "Brittney Griner",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Knee;-",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Marshall, Rayah",
-          "name": "Rayah Marshall",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Los Angeles Sparks",
-      "team_abbr": "LAS",
-      "game_date": "08/22/2026",
-      "game_time": "09:00(ET)",
-      "matchup": "CON@LAS",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Atkins, Ariel",
-          "name": "Ariel Atkins",
-          "status": "Available",
-          "reason": "-",
-          "reason_category": "other"
-        }
-      ]
-    },
-    {
-      "team_full": "Atlanta Dream",
-      "team_abbr": "ATL",
-      "game_date": "08/22/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "ATL@PHX",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Jones, Brionna",
-          "name": "Brionna Jones",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Leg; N/A",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Nivar, Indya",
-          "name": "Indya Nivar",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Sherrod, Jaylyn",
-          "name": "Jaylyn Sherrod",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Phoenix Mercury",
-      "team_abbr": "PHX",
-      "game_date": "08/22/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "ATL@PHX",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Ciezki, Shay",
-          "name": "Shay Ciezki",
-          "status": "Out",
-          "reason": "Coach's Decision - Developmental",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Dunn, Kara",
-          "name": "Kara Dunn",
-          "status": "Out",
-          "reason": "Player Coach's Decision - Developmental Player",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Plum, Kelsey",
-          "name": "Kelsey Plum",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Lower Leg;-",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Suarez, Marta",
-          "name": "Marta Suarez",
-          "status": "Out",
-          "reason": "Injury/Illness--; Concussion Protocol",
-          "reason_category": "injury"
-        }
-      ]
-    },
     {
       "team_full": "Seattle Storm",
       "team_abbr": "SEA",
@@ -345,9 +145,45 @@
           "reason_category": "injury"
         }
       ]
+    },
+    {
+      "team_full": "Golden State Valkyries",
+      "team_abbr": "GSV",
+      "game_date": "08/24/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "GSV@MIN",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Minnesota Lynx",
+      "team_abbr": "MIN",
+      "game_date": "08/24/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "GSV@MIN",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Atlanta Dream",
+      "team_abbr": "ATL",
+      "game_date": "08/24/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "ATL@LAS",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Los Angeles Sparks",
+      "team_abbr": "LAS",
+      "game_date": "08/24/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "ATL@LAS",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-22_11_45PM.pdf",
-  "fetched_slot": "2026-08-22T23:45:00-04:00",
-  "polled_at_utc": "2026-08-23T03:52:54.163692+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-23_12_00AM.pdf",
+  "fetched_slot": "2026-08-23T00:00:00-04:00",
+  "polled_at_utc": "2026-08-23T04:01:04.258941+00:00"
 }
