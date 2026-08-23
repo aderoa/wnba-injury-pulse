@@ -1,69 +1,5 @@
 [
   {
-    "ts": "2026-05-23T19:46:01.159505+00:00",
-    "type": "reason_change",
-    "team_abbr": "NYL",
-    "player": "Marine Fauthoux",
-    "status": "Out",
-    "from_reason": "Protocol Injury/Illness - Left Knee; Rehabilitation",
-    "to_reason": "Injury/Illness - Left Knee; Rehabilitation",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-23T21:01:00.443339+00:00",
-    "type": "added",
-    "team_abbr": "PHX",
-    "player": "Monique AkoaMakani",
-    "status": "Questionable",
-    "reason": "Returnto Competition",
-    "reason_category": "other"
-  },
-  {
-    "ts": "2026-05-23T21:01:00.443339+00:00",
-    "type": "cleared",
-    "team_abbr": "PHX",
-    "player": "Shay Ciezki",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision - Developmental"
-  },
-  {
-    "ts": "2026-05-23T21:01:00.443339+00:00",
-    "type": "reason_change",
-    "team_abbr": "PHX",
-    "player": "Sami Whitcomb",
-    "status": "Out",
-    "from_reason": "Player Injury/Illness - Left Knee; Arthroscopy",
-    "to_reason": "Reconditioning Injury/Illness - Left Knee; Arthroscopy",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-23T21:01:00.443339+00:00",
-    "type": "cleared",
-    "team_abbr": "ATL",
-    "player": "Amy Okonkwo",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-05-23T21:30:57.168496+00:00",
-    "type": "added",
-    "team_abbr": "PDX",
-    "player": "Jordan Harrison",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-23T21:30:57.168496+00:00",
-    "type": "status_change",
-    "team_abbr": "PDX",
-    "player": "Teja Oblak",
-    "from_status": "Questionable",
-    "to_status": "Available",
-    "reason": "Injury/Illness - Right Quad; Injury",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-05-23T21:30:57.168496+00:00",
     "type": "status_change",
     "team_abbr": "PDX",
@@ -18002,5 +17938,66 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Right Leg; Lower",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-23T21:45:20.574430+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Myisha Hines-Allen",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Shoulder; Shoulder",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-23T21:45:20.574430+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Back; Back",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-23T21:45:20.574430+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Courtney Williams",
+    "status": "Out",
+    "reason": "Injury/Illness - Right Foot; Right Foot",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-23T21:45:20.574430+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Elena Buenavida",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-23T21:45:20.574430+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Napheesa Collier",
+    "previous_status": "Out",
+    "previous_reason": "Rest"
+  },
+  {
+    "ts": "2026-08-23T21:45:20.574430+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Liatu King",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-23T21:45:20.574430+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Olivia Miles",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Left Ankle; Left Ankle"
   }
 ]
