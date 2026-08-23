@@ -1,25 +1,5 @@
 [
   {
-    "ts": "2026-05-23T21:30:57.168496+00:00",
-    "type": "status_change",
-    "team_abbr": "PDX",
-    "player": "Karlie Samuelson",
-    "from_status": "Questionable",
-    "to_status": "Available",
-    "reason": "Injury/Illness - Left Foot; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-23T21:30:57.168496+00:00",
-    "type": "status_change",
-    "team_abbr": "PDX",
-    "player": "Nyadiew Puoch",
-    "from_status": "Questionable",
-    "to_status": "Available",
-    "reason": "Injury/Illness - Right Ankle; Injury",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-05-23T22:30:58.961245+00:00",
     "type": "status_change",
     "team_abbr": "LAS",
@@ -17999,5 +17979,24 @@
     "player": "Olivia Miles",
     "previous_status": "Available",
     "previous_reason": "Injury/Illness - Left Ankle; Left Ankle"
+  },
+  {
+    "ts": "2026-08-23T22:15:20.705094+00:00",
+    "type": "added",
+    "team_abbr": "LVA",
+    "player": "Zaay Green",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-23T22:15:20.705094+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Dana Evans",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Leg; leftleg",
+    "reason_category": "injury"
   }
 ]
