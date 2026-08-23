@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/22/26 08:45 PM",
+  "report_ts": "08/22/26 09:00 PM",
   "page_count": 2,
-  "raw_line_count": 34,
+  "raw_line_count": 41,
   "teams": [
     {
       "team_full": "Indiana Fever",
@@ -141,6 +141,20 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Leg; N/A",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Nivar, Indya",
+          "name": "Indya Nivar",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Sherrod, Jaylyn",
+          "name": "Jaylyn Sherrod",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -152,6 +166,20 @@
       "matchup": "ATL@PHX",
       "submitted": true,
       "players": [
+        {
+          "name_last_first": "Ciezki, Shay",
+          "name": "Shay Ciezki",
+          "status": "Out",
+          "reason": "Coach's Decision - Developmental",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Dunn, Kara",
+          "name": "Kara Dunn",
+          "status": "Out",
+          "reason": "Player Coach's Decision - Developmental Player",
+          "reason_category": "rest_coach"
+        },
         {
           "name_last_first": "Plum, Kelsey",
           "name": "Kelsey Plum",
@@ -312,7 +340,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-22_08_45PM.pdf",
-  "fetched_slot": "2026-08-22T20:45:00-04:00",
-  "polled_at_utc": "2026-08-23T00:46:04.661307+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-22_09_00PM.pdf",
+  "fetched_slot": "2026-08-22T21:00:00-04:00",
+  "polled_at_utc": "2026-08-23T01:01:04.156652+00:00"
 }
