@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/23/26 01:15 PM",
+  "report_ts": "08/23/26 04:45 PM",
   "page_count": 2,
-  "raw_line_count": 21,
+  "raw_line_count": 27,
   "teams": [
     {
       "team_full": "Seattle Storm",
@@ -41,6 +41,20 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Leg; lowerleftleg",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Jones, Haley",
+          "name": "Haley Jones",
+          "status": "Out",
+          "reason": "Coach's Decision - coach'sdecision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Williams, Christyn",
+          "name": "Christyn Williams",
+          "status": "Out",
+          "reason": "Coach's Decision - coach'sdecision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -50,8 +64,30 @@
       "game_date": "08/23/2026",
       "game_time": "07:00(ET)",
       "matchup": "IND@CHI",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Boston, Aliyah",
+          "name": "Aliyah Boston",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Leg; Lower",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Clark, Caitlin",
+          "name": "Caitlin Clark",
+          "status": "Probable",
+          "reason": "Injury/Illness - Back; Back",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Hines-Allen, Myisha",
+          "name": "Myisha Hines-Allen",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Shoulder; Shoulder",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Chicago Sky",
@@ -207,7 +243,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-23_01_15PM.pdf",
-  "fetched_slot": "2026-08-23T13:15:00-04:00",
-  "polled_at_utc": "2026-08-23T17:35:37.046751+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-23_04_45PM.pdf",
+  "fetched_slot": "2026-08-23T16:45:00-04:00",
+  "polled_at_utc": "2026-08-23T20:45:23.174513+00:00"
 }
