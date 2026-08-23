@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/23/26 12:30 PM",
+  "report_ts": "08/23/26 12:45 PM",
   "page_count": 2,
-  "raw_line_count": 19,
+  "raw_line_count": 21,
   "teams": [
     {
       "team_full": "Seattle Storm",
@@ -93,6 +93,13 @@
           "reason_category": "injury"
         },
         {
+          "name_last_first": "Wilson, A'ja",
+          "name": "A'ja Wilson",
+          "status": "Questionable",
+          "reason": "Injury/Illness - N/a; back",
+          "reason_category": "injury"
+        },
+        {
           "name_last_first": "TorontoTempo Conde, Maria",
           "name": "Maria TorontoTempo Conde",
           "status": "Out",
@@ -125,6 +132,23 @@
           "name": "Brittney Sykes",
           "status": "Out",
           "reason": "Injury/Illness - Left Foot; Injury",
+          "reason_category": "injury"
+        }
+      ]
+    },
+    {
+      "team_full": "Washington Mystics",
+      "team_abbr": "WAS",
+      "game_date": "08/23/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "WAS@PDX",
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Austin, Shakira",
+          "name": "Shakira Austin",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Knee; Soreness",
           "reason_category": "injury"
         }
       ]
@@ -183,7 +207,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-23_12_30PM.pdf",
-  "fetched_slot": "2026-08-23T12:30:00-04:00",
-  "polled_at_utc": "2026-08-23T16:36:05.800490+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-23_12_45PM.pdf",
+  "fetched_slot": "2026-08-23T12:45:00-04:00",
+  "polled_at_utc": "2026-08-23T16:45:20.786364+00:00"
 }

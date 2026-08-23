@@ -1,43 +1,5 @@
 [
   {
-    "ts": "2026-05-23T16:00:18.615357+00:00",
-    "type": "added",
-    "team_abbr": "CHI",
-    "player": "Aicha Coulibaly",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-23T16:00:18.615357+00:00",
-    "type": "added",
-    "team_abbr": "CHI",
-    "player": "Maddy Westbeld",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-23T16:00:18.615357+00:00",
-    "type": "status_change",
-    "team_abbr": "CHI",
-    "player": "Azura Stevens",
-    "from_status": "Questionable",
-    "to_status": "Available",
-    "reason": "Injury/Illness - Left Knee; Left Knee",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-23T16:30:18.414809+00:00",
-    "type": "status_change",
-    "team_abbr": "PDX",
-    "player": "Nyara Sabally",
-    "from_status": "Questionable",
-    "to_status": "Available",
-    "reason": "Injury/Illness - Neck; Injury",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-05-23T19:46:01.159505+00:00",
     "type": "cleared",
     "team_abbr": "NYL",
@@ -17999,5 +17961,39 @@
     "status": "Out",
     "reason": "Injury/Illness - Jaw;-",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-23T16:45:20.786364+00:00",
+    "type": "added",
+    "team_abbr": "LVA",
+    "player": "A'ja Wilson",
+    "status": "Questionable",
+    "reason": "Injury/Illness - N/a; back",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-23T16:45:20.786364+00:00",
+    "type": "added",
+    "team_abbr": "WAS",
+    "player": "Shakira Austin",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Right Knee; Soreness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-23T16:45:20.786364+00:00",
+    "type": "cleared",
+    "team_abbr": "WAS",
+    "player": "Betnijah Laney-Hamilton",
+    "previous_status": "Out",
+    "previous_reason": "Personal Reasons"
+  },
+  {
+    "ts": "2026-08-23T16:45:20.786364+00:00",
+    "type": "cleared",
+    "team_abbr": "WAS",
+    "player": "Darianna Littlepage-Buggs",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]
