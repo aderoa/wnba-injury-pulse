@@ -1,15 +1,6 @@
 [
   {
     "ts": "2026-05-24T00:01:03.426054+00:00",
-    "type": "added",
-    "team_abbr": "SEA",
-    "player": "Awa Fam",
-    "status": "Questionable",
-    "reason": "Returnto Competition Reconditioning",
-    "reason_category": "other"
-  },
-  {
-    "ts": "2026-05-24T00:01:03.426054+00:00",
     "type": "cleared",
     "team_abbr": "SEA",
     "player": "KatieLou Samuelson",
@@ -17998,6 +17989,16 @@
     "from_status": "Questionable",
     "to_status": "Available",
     "reason": "Injury/Illness - Right Knee; Soreness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-23T22:45:18.677558+00:00",
+    "type": "status_change",
+    "team_abbr": "CHI",
+    "player": "DiJonai Carrington",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Foot; Left Foot",
     "reason_category": "injury"
   }
 ]
