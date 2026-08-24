@@ -2,26 +2,6 @@
   {
     "ts": "2026-05-25T00:15:52.661464+00:00",
     "type": "status_change",
-    "team_abbr": "CON",
-    "player": "Brittney Griner",
-    "from_status": "Out",
-    "to_status": "Probable",
-    "reason": "Injury/Illness - Right Rib; Strain",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-25T00:15:52.661464+00:00",
-    "type": "status_change",
-    "team_abbr": "CON",
-    "player": "Olivia Nelson-Ododa",
-    "from_status": "Out",
-    "to_status": "Probable",
-    "reason": "Injury/Illness - Right Ankle; Sprain",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-25T00:15:52.661464+00:00",
-    "type": "status_change",
     "team_abbr": "GSV",
     "player": "Cecilia Zandalasini",
     "from_status": "Out",
@@ -17992,5 +17972,21 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Left Knee;-",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-24T21:45:20.683177+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Haley Jones",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - coach'sdecision"
+  },
+  {
+    "ts": "2026-08-24T21:45:20.683177+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Christyn Williams",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - coach'sdecision"
   }
 ]
