@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-08-24T19:30:20.887587+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_03_30PM.pdf",
-  "report_ts": "08/24/26 03:30 PM",
+  "polled_at_utc": "2026-08-24T19:45:11.653171+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_03_45PM.pdf",
+  "report_ts": "08/24/26 03:45 PM",
   "all_players": [
     {
       "name": "Aaliyah Edwards",
@@ -74,7 +74,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-08-24T19:30:20.887587+00:00"
+      "last_updated": "2026-08-24T19:45:11.653171+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -110,7 +110,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Foot; Right Foot",
       "reason_category": "injury",
-      "last_updated": "2026-08-24T19:30:20.887587+00:00"
+      "last_updated": "2026-08-24T19:45:11.653171+00:00"
     },
     {
       "name": "Dana Evans",
@@ -281,7 +281,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - illness; Illness",
       "reason_category": "injury",
-      "last_updated": "2026-08-24T19:30:20.887587+00:00"
+      "last_updated": "2026-08-24T19:45:11.653171+00:00"
     },
     {
       "name": "A'ja Wilson",
@@ -351,7 +351,7 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-08-24T19:30:20.887587+00:00",
+      "last_submitted_ts": "2026-08-24T19:45:11.653171+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "ATL@LAS"
@@ -370,7 +370,7 @@
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
       "last_submitted_ts": "2026-08-24T03:57:00.777651+00:00",
-      "last_seen_pending_ts": "2026-08-24T19:30:20.887587+00:00",
+      "last_seen_pending_ts": "2026-08-24T19:45:11.653171+00:00",
       "matchups": [
         "IND@CHI"
       ],
@@ -395,7 +395,7 @@
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
       "last_submitted_ts": "2026-08-23T03:52:54.163692+00:00",
-      "last_seen_pending_ts": "2026-08-24T19:30:20.887587+00:00",
+      "last_seen_pending_ts": "2026-08-24T19:45:11.653171+00:00",
       "matchups": [
         "CON@LAS"
       ],
@@ -434,7 +434,7 @@
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
       "last_submitted_ts": "2026-08-24T03:57:00.777651+00:00",
-      "last_seen_pending_ts": "2026-08-24T19:30:20.887587+00:00",
+      "last_seen_pending_ts": "2026-08-24T19:45:11.653171+00:00",
       "matchups": [
         "SEA@DAL"
       ],
@@ -529,7 +529,7 @@
     {
       "team_abbr": "LAS",
       "team_full": "Los Angeles Sparks",
-      "last_submitted_ts": "2026-08-24T19:30:20.887587+00:00",
+      "last_submitted_ts": "2026-08-24T19:45:11.653171+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "ATL@LAS"
@@ -614,7 +614,7 @@
     {
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
-      "last_submitted_ts": "2026-08-24T19:30:20.887587+00:00",
+      "last_submitted_ts": "2026-08-24T19:45:11.653171+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "GSV@MIN"
@@ -679,7 +679,7 @@
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
       "last_submitted_ts": "2026-08-24T03:57:00.777651+00:00",
-      "last_seen_pending_ts": "2026-08-24T19:30:20.887587+00:00",
+      "last_seen_pending_ts": "2026-08-24T19:45:11.653171+00:00",
       "matchups": [
         "WAS@PDX"
       ],
@@ -697,7 +697,7 @@
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
       "last_submitted_ts": "2026-08-23T03:52:54.163692+00:00",
-      "last_seen_pending_ts": "2026-08-24T19:30:20.887587+00:00",
+      "last_seen_pending_ts": "2026-08-24T19:45:11.653171+00:00",
       "matchups": [
         "ATL@PHX"
       ],
@@ -754,7 +754,7 @@
       "team_abbr": "WAS",
       "team_full": "Washington Mystics",
       "last_submitted_ts": "2026-08-24T03:57:00.777651+00:00",
-      "last_seen_pending_ts": "2026-08-24T19:30:20.887587+00:00",
+      "last_seen_pending_ts": "2026-08-24T19:45:11.653171+00:00",
       "matchups": [
         "WAS@PDX"
       ],
