@@ -1,218 +1,8 @@
 {
-  "report_ts": "08/23/26 11:45 PM",
-  "page_count": 2,
-  "raw_line_count": 25,
+  "report_ts": "08/24/26 12:00 AM",
+  "page_count": 1,
+  "raw_line_count": 8,
   "teams": [
-    {
-      "team_full": "Seattle Storm",
-      "team_abbr": "SEA",
-      "game_date": "08/23/2026",
-      "game_time": "04:00(ET)",
-      "matchup": "SEA@DAL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Hiedeman, Natisha",
-          "name": "Natisha Hiedeman",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Shoulder; Injury",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Dallas Wings",
-      "team_abbr": "DAL",
-      "game_date": "08/23/2026",
-      "game_time": "04:00(ET)",
-      "matchup": "SEA@DAL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Fudd, Azzi",
-          "name": "Azzi Fudd",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee; rightknee",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "James, Aziaha",
-          "name": "Aziaha James",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Leg; lowerleftleg",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Jones, Haley",
-          "name": "Haley Jones",
-          "status": "Out",
-          "reason": "Coach's Decision - coach'sdecision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Williams, Christyn",
-          "name": "Christyn Williams",
-          "status": "Out",
-          "reason": "Coach's Decision - coach'sdecision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Indiana Fever",
-      "team_abbr": "IND",
-      "game_date": "08/23/2026",
-      "game_time": "07:00(ET)",
-      "matchup": "IND@CHI",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Boston, Aliyah",
-          "name": "Aliyah Boston",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Leg; Lower",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Clark, Caitlin",
-          "name": "Caitlin Clark",
-          "status": "Available",
-          "reason": "Injury/Illness - Back; Back",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Hines-Allen, Myisha",
-          "name": "Myisha Hines-Allen",
-          "status": "Available",
-          "reason": "Injury/Illness - Right Shoulder; Shoulder",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Chicago Sky",
-      "team_abbr": "CHI",
-      "game_date": "08/23/2026",
-      "game_time": "07:00(ET)",
-      "matchup": "IND@CHI",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Carrington, DiJonai",
-          "name": "DiJonai Carrington",
-          "status": "Available",
-          "reason": "Injury/Illness - Left Foot; Left Foot",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Diggins, Skylar",
-          "name": "Skylar Diggins",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee; Right Knee",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Las Vegas Aces",
-      "team_abbr": "LVA",
-      "game_date": "08/23/2026",
-      "game_time": "07:00(ET)",
-      "matchup": "LVA@TOR",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Evans, Dana",
-          "name": "Dana Evans",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Leg; leftleg",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Wilson, A'ja",
-          "name": "A'ja Wilson",
-          "status": "Available",
-          "reason": "Injury/Illness - N/a; back",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "TorontoTempo Conde, Maria",
-          "name": "Maria TorontoTempo Conde",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Calf; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Green, Zaay",
-          "name": "Zaay Green",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Mabrey, Marina",
-          "name": "Marina Mabrey",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Adductor; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Morrow, Aneesah",
-          "name": "Aneesah Morrow",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Knee; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Sabally, Nyara",
-          "name": "Nyara Sabally",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Calf; Not With Team",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Sykes, Brittney",
-          "name": "Brittney Sykes",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Foot; Injury",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Washington Mystics",
-      "team_abbr": "WAS",
-      "game_date": "08/23/2026",
-      "game_time": "07:00(ET)",
-      "matchup": "WAS@PDX",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Austin, Shakira",
-          "name": "Shakira Austin",
-          "status": "Available",
-          "reason": "Injury/Illness - Right Knee; Soreness",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Portland Fire",
-      "team_abbr": "PDX",
-      "game_date": "08/23/2026",
-      "game_time": "07:00(ET)",
-      "matchup": "WAS@PDX",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Feagin, Sania",
-          "name": "Sania Feagin",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Knee; Injury",
-          "reason_category": "injury"
-        }
-      ]
-    },
     {
       "team_full": "Minnesota Lynx",
       "team_abbr": "MIN",
@@ -246,9 +36,63 @@
           "reason_category": "injury"
         }
       ]
+    },
+    {
+      "team_full": "Chicago Sky",
+      "team_abbr": "CHI",
+      "game_date": "08/25/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "CHI@CON",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Connecticut Sun",
+      "team_abbr": "CON",
+      "game_date": "08/25/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "CHI@CON",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Portland Fire",
+      "team_abbr": "PDX",
+      "game_date": "08/25/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "PDX@DAL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Dallas Wings",
+      "team_abbr": "DAL",
+      "game_date": "08/25/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "PDX@DAL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Washington Mystics",
+      "team_abbr": "WAS",
+      "game_date": "08/25/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "WAS@PHX",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Phoenix Mercury",
+      "team_abbr": "PHX",
+      "game_date": "08/25/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "WAS@PHX",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-23_11_45PM.pdf",
-  "fetched_slot": "2026-08-23T23:45:00-04:00",
-  "polled_at_utc": "2026-08-24T03:57:00.777651+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_12_00AM.pdf",
+  "fetched_slot": "2026-08-24T00:00:00-04:00",
+  "polled_at_utc": "2026-08-24T04:00:20.869239+00:00"
 }

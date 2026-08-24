@@ -39,7 +39,8 @@
         "reason": "Coach's Decision - coach'sdecision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-08-24T04:00:20.869239+00:00"
   },
   "IND": {
     "team_full": "Indiana Fever",
@@ -116,7 +117,8 @@
         "reason": "Injury/Illness--; Concussion Protocol",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-08-24T04:00:20.869239+00:00"
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
@@ -191,8 +193,8 @@
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-08-24T03:57:00.777651+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-23_11_45PM.pdf",
+    "last_submitted_ts": "2026-08-24T04:00:20.869239+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_12_00AM.pdf",
     "game_dates": [
       "08/24/2026"
     ],
@@ -212,8 +214,8 @@
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-08-24T03:57:00.777651+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-23_11_45PM.pdf",
+    "last_submitted_ts": "2026-08-24T04:00:20.869239+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_12_00AM.pdf",
     "game_dates": [
       "08/24/2026"
     ],
@@ -256,7 +258,8 @@
         "reason": "Injury/Illness - Right Knee; Right Knee",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-08-24T04:00:20.869239+00:00"
   },
   "PDX": {
     "team_full": "Portland Fire",
@@ -277,7 +280,8 @@
         "reason": "Injury/Illness - Left Knee; Injury",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-08-24T04:00:20.869239+00:00"
   },
   "SEA": {
     "team_full": "Seattle Storm",
@@ -340,7 +344,8 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-08-24T04:00:20.869239+00:00"
   },
   "NYL": {
     "team_full": "New York Liberty",
@@ -410,7 +415,8 @@
         "reason": "Injury/Illness - Right Knee; Soreness",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-08-24T04:00:20.869239+00:00"
   },
   "GSV": {
     "team_full": "Golden State Valkyries",
