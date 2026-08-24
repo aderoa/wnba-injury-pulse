@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/24/26 07:15 PM",
+  "report_ts": "08/24/26 07:30 PM",
   "page_count": 1,
-  "raw_line_count": 12,
+  "raw_line_count": 13,
   "teams": [
     {
       "team_full": "Golden State Valkyries",
@@ -28,6 +28,20 @@
       "matchup": "GSV@MIN",
       "submitted": true,
       "players": [
+        {
+          "name_last_first": "Buenavida, Elena",
+          "name": "Elena Buenavida",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "King, Liatu",
+          "name": "Liatu King",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
         {
           "name_last_first": "Williams, Courtney",
           "name": "Courtney Williams",
@@ -154,15 +168,6 @@
       ]
     },
     {
-      "team_full": "Washington Mystics",
-      "team_abbr": "WAS",
-      "game_date": "08/25/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "WAS@PHX",
-      "submitted": false,
-      "players": []
-    },
-    {
       "team_full": "Phoenix Mercury",
       "team_abbr": "PHX",
       "game_date": "08/25/2026",
@@ -172,7 +177,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_07_15PM.pdf",
-  "fetched_slot": "2026-08-24T19:15:00-04:00",
-  "polled_at_utc": "2026-08-24T23:25:04.631235+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_07_30PM.pdf",
+  "fetched_slot": "2026-08-24T19:30:00-04:00",
+  "polled_at_utc": "2026-08-24T23:30:20.058085+00:00"
 }
