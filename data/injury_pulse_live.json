@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-08-24T18:05:20.253317+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_02_00PM.pdf",
-  "report_ts": "08/24/26 02:00 PM",
+  "polled_at_utc": "2026-08-24T18:15:25.128574+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_02_15PM.pdf",
+  "report_ts": "08/24/26 02:15 PM",
   "all_players": [
     {
       "name": "Aaliyah Edwards",
@@ -74,7 +74,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-08-24T18:05:20.253317+00:00"
+      "last_updated": "2026-08-24T18:15:25.128574+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -110,7 +110,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Foot; Right Foot",
       "reason_category": "injury",
-      "last_updated": "2026-08-24T18:05:20.253317+00:00"
+      "last_updated": "2026-08-24T18:15:25.128574+00:00"
     },
     {
       "name": "Dana Evans",
@@ -275,6 +275,15 @@
       "last_updated": "2026-08-24T03:57:00.777651+00:00"
     },
     {
+      "name": "Rae Burrell",
+      "team_abbr": "LAS",
+      "team_full": "Los Angeles Sparks",
+      "status": "Questionable",
+      "reason": "Injury/Illness - illness; Illness",
+      "reason_category": "injury",
+      "last_updated": "2026-08-24T18:15:25.128574+00:00"
+    },
+    {
       "name": "A'ja Wilson",
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
@@ -282,15 +291,6 @@
       "reason": "Injury/Illness - N/a; back",
       "reason_category": "injury",
       "last_updated": "2026-08-24T03:57:00.777651+00:00"
-    },
-    {
-      "name": "Ariel Atkins",
-      "team_abbr": "LAS",
-      "team_full": "Los Angeles Sparks",
-      "status": "Available",
-      "reason": "-",
-      "reason_category": "other",
-      "last_updated": "2026-08-23T03:52:54.163692+00:00"
     },
     {
       "name": "Caitlin Clark",
@@ -351,7 +351,7 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-08-24T18:05:20.253317+00:00",
+      "last_submitted_ts": "2026-08-24T18:15:25.128574+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "ATL@LAS"
@@ -370,7 +370,7 @@
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
       "last_submitted_ts": "2026-08-24T03:57:00.777651+00:00",
-      "last_seen_pending_ts": "2026-08-24T18:05:20.253317+00:00",
+      "last_seen_pending_ts": "2026-08-24T18:15:25.128574+00:00",
       "matchups": [
         "IND@CHI"
       ],
@@ -395,7 +395,7 @@
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
       "last_submitted_ts": "2026-08-23T03:52:54.163692+00:00",
-      "last_seen_pending_ts": "2026-08-24T18:05:20.253317+00:00",
+      "last_seen_pending_ts": "2026-08-24T18:15:25.128574+00:00",
       "matchups": [
         "CON@LAS"
       ],
@@ -434,7 +434,7 @@
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
       "last_submitted_ts": "2026-08-24T03:57:00.777651+00:00",
-      "last_seen_pending_ts": "2026-08-24T18:05:20.253317+00:00",
+      "last_seen_pending_ts": "2026-08-24T18:15:25.128574+00:00",
       "matchups": [
         "SEA@DAL"
       ],
@@ -529,18 +529,18 @@
     {
       "team_abbr": "LAS",
       "team_full": "Los Angeles Sparks",
-      "last_submitted_ts": "2026-08-23T03:52:54.163692+00:00",
-      "last_seen_pending_ts": "2026-08-23T23:30:20.961063+00:00",
+      "last_submitted_ts": "2026-08-24T18:15:25.128574+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "CON@LAS"
+        "ATL@LAS"
       ],
       "players": [
         {
-          "name_last_first": "Atkins, Ariel",
-          "name": "Ariel Atkins",
-          "status": "Available",
-          "reason": "-",
-          "reason_category": "other"
+          "name_last_first": "Burrell, Rae",
+          "name": "Rae Burrell",
+          "status": "Questionable",
+          "reason": "Injury/Illness - illness; Illness",
+          "reason_category": "injury"
         }
       ]
     },
@@ -614,7 +614,7 @@
     {
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
-      "last_submitted_ts": "2026-08-24T18:05:20.253317+00:00",
+      "last_submitted_ts": "2026-08-24T18:15:25.128574+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "GSV@MIN"
@@ -679,7 +679,7 @@
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
       "last_submitted_ts": "2026-08-24T03:57:00.777651+00:00",
-      "last_seen_pending_ts": "2026-08-24T18:05:20.253317+00:00",
+      "last_seen_pending_ts": "2026-08-24T18:15:25.128574+00:00",
       "matchups": [
         "WAS@PDX"
       ],
@@ -697,7 +697,7 @@
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
       "last_submitted_ts": "2026-08-23T03:52:54.163692+00:00",
-      "last_seen_pending_ts": "2026-08-24T18:05:20.253317+00:00",
+      "last_seen_pending_ts": "2026-08-24T18:15:25.128574+00:00",
       "matchups": [
         "ATL@PHX"
       ],
@@ -754,7 +754,7 @@
       "team_abbr": "WAS",
       "team_full": "Washington Mystics",
       "last_submitted_ts": "2026-08-24T03:57:00.777651+00:00",
-      "last_seen_pending_ts": "2026-08-24T18:05:20.253317+00:00",
+      "last_seen_pending_ts": "2026-08-24T18:15:25.128574+00:00",
       "matchups": [
         "WAS@PDX"
       ],
@@ -770,6 +770,23 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-08-24T18:15:25.128574+00:00",
+      "type": "cleared",
+      "team_abbr": "LAS",
+      "player": "Ariel Atkins",
+      "previous_status": "Available",
+      "previous_reason": "-"
+    },
+    {
+      "ts": "2026-08-24T18:15:25.128574+00:00",
+      "type": "added",
+      "team_abbr": "LAS",
+      "player": "Rae Burrell",
+      "status": "Questionable",
+      "reason": "Injury/Illness - illness; Illness",
+      "reason_category": "injury"
+    },
     {
       "ts": "2026-08-24T00:00:22.548449+00:00",
       "type": "cleared",
@@ -3011,26 +3028,6 @@
       "player": "Aliyah Boston",
       "status": "Probable",
       "reason": "Injury/Illness - Right Lower Leg; Right lowerleg",
-      "reason_category": "injury"
-    },
-    {
-      "ts": "2026-08-13T21:00:44.570186+00:00",
-      "type": "reason_change",
-      "team_abbr": "DAL",
-      "player": "Azzi Fudd",
-      "status": "Out",
-      "from_reason": "Injury/Illness - Right Knee; n/a",
-      "to_reason": "Injury/Illness - Right Knee; Injury",
-      "reason_category": "injury"
-    },
-    {
-      "ts": "2026-08-13T21:00:44.570186+00:00",
-      "type": "reason_change",
-      "team_abbr": "DAL",
-      "player": "Jessica Shepard",
-      "status": "Out",
-      "from_reason": "Injury/Illness - Right Ankle; n/a",
-      "to_reason": "Injury/Illness - Right Ankle; Injury",
       "reason_category": "injury"
     }
   ]

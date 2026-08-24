@@ -4,6 +4,11 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-08-24 18:15 UTC
+
+- **Rae Burrell** (LAS) newly listed as **Questionable** — Injury/Illness - illness; Illness
+- **Ariel Atkins** (LAS) cleared (was Available)
+
 ## 2026-08-24 00:00 UTC
 
 - **Indya Nivar** (ATL) cleared (was Out)
