@@ -1,23 +1,5 @@
 [
   {
-    "ts": "2026-05-24T00:01:03.426054+00:00",
-    "type": "cleared",
-    "team_abbr": "SEA",
-    "player": "KatieLou Samuelson",
-    "previous_status": "Out",
-    "previous_reason": "Injury/Illness - Right Knee; Injury"
-  },
-  {
-    "ts": "2026-05-24T00:01:03.426054+00:00",
-    "type": "status_change",
-    "team_abbr": "SEA",
-    "player": "Taylor Thierry",
-    "from_status": "Available",
-    "to_status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
     "ts": "2026-05-24T00:15:57.267937+00:00",
     "type": "status_change",
     "team_abbr": "SEA",
@@ -18000,5 +17982,21 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Left Foot; Left Foot",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-24T00:00:22.548449+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Indya Nivar",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-24T00:00:22.548449+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Jaylyn Sherrod",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]
