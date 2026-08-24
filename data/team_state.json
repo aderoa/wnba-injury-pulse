@@ -2,8 +2,8 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-08-24T23:00:23.493066+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_07_00PM.pdf",
+    "last_submitted_ts": "2026-08-24T23:15:34.208986+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_07_15PM.pdf",
     "game_dates": [
       "08/25/2026"
     ],
@@ -103,7 +103,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-08-24T23:00:23.493066+00:00"
+    "last_seen_pending_ts": "2026-08-24T23:15:34.208986+00:00"
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
@@ -178,8 +178,8 @@
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-08-24T23:00:23.493066+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_07_00PM.pdf",
+    "last_submitted_ts": "2026-08-24T23:15:34.208986+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_07_15PM.pdf",
     "game_dates": [
       "08/24/2026"
     ],
@@ -199,8 +199,8 @@
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-08-24T23:00:23.493066+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_07_00PM.pdf",
+    "last_submitted_ts": "2026-08-24T23:15:34.208986+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_07_15PM.pdf",
     "game_dates": [
       "08/24/2026"
     ],
@@ -220,8 +220,8 @@
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-08-24T23:00:23.493066+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_07_00PM.pdf",
+    "last_submitted_ts": "2026-08-24T23:15:34.208986+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_07_15PM.pdf",
     "game_dates": [
       "08/25/2026"
     ],
@@ -241,8 +241,8 @@
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-08-24T23:00:23.493066+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_07_00PM.pdf",
+    "last_submitted_ts": "2026-08-24T23:15:34.208986+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_07_15PM.pdf",
     "game_dates": [
       "08/25/2026"
     ],
@@ -283,8 +283,8 @@
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-08-24T23:00:23.493066+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_07_00PM.pdf",
+    "last_submitted_ts": "2026-08-24T23:15:34.208986+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_07_15PM.pdf",
     "game_dates": [
       "08/25/2026"
     ],
@@ -377,18 +377,18 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-08-24T23:00:23.493066+00:00"
+    "last_seen_pending_ts": "2026-08-24T23:15:34.208986+00:00"
   },
   "GSV": {
     "team_full": "Golden State Valkyries",
     "submitted": true,
-    "last_submitted_ts": "2026-08-20T03:53:33.809743+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-19_11_45PM.pdf",
+    "last_submitted_ts": "2026-08-24T23:15:34.208986+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_07_15PM.pdf",
     "game_dates": [
-      "08/19/2026"
+      "08/24/2026"
     ],
     "matchups": [
-      "MIN@GSV"
+      "GSV@MIN"
     ],
     "players": [
       {
@@ -397,22 +397,14 @@
         "status": "Out",
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
-      },
-      {
-        "name_last_first": "Sowah, Miela",
-        "name": "Miela Sowah",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
       }
-    ],
-    "last_seen_pending_ts": "2026-08-23T21:51:18.528044+00:00"
+    ]
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",
     "submitted": true,
-    "last_submitted_ts": "2026-08-24T23:00:23.493066+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_07_00PM.pdf",
+    "last_submitted_ts": "2026-08-24T23:15:34.208986+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_07_15PM.pdf",
     "game_dates": [
       "08/24/2026"
     ],
