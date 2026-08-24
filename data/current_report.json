@@ -1,5 +1,5 @@
 {
-  "report_ts": "08/24/26 03:45 PM",
+  "report_ts": "08/24/26 04:00 PM",
   "page_count": 1,
   "raw_line_count": 9,
   "teams": [
@@ -60,8 +60,16 @@
       "game_date": "08/25/2026",
       "game_time": "07:00(ET)",
       "matchup": "CHI@CON",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Diggins, Skylar",
+          "name": "Skylar Diggins",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; Right Knee",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Connecticut Sun",
@@ -109,7 +117,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_03_45PM.pdf",
-  "fetched_slot": "2026-08-24T15:45:00-04:00",
-  "polled_at_utc": "2026-08-24T19:45:11.653171+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_04_00PM.pdf",
+  "fetched_slot": "2026-08-24T16:00:00-04:00",
+  "polled_at_utc": "2026-08-24T20:00:25.082185+00:00"
 }

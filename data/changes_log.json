@@ -1,16 +1,6 @@
 [
   {
     "ts": "2026-05-24T18:15:55.011524+00:00",
-    "type": "reason_change",
-    "team_abbr": "PHX",
-    "player": "Sami Whitcomb",
-    "status": "Out",
-    "from_reason": "Reconditioning Injury/Illness - Left Knee; Arthroscopy",
-    "to_reason": "Player Injury/Illness - Left Knee; Arthroscopy",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-24T18:15:55.011524+00:00",
     "type": "added",
     "team_abbr": "ATL",
     "player": "Amy Okonkwo",
@@ -17996,5 +17986,13 @@
     "player": "Ariel Atkins",
     "previous_status": "Available",
     "previous_reason": "-"
+  },
+  {
+    "ts": "2026-08-24T20:00:25.082185+00:00",
+    "type": "cleared",
+    "team_abbr": "CHI",
+    "player": "DiJonai Carrington",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Left Foot; Left Foot"
   }
 ]
