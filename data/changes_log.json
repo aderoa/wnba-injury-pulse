@@ -1,42 +1,5 @@
 [
   {
-    "ts": "2026-05-25T16:45:53.965338+00:00",
-    "type": "added",
-    "team_abbr": "NYL",
-    "player": "Sabrina Ionescu",
-    "status": "Questionable",
-    "reason": "Injury/Illness - Left Foot; Injury Management",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-25T19:30:53.431786+00:00",
-    "type": "status_change",
-    "team_abbr": "CON",
-    "player": "Brittney Griner",
-    "from_status": "Probable",
-    "to_status": "Out",
-    "reason": "Injury/Illness - Right Rib; Strain",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-25T23:15:53.788334+00:00",
-    "type": "status_change",
-    "team_abbr": "NYL",
-    "player": "Sabrina Ionescu",
-    "from_status": "Questionable",
-    "to_status": "Out",
-    "reason": "Injury/Illness - Left Foot; Injury Management",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-25T23:30:51.988427+00:00",
-    "type": "cleared",
-    "team_abbr": "PDX",
-    "player": "Teja Oblak",
-    "previous_status": "Available",
-    "previous_reason": "Injury/Illness - Right Quad; Injury"
-  },
-  {
     "ts": "2026-05-25T23:30:51.988427+00:00",
     "type": "cleared",
     "team_abbr": "PDX",
@@ -17985,5 +17948,38 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-25T00:00:20.223670+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Sami Whitcomb",
+    "status": "Probable",
+    "reason": "Injury/Illness - Left Knee; Injury Management",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-25T00:00:20.223670+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Shay Ciezki",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental"
+  },
+  {
+    "ts": "2026-08-25T00:00:20.223670+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Kara Dunn",
+    "previous_status": "Out",
+    "previous_reason": "Player Coach's Decision - Developmental Player"
+  },
+  {
+    "ts": "2026-08-25T00:00:20.223670+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Kelsey Plum",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Lower Leg;-"
   }
 ]
