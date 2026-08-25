@@ -1,43 +1,5 @@
 [
   {
-    "ts": "2026-05-26T01:30:53.007560+00:00",
-    "type": "status_change",
-    "team_abbr": "GSV",
-    "player": "Cecilia Zandalasini",
-    "from_status": "Questionable",
-    "to_status": "Available",
-    "reason": "-",
-    "reason_category": "other"
-  },
-  {
-    "ts": "2026-05-26T01:30:53.007560+00:00",
-    "type": "status_change",
-    "team_abbr": "GSV",
-    "player": "Juste Jocyte",
-    "from_status": "Questionable",
-    "to_status": "Available",
-    "reason": "-",
-    "reason_category": "other"
-  },
-  {
-    "ts": "2026-05-26T21:01:06.221847+00:00",
-    "type": "cleared",
-    "team_abbr": "PHX",
-    "player": "Shay Ciezki",
-    "previous_status": "Out",
-    "previous_reason": "Reconditioning Coach's Decision - Developmental"
-  },
-  {
-    "ts": "2026-05-26T21:01:06.221847+00:00",
-    "type": "status_change",
-    "team_abbr": "PHX",
-    "player": "Monique AkoaMakani",
-    "from_status": "Out",
-    "to_status": "Probable",
-    "reason": "Returnto Competition",
-    "reason_category": "other"
-  },
-  {
     "ts": "2026-05-26T21:01:06.221847+00:00",
     "type": "reason_change",
     "team_abbr": "PHX",
@@ -17990,5 +17952,40 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Left Knee;-",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-25T23:00:25.013885+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Haley Jones",
+    "status": "Out",
+    "reason": "Coach's Decision - coach'sdecision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-25T23:00:25.013885+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Kitija Laksa",
+    "status": "Out",
+    "reason": "Coach's Decision - coach'sdecision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-25T23:00:25.013885+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Christyn Williams",
+    "status": "Out",
+    "reason": "Coach's Decision - coach'sdecision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-25T23:00:25.013885+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Azzi Fudd",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Right Knee; rightknee"
   }
 ]
