@@ -3,14 +3,6 @@
     "ts": "2026-05-25T23:30:51.988427+00:00",
     "type": "cleared",
     "team_abbr": "PDX",
-    "player": "Nyadiew Puoch",
-    "previous_status": "Available",
-    "previous_reason": "Injury/Illness - Right Ankle; Injury"
-  },
-  {
-    "ts": "2026-05-25T23:30:51.988427+00:00",
-    "type": "cleared",
-    "team_abbr": "PDX",
     "player": "Karlie Samuelson",
     "previous_status": "Available",
     "previous_reason": "Injury/Illness - Left Foot; Injury"
@@ -17981,5 +17973,15 @@
     "player": "Kelsey Plum",
     "previous_status": "Out",
     "previous_reason": "Injury/Illness - Left Lower Leg;-"
+  },
+  {
+    "ts": "2026-08-25T01:00:18.808508+00:00",
+    "type": "status_change",
+    "team_abbr": "LAS",
+    "player": "Rae Burrell",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - illness; Illness",
+    "reason_category": "injury"
   }
 ]

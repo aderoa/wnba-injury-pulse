@@ -1,5 +1,5 @@
 {
-  "report_ts": "08/24/26 08:45 PM",
+  "report_ts": "08/24/26 09:00 PM",
   "page_count": 1,
   "raw_line_count": 16,
   "teams": [
@@ -79,7 +79,7 @@
         {
           "name_last_first": "Burrell, Rae",
           "name": "Rae Burrell",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - illness; Illness",
           "reason_category": "injury"
         }
@@ -192,7 +192,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_08_45PM.pdf",
-  "fetched_slot": "2026-08-24T20:45:00-04:00",
-  "polled_at_utc": "2026-08-25T00:45:19.215018+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_09_00PM.pdf",
+  "fetched_slot": "2026-08-24T21:00:00-04:00",
+  "polled_at_utc": "2026-08-25T01:00:18.808508+00:00"
 }
