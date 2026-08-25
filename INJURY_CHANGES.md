@@ -4,6 +4,14 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-08-25 23:45 UTC
+
+- **Maria TorontoTempo Conde** (CON) newly listed as **Questionable** — Injury/Illness - Left Calf; Injury
+- **Marina Mabrey** (CON) newly listed as **Out** — Injury/Illness - Right Adductor; Injury
+- **Aneesah Morrow** (CON) newly listed as **Out** — Injury/Illness - Left Knee; Injury
+- **Nyara Sabally** (CON) newly listed as **Out** — Injury/Illness - Left Calf; Not With Team
+- **Brittney Sykes** (CON) newly listed as **Out** — Injury/Illness - Left Foot; Injury
+
 ## 2026-08-25 23:00 UTC
 
 - **Haley Jones** (DAL) newly listed as **Out** — Coach's Decision - coach'sdecision
