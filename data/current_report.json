@@ -1,104 +1,8 @@
 {
-  "report_ts": "08/24/26 11:45 PM",
+  "report_ts": "08/25/26 12:00 AM",
   "page_count": 1,
-  "raw_line_count": 18,
+  "raw_line_count": 14,
   "teams": [
-    {
-      "team_full": "Golden State Valkyries",
-      "team_abbr": "GSV",
-      "game_date": "08/24/2026",
-      "game_time": "08:00(ET)",
-      "matchup": "GSV@MIN",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Prechtel, Ashten",
-          "name": "Ashten Prechtel",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Minnesota Lynx",
-      "team_abbr": "MIN",
-      "game_date": "08/24/2026",
-      "game_time": "08:00(ET)",
-      "matchup": "GSV@MIN",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Buenavida, Elena",
-          "name": "Elena Buenavida",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "King, Liatu",
-          "name": "Liatu King",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Williams, Courtney",
-          "name": "Courtney Williams",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Foot; Right Foot",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Atlanta Dream",
-      "team_abbr": "ATL",
-      "game_date": "08/24/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "ATL@LAS",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Jones, Brionna",
-          "name": "Brionna Jones",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Leg; N/A",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Nivar, Indya",
-          "name": "Indya Nivar",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Sherrod, Jaylyn",
-          "name": "Jaylyn Sherrod",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        }
-      ]
-    },
-    {
-      "team_full": "Los Angeles Sparks",
-      "team_abbr": "LAS",
-      "game_date": "08/24/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "ATL@LAS",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Burrell, Rae",
-          "name": "Rae Burrell",
-          "status": "Out",
-          "reason": "Injury/Illness - illness; Illness",
-          "reason_category": "injury"
-        }
-      ]
-    },
     {
       "team_full": "Chicago Sky",
       "team_abbr": "CHI",
@@ -204,9 +108,45 @@
           "reason_category": "injury"
         }
       ]
+    },
+    {
+      "team_full": "Golden State Valkyries",
+      "team_abbr": "GSV",
+      "game_date": "08/26/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "GSV@CON",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Connecticut Sun",
+      "team_abbr": "CON",
+      "game_date": "08/26/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "GSV@CON",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Connecticut Sun",
+      "team_abbr": "CON",
+      "game_date": "08/26/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "TOR@SEA",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Seattle Storm",
+      "team_abbr": "SEA",
+      "game_date": "08/26/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "TOR@SEA",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_11_45PM.pdf",
-  "fetched_slot": "2026-08-24T23:45:00-04:00",
-  "polled_at_utc": "2026-08-25T03:45:20.241663+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-25_12_00AM.pdf",
+  "fetched_slot": "2026-08-25T00:00:00-04:00",
+  "polled_at_utc": "2026-08-25T04:00:23.820867+00:00"
 }
