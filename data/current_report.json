@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/24/26 09:00 PM",
+  "report_ts": "08/24/26 09:15 PM",
   "page_count": 1,
-  "raw_line_count": 16,
+  "raw_line_count": 18,
   "teams": [
     {
       "team_full": "Golden State Valkyries",
@@ -65,6 +65,20 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Leg; N/A",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Nivar, Indya",
+          "name": "Indya Nivar",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Sherrod, Jaylyn",
+          "name": "Jaylyn Sherrod",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -192,7 +206,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_09_00PM.pdf",
-  "fetched_slot": "2026-08-24T21:00:00-04:00",
-  "polled_at_utc": "2026-08-25T01:00:18.808508+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_09_15PM.pdf",
+  "fetched_slot": "2026-08-24T21:15:00-04:00",
+  "polled_at_utc": "2026-08-25T01:15:26.165336+00:00"
 }

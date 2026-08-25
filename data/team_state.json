@@ -2,8 +2,8 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-08-25T01:00:18.808508+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_09_00PM.pdf",
+    "last_submitted_ts": "2026-08-25T01:15:26.165336+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_09_15PM.pdf",
     "game_dates": [
       "08/25/2026"
     ],
@@ -65,8 +65,8 @@
   "PHX": {
     "team_full": "Phoenix Mercury",
     "submitted": true,
-    "last_submitted_ts": "2026-08-25T01:00:18.808508+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_09_00PM.pdf",
+    "last_submitted_ts": "2026-08-25T01:15:26.165336+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_09_15PM.pdf",
     "game_dates": [
       "08/25/2026"
     ],
@@ -163,8 +163,8 @@
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-08-25T01:00:18.808508+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_09_00PM.pdf",
+    "last_submitted_ts": "2026-08-25T01:15:26.165336+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_09_15PM.pdf",
     "game_dates": [
       "08/24/2026"
     ],
@@ -178,14 +178,28 @@
         "status": "Out",
         "reason": "Injury/Illness - Left Leg; N/A",
         "reason_category": "injury"
+      },
+      {
+        "name_last_first": "Nivar, Indya",
+        "name": "Indya Nivar",
+        "status": "Out",
+        "reason": "Coach's Decision",
+        "reason_category": "rest_coach"
+      },
+      {
+        "name_last_first": "Sherrod, Jaylyn",
+        "name": "Jaylyn Sherrod",
+        "status": "Out",
+        "reason": "Coach's Decision",
+        "reason_category": "rest_coach"
       }
     ]
   },
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-08-25T01:00:18.808508+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_09_00PM.pdf",
+    "last_submitted_ts": "2026-08-25T01:15:26.165336+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_09_15PM.pdf",
     "game_dates": [
       "08/24/2026"
     ],
@@ -219,8 +233,8 @@
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-08-25T01:00:18.808508+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_09_00PM.pdf",
+    "last_submitted_ts": "2026-08-25T01:15:26.165336+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_09_15PM.pdf",
     "game_dates": [
       "08/25/2026"
     ],
@@ -240,8 +254,8 @@
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-08-25T01:00:18.808508+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_09_00PM.pdf",
+    "last_submitted_ts": "2026-08-25T01:15:26.165336+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_09_15PM.pdf",
     "game_dates": [
       "08/25/2026"
     ],
@@ -282,8 +296,8 @@
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-08-25T01:00:18.808508+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_09_00PM.pdf",
+    "last_submitted_ts": "2026-08-25T01:15:26.165336+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_09_15PM.pdf",
     "game_dates": [
       "08/25/2026"
     ],
@@ -381,8 +395,8 @@
   "GSV": {
     "team_full": "Golden State Valkyries",
     "submitted": true,
-    "last_submitted_ts": "2026-08-25T01:00:18.808508+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_09_00PM.pdf",
+    "last_submitted_ts": "2026-08-25T01:15:26.165336+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_09_15PM.pdf",
     "game_dates": [
       "08/24/2026"
     ],
@@ -402,8 +416,8 @@
   "LAS": {
     "team_full": "Los Angeles Sparks",
     "submitted": true,
-    "last_submitted_ts": "2026-08-25T01:00:18.808508+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_09_00PM.pdf",
+    "last_submitted_ts": "2026-08-25T01:15:26.165336+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_09_15PM.pdf",
     "game_dates": [
       "08/24/2026"
     ],
