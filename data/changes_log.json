@@ -3,22 +3,6 @@
     "ts": "2026-05-25T23:30:51.988427+00:00",
     "type": "cleared",
     "team_abbr": "PDX",
-    "player": "Temi Fagbenle",
-    "previous_status": "Out",
-    "previous_reason": "Injury/Illness - Right Shoulder; Injury"
-  },
-  {
-    "ts": "2026-05-25T23:30:51.988427+00:00",
-    "type": "cleared",
-    "team_abbr": "PDX",
-    "player": "Isabelle Harrison",
-    "previous_status": "Out",
-    "previous_reason": "Injury/Illness - Right Hand; Injury"
-  },
-  {
-    "ts": "2026-05-25T23:30:51.988427+00:00",
-    "type": "cleared",
-    "team_abbr": "PDX",
     "player": "Nyara Sabally",
     "previous_status": "Available",
     "previous_reason": "Injury/Illness - Neck; Injury"
@@ -17985,5 +17969,24 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-25T18:15:24.474805+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "DiJonai Carrington",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Left Foot; Left Foot",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-25T18:15:24.474805+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Olivia Nelson-Ododa",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Knee;-",
+    "reason_category": "injury"
   }
 ]
