@@ -1,24 +1,5 @@
 [
   {
-    "ts": "2026-05-26T01:15:53.170687+00:00",
-    "type": "status_change",
-    "team_abbr": "CON",
-    "player": "Olivia Nelson-Ododa",
-    "from_status": "Probable",
-    "to_status": "Available",
-    "reason": "Injury/Illness - Right Ankle; Sprain",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-26T01:15:53.170687+00:00",
-    "type": "added",
-    "team_abbr": "GSV",
-    "player": "Miela Sowah",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
     "ts": "2026-05-26T01:30:53.007560+00:00",
     "type": "added",
     "team_abbr": "NYL",
@@ -17989,5 +17970,24 @@
     "status": "Out",
     "reason": "Injury/Illness - N/a; Illness",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-25T22:00:21.857387+00:00",
+    "type": "status_change",
+    "team_abbr": "CHI",
+    "player": "DiJonai Carrington",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Foot; Left Foot",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-25T22:00:21.857387+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Rayah Marshall",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]

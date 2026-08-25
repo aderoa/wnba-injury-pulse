@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/25/26 05:45 PM",
+  "report_ts": "08/25/26 06:00 PM",
   "page_count": 1,
-  "raw_line_count": 15,
+  "raw_line_count": 16,
   "teams": [
     {
       "team_full": "Chicago Sky",
@@ -14,7 +14,7 @@
         {
           "name_last_first": "Carrington, DiJonai",
           "name": "DiJonai Carrington",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Left Foot; Left Foot",
           "reason_category": "injury"
         },
@@ -41,6 +41,13 @@
           "status": "Questionable",
           "reason": "Injury/Illness - Left Knee;-",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Marshall, Rayah",
+          "name": "Rayah Marshall",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         },
         {
           "name_last_first": "Nelson-Ododa, Olivia",
@@ -151,7 +158,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-25_05_45PM.pdf",
-  "fetched_slot": "2026-08-25T17:45:00-04:00",
-  "polled_at_utc": "2026-08-25T21:45:20.373625+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-25_06_00PM.pdf",
+  "fetched_slot": "2026-08-25T18:00:00-04:00",
+  "polled_at_utc": "2026-08-25T22:00:21.857387+00:00"
 }

@@ -2,8 +2,8 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-08-25T21:45:20.373625+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-25_05_45PM.pdf",
+    "last_submitted_ts": "2026-08-25T22:00:21.857387+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-25_06_00PM.pdf",
     "game_dates": [
       "08/25/2026"
     ],
@@ -65,8 +65,8 @@
   "PHX": {
     "team_full": "Phoenix Mercury",
     "submitted": true,
-    "last_submitted_ts": "2026-08-25T21:45:20.373625+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-25_05_45PM.pdf",
+    "last_submitted_ts": "2026-08-25T22:00:21.857387+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-25_06_00PM.pdf",
     "game_dates": [
       "08/25/2026"
     ],
@@ -233,8 +233,8 @@
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-08-25T21:45:20.373625+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-25_05_45PM.pdf",
+    "last_submitted_ts": "2026-08-25T22:00:21.857387+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-25_06_00PM.pdf",
     "game_dates": [
       "08/25/2026"
     ],
@@ -245,7 +245,7 @@
       {
         "name_last_first": "Carrington, DiJonai",
         "name": "DiJonai Carrington",
-        "status": "Questionable",
+        "status": "Available",
         "reason": "Injury/Illness - Left Foot; Left Foot",
         "reason_category": "injury"
       },
@@ -261,8 +261,8 @@
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-08-25T21:45:20.373625+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-25_05_45PM.pdf",
+    "last_submitted_ts": "2026-08-25T22:00:21.857387+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-25_06_00PM.pdf",
     "game_dates": [
       "08/25/2026"
     ],
@@ -306,13 +306,13 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-08-25T21:45:20.373625+00:00"
+    "last_seen_pending_ts": "2026-08-25T22:00:21.857387+00:00"
   },
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-08-25T21:45:20.373625+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-25_05_45PM.pdf",
+    "last_submitted_ts": "2026-08-25T22:00:21.857387+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-25_06_00PM.pdf",
     "game_dates": [
       "08/25/2026",
       "08/26/2026"
@@ -329,6 +329,13 @@
         "status": "Questionable",
         "reason": "Injury/Illness - Left Knee;-",
         "reason_category": "injury"
+      },
+      {
+        "name_last_first": "Marshall, Rayah",
+        "name": "Rayah Marshall",
+        "status": "Out",
+        "reason": "Coach's Decision",
+        "reason_category": "rest_coach"
       },
       {
         "name_last_first": "Nelson-Ododa, Olivia",
