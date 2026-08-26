@@ -1,43 +1,5 @@
 [
   {
-    "ts": "2026-05-27T16:46:08.539845+00:00",
-    "type": "status_change",
-    "team_abbr": "NYL",
-    "player": "Betnijah Laney-Hamilton",
-    "from_status": "Questionable",
-    "to_status": "Available",
-    "reason": "Personal Reasons",
-    "reason_category": "offcourt"
-  },
-  {
-    "ts": "2026-05-27T16:46:08.539845+00:00",
-    "type": "status_change",
-    "team_abbr": "NYL",
-    "player": "Julie TorontoTempo Allemand",
-    "from_status": "Questionable",
-    "to_status": "Out",
-    "reason": "Injury/Illness - Left Hip; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-27T22:16:04.411163+00:00",
-    "type": "cleared",
-    "team_abbr": "LVA",
-    "player": "Janiah Barker",
-    "previous_status": "Available",
-    "previous_reason": "Concussion Protocol"
-  },
-  {
-    "ts": "2026-05-27T22:16:04.411163+00:00",
-    "type": "reason_change",
-    "team_abbr": "LVA",
-    "player": "Dana Evans",
-    "status": "Out",
-    "from_reason": "Injury/Illness - Left Leg; Injury",
-    "to_reason": "Injury/Illness - Left Leg; leftleg",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-05-27T22:16:04.411163+00:00",
     "type": "added",
     "team_abbr": "DAL",
@@ -17988,5 +17950,37 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Right Knee;-",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-26T21:00:20.236495+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Elizabeth Balogun",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental Player"
+  },
+  {
+    "ts": "2026-08-26T21:00:20.236495+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Leonie Fiebich",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Left Foot; L.Foot"
+  },
+  {
+    "ts": "2026-08-26T21:00:20.236495+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Jonquel Jones",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Left Ankle; L.Ankle"
+  },
+  {
+    "ts": "2026-08-26T21:00:20.236495+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Anneli Maley",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental Player"
   }
 ]

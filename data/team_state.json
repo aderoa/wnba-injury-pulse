@@ -117,7 +117,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-08-26T20:45:24.302452+00:00"
+    "last_seen_pending_ts": "2026-08-26T21:00:20.236495+00:00"
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
@@ -325,8 +325,8 @@
   "SEA": {
     "team_full": "Seattle Storm",
     "submitted": true,
-    "last_submitted_ts": "2026-08-26T20:45:24.302452+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-26_04_45PM.pdf",
+    "last_submitted_ts": "2026-08-26T21:00:20.236495+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-26_05_00PM.pdf",
     "game_dates": [
       "08/26/2026"
     ],
@@ -353,8 +353,8 @@
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-08-26T20:45:24.302452+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-26_04_45PM.pdf",
+    "last_submitted_ts": "2026-08-26T21:00:20.236495+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-26_05_00PM.pdf",
     "game_dates": [
       "08/26/2026"
     ],
@@ -417,43 +417,15 @@
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-08-23T03:52:54.163692+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-22_11_45PM.pdf",
+    "last_submitted_ts": "2026-08-26T21:00:20.236495+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-26_05_00PM.pdf",
     "game_dates": [
-      "08/22/2026"
+      "08/27/2026"
     ],
     "matchups": [
-      "IND@NYL"
+      "GSV@NYL"
     ],
     "players": [
-      {
-        "name_last_first": "Balogun, Elizabeth",
-        "name": "Elizabeth Balogun",
-        "status": "Out",
-        "reason": "Coach's Decision - Developmental Player",
-        "reason_category": "rest_coach"
-      },
-      {
-        "name_last_first": "Fiebich, Leonie",
-        "name": "Leonie Fiebich",
-        "status": "Available",
-        "reason": "Injury/Illness - Left Foot; L.Foot",
-        "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Jones, Jonquel",
-        "name": "Jonquel Jones",
-        "status": "Available",
-        "reason": "Injury/Illness - Left Ankle; L.Ankle",
-        "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Maley, Anneli",
-        "name": "Anneli Maley",
-        "status": "Out",
-        "reason": "Coach's Decision - Developmental Player",
-        "reason_category": "rest_coach"
-      },
       {
         "name_last_first": "Sabally, Satou",
         "name": "Satou Sabally",
@@ -461,8 +433,7 @@
         "reason": "Injury/Illness - Head; Not With Team",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-08-26T20:45:24.302452+00:00"
+    ]
   },
   "WAS": {
     "team_full": "Washington Mystics",
@@ -484,7 +455,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-08-26T20:45:24.302452+00:00"
+    "last_seen_pending_ts": "2026-08-26T21:00:20.236495+00:00"
   },
   "GSV": {
     "team_full": "Golden State Valkyries",
@@ -506,7 +477,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-08-26T20:45:24.302452+00:00"
+    "last_seen_pending_ts": "2026-08-26T21:00:20.236495+00:00"
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",

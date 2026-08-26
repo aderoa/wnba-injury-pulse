@@ -1,5 +1,5 @@
 {
-  "report_ts": "08/26/26 04:45 PM",
+  "report_ts": "08/26/26 05:00 PM",
   "page_count": 1,
   "raw_line_count": 15,
   "teams": [
@@ -111,8 +111,16 @@
       "game_date": "08/27/2026",
       "game_time": "08:00(ET)",
       "matchup": "GSV@NYL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Sabally, Satou",
+          "name": "Satou Sabally",
+          "status": "Out",
+          "reason": "Injury/Illness - Head; Not With Team",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Washington Mystics",
@@ -133,7 +141,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-26_04_45PM.pdf",
-  "fetched_slot": "2026-08-26T16:45:00-04:00",
-  "polled_at_utc": "2026-08-26T20:45:24.302452+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-26_05_00PM.pdf",
+  "fetched_slot": "2026-08-26T17:00:00-04:00",
+  "polled_at_utc": "2026-08-26T21:00:20.236495+00:00"
 }

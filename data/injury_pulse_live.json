@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-08-26T20:45:24.302452+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-26_04_45PM.pdf",
-  "report_ts": "08/26/26 04:45 PM",
+  "polled_at_utc": "2026-08-26T21:00:20.236495+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-26_05_00PM.pdf",
+  "report_ts": "08/26/26 05:00 PM",
   "all_players": [
     {
       "name": "Aliyah Boston",
@@ -29,16 +29,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-08-26T20:45:24.302452+00:00"
-    },
-    {
-      "name": "Anneli Maley",
-      "team_abbr": "NYL",
-      "team_full": "New York Liberty",
-      "status": "Out",
-      "reason": "Coach's Decision - Developmental Player",
-      "reason_category": "rest_coach",
-      "last_updated": "2026-08-23T03:52:54.163692+00:00"
+      "last_updated": "2026-08-26T21:00:20.236495+00:00"
     },
     {
       "name": "Ashten Prechtel",
@@ -74,7 +65,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee;-",
       "reason_category": "injury",
-      "last_updated": "2026-08-26T20:45:24.302452+00:00"
+      "last_updated": "2026-08-26T21:00:20.236495+00:00"
     },
     {
       "name": "Brittney Sykes",
@@ -92,7 +83,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Foot; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-08-26T20:45:24.302452+00:00"
+      "last_updated": "2026-08-26T21:00:20.236495+00:00"
     },
     {
       "name": "Christyn Williams",
@@ -138,15 +129,6 @@
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
       "last_updated": "2026-08-25T03:45:20.241663+00:00"
-    },
-    {
-      "name": "Elizabeth Balogun",
-      "team_abbr": "NYL",
-      "team_full": "New York Liberty",
-      "status": "Out",
-      "reason": "Coach's Decision - Developmental Player",
-      "reason_category": "rest_coach",
-      "last_updated": "2026-08-23T03:52:54.163692+00:00"
     },
     {
       "name": "Haley Jones",
@@ -227,7 +209,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Adductor; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-08-26T20:45:24.302452+00:00"
+      "last_updated": "2026-08-26T21:00:20.236495+00:00"
     },
     {
       "name": "Marta Suarez",
@@ -254,7 +236,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Shoulder; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-08-26T20:45:24.302452+00:00"
+      "last_updated": "2026-08-26T21:00:20.236495+00:00"
     },
     {
       "name": "Nyara Sabally",
@@ -272,7 +254,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Calf; Not With Team",
       "reason_category": "injury",
-      "last_updated": "2026-08-26T20:45:24.302452+00:00"
+      "last_updated": "2026-08-26T21:00:20.236495+00:00"
     },
     {
       "name": "Olivia Nelson-Ododa",
@@ -281,7 +263,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee;-",
       "reason_category": "injury",
-      "last_updated": "2026-08-26T20:45:24.302452+00:00"
+      "last_updated": "2026-08-26T21:00:20.236495+00:00"
     },
     {
       "name": "Rae Burrell",
@@ -308,7 +290,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Head; Not With Team",
       "reason_category": "injury",
-      "last_updated": "2026-08-23T03:52:54.163692+00:00"
+      "last_updated": "2026-08-26T21:00:20.236495+00:00"
     },
     {
       "name": "Serah Williams",
@@ -353,7 +335,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Left Ankle; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-08-26T20:45:24.302452+00:00"
+      "last_updated": "2026-08-26T21:00:20.236495+00:00"
     },
     {
       "name": "A'ja Wilson",
@@ -374,31 +356,13 @@
       "last_updated": "2026-08-24T03:57:00.777651+00:00"
     },
     {
-      "name": "Jonquel Jones",
-      "team_abbr": "NYL",
-      "team_full": "New York Liberty",
-      "status": "Available",
-      "reason": "Injury/Illness - Left Ankle; L.Ankle",
-      "reason_category": "injury",
-      "last_updated": "2026-08-23T03:52:54.163692+00:00"
-    },
-    {
-      "name": "Leonie Fiebich",
-      "team_abbr": "NYL",
-      "team_full": "New York Liberty",
-      "status": "Available",
-      "reason": "Injury/Illness - Left Foot; L.Foot",
-      "reason_category": "injury",
-      "last_updated": "2026-08-23T03:52:54.163692+00:00"
-    },
-    {
       "name": "Maria TorontoTempo Conde",
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
       "status": "Available",
       "reason": "Injury/Illness - Left Calf; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-08-26T20:45:24.302452+00:00"
+      "last_updated": "2026-08-26T21:00:20.236495+00:00"
     },
     {
       "name": "Myisha Hines-Allen",
@@ -496,7 +460,7 @@
     {
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
-      "last_submitted_ts": "2026-08-26T20:45:24.302452+00:00",
+      "last_submitted_ts": "2026-08-26T21:00:20.236495+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "GSV@CON",
@@ -597,7 +561,7 @@
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
       "last_submitted_ts": "2026-08-25T03:45:20.241663+00:00",
-      "last_seen_pending_ts": "2026-08-26T20:45:24.302452+00:00",
+      "last_seen_pending_ts": "2026-08-26T21:00:20.236495+00:00",
       "matchups": [
         "GSV@MIN"
       ],
@@ -763,40 +727,12 @@
     {
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
-      "last_submitted_ts": "2026-08-23T03:52:54.163692+00:00",
-      "last_seen_pending_ts": "2026-08-26T20:45:24.302452+00:00",
+      "last_submitted_ts": "2026-08-26T21:00:20.236495+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "IND@NYL"
+        "GSV@NYL"
       ],
       "players": [
-        {
-          "name_last_first": "Balogun, Elizabeth",
-          "name": "Elizabeth Balogun",
-          "status": "Out",
-          "reason": "Coach's Decision - Developmental Player",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Fiebich, Leonie",
-          "name": "Leonie Fiebich",
-          "status": "Available",
-          "reason": "Injury/Illness - Left Foot; L.Foot",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Jones, Jonquel",
-          "name": "Jonquel Jones",
-          "status": "Available",
-          "reason": "Injury/Illness - Left Ankle; L.Ankle",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Maley, Anneli",
-          "name": "Anneli Maley",
-          "status": "Out",
-          "reason": "Coach's Decision - Developmental Player",
-          "reason_category": "rest_coach"
-        },
         {
           "name_last_first": "Sabally, Satou",
           "name": "Satou Sabally",
@@ -835,7 +771,7 @@
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
       "last_submitted_ts": "2026-08-26T03:55:36.530635+00:00",
-      "last_seen_pending_ts": "2026-08-26T20:45:24.302452+00:00",
+      "last_seen_pending_ts": "2026-08-26T21:00:20.236495+00:00",
       "matchups": [
         "WAS@PHX"
       ],
@@ -873,7 +809,7 @@
     {
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
-      "last_submitted_ts": "2026-08-26T20:45:24.302452+00:00",
+      "last_submitted_ts": "2026-08-26T21:00:20.236495+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "TOR@SEA"
@@ -899,7 +835,7 @@
       "team_abbr": "WAS",
       "team_full": "Washington Mystics",
       "last_submitted_ts": "2026-08-24T03:57:00.777651+00:00",
-      "last_seen_pending_ts": "2026-08-26T20:45:24.302452+00:00",
+      "last_seen_pending_ts": "2026-08-26T21:00:20.236495+00:00",
       "matchups": [
         "WAS@PDX"
       ],
@@ -915,6 +851,38 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-08-26T21:00:20.236495+00:00",
+      "type": "cleared",
+      "team_abbr": "NYL",
+      "player": "Anneli Maley",
+      "previous_status": "Out",
+      "previous_reason": "Coach's Decision - Developmental Player"
+    },
+    {
+      "ts": "2026-08-26T21:00:20.236495+00:00",
+      "type": "cleared",
+      "team_abbr": "NYL",
+      "player": "Jonquel Jones",
+      "previous_status": "Available",
+      "previous_reason": "Injury/Illness - Left Ankle; L.Ankle"
+    },
+    {
+      "ts": "2026-08-26T21:00:20.236495+00:00",
+      "type": "cleared",
+      "team_abbr": "NYL",
+      "player": "Leonie Fiebich",
+      "previous_status": "Available",
+      "previous_reason": "Injury/Illness - Left Foot; L.Foot"
+    },
+    {
+      "ts": "2026-08-26T21:00:20.236495+00:00",
+      "type": "cleared",
+      "team_abbr": "NYL",
+      "player": "Elizabeth Balogun",
+      "previous_status": "Out",
+      "previous_reason": "Coach's Decision - Developmental Player"
+    },
     {
       "ts": "2026-08-26T20:45:24.302452+00:00",
       "type": "status_change",
@@ -3132,41 +3100,6 @@
       "player": "Flau'jae Johnson",
       "previous_status": "Out",
       "previous_reason": "Injury/Illness - Left Ankle; Injury"
-    },
-    {
-      "ts": "2026-08-16T00:01:02.218215+00:00",
-      "type": "added",
-      "team_abbr": "SEA",
-      "player": "Natisha Hiedeman",
-      "status": "Out",
-      "reason": "Injury/Illness - Left Shoulder; Injury",
-      "reason_category": "injury"
-    },
-    {
-      "ts": "2026-08-15T23:45:53.293682+00:00",
-      "type": "cleared",
-      "team_abbr": "PDX",
-      "player": "Carla Leite",
-      "previous_status": "Available",
-      "previous_reason": "Injury/Illness - Left Knee; Soreness"
-    },
-    {
-      "ts": "2026-08-15T23:30:56.274201+00:00",
-      "type": "cleared",
-      "team_abbr": "CHI",
-      "player": "Maddy Westbeld",
-      "previous_status": "Out",
-      "previous_reason": "Coach's Decision"
-    },
-    {
-      "ts": "2026-08-15T23:01:04.237867+00:00",
-      "type": "status_change",
-      "team_abbr": "LVA",
-      "player": "Justine Pissott",
-      "from_status": "Questionable",
-      "to_status": "Available",
-      "reason": "Injury/Illness - Right Leg; R.Leg",
-      "reason_category": "injury"
     }
   ]
 }
