@@ -116,7 +116,8 @@
         "reason": "Injury/Illness - Left Knee; Injury Management",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-08-26T04:00:21.910113+00:00"
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
@@ -324,8 +325,8 @@
   "SEA": {
     "team_full": "Seattle Storm",
     "submitted": true,
-    "last_submitted_ts": "2026-08-26T03:55:36.530635+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-25_11_45PM.pdf",
+    "last_submitted_ts": "2026-08-26T04:00:21.910113+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-26_12_00AM.pdf",
     "game_dates": [
       "08/26/2026"
     ],
@@ -352,39 +353,16 @@
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-08-26T03:55:36.530635+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-25_11_45PM.pdf",
+    "last_submitted_ts": "2026-08-26T04:00:21.910113+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-26_12_00AM.pdf",
     "game_dates": [
-      "08/25/2026",
       "08/26/2026"
     ],
     "matchups": [
-      "CHI@CON",
       "GSV@CON",
       "TOR@SEA"
     ],
     "players": [
-      {
-        "name_last_first": "Griner, Brittney",
-        "name": "Brittney Griner",
-        "status": "Out",
-        "reason": "Injury/Illness - Left Knee;-",
-        "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Marshall, Rayah",
-        "name": "Rayah Marshall",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
-      },
-      {
-        "name_last_first": "Nelson-Ododa, Olivia",
-        "name": "Olivia Nelson-Ododa",
-        "status": "Out",
-        "reason": "Injury/Illness - Right Knee;-",
-        "reason_category": "injury"
-      },
       {
         "name_last_first": "TorontoTempo Conde, Maria",
         "name": "Maria TorontoTempo Conde",
@@ -469,7 +447,8 @@
         "reason": "Injury/Illness - Head; Not With Team",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-08-26T04:00:21.910113+00:00"
   },
   "WAS": {
     "team_full": "Washington Mystics",
@@ -491,7 +470,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-08-24T23:25:04.631235+00:00"
+    "last_seen_pending_ts": "2026-08-26T04:00:21.910113+00:00"
   },
   "GSV": {
     "team_full": "Golden State Valkyries",
@@ -513,7 +492,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-08-25T20:46:54.008347+00:00"
+    "last_seen_pending_ts": "2026-08-26T04:00:21.910113+00:00"
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",

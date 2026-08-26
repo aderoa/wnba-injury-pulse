@@ -1,30 +1,6 @@
 [
   {
     "ts": "2026-05-26T21:46:13.336505+00:00",
-    "type": "cleared",
-    "team_abbr": "CHI",
-    "player": "Azura Stevens",
-    "previous_status": "Available",
-    "previous_reason": "Injury/Illness - Left Knee; Left Knee"
-  },
-  {
-    "ts": "2026-05-26T21:46:13.336505+00:00",
-    "type": "cleared",
-    "team_abbr": "CHI",
-    "player": "Maddy Westbeld",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-05-26T21:46:13.336505+00:00",
-    "type": "cleared",
-    "team_abbr": "ATL",
-    "player": "Amy Okonkwo",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-05-26T21:46:13.336505+00:00",
     "type": "status_change",
     "team_abbr": "MIN",
     "player": "AnastasiiaOlairi Kosu",
@@ -17986,5 +17962,29 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Left Knee; Injury Management",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-26T04:00:21.910113+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Brittney Griner",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Knee;-"
+  },
+  {
+    "ts": "2026-08-26T04:00:21.910113+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Rayah Marshall",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-26T04:00:21.910113+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Olivia Nelson-Ododa",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Right Knee;-"
   }
 ]
