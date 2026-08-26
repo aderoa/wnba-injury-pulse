@@ -117,7 +117,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-08-26T20:39:07.984676+00:00"
+    "last_seen_pending_ts": "2026-08-26T20:45:24.302452+00:00"
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
@@ -325,8 +325,8 @@
   "SEA": {
     "team_full": "Seattle Storm",
     "submitted": true,
-    "last_submitted_ts": "2026-08-26T20:39:07.984676+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-26_04_30PM.pdf",
+    "last_submitted_ts": "2026-08-26T20:45:24.302452+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-26_04_45PM.pdf",
     "game_dates": [
       "08/26/2026"
     ],
@@ -353,8 +353,8 @@
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-08-26T20:39:07.984676+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-26_04_30PM.pdf",
+    "last_submitted_ts": "2026-08-26T20:45:24.302452+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-26_04_45PM.pdf",
     "game_dates": [
       "08/26/2026"
     ],
@@ -366,14 +366,14 @@
       {
         "name_last_first": "Griner, Brittney",
         "name": "Brittney Griner",
-        "status": "Questionable",
+        "status": "Out",
         "reason": "Injury/Illness - Left Knee;-",
         "reason_category": "injury"
       },
       {
         "name_last_first": "Nelson-Ododa, Olivia",
         "name": "Olivia Nelson-Ododa",
-        "status": "Questionable",
+        "status": "Out",
         "reason": "Injury/Illness - Right Knee;-",
         "reason_category": "injury"
       },
@@ -462,7 +462,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-08-26T20:39:07.984676+00:00"
+    "last_seen_pending_ts": "2026-08-26T20:45:24.302452+00:00"
   },
   "WAS": {
     "team_full": "Washington Mystics",
@@ -484,7 +484,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-08-26T20:39:07.984676+00:00"
+    "last_seen_pending_ts": "2026-08-26T20:45:24.302452+00:00"
   },
   "GSV": {
     "team_full": "Golden State Valkyries",
@@ -506,7 +506,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-08-26T20:39:07.984676+00:00"
+    "last_seen_pending_ts": "2026-08-26T20:45:24.302452+00:00"
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",

@@ -1,23 +1,5 @@
 [
   {
-    "ts": "2026-05-27T00:01:08.275852+00:00",
-    "type": "cleared",
-    "team_abbr": "SEA",
-    "player": "Awa Fam",
-    "previous_status": "Available",
-    "previous_reason": "-"
-  },
-  {
-    "ts": "2026-05-27T16:46:08.539845+00:00",
-    "type": "status_change",
-    "team_abbr": "NYL",
-    "player": "Sabrina Ionescu",
-    "from_status": "Questionable",
-    "to_status": "Out",
-    "reason": "Injury/Illness - Back; Soreness",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-05-27T16:46:08.539845+00:00",
     "type": "status_change",
     "team_abbr": "NYL",
@@ -17985,6 +17967,26 @@
     "from_status": "Questionable",
     "to_status": "Available",
     "reason": "Injury/Illness - Left Calf; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-26T20:45:24.302452+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Brittney Griner",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Knee;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-26T20:45:24.302452+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Olivia Nelson-Ododa",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Knee;-",
     "reason_category": "injury"
   }
 ]
