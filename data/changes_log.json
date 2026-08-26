@@ -1,16 +1,6 @@
 [
   {
     "ts": "2026-05-27T00:01:08.275852+00:00",
-    "type": "status_change",
-    "team_abbr": "WAS",
-    "player": "Darianna Littlepage-Buggs",
-    "from_status": "Out",
-    "to_status": "Available",
-    "reason": "-",
-    "reason_category": "other"
-  },
-  {
-    "ts": "2026-05-27T00:01:08.275852+00:00",
     "type": "cleared",
     "team_abbr": "SEA",
     "player": "Awa Fam",
@@ -17985,6 +17975,16 @@
     "player": "Olivia Nelson-Ododa",
     "status": "Questionable",
     "reason": "Injury/Illness - Right Knee;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-26T19:30:20.657865+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Maria TorontoTempo Conde",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Calf; Injury",
     "reason_category": "injury"
   }
 ]
