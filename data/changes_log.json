@@ -1,23 +1,5 @@
 [
   {
-    "ts": "2026-05-26T21:46:13.336505+00:00",
-    "type": "status_change",
-    "team_abbr": "MIN",
-    "player": "AnastasiiaOlairi Kosu",
-    "from_status": "Out",
-    "to_status": "Probable",
-    "reason": "Concussion Protocol",
-    "reason_category": "procedural"
-  },
-  {
-    "ts": "2026-05-26T23:46:04.824925+00:00",
-    "type": "cleared",
-    "team_abbr": "CON",
-    "player": "Olivia Nelson-Ododa",
-    "previous_status": "Available",
-    "previous_reason": "Injury/Illness - Right Ankle; Sprain"
-  },
-  {
     "ts": "2026-05-27T00:01:08.275852+00:00",
     "type": "status_change",
     "team_abbr": "WAS",
@@ -17986,5 +17968,23 @@
     "player": "Olivia Nelson-Ododa",
     "previous_status": "Out",
     "previous_reason": "Injury/Illness - Right Knee;-"
+  },
+  {
+    "ts": "2026-08-26T16:49:23.154200+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Brittney Griner",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Left Knee;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-26T16:49:23.154200+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Olivia Nelson-Ododa",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Right Knee;-",
+    "reason_category": "injury"
   }
 ]

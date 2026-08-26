@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/26/26 12:30 PM",
+  "report_ts": "08/26/26 12:45 PM",
   "page_count": 1,
-  "raw_line_count": 14,
+  "raw_line_count": 15,
   "teams": [
     {
       "team_full": "Connecticut Sun",
@@ -9,8 +9,23 @@
       "game_date": "08/26/2026",
       "game_time": "07:00(ET)",
       "matchup": "GSV@CON",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Griner, Brittney",
+          "name": "Brittney Griner",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Knee;-",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Nelson-Ododa, Olivia",
+          "name": "Olivia Nelson-Ododa",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Knee;-",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Connecticut Sun",
@@ -118,7 +133,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-26_12_30PM.pdf",
-  "fetched_slot": "2026-08-26T12:30:00-04:00",
-  "polled_at_utc": "2026-08-26T16:30:43.603064+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-26_12_45PM.pdf",
+  "fetched_slot": "2026-08-26T12:45:00-04:00",
+  "polled_at_utc": "2026-08-26T16:49:23.154200+00:00"
 }
