@@ -3,24 +3,6 @@
     "ts": "2026-05-26T21:31:08.083829+00:00",
     "type": "added",
     "team_abbr": "NYL",
-    "player": "Julie TorontoTempo Allemand",
-    "status": "Questionable",
-    "reason": "Injury/Illness - Left Hip; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-26T21:31:08.083829+00:00",
-    "type": "added",
-    "team_abbr": "NYL",
-    "player": "Temi Fagbenle",
-    "status": "Out",
-    "reason": "Not With Team",
-    "reason_category": "offcourt"
-  },
-  {
-    "ts": "2026-05-26T21:31:08.083829+00:00",
-    "type": "added",
-    "team_abbr": "NYL",
     "player": "Isabelle Harrison",
     "status": "Out",
     "reason": "Injury/Illness - Right Hand; Injury",
@@ -17982,6 +17964,25 @@
     "player": "Flau'jae Johnson",
     "status": "Probable",
     "reason": "Injury/Illness - Left Ankle; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-26T00:15:21.458231+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Natasha Cloud",
+    "status": "Out",
+    "reason": "Injury/Illness - Right Knee; Right Knee",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-26T00:15:21.458231+00:00",
+    "type": "status_change",
+    "team_abbr": "CHI",
+    "player": "DiJonai Carrington",
+    "from_status": "Available",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Foot; Left Foot",
     "reason_category": "injury"
   }
 ]

@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-08-26T00:00:20.818552+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-25_08_00PM.pdf",
-  "report_ts": "08/25/26 08:00 PM",
+  "polled_at_utc": "2026-08-26T00:15:21.458231+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-25_08_15PM.pdf",
+  "report_ts": "08/25/26 08:15 PM",
   "all_players": [
     {
       "name": "Aliyah Boston",
@@ -29,7 +29,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-08-26T00:00:20.818552+00:00"
+      "last_updated": "2026-08-26T00:15:21.458231+00:00"
     },
     {
       "name": "Anneli Maley",
@@ -56,7 +56,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; lowerleftleg",
       "reason_category": "injury",
-      "last_updated": "2026-08-26T00:00:20.818552+00:00"
+      "last_updated": "2026-08-26T00:15:21.458231+00:00"
     },
     {
       "name": "Brionna Jones",
@@ -74,7 +74,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee;-",
       "reason_category": "injury",
-      "last_updated": "2026-08-26T00:00:20.818552+00:00"
+      "last_updated": "2026-08-26T00:15:21.458231+00:00"
     },
     {
       "name": "Brittney Sykes",
@@ -92,7 +92,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Foot; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-08-26T00:00:20.818552+00:00"
+      "last_updated": "2026-08-26T00:15:21.458231+00:00"
     },
     {
       "name": "Christyn Williams",
@@ -101,7 +101,7 @@
       "status": "Out",
       "reason": "Coach's Decision - coach'sdecision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-08-26T00:00:20.818552+00:00"
+      "last_updated": "2026-08-26T00:15:21.458231+00:00"
     },
     {
       "name": "Courtney Williams",
@@ -120,6 +120,15 @@
       "reason": "Injury/Illness - Left Leg; leftleg",
       "reason_category": "injury",
       "last_updated": "2026-08-24T03:57:00.777651+00:00"
+    },
+    {
+      "name": "DiJonai Carrington",
+      "team_abbr": "CHI",
+      "team_full": "Chicago Sky",
+      "status": "Out",
+      "reason": "Injury/Illness - Left Foot; Left Foot",
+      "reason_category": "injury",
+      "last_updated": "2026-08-26T00:15:21.458231+00:00"
     },
     {
       "name": "Elena Buenavida",
@@ -146,7 +155,7 @@
       "status": "Out",
       "reason": "Coach's Decision - coach'sdecision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-08-26T00:00:20.818552+00:00"
+      "last_updated": "2026-08-26T00:15:21.458231+00:00"
     },
     {
       "name": "Indya Nivar",
@@ -173,7 +182,7 @@
       "status": "Out",
       "reason": "Coach's Decision - coach'sdecision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-08-26T00:00:20.818552+00:00"
+      "last_updated": "2026-08-26T00:15:21.458231+00:00"
     },
     {
       "name": "Liatu King",
@@ -209,7 +218,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Adductor; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-08-26T00:00:20.818552+00:00"
+      "last_updated": "2026-08-26T00:15:21.458231+00:00"
     },
     {
       "name": "Marta Suarez",
@@ -218,7 +227,16 @@
       "status": "Out",
       "reason": "Injury/Illness--; Concussion Protocol",
       "reason_category": "injury",
-      "last_updated": "2026-08-26T00:00:20.818552+00:00"
+      "last_updated": "2026-08-26T00:15:21.458231+00:00"
+    },
+    {
+      "name": "Natasha Cloud",
+      "team_abbr": "CHI",
+      "team_full": "Chicago Sky",
+      "status": "Out",
+      "reason": "Injury/Illness - Right Knee; Right Knee",
+      "reason_category": "injury",
+      "last_updated": "2026-08-26T00:15:21.458231+00:00"
     },
     {
       "name": "Natisha Hiedeman",
@@ -227,7 +245,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Shoulder; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-08-26T00:00:20.818552+00:00"
+      "last_updated": "2026-08-26T00:15:21.458231+00:00"
     },
     {
       "name": "Nyara Sabally",
@@ -245,7 +263,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Calf; Not With Team",
       "reason_category": "injury",
-      "last_updated": "2026-08-26T00:00:20.818552+00:00"
+      "last_updated": "2026-08-26T00:15:21.458231+00:00"
     },
     {
       "name": "Olivia Nelson-Ododa",
@@ -254,7 +272,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee;-",
       "reason_category": "injury",
-      "last_updated": "2026-08-26T00:00:20.818552+00:00"
+      "last_updated": "2026-08-26T00:15:21.458231+00:00"
     },
     {
       "name": "Rae Burrell",
@@ -272,7 +290,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-08-26T00:00:20.818552+00:00"
+      "last_updated": "2026-08-26T00:15:21.458231+00:00"
     },
     {
       "name": "Sania Feagin",
@@ -281,7 +299,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-08-26T00:00:20.818552+00:00"
+      "last_updated": "2026-08-26T00:15:21.458231+00:00"
     },
     {
       "name": "Satou Sabally",
@@ -299,7 +317,7 @@
       "status": "Out",
       "reason": "Injury/Illness - N/a; Illness",
       "reason_category": "injury",
-      "last_updated": "2026-08-26T00:00:20.818552+00:00"
+      "last_updated": "2026-08-26T00:15:21.458231+00:00"
     },
     {
       "name": "Skylar Diggins",
@@ -308,7 +326,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; Right Knee",
       "reason_category": "injury",
-      "last_updated": "2026-08-26T00:00:20.818552+00:00"
+      "last_updated": "2026-08-26T00:15:21.458231+00:00"
     },
     {
       "name": "Zaay Green",
@@ -326,7 +344,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Left Calf; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-08-26T00:00:20.818552+00:00"
+      "last_updated": "2026-08-26T00:15:21.458231+00:00"
     },
     {
       "name": "Flau'jae Johnson",
@@ -335,7 +353,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Left Ankle; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-08-26T00:00:20.818552+00:00"
+      "last_updated": "2026-08-26T00:15:21.458231+00:00"
     },
     {
       "name": "Sami Whitcomb",
@@ -344,7 +362,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Left Knee; Injury Management",
       "reason_category": "injury",
-      "last_updated": "2026-08-26T00:00:20.818552+00:00"
+      "last_updated": "2026-08-26T00:15:21.458231+00:00"
     },
     {
       "name": "A'ja Wilson",
@@ -363,15 +381,6 @@
       "reason": "Injury/Illness - Back; Back",
       "reason_category": "injury",
       "last_updated": "2026-08-24T03:57:00.777651+00:00"
-    },
-    {
-      "name": "DiJonai Carrington",
-      "team_abbr": "CHI",
-      "team_full": "Chicago Sky",
-      "status": "Available",
-      "reason": "Injury/Illness - Left Foot; Left Foot",
-      "reason_category": "injury",
-      "last_updated": "2026-08-26T00:00:20.818552+00:00"
     },
     {
       "name": "Jonquel Jones",
@@ -446,7 +455,7 @@
     {
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
-      "last_submitted_ts": "2026-08-26T00:00:20.818552+00:00",
+      "last_submitted_ts": "2026-08-26T00:15:21.458231+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "CHI@CON"
@@ -455,8 +464,15 @@
         {
           "name_last_first": "Carrington, DiJonai",
           "name": "DiJonai Carrington",
-          "status": "Available",
+          "status": "Out",
           "reason": "Injury/Illness - Left Foot; Left Foot",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Cloud, Natasha",
+          "name": "Natasha Cloud",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; Right Knee",
           "reason_category": "injury"
         },
         {
@@ -471,7 +487,7 @@
     {
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
-      "last_submitted_ts": "2026-08-26T00:00:20.818552+00:00",
+      "last_submitted_ts": "2026-08-26T00:15:21.458231+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "CHI@CON",
@@ -540,7 +556,7 @@
     {
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
-      "last_submitted_ts": "2026-08-26T00:00:20.818552+00:00",
+      "last_submitted_ts": "2026-08-26T00:15:21.458231+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "PDX@DAL"
@@ -792,7 +808,7 @@
     {
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
-      "last_submitted_ts": "2026-08-26T00:00:20.818552+00:00",
+      "last_submitted_ts": "2026-08-26T00:15:21.458231+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "PDX@DAL"
@@ -817,7 +833,7 @@
     {
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
-      "last_submitted_ts": "2026-08-26T00:00:20.818552+00:00",
+      "last_submitted_ts": "2026-08-26T00:15:21.458231+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "WAS@PHX"
@@ -842,7 +858,7 @@
     {
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
-      "last_submitted_ts": "2026-08-26T00:00:20.818552+00:00",
+      "last_submitted_ts": "2026-08-26T00:15:21.458231+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "TOR@SEA"
@@ -884,6 +900,25 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-08-26T00:15:21.458231+00:00",
+      "type": "status_change",
+      "team_abbr": "CHI",
+      "player": "DiJonai Carrington",
+      "from_status": "Available",
+      "to_status": "Out",
+      "reason": "Injury/Illness - Left Foot; Left Foot",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-08-26T00:15:21.458231+00:00",
+      "type": "added",
+      "team_abbr": "CHI",
+      "player": "Natasha Cloud",
+      "status": "Out",
+      "reason": "Injury/Illness - Right Knee; Right Knee",
+      "reason_category": "injury"
+    },
     {
       "ts": "2026-08-26T00:00:20.818552+00:00",
       "type": "added",
@@ -3116,24 +3151,6 @@
       "player": "Michelle Onyiah",
       "previous_status": "Out",
       "previous_reason": "Coach's Decision"
-    },
-    {
-      "ts": "2026-08-15T21:01:02.174226+00:00",
-      "type": "cleared",
-      "team_abbr": "IND",
-      "player": "Bree Hall",
-      "previous_status": "Out",
-      "previous_reason": "Coach's Decision"
-    },
-    {
-      "ts": "2026-08-15T16:30:57.030107+00:00",
-      "type": "status_change",
-      "team_abbr": "CON",
-      "player": "Brittney Griner",
-      "from_status": "Available",
-      "to_status": "Out",
-      "reason": "Injury/Illness - Left Knee;-",
-      "reason_category": "injury"
     }
   ]
 }
