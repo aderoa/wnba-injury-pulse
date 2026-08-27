@@ -1,17 +1,8 @@
 {
-  "report_ts": "08/27/26 12:45 PM",
+  "report_ts": "08/27/26 01:00 PM",
   "page_count": 1,
-  "raw_line_count": 12,
+  "raw_line_count": 11,
   "teams": [
-    {
-      "team_full": "Golden State Valkyries",
-      "team_abbr": "GSV",
-      "game_date": "08/27/2026",
-      "game_time": "08:00(ET)",
-      "matchup": "GSV@NYL",
-      "submitted": false,
-      "players": []
-    },
     {
       "team_full": "New York Liberty",
       "team_abbr": "NYL",
@@ -126,7 +117,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-27_12_45PM.pdf",
-  "fetched_slot": "2026-08-27T12:45:00-04:00",
-  "polled_at_utc": "2026-08-27T16:45:20.641701+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-27_01_00PM.pdf",
+  "fetched_slot": "2026-08-27T13:00:00-04:00",
+  "polled_at_utc": "2026-08-27T17:00:23.404632+00:00"
 }
