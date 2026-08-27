@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/27/26 04:30 PM",
+  "report_ts": "08/27/26 04:45 PM",
   "page_count": 1,
-  "raw_line_count": 11,
+  "raw_line_count": 14,
   "teams": [
     {
       "team_full": "New York Liberty",
@@ -50,8 +50,30 @@
       "game_date": "08/28/2026",
       "game_time": "07:30(ET)",
       "matchup": "CON@IND",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Burke, Kennedy",
+          "name": "Kennedy Burke",
+          "status": "Out",
+          "reason": "Not With Team",
+          "reason_category": "offcourt"
+        },
+        {
+          "name_last_first": "Griner, Brittney",
+          "name": "Brittney Griner",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee;-",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Nelson-Ododa, Olivia",
+          "name": "Olivia Nelson-Ododa",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Knee;-",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Indiana Fever",
@@ -59,8 +81,16 @@
       "game_date": "08/28/2026",
       "game_time": "07:30(ET)",
       "matchup": "CON@IND",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Clark, Caitlin",
+          "name": "Caitlin Clark",
+          "status": "Probable",
+          "reason": "Injury/Illness - Bilateral Back; Back",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Portland Fire",
@@ -68,8 +98,23 @@
       "game_date": "08/28/2026",
       "game_time": "07:30(ET)",
       "matchup": "PDX@ATL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Feagin, Sania",
+          "name": "Sania Feagin",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Williams, Serah",
+          "name": "Serah Williams",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Illness; Illness",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Atlanta Dream",
@@ -117,7 +162,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-27_04_30PM.pdf",
-  "fetched_slot": "2026-08-27T16:30:00-04:00",
-  "polled_at_utc": "2026-08-27T20:32:01.147758+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-27_04_45PM.pdf",
+  "fetched_slot": "2026-08-27T16:45:00-04:00",
+  "polled_at_utc": "2026-08-27T20:45:20.773226+00:00"
 }

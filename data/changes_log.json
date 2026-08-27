@@ -1,118 +1,5 @@
 [
   {
-    "ts": "2026-05-27T22:46:03.490093+00:00",
-    "type": "status_change",
-    "team_abbr": "PHX",
-    "player": "Monique AkoaMakani",
-    "from_status": "Probable",
-    "to_status": "Available",
-    "reason": "Returnto Competition",
-    "reason_category": "other"
-  },
-  {
-    "ts": "2026-05-27T22:46:03.490093+00:00",
-    "type": "reason_change",
-    "team_abbr": "PHX",
-    "player": "Sami Whitcomb",
-    "status": "Out",
-    "from_reason": "Reconditioning Injury/Illness - Left Knee;",
-    "to_reason": "Player Injury/Illness - Left Knee;",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-27T23:01:04.990131+00:00",
-    "type": "added",
-    "team_abbr": "CHI",
-    "player": "Maddy Westbeld",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-27T23:46:04.093224+00:00",
-    "type": "added",
-    "team_abbr": "MIN",
-    "player": "Emese Hof",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-28T00:01:08.965454+00:00",
-    "type": "added",
-    "team_abbr": "NYL",
-    "player": "Anneli Maley",
-    "status": "Out",
-    "reason": "Coach's Decision - Developmental Player",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-28T00:01:08.965454+00:00",
-    "type": "added",
-    "team_abbr": "ATL",
-    "player": "Amy Okonkwo",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-28T00:01:08.965454+00:00",
-    "type": "cleared",
-    "team_abbr": "IND",
-    "player": "Justine Pissott",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-05-28T00:01:08.965454+00:00",
-    "type": "status_change",
-    "team_abbr": "IND",
-    "player": "Caitlin Clark",
-    "from_status": "Available",
-    "to_status": "Probable",
-    "reason": "Injury/Illness - Back; Back",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-28T00:01:08.965454+00:00",
-    "type": "status_change",
-    "team_abbr": "IND",
-    "player": "Bree Hall",
-    "from_status": "Out",
-    "to_status": "Probable",
-    "reason": "Injury/Illness - Illness; Illness",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-28T00:31:04.693875+00:00",
-    "type": "status_change",
-    "team_abbr": "MIN",
-    "player": "AnastasiiaOlairi Kosu",
-    "from_status": "Probable",
-    "to_status": "Available",
-    "reason": "Concussion Protocol",
-    "reason_category": "procedural"
-  },
-  {
-    "ts": "2026-05-28T01:16:05.822738+00:00",
-    "type": "status_change",
-    "team_abbr": "WAS",
-    "player": "Darianna Littlepage-Buggs",
-    "from_status": "Available",
-    "to_status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-28T03:30:19.002935+00:00",
-    "type": "added",
-    "team_abbr": "CON",
-    "player": "Aaliyah Edwards",
-    "status": "Out",
-    "reason": "Injury/Illness - Nose; Contusion",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-05-28T15:30:22.714080+00:00",
     "type": "added",
     "team_abbr": "DAL",
@@ -17981,5 +17868,108 @@
     "to_status": "Available",
     "reason": "-",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-08-27T20:45:20.773226+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Kennedy Burke",
+    "status": "Out",
+    "reason": "Not With Team",
+    "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-08-27T20:45:20.773226+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Maria TorontoTempo Conde",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Left Calf; Injury"
+  },
+  {
+    "ts": "2026-08-27T20:45:20.773226+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Zaay Green",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-27T20:45:20.773226+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Marina Mabrey",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Right Adductor; Injury"
+  },
+  {
+    "ts": "2026-08-27T20:45:20.773226+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Aneesah Morrow",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Knee; Injury"
+  },
+  {
+    "ts": "2026-08-27T20:45:20.773226+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Nyara Sabally",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Calf; Not With Team"
+  },
+  {
+    "ts": "2026-08-27T20:45:20.773226+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Brittney Sykes",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Foot; Injury"
+  },
+  {
+    "ts": "2026-08-27T20:45:20.773226+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Olivia Nelson-Ododa",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Right Knee;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-27T20:45:20.773226+00:00",
+    "type": "cleared",
+    "team_abbr": "IND",
+    "player": "Aliyah Boston",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Right Leg; Lower"
+  },
+  {
+    "ts": "2026-08-27T20:45:20.773226+00:00",
+    "type": "cleared",
+    "team_abbr": "IND",
+    "player": "Myisha Hines-Allen",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Right Shoulder; Shoulder"
+  },
+  {
+    "ts": "2026-08-27T20:45:20.773226+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Available",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Bilateral Back; Back",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-27T20:45:20.773226+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Serah Williams",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Illness; Illness",
+    "reason_category": "injury"
   }
 ]
