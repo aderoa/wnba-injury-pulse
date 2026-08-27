@@ -4,6 +4,26 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-08-27 23:45 UTC
+
+- **Elizabeth Balogun** (NYL) newly listed as **Out** — Coach's Decision - Developmental
+- **Anneli Maley** (NYL) newly listed as **Out** — Player Coach's Decision - Developmental Player
+- **Isabelle TorontoTempo Harrison** (ATL) newly listed as **Questionable** — Injury/Illness - Right Foot; Injury
+- **Marina Mabrey** (ATL) newly listed as **Out** — Injury/Illness - Right Adductor; Not
+- **Aneesah Morrow** (ATL) newly listed as **Out** — With Team Injury/Illness - Left Knee; Not With Team
+- **Brittney Sykes** (ATL) newly listed as **Out** — Injury/Illness - Left Foot; Injury
+- **NaLyssa Smith** (LVA) newly listed as **Out** — Injury/Illness - Left Leg; leftleg
+- **Maria TorontoTempo Conde** (LVA) cleared (was Out)
+- **Zaay Green** (LVA) cleared (was Out)
+- **Marina Mabrey** (LVA) cleared (was Out)
+- **Aneesah Morrow** (LVA) cleared (was Out)
+- **Nyara Sabally** (LVA) cleared (was Out)
+- **Brittney Sykes** (LVA) cleared (was Out)
+- **Dana Evans** (LVA): **Out** → **Questionable** — Injury/Illness - Left Leg; leftleg
+- **A'ja Wilson** (LVA): **Available** → **Questionable** — Injury/Illness - Head; back
+- **Emma Cannon** (LAS) newly listed as **Probable** — Injury/Illness - Rightknee; Rknee
+- **Rae Burrell** (LAS) cleared (was Out)
+
 ## 2026-08-27 21:00 UTC
 
 - **DeWanna Bonner** (ATL) newly listed as **Out** — Rest - N/A
