@@ -1,39 +1,5 @@
 [
   {
-    "ts": "2026-05-27T22:16:04.411163+00:00",
-    "type": "added",
-    "team_abbr": "DAL",
-    "player": "Paige Bueckers",
-    "status": "Probable",
-    "reason": "Injury/Illness - Leftleg; leftleg",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-27T22:16:04.411163+00:00",
-    "type": "added",
-    "team_abbr": "DAL",
-    "player": "Alanna Smith",
-    "status": "Probable",
-    "reason": "Injury/Illness - Illness; illness",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-27T22:16:04.411163+00:00",
-    "type": "cleared",
-    "team_abbr": "DAL",
-    "player": "Dulcy FankamMendjiadeu",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-05-27T22:16:04.411163+00:00",
-    "type": "cleared",
-    "team_abbr": "DAL",
-    "player": "Costanza Verona",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
     "ts": "2026-05-27T22:31:08.966174+00:00",
     "type": "status_change",
     "team_abbr": "NYL",
@@ -17982,5 +17948,38 @@
     "player": "Anneli Maley",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision - Developmental Player"
+  },
+  {
+    "ts": "2026-08-27T00:00:19.243671+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Kelsey Plum",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Left Lower Leg;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-27T00:00:19.243671+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Shay Ciezki",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental"
+  },
+  {
+    "ts": "2026-08-27T00:00:19.243671+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Kara Dunn",
+    "previous_status": "Out",
+    "previous_reason": "Player Coach's Decision - Developmental Player"
+  },
+  {
+    "ts": "2026-08-27T00:00:19.243671+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Sami Whitcomb",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Left Knee; Injury Management"
   }
 ]

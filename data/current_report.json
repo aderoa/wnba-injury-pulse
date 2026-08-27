@@ -1,5 +1,5 @@
 {
-  "report_ts": "08/26/26 07:45 PM",
+  "report_ts": "08/26/26 08:00 PM",
   "page_count": 1,
   "raw_line_count": 15,
   "teams": [
@@ -123,25 +123,31 @@
       ]
     },
     {
-      "team_full": "Washington Mystics",
-      "team_abbr": "WAS",
-      "game_date": "08/27/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "WAS@PHX",
-      "submitted": false,
-      "players": []
-    },
-    {
       "team_full": "Phoenix Mercury",
       "team_abbr": "PHX",
       "game_date": "08/27/2026",
       "game_time": "10:00(ET)",
       "matchup": "WAS@PHX",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Plum, Kelsey",
+          "name": "Kelsey Plum",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Lower Leg;-",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Suarez, Marta",
+          "name": "Marta Suarez",
+          "status": "Out",
+          "reason": "Injury/Illness--; Concussion Protocol",
+          "reason_category": "injury"
+        }
+      ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-26_07_45PM.pdf",
-  "fetched_slot": "2026-08-26T19:45:00-04:00",
-  "polled_at_utc": "2026-08-26T23:45:22.481546+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-26_08_00PM.pdf",
+  "fetched_slot": "2026-08-26T20:00:00-04:00",
+  "polled_at_utc": "2026-08-27T00:00:19.243671+00:00"
 }
