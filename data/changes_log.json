@@ -1,24 +1,5 @@
 [
   {
-    "ts": "2026-05-27T22:31:08.966174+00:00",
-    "type": "status_change",
-    "team_abbr": "NYL",
-    "player": "Satou Sabally",
-    "from_status": "Questionable",
-    "to_status": "Out",
-    "reason": "Injury/Illness - N/A; Illness",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-27T22:46:03.490093+00:00",
-    "type": "added",
-    "team_abbr": "PHX",
-    "player": "Shay Ciezki",
-    "status": "Out",
-    "reason": "Reconditioning Coach's Decision - Developmental",
-    "reason_category": "rest_coach"
-  },
-  {
     "ts": "2026-05-27T22:46:03.490093+00:00",
     "type": "status_change",
     "team_abbr": "PHX",
@@ -17981,5 +17962,24 @@
     "player": "Sami Whitcomb",
     "previous_status": "Available",
     "previous_reason": "Injury/Illness - Left Knee; Injury Management"
+  },
+  {
+    "ts": "2026-08-27T01:30:22.296712+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Zaay Green",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-27T01:30:22.296712+00:00",
+    "type": "status_change",
+    "team_abbr": "SEA",
+    "player": "Flau'jae Johnson",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
   }
 ]

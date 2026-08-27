@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/26/26 09:15 PM",
+  "report_ts": "08/26/26 09:30 PM",
   "page_count": 1,
-  "raw_line_count": 15,
+  "raw_line_count": 16,
   "teams": [
     {
       "team_full": "Connecticut Sun",
@@ -41,6 +41,13 @@
           "status": "Available",
           "reason": "Injury/Illness - Left Calf; Injury",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Green, Zaay",
+          "name": "Zaay Green",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         },
         {
           "name_last_first": "Mabrey, Marina",
@@ -90,9 +97,9 @@
         {
           "name_last_first": "Johnson, Flau'jae",
           "name": "Flau'jae Johnson",
-          "status": "Probable",
-          "reason": "Injury/Illness - Left Ankle; Injury",
-          "reason_category": "injury"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
         }
       ]
     },
@@ -147,7 +154,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-26_09_15PM.pdf",
-  "fetched_slot": "2026-08-26T21:15:00-04:00",
-  "polled_at_utc": "2026-08-27T01:15:19.466255+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-26_09_30PM.pdf",
+  "fetched_slot": "2026-08-26T21:30:00-04:00",
+  "polled_at_utc": "2026-08-27T01:30:22.296712+00:00"
 }
