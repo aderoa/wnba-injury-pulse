@@ -1,34 +1,5 @@
 [
   {
-    "ts": "2026-05-28T15:30:22.714080+00:00",
-    "type": "added",
-    "team_abbr": "DAL",
-    "player": "Arike Ogunbowale",
-    "status": "Questionable",
-    "reason": "Injury/Illness - Illness; Illness",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-28T15:30:22.714080+00:00",
-    "type": "status_change",
-    "team_abbr": "DAL",
-    "player": "Alanna Smith",
-    "from_status": "Probable",
-    "to_status": "Doubtful",
-    "reason": "Injury/Illness - Illness; illness",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-28T16:45:23.242737+00:00",
-    "type": "status_change",
-    "team_abbr": "IND",
-    "player": "Bree Hall",
-    "from_status": "Probable",
-    "to_status": "Out",
-    "reason": "Injury/Illness - Illness; Illness",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-05-28T21:00:20.262161+00:00",
     "type": "added",
     "team_abbr": "LAS",
@@ -17971,5 +17942,30 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Illness; Illness",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-27T21:00:21.456318+00:00",
+    "type": "added",
+    "team_abbr": "ATL",
+    "player": "DeWanna Bonner",
+    "status": "Out",
+    "reason": "Rest - N/A",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-08-27T21:00:21.456318+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Indya Nivar",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-27T21:00:21.456318+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Jaylyn Sherrod",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]
