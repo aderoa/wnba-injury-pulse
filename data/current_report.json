@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/28/26 05:15 PM",
+  "report_ts": "08/28/26 05:30 PM",
   "page_count": 2,
-  "raw_line_count": 23,
+  "raw_line_count": 25,
   "teams": [
     {
       "team_full": "Connecticut Sun",
@@ -184,8 +184,30 @@
       "game_date": "08/29/2026",
       "game_time": "01:00(ET)",
       "matchup": "CHI@NYL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Carrington, DiJonai",
+          "name": "DiJonai Carrington",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Foot; Left Foot",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Cloud, Natasha",
+          "name": "Natasha Cloud",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Knee; Right Knee",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Diggins, Skylar",
+          "name": "Skylar Diggins",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; Right Knee",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "New York Liberty",
@@ -223,7 +245,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-28_05_15PM.pdf",
-  "fetched_slot": "2026-08-28T17:15:00-04:00",
-  "polled_at_utc": "2026-08-28T21:15:21.092260+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-28_05_30PM.pdf",
+  "fetched_slot": "2026-08-28T17:30:00-04:00",
+  "polled_at_utc": "2026-08-28T21:30:24.602036+00:00"
 }

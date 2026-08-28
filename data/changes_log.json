@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-05-28T23:45:17.445444+00:00",
-    "type": "cleared",
-    "team_abbr": "ATL",
-    "player": "Amy Okonkwo",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
     "ts": "2026-05-29T01:15:22.421503+00:00",
     "type": "cleared",
     "team_abbr": "GSV",
@@ -17972,5 +17964,15 @@
     "to_status": "Available",
     "reason": "-",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-08-28T21:30:24.602036+00:00",
+    "type": "status_change",
+    "team_abbr": "CHI",
+    "player": "Natasha Cloud",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Right Knee; Right Knee",
+    "reason_category": "injury"
   }
 ]
