@@ -1,15 +1,6 @@
 [
   {
     "ts": "2026-05-28T23:00:17.593739+00:00",
-    "type": "added",
-    "team_abbr": "DAL",
-    "player": "Costanza Verona",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-28T23:00:17.593739+00:00",
     "type": "status_change",
     "team_abbr": "DAL",
     "player": "Paige Bueckers",
@@ -17972,5 +17963,15 @@
     "player": "Rae Burrell",
     "previous_status": "Out",
     "previous_reason": "Injury/Illness - illness; Illness"
+  },
+  {
+    "ts": "2026-08-28T00:15:21.406209+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "Kelsey Plum",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Lower Leg;-",
+    "reason_category": "injury"
   }
 ]

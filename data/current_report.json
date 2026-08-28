@@ -1,5 +1,5 @@
 {
-  "report_ts": "08/27/26 08:00 PM",
+  "report_ts": "08/27/26 08:15 PM",
   "page_count": 2,
   "raw_line_count": 30,
   "teams": [
@@ -45,7 +45,7 @@
         {
           "name_last_first": "Plum, Kelsey",
           "name": "Kelsey Plum",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Left Lower Leg;-",
           "reason_category": "injury"
         },
@@ -250,7 +250,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-27_08_00PM.pdf",
-  "fetched_slot": "2026-08-27T20:00:00-04:00",
-  "polled_at_utc": "2026-08-28T00:00:19.066695+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-27_08_15PM.pdf",
+  "fetched_slot": "2026-08-27T20:15:00-04:00",
+  "polled_at_utc": "2026-08-28T00:15:21.406209+00:00"
 }
