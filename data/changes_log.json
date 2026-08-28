@@ -1,22 +1,5 @@
 [
   {
-    "ts": "2026-05-29T01:15:22.421503+00:00",
-    "type": "cleared",
-    "team_abbr": "GSV",
-    "player": "Cecilia Zandalasini",
-    "previous_status": "Available",
-    "previous_reason": "-"
-  },
-  {
-    "ts": "2026-05-29T01:30:16.723320+00:00",
-    "type": "added",
-    "team_abbr": "IND",
-    "player": "Justine Pissott",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
     "ts": "2026-05-29T15:00:26.846731+00:00",
     "type": "added",
     "team_abbr": "CHI",
@@ -17975,5 +17958,24 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-28T22:45:25.631965+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Rayah Marshall",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-28T22:45:25.631965+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Serah Williams",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Illness; Illness",
+    "reason_category": "injury"
   }
 ]
