@@ -4,6 +4,10 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-08-28 19:30 UTC
+
+- **Isabelle TorontoTempo Harrison** (ATL): **Questionable** → **Available** — Injury/Illness - Right Foot; Injury
+
 ## 2026-08-28 16:00 UTC
 
 - **A'ja Wilson** (LVA, Questionable): reason updated (Injury/Illness - Head; back → Injury/Illness - N/a; back)

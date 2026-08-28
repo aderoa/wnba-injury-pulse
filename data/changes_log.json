@@ -2,16 +2,6 @@
   {
     "ts": "2026-05-28T23:30:21.973680+00:00",
     "type": "status_change",
-    "team_abbr": "DAL",
-    "player": "Arike Ogunbowale",
-    "from_status": "Questionable",
-    "to_status": "Available",
-    "reason": "Injury/Illness - Illness; Illness",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-28T23:30:21.973680+00:00",
-    "type": "status_change",
     "team_abbr": "IND",
     "player": "Caitlin Clark",
     "from_status": "Probable",
@@ -17972,6 +17962,16 @@
     "status": "Questionable",
     "from_reason": "Injury/Illness - Head; back",
     "to_reason": "Injury/Illness - N/a; back",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-28T19:30:22.361231+00:00",
+    "type": "status_change",
+    "team_abbr": "ATL",
+    "player": "Isabelle TorontoTempo Harrison",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Foot; Injury",
     "reason_category": "injury"
   }
 ]
