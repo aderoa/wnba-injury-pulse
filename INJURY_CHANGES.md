@@ -4,6 +4,12 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-08-28 21:15 UTC
+
+- **Kennedy Burke** (CON) cleared (was Out)
+- **Olivia Nelson-Ododa** (CON): **Questionable** → **Out** — Injury/Illness - Right Knee;-
+- **Caitlin Clark** (IND): **Probable** → **Available** — -
+
 ## 2026-08-28 21:00 UTC
 
 - **Elizabeth Balogun** (NYL) cleared (was Out)

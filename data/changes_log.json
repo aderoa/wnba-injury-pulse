@@ -1,31 +1,5 @@
 [
   {
-    "ts": "2026-05-28T23:30:21.973680+00:00",
-    "type": "added",
-    "team_abbr": "PDX",
-    "player": "Bridget Carleton",
-    "status": "Questionable",
-    "reason": "Injury/Illness - Lower Back; Soreness",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-28T23:30:21.973680+00:00",
-    "type": "added",
-    "team_abbr": "PDX",
-    "player": "Teja Oblak",
-    "status": "Questionable",
-    "reason": "Injury/Illness - Right Quad; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-28T23:30:21.973680+00:00",
-    "type": "cleared",
-    "team_abbr": "PDX",
-    "player": "Jordan Harrison",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
     "ts": "2026-05-28T23:45:17.445444+00:00",
     "type": "cleared",
     "team_abbr": "ATL",
@@ -17970,5 +17944,33 @@
     "player": "Anneli Maley",
     "previous_status": "Out",
     "previous_reason": "Player Coach's Decision - Developmental Player"
+  },
+  {
+    "ts": "2026-08-28T21:15:21.092260+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Kennedy Burke",
+    "previous_status": "Out",
+    "previous_reason": "Not With Team"
+  },
+  {
+    "ts": "2026-08-28T21:15:21.092260+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Olivia Nelson-Ododa",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Knee;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-28T21:15:21.092260+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
   }
 ]

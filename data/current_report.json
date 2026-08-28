@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/28/26 05:00 PM",
+  "report_ts": "08/28/26 05:15 PM",
   "page_count": 2,
-  "raw_line_count": 24,
+  "raw_line_count": 23,
   "teams": [
     {
       "team_full": "Connecticut Sun",
@@ -12,13 +12,6 @@
       "submitted": true,
       "players": [
         {
-          "name_last_first": "Burke, Kennedy",
-          "name": "Kennedy Burke",
-          "status": "Out",
-          "reason": "Not With Team",
-          "reason_category": "offcourt"
-        },
-        {
           "name_last_first": "Griner, Brittney",
           "name": "Brittney Griner",
           "status": "Out",
@@ -28,7 +21,7 @@
         {
           "name_last_first": "Nelson-Ododa, Olivia",
           "name": "Olivia Nelson-Ododa",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Right Knee;-",
           "reason_category": "injury"
         }
@@ -45,9 +38,9 @@
         {
           "name_last_first": "Clark, Caitlin",
           "name": "Caitlin Clark",
-          "status": "Probable",
-          "reason": "Injury/Illness - Bilateral Back; Back",
-          "reason_category": "injury"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
         }
       ]
     },
@@ -230,7 +223,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-28_05_00PM.pdf",
-  "fetched_slot": "2026-08-28T17:00:00-04:00",
-  "polled_at_utc": "2026-08-28T21:00:19.943559+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-28_05_15PM.pdf",
+  "fetched_slot": "2026-08-28T17:15:00-04:00",
+  "polled_at_utc": "2026-08-28T21:15:21.092260+00:00"
 }
