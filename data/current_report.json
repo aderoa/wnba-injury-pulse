@@ -1,5 +1,5 @@
 {
-  "report_ts": "08/28/26 11:45 AM",
+  "report_ts": "08/28/26 12:00 PM",
   "page_count": 2,
   "raw_line_count": 25,
   "teams": [
@@ -163,7 +163,7 @@
           "name_last_first": "Wilson, A'ja",
           "name": "A'ja Wilson",
           "status": "Questionable",
-          "reason": "Injury/Illness - Head; back",
+          "reason": "Injury/Illness - N/a; back",
           "reason_category": "injury"
         }
       ]
@@ -231,7 +231,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-28_11_45AM.pdf",
-  "fetched_slot": "2026-08-28T11:45:00-04:00",
-  "polled_at_utc": "2026-08-28T15:45:19.465381+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-28_12_00PM.pdf",
+  "fetched_slot": "2026-08-28T12:00:00-04:00",
+  "polled_at_utc": "2026-08-28T16:00:19.142391+00:00"
 }

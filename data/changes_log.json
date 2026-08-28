@@ -1,15 +1,5 @@
 [
   {
-    "ts": "2026-05-28T23:00:17.593739+00:00",
-    "type": "status_change",
-    "team_abbr": "DAL",
-    "player": "Paige Bueckers",
-    "from_status": "Probable",
-    "to_status": "Available",
-    "reason": "Injury/Illness - Leftleg; leftleg",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-05-28T23:30:21.973680+00:00",
     "type": "status_change",
     "team_abbr": "DAL",
@@ -17972,6 +17962,16 @@
     "from_status": "Questionable",
     "to_status": "Out",
     "reason": "Injury/Illness - Left Lower Leg;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-28T16:00:19.142391+00:00",
+    "type": "reason_change",
+    "team_abbr": "LVA",
+    "player": "A'ja Wilson",
+    "status": "Questionable",
+    "from_reason": "Injury/Illness - Head; back",
+    "to_reason": "Injury/Illness - N/a; back",
     "reason_category": "injury"
   }
 ]
