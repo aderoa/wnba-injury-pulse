@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/28/26 03:00 PM",
+  "report_ts": "08/28/26 03:15 PM",
   "page_count": 2,
-  "raw_line_count": 25,
+  "raw_line_count": 24,
   "teams": [
     {
       "team_full": "Connecticut Sun",
@@ -169,15 +169,6 @@
       ]
     },
     {
-      "team_full": "Washington Mystics",
-      "team_abbr": "WAS",
-      "game_date": "08/28/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "WAS@LAS",
-      "submitted": false,
-      "players": []
-    },
-    {
       "team_full": "Los Angeles Sparks",
       "team_abbr": "LAS",
       "game_date": "08/28/2026",
@@ -231,7 +222,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-28_03_00PM.pdf",
-  "fetched_slot": "2026-08-28T15:00:00-04:00",
-  "polled_at_utc": "2026-08-28T19:00:24.131421+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-28_03_15PM.pdf",
+  "fetched_slot": "2026-08-28T15:15:00-04:00",
+  "polled_at_utc": "2026-08-28T19:15:27.322257+00:00"
 }
