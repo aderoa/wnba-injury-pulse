@@ -3,14 +3,6 @@
     "ts": "2026-05-29T01:15:22.421503+00:00",
     "type": "cleared",
     "team_abbr": "GSV",
-    "player": "Juste Jocyte",
-    "previous_status": "Available",
-    "previous_reason": "-"
-  },
-  {
-    "ts": "2026-05-29T01:15:22.421503+00:00",
-    "type": "cleared",
-    "team_abbr": "GSV",
     "player": "Cecilia Zandalasini",
     "previous_status": "Available",
     "previous_reason": "-"
@@ -17974,5 +17966,14 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Right Knee; Right Knee",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-28T22:30:20.994973+00:00",
+    "type": "added",
+    "team_abbr": "ATL",
+    "player": "Indya Nivar",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
