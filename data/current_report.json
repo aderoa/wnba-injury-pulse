@@ -1,5 +1,5 @@
 {
-  "report_ts": "08/28/26 04:45 PM",
+  "report_ts": "08/28/26 05:00 PM",
   "page_count": 2,
   "raw_line_count": 24,
   "teams": [
@@ -200,8 +200,16 @@
       "game_date": "08/29/2026",
       "game_time": "01:00(ET)",
       "matchup": "CHI@NYL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Sabally, Satou",
+          "name": "Satou Sabally",
+          "status": "Out",
+          "reason": "Injury/Illness - Head; Not With Team",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "New York Liberty",
@@ -222,7 +230,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-28_04_45PM.pdf",
-  "fetched_slot": "2026-08-28T16:45:00-04:00",
-  "polled_at_utc": "2026-08-28T20:45:19.979610+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-28_05_00PM.pdf",
+  "fetched_slot": "2026-08-28T17:00:00-04:00",
+  "polled_at_utc": "2026-08-28T21:00:19.943559+00:00"
 }

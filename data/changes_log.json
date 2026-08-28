@@ -1,25 +1,6 @@
 [
   {
     "ts": "2026-05-28T23:30:21.973680+00:00",
-    "type": "status_change",
-    "team_abbr": "IND",
-    "player": "Caitlin Clark",
-    "from_status": "Probable",
-    "to_status": "Available",
-    "reason": "-",
-    "reason_category": "other"
-  },
-  {
-    "ts": "2026-05-28T23:30:21.973680+00:00",
-    "type": "added",
-    "team_abbr": "PDX",
-    "player": "SarahAshlee Barker",
-    "status": "Questionable",
-    "reason": "Injury/Illness - Right Foot; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-28T23:30:21.973680+00:00",
     "type": "added",
     "team_abbr": "PDX",
     "player": "Bridget Carleton",
@@ -17973,5 +17954,21 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Right Foot; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-28T21:00:19.943559+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Elizabeth Balogun",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Developmental"
+  },
+  {
+    "ts": "2026-08-28T21:00:19.943559+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Anneli Maley",
+    "previous_status": "Out",
+    "previous_reason": "Player Coach's Decision - Developmental Player"
   }
 ]
