@@ -1,24 +1,5 @@
 [
   {
-    "ts": "2026-05-29T20:15:55.492916+00:00",
-    "type": "status_change",
-    "team_abbr": "LAS",
-    "player": "Sania Feagin",
-    "from_status": "Probable",
-    "to_status": "Questionable",
-    "reason": "Injury/Illness - Left Leg; LLeg",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-29T20:45:53.770439+00:00",
-    "type": "added",
-    "team_abbr": "CON",
-    "player": "Brittney Griner",
-    "status": "Questionable",
-    "reason": "Injury/Illness - Right Rib; Strain",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-05-29T21:00:53.472084+00:00",
     "type": "added",
     "team_abbr": "SEA",
@@ -17979,5 +17960,24 @@
     "to_status": "Available",
     "reason": "-",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-08-29T01:15:22.287371+00:00",
+    "type": "added",
+    "team_abbr": "LVA",
+    "player": "Ta'Niya Latson",
+    "status": "Out",
+    "reason": "Coach's Decision - Notactivating",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-08-29T01:15:22.287371+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Dana Evans",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Leg; leftleg",
+    "reason_category": "injury"
   }
 ]

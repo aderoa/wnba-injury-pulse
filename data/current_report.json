@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/28/26 09:00 PM",
+  "report_ts": "08/28/26 09:15 PM",
   "page_count": 2,
-  "raw_line_count": 31,
+  "raw_line_count": 32,
   "teams": [
     {
       "team_full": "Connecticut Sun",
@@ -162,9 +162,16 @@
         {
           "name_last_first": "Evans, Dana",
           "name": "Dana Evans",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Left Leg; leftleg",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Latson, Ta'Niya",
+          "name": "Ta'Niya Latson",
+          "status": "Out",
+          "reason": "Coach's Decision - Notactivating",
+          "reason_category": "rest_coach"
         },
         {
           "name_last_first": "Smith, NaLyssa",
@@ -295,7 +302,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-28_09_00PM.pdf",
-  "fetched_slot": "2026-08-28T21:00:00-04:00",
-  "polled_at_utc": "2026-08-29T01:00:20.874100+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-28_09_15PM.pdf",
+  "fetched_slot": "2026-08-28T21:15:00-04:00",
+  "polled_at_utc": "2026-08-29T01:15:22.287371+00:00"
 }
