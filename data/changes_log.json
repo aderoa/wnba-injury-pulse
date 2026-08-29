@@ -1,60 +1,5 @@
 [
   {
-    "ts": "2026-05-29T22:45:53.749334+00:00",
-    "type": "added",
-    "team_abbr": "MIN",
-    "player": "Eliska Hamzova",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-29T22:45:53.749334+00:00",
-    "type": "added",
-    "team_abbr": "PHX",
-    "player": "Shay Ciezki",
-    "status": "Out",
-    "reason": "Coach's Decision - Developmental",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-29T22:45:53.749334+00:00",
-    "type": "added",
-    "team_abbr": "PHX",
-    "player": "Marta Suarez",
-    "status": "Out",
-    "reason": "Contract Coach's Decision - Developmental",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-29T22:45:53.749334+00:00",
-    "type": "reason_change",
-    "team_abbr": "PHX",
-    "player": "Sami Whitcomb",
-    "status": "Out",
-    "from_reason": "Injury/Illness - Left Knee;",
-    "to_reason": "Contract Injury/Illness - Left Knee;",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-29T23:00:52.312864+00:00",
-    "type": "status_change",
-    "team_abbr": "PHX",
-    "player": "DeWanna Bonner",
-    "from_status": "Probable",
-    "to_status": "Available",
-    "reason": "Injury/Illness--; Illness",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-30T00:00:52.227388+00:00",
-    "type": "cleared",
-    "team_abbr": "IND",
-    "player": "Bree Hall",
-    "previous_status": "Out",
-    "previous_reason": "Injury/Illness - Illness; Illness"
-  },
-  {
     "ts": "2026-05-30T00:00:52.227388+00:00",
     "type": "cleared",
     "team_abbr": "IND",
@@ -17967,5 +17912,57 @@
     "player": "Brittney Sykes",
     "previous_status": "Out",
     "previous_reason": "Injury/Illness - Left Foot; Injury"
+  },
+  {
+    "ts": "2026-08-29T22:01:03.579054+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Rayah Marshall",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-29T22:01:03.579054+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Olivia Nelson-Ododa",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Right Knee;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-29T22:01:03.579054+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Aziaha James",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Leg; lowerleftleg"
+  },
+  {
+    "ts": "2026-08-29T22:01:03.579054+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Haley Jones",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - coach'sdecision"
+  },
+  {
+    "ts": "2026-08-29T22:01:03.579054+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Christyn Williams",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - coach'sdecision"
+  },
+  {
+    "ts": "2026-08-29T22:01:03.579054+00:00",
+    "type": "reason_change",
+    "team_abbr": "DAL",
+    "player": "Kitija Laksa",
+    "status": "Out",
+    "from_reason": "Coach's Decision - coach'sdecision",
+    "to_reason": "Personal Reasons",
+    "reason_category": "offcourt"
   }
 ]
