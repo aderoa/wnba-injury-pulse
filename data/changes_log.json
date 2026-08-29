@@ -1,23 +1,5 @@
 [
   {
-    "ts": "2026-05-29T15:00:26.846731+00:00",
-    "type": "added",
-    "team_abbr": "CHI",
-    "player": "Kamilla Cardoso",
-    "status": "Questionable",
-    "reason": "Injury/Illness - N/a; Illness",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-29T15:00:26.846731+00:00",
-    "type": "added",
-    "team_abbr": "CHI",
-    "player": "Natasha Cloud",
-    "status": "Questionable",
-    "reason": "Injury/Illness - N/a; Illness",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-05-29T15:30:21.754576+00:00",
     "type": "added",
     "team_abbr": "PHX",
@@ -17976,6 +17958,25 @@
     "from_status": "Questionable",
     "to_status": "Available",
     "reason": "Injury/Illness - Illness; Illness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-29T00:00:20.137760+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Kahleah Copper",
+    "status": "Probable",
+    "reason": "Injury/Illness - Left Ankle;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-29T00:00:20.137760+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "Marta Suarez",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness--; Concussion Protocol",
     "reason_category": "injury"
   }
 ]
