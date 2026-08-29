@@ -2,8 +2,8 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-08-29T23:16:00.078131+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-29_07_15PM.pdf",
+    "last_submitted_ts": "2026-08-29T23:30:59.464696+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-29_07_30PM.pdf",
     "game_dates": [
       "08/30/2026"
     ],
@@ -44,8 +44,8 @@
   "PHX": {
     "team_full": "Phoenix Mercury",
     "submitted": true,
-    "last_submitted_ts": "2026-08-29T23:16:00.078131+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-29_07_15PM.pdf",
+    "last_submitted_ts": "2026-08-29T23:30:59.464696+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-29_07_30PM.pdf",
     "game_dates": [
       "08/29/2026"
     ],
@@ -121,8 +121,8 @@
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-08-29T23:16:00.078131+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-29_07_15PM.pdf",
+    "last_submitted_ts": "2026-08-29T23:30:59.464696+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-29_07_30PM.pdf",
     "game_dates": [
       "08/30/2026"
     ],
@@ -142,8 +142,8 @@
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-08-29T23:16:00.078131+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-29_07_15PM.pdf",
+    "last_submitted_ts": "2026-08-29T23:30:59.464696+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-29_07_30PM.pdf",
     "game_dates": [
       "08/30/2026"
     ],
@@ -163,8 +163,8 @@
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-08-29T23:16:00.078131+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-29_07_15PM.pdf",
+    "last_submitted_ts": "2026-08-29T23:30:59.464696+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-29_07_30PM.pdf",
     "game_dates": [
       "08/29/2026"
     ],
@@ -198,13 +198,13 @@
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-08-29T03:45:13.675942+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-28_11_45PM.pdf",
+    "last_submitted_ts": "2026-08-29T23:30:59.464696+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-29_07_30PM.pdf",
     "game_dates": [
-      "08/28/2026"
+      "08/30/2026"
     ],
     "matchups": [
-      "PDX@ATL"
+      "GSV@PDX"
     ],
     "players": [
       {
@@ -217,19 +217,11 @@
       {
         "name_last_first": "Samuelson, Karlie",
         "name": "Karlie Samuelson",
-        "status": "Out",
+        "status": "Questionable",
         "reason": "Injury/Illness - Left Knee; Contusion",
         "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Williams, Serah",
-        "name": "Serah Williams",
-        "status": "Available",
-        "reason": "Injury/Illness - Illness; Illness",
-        "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-08-29T23:16:00.078131+00:00"
+    ]
   },
   "SEA": {
     "team_full": "Seattle Storm",
@@ -258,13 +250,13 @@
         "reason_category": "other"
       }
     ],
-    "last_seen_pending_ts": "2026-08-29T23:16:00.078131+00:00"
+    "last_seen_pending_ts": "2026-08-29T23:30:59.464696+00:00"
   },
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-08-29T23:16:00.078131+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-29_07_15PM.pdf",
+    "last_submitted_ts": "2026-08-29T23:30:59.464696+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-29_07_30PM.pdf",
     "game_dates": [
       "08/30/2026"
     ],
@@ -291,8 +283,8 @@
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-08-29T23:16:00.078131+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-29_07_15PM.pdf",
+    "last_submitted_ts": "2026-08-29T23:30:59.464696+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-29_07_30PM.pdf",
     "game_dates": [
       "08/29/2026"
     ],
@@ -373,35 +365,41 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-08-29T23:16:00.078131+00:00"
+    "last_seen_pending_ts": "2026-08-29T23:30:59.464696+00:00"
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",
     "submitted": true,
-    "last_submitted_ts": "2026-08-29T03:45:13.675942+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-28_11_45PM.pdf",
+    "last_submitted_ts": "2026-08-29T23:30:59.464696+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-29_07_30PM.pdf",
     "game_dates": [
-      "08/28/2026"
+      "08/30/2026"
     ],
     "matchups": [
-      "WAS@LAS"
+      "LAS@SEA"
     ],
     "players": [
       {
         "name_last_first": "Cannon, Emma",
         "name": "Emma Cannon",
-        "status": "Available",
-        "reason": "-",
-        "reason_category": "other"
+        "status": "Questionable",
+        "reason": "Injury/Illness - Rightknee; RKnee",
+        "reason_category": "injury"
       },
       {
-        "name_last_first": "Pili, Alissa",
-        "name": "Alissa Pili",
+        "name_last_first": "Mwenentanda, Ndjakalenga",
+        "name": "Ndjakalenga Mwenentanda",
         "status": "Out",
-        "reason": "Coach's Decision - Coach\u2019sdecision",
-        "reason_category": "rest_coach"
+        "reason": "Not With Team",
+        "reason_category": "offcourt"
+      },
+      {
+        "name_last_first": "Nye, Aaliyah",
+        "name": "Aaliyah Nye",
+        "status": "Out",
+        "reason": "Not With Team",
+        "reason_category": "offcourt"
       }
-    ],
-    "last_seen_pending_ts": "2026-08-29T23:16:00.078131+00:00"
+    ]
   }
 }

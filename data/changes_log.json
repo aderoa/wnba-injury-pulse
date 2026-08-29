@@ -1,62 +1,5 @@
 [
   {
-    "ts": "2026-05-30T00:00:52.227388+00:00",
-    "type": "cleared",
-    "team_abbr": "IND",
-    "player": "Justine Pissott",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-05-30T00:00:52.227388+00:00",
-    "type": "status_change",
-    "team_abbr": "IND",
-    "player": "Caitlin Clark",
-    "from_status": "Available",
-    "to_status": "Probable",
-    "reason": "Injury/Illness - Back; Back",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-30T00:30:50.319413+00:00",
-    "type": "status_change",
-    "team_abbr": "PDX",
-    "player": "Teja Oblak",
-    "from_status": "Questionable",
-    "to_status": "Available",
-    "reason": "Injury/Illness - Right Quad; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-30T00:30:50.319413+00:00",
-    "type": "status_change",
-    "team_abbr": "PDX",
-    "player": "SarahAshlee Barker",
-    "from_status": "Questionable",
-    "to_status": "Available",
-    "reason": "Injury/Illness - Right Foot; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-30T00:30:50.319413+00:00",
-    "type": "status_change",
-    "team_abbr": "PDX",
-    "player": "Bridget Carleton",
-    "from_status": "Questionable",
-    "to_status": "Out",
-    "reason": "Injury/Illness - Lower Back; Soreness",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-30T00:45:52.926882+00:00",
-    "type": "added",
-    "team_abbr": "ATL",
-    "player": "Amy Okonkwo",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
     "ts": "2026-05-30T01:30:55.153883+00:00",
     "type": "added",
     "team_abbr": "PDX",
@@ -17964,5 +17907,59 @@
     "from_reason": "Coach's Decision - coach'sdecision",
     "to_reason": "Personal Reasons",
     "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-08-29T23:30:59.464696+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Ndjakalenga Mwenentanda",
+    "status": "Out",
+    "reason": "Not With Team",
+    "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-08-29T23:30:59.464696+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Aaliyah Nye",
+    "status": "Out",
+    "reason": "Not With Team",
+    "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-08-29T23:30:59.464696+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Alissa Pili",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Coach\u2019sdecision"
+  },
+  {
+    "ts": "2026-08-29T23:30:59.464696+00:00",
+    "type": "status_change",
+    "team_abbr": "LAS",
+    "player": "Emma Cannon",
+    "from_status": "Available",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Rightknee; RKnee",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-29T23:30:59.464696+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Serah Williams",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Illness; Illness"
+  },
+  {
+    "ts": "2026-08-29T23:30:59.464696+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Karlie Samuelson",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Knee; Contusion",
+    "reason_category": "injury"
   }
 ]
