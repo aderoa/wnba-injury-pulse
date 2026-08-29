@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/29/26 03:00 PM",
-  "page_count": 1,
-  "raw_line_count": 16,
+  "report_ts": "08/29/26 03:15 PM",
+  "page_count": 2,
+  "raw_line_count": 22,
   "teams": [
     {
       "team_full": "Chicago Sky",
@@ -57,8 +57,30 @@
       "game_date": "08/29/2026",
       "game_time": "10:00(ET)",
       "matchup": "TOR@PHX",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "TorontoTempo Mabrey, Marina",
+          "name": "Marina TorontoTempo Mabrey",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Adductor; Not",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Morrow, Aneesah",
+          "name": "Aneesah Morrow",
+          "status": "Out",
+          "reason": "With Team Injury/Illness - Left Knee; Not With Team",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sykes, Brittney",
+          "name": "Brittney Sykes",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Foot; Injury",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Phoenix Mercury",
@@ -164,7 +186,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-29_03_00PM.pdf",
-  "fetched_slot": "2026-08-29T15:00:00-04:00",
-  "polled_at_utc": "2026-08-29T19:01:02.564146+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-29_03_15PM.pdf",
+  "fetched_slot": "2026-08-29T15:15:00-04:00",
+  "polled_at_utc": "2026-08-29T19:15:58.956652+00:00"
 }

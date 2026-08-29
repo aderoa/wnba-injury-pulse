@@ -4,6 +4,12 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-08-29 19:15 UTC
+
+- **Marina TorontoTempo Mabrey** (NYL) newly listed as **Out** — Injury/Illness - Right Adductor; Not
+- **Aneesah Morrow** (NYL) newly listed as **Out** — With Team Injury/Illness - Left Knee; Not With Team
+- **Brittney Sykes** (NYL) newly listed as **Out** — Injury/Illness - Left Foot; Injury
+
 ## 2026-08-29 16:00 UTC
 
 - **Natasha Cloud** (CHI): **Questionable** → **Available** — Injury/Illness - Right Knee; Right Knee

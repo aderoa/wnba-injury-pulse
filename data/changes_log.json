@@ -1,33 +1,5 @@
 [
   {
-    "ts": "2026-05-29T21:00:53.472084+00:00",
-    "type": "added",
-    "team_abbr": "SEA",
-    "player": "Isabelle Harrison",
-    "status": "Out",
-    "reason": "Injury/Illness - Right Hand; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-29T22:00:54.017406+00:00",
-    "type": "status_change",
-    "team_abbr": "LAS",
-    "player": "Sania Feagin",
-    "from_status": "Questionable",
-    "to_status": "Out",
-    "reason": "Injury/Illness - Left Leg; LLeg",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-29T22:00:54.017406+00:00",
-    "type": "added",
-    "team_abbr": "NYL",
-    "player": "Anneli Maley",
-    "status": "Out",
-    "reason": "Coach's Decision - Developmental Player",
-    "reason_category": "rest_coach"
-  },
-  {
     "ts": "2026-05-29T22:15:53.562949+00:00",
     "type": "added",
     "team_abbr": "LAS",
@@ -17980,6 +17952,33 @@
     "from_status": "Questionable",
     "to_status": "Available",
     "reason": "Injury/Illness - Right Knee; Right Knee",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-29T19:15:58.956652+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Marina TorontoTempo Mabrey",
+    "status": "Out",
+    "reason": "Injury/Illness - Right Adductor; Not",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-29T19:15:58.956652+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Aneesah Morrow",
+    "status": "Out",
+    "reason": "With Team Injury/Illness - Left Knee; Not With Team",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-29T19:15:58.956652+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Brittney Sykes",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Foot; Injury",
     "reason_category": "injury"
   }
 ]
