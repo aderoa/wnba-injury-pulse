@@ -40,7 +40,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-08-29T20:45:59.895610+00:00"
+    "last_seen_pending_ts": "2026-08-29T21:00:58.693119+00:00"
   },
   "IND": {
     "team_full": "Indiana Fever",
@@ -66,8 +66,8 @@
   "PHX": {
     "team_full": "Phoenix Mercury",
     "submitted": true,
-    "last_submitted_ts": "2026-08-29T20:45:59.895610+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-29_04_45PM.pdf",
+    "last_submitted_ts": "2026-08-29T21:00:58.693119+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-29_05_00PM.pdf",
     "game_dates": [
       "08/29/2026"
     ],
@@ -143,109 +143,50 @@
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-08-29T03:45:13.675942+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-28_11_45PM.pdf",
+    "last_submitted_ts": "2026-08-29T21:00:58.693119+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-29_05_00PM.pdf",
     "game_dates": [
-      "08/28/2026"
+      "08/30/2026"
     ],
     "matchups": [
-      "PDX@ATL",
-      "TOR@LVA"
+      "MIN@ATL"
     ],
     "players": [
-      {
-        "name_last_first": "Bonner, DeWanna",
-        "name": "DeWanna Bonner",
-        "status": "Out",
-        "reason": "Rest - N/A",
-        "reason_category": "other"
-      },
       {
         "name_last_first": "Jones, Brionna",
         "name": "Brionna Jones",
         "status": "Out",
         "reason": "Injury/Illness - Left Leg; N/A",
         "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Nivar, Indya",
-        "name": "Indya Nivar",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
-      },
-      {
-        "name_last_first": "TorontoTempo Harrison, Isabelle",
-        "name": "Isabelle TorontoTempo Harrison",
-        "status": "Available",
-        "reason": "Injury/Illness - Right Foot; Injury",
-        "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Mabrey, Marina",
-        "name": "Marina Mabrey",
-        "status": "Out",
-        "reason": "Injury/Illness - Right Adductor; Not",
-        "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Morrow, Aneesah",
-        "name": "Aneesah Morrow",
-        "status": "Out",
-        "reason": "With Team Injury/Illness - Left Knee; Not With Team",
-        "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Sykes, Brittney",
-        "name": "Brittney Sykes",
-        "status": "Out",
-        "reason": "Injury/Illness - Left Foot; Injury",
-        "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-08-29T20:45:59.895610+00:00"
+    ]
   },
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-08-25T03:45:20.241663+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-24_11_45PM.pdf",
+    "last_submitted_ts": "2026-08-29T21:00:58.693119+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-29_05_00PM.pdf",
     "game_dates": [
-      "08/24/2026"
+      "08/30/2026"
     ],
     "matchups": [
-      "GSV@MIN"
+      "MIN@ATL"
     ],
     "players": [
       {
-        "name_last_first": "Buenavida, Elena",
-        "name": "Elena Buenavida",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
-      },
-      {
-        "name_last_first": "King, Liatu",
-        "name": "Liatu King",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
-      },
-      {
         "name_last_first": "Williams, Courtney",
         "name": "Courtney Williams",
-        "status": "Out",
+        "status": "Probable",
         "reason": "Injury/Illness - Right Foot; Right Foot",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-08-29T20:45:59.895610+00:00"
+    ]
   },
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-08-29T20:45:59.895610+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-29_04_45PM.pdf",
+    "last_submitted_ts": "2026-08-29T21:00:58.693119+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-29_05_00PM.pdf",
     "game_dates": [
       "08/29/2026"
     ],
@@ -310,7 +251,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-08-29T20:45:59.895610+00:00"
+    "last_seen_pending_ts": "2026-08-29T21:00:58.693119+00:00"
   },
   "SEA": {
     "team_full": "Seattle Storm",
@@ -339,7 +280,7 @@
         "reason_category": "other"
       }
     ],
-    "last_seen_pending_ts": "2026-08-29T20:45:59.895610+00:00"
+    "last_seen_pending_ts": "2026-08-29T21:00:58.693119+00:00"
   },
   "CON": {
     "team_full": "Connecticut Sun",
@@ -375,13 +316,13 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-08-29T20:45:59.895610+00:00"
+    "last_seen_pending_ts": "2026-08-29T21:00:58.693119+00:00"
   },
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-08-29T20:45:59.895610+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-29_04_45PM.pdf",
+    "last_submitted_ts": "2026-08-29T21:00:58.693119+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-29_05_00PM.pdf",
     "game_dates": [
       "08/29/2026"
     ],
@@ -462,7 +403,7 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-08-29T20:45:59.895610+00:00"
+    "last_seen_pending_ts": "2026-08-29T21:00:58.693119+00:00"
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",
@@ -491,6 +432,6 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-08-29T20:45:59.895610+00:00"
+    "last_seen_pending_ts": "2026-08-29T21:00:58.693119+00:00"
   }
 }

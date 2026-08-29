@@ -1,92 +1,5 @@
 [
   {
-    "ts": "2026-05-29T22:15:53.562949+00:00",
-    "type": "added",
-    "team_abbr": "LAS",
-    "player": "Kate Martin",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-29T22:15:53.562949+00:00",
-    "type": "added",
-    "team_abbr": "LAS",
-    "player": "Laura Ziegler",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-29T22:15:53.562949+00:00",
-    "type": "reason_change",
-    "team_abbr": "PHX",
-    "player": "Sami Whitcomb",
-    "status": "Out",
-    "from_reason": "Injury/Illness - Left Knee;",
-    "to_reason": "Injury/Illness - Left Knee; Arthroscopy",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-29T22:15:53.562949+00:00",
-    "type": "reason_change",
-    "team_abbr": "NYL",
-    "player": "Marine Fauthoux",
-    "status": "Out",
-    "from_reason": "Arthroscopy Injury/Illness - Left Knee; Rehabilitation",
-    "to_reason": "Injury/Illness - Left Knee; Rehabilitation",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-29T22:30:55.482469+00:00",
-    "type": "added",
-    "team_abbr": "CHI",
-    "player": "Maddy Westbeld",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-29T22:30:55.482469+00:00",
-    "type": "status_change",
-    "team_abbr": "CHI",
-    "player": "Natasha Cloud",
-    "from_status": "Questionable",
-    "to_status": "Available",
-    "reason": "Injury/Illness - N/a; Illness",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-29T22:30:55.482469+00:00",
-    "type": "status_change",
-    "team_abbr": "CHI",
-    "player": "Kamilla Cardoso",
-    "from_status": "Questionable",
-    "to_status": "Available",
-    "reason": "Injury/Illness - N/a; Illness",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-29T22:30:55.482469+00:00",
-    "type": "reason_change",
-    "team_abbr": "PHX",
-    "player": "Sami Whitcomb",
-    "status": "Out",
-    "from_reason": "Injury/Illness - Left Knee; Arthroscopy",
-    "to_reason": "Injury/Illness - Left Knee;",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-29T22:30:55.482469+00:00",
-    "type": "reason_change",
-    "team_abbr": "NYL",
-    "player": "Marine Fauthoux",
-    "status": "Out",
-    "from_reason": "Injury/Illness - Left Knee; Rehabilitation",
-    "to_reason": "Arthroscopy Injury/Illness - Left Knee; Rehabilitation",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-05-29T22:45:53.749334+00:00",
     "type": "added",
     "team_abbr": "MIN",
@@ -17980,5 +17893,79 @@
     "status": "Out",
     "reason": "Injury/Illness - Left Foot; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-29T21:00:58.693119+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Elena Buenavida",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-29T21:00:58.693119+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Liatu King",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-29T21:00:58.693119+00:00",
+    "type": "status_change",
+    "team_abbr": "MIN",
+    "player": "Courtney Williams",
+    "from_status": "Out",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Right Foot; Right Foot",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-29T21:00:58.693119+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "DeWanna Bonner",
+    "previous_status": "Out",
+    "previous_reason": "Rest - N/A"
+  },
+  {
+    "ts": "2026-08-29T21:00:58.693119+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Indya Nivar",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-08-29T21:00:58.693119+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Isabelle TorontoTempo Harrison",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Right Foot; Injury"
+  },
+  {
+    "ts": "2026-08-29T21:00:58.693119+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Marina Mabrey",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Right Adductor; Not"
+  },
+  {
+    "ts": "2026-08-29T21:00:58.693119+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Aneesah Morrow",
+    "previous_status": "Out",
+    "previous_reason": "With Team Injury/Illness - Left Knee; Not With Team"
+  },
+  {
+    "ts": "2026-08-29T21:00:58.693119+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Brittney Sykes",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Foot; Injury"
   }
 ]

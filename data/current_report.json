@@ -1,5 +1,5 @@
 {
-  "report_ts": "08/29/26 04:45 PM",
+  "report_ts": "08/29/26 05:00 PM",
   "page_count": 2,
   "raw_line_count": 22,
   "teams": [
@@ -119,8 +119,16 @@
       "game_date": "08/30/2026",
       "game_time": "03:00(ET)",
       "matchup": "MIN@ATL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Williams, Courtney",
+          "name": "Courtney Williams",
+          "status": "Probable",
+          "reason": "Injury/Illness - Right Foot; Right Foot",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Atlanta Dream",
@@ -128,8 +136,16 @@
       "game_date": "08/30/2026",
       "game_time": "03:00(ET)",
       "matchup": "MIN@ATL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Jones, Brionna",
+          "name": "Brionna Jones",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Leg; N/A",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Los Angeles Sparks",
@@ -186,7 +202,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-29_04_45PM.pdf",
-  "fetched_slot": "2026-08-29T16:45:00-04:00",
-  "polled_at_utc": "2026-08-29T20:45:59.895610+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-29_05_00PM.pdf",
+  "fetched_slot": "2026-08-29T17:00:00-04:00",
+  "polled_at_utc": "2026-08-29T21:00:58.693119+00:00"
 }
