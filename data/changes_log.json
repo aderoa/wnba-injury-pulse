@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-05-30T17:00:49.489933+00:00",
-    "type": "cleared",
-    "team_abbr": "LAS",
-    "player": "Laura Ziegler",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
     "ts": "2026-05-30T17:45:49.263200+00:00",
     "type": "status_change",
     "team_abbr": "CON",
@@ -17962,6 +17954,16 @@
     "from_status": "Probable",
     "to_status": "Available",
     "reason": "Injury/Illness - Right Foot; Right Foot",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-30T19:16:00.653462+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Olivia Nelson-Ododa",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Knee;-",
     "reason_category": "injury"
   }
 ]
