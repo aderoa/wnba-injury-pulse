@@ -1,14 +1,5 @@
 [
   {
-    "ts": "2026-05-30T01:30:55.153883+00:00",
-    "type": "added",
-    "team_abbr": "PDX",
-    "player": "Jordan Harrison",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
     "ts": "2026-05-30T13:45:49.333015+00:00",
     "type": "reason_change",
     "team_abbr": "SEA",
@@ -17961,5 +17952,13 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Left Knee; Contusion",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-30T00:01:00.374073+00:00",
+    "type": "cleared",
+    "team_abbr": "SEA",
+    "player": "Flau'jae Johnson",
+    "previous_status": "Available",
+    "previous_reason": "-"
   }
 ]
