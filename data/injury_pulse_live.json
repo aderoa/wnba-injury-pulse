@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-08-30T19:31:00.083800+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-30_03_30PM.pdf",
-  "report_ts": "08/30/26 03:30 PM",
+  "polled_at_utc": "2026-08-30T19:46:00.995284+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-30_03_45PM.pdf",
+  "report_ts": "08/30/26 03:45 PM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -11,7 +11,7 @@
       "status": "Out",
       "reason": "Not With Team",
       "reason_category": "offcourt",
-      "last_updated": "2026-08-30T19:31:00.083800+00:00"
+      "last_updated": "2026-08-30T19:46:00.995284+00:00"
     },
     {
       "name": "Aneesah Morrow",
@@ -38,7 +38,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-08-30T19:31:00.083800+00:00"
+      "last_updated": "2026-08-30T19:46:00.995284+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -47,7 +47,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee;-",
       "reason_category": "injury",
-      "last_updated": "2026-08-30T19:31:00.083800+00:00"
+      "last_updated": "2026-08-30T19:46:00.995284+00:00"
     },
     {
       "name": "Brittney Sykes",
@@ -74,7 +74,7 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach",
-      "last_updated": "2026-08-30T19:31:00.083800+00:00"
+      "last_updated": "2026-08-30T19:46:00.995284+00:00"
     },
     {
       "name": "Kahleah Copper",
@@ -101,7 +101,7 @@
       "status": "Out",
       "reason": "Personal Reasons",
       "reason_category": "offcourt",
-      "last_updated": "2026-08-30T19:31:00.083800+00:00"
+      "last_updated": "2026-08-30T19:46:00.995284+00:00"
     },
     {
       "name": "Marina TorontoTempo Mabrey",
@@ -128,7 +128,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Shoulder; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-08-30T19:31:00.083800+00:00"
+      "last_updated": "2026-08-30T19:46:00.995284+00:00"
     },
     {
       "name": "Ndjakalenga Mwenentanda",
@@ -137,7 +137,7 @@
       "status": "Out",
       "reason": "Not With Team",
       "reason_category": "offcourt",
-      "last_updated": "2026-08-30T19:31:00.083800+00:00"
+      "last_updated": "2026-08-30T19:46:00.995284+00:00"
     },
     {
       "name": "Olivia Nelson-Ododa",
@@ -146,7 +146,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee;-",
       "reason_category": "injury",
-      "last_updated": "2026-08-30T19:31:00.083800+00:00"
+      "last_updated": "2026-08-30T19:46:00.995284+00:00"
     },
     {
       "name": "Sania Feagin",
@@ -155,7 +155,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-08-30T19:31:00.083800+00:00"
+      "last_updated": "2026-08-30T19:46:00.995284+00:00"
     },
     {
       "name": "Satou Sabally",
@@ -165,6 +165,15 @@
       "reason": "Injury/Illness - Head; Not With Team",
       "reason_category": "injury",
       "last_updated": "2026-08-30T03:45:59.542572+00:00"
+    },
+    {
+      "name": "Shyanne Sellers",
+      "team_abbr": "LAS",
+      "team_full": "Los Angeles Sparks",
+      "status": "Out",
+      "reason": "Not With Team",
+      "reason_category": "offcourt",
+      "last_updated": "2026-08-30T19:46:00.995284+00:00"
     },
     {
       "name": "Skylar Diggins",
@@ -185,22 +194,13 @@
       "last_updated": "2026-08-29T03:45:13.675942+00:00"
     },
     {
-      "name": "Emma Cannon",
-      "team_abbr": "LAS",
-      "team_full": "Los Angeles Sparks",
-      "status": "Questionable",
-      "reason": "Injury/Illness - Rightknee; RKnee",
-      "reason_category": "injury",
-      "last_updated": "2026-08-30T19:31:00.083800+00:00"
-    },
-    {
       "name": "Karlie Samuelson",
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
       "status": "Questionable",
       "reason": "Injury/Illness - Left Knee; Contusion",
       "reason_category": "injury",
-      "last_updated": "2026-08-30T19:31:00.083800+00:00"
+      "last_updated": "2026-08-30T19:46:00.995284+00:00"
     },
     {
       "name": "A'ja Wilson",
@@ -227,7 +227,7 @@
       "status": "Available",
       "reason": "Injury/Illness - Right Foot; Right Foot",
       "reason_category": "injury",
-      "last_updated": "2026-08-30T19:31:00.083800+00:00"
+      "last_updated": "2026-08-30T19:46:00.995284+00:00"
     },
     {
       "name": "Dana Evans",
@@ -237,6 +237,15 @@
       "reason": "Injury/Illness - Left Leg; leftleg",
       "reason_category": "injury",
       "last_updated": "2026-08-29T03:45:13.675942+00:00"
+    },
+    {
+      "name": "Emma Cannon",
+      "team_abbr": "LAS",
+      "team_full": "Los Angeles Sparks",
+      "status": "Available",
+      "reason": "-",
+      "reason_category": "other",
+      "last_updated": "2026-08-30T19:46:00.995284+00:00"
     },
     {
       "name": "Marta Suarez",
@@ -270,7 +279,7 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-08-30T19:31:00.083800+00:00",
+      "last_submitted_ts": "2026-08-30T19:46:00.995284+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "MIN@ATL"
@@ -320,7 +329,7 @@
     {
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
-      "last_submitted_ts": "2026-08-30T19:31:00.083800+00:00",
+      "last_submitted_ts": "2026-08-30T19:46:00.995284+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "CON@DAL"
@@ -345,7 +354,7 @@
     {
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
-      "last_submitted_ts": "2026-08-30T19:31:00.083800+00:00",
+      "last_submitted_ts": "2026-08-30T19:46:00.995284+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "CON@DAL"
@@ -399,7 +408,7 @@
     {
       "team_abbr": "LAS",
       "team_full": "Los Angeles Sparks",
-      "last_submitted_ts": "2026-08-30T19:31:00.083800+00:00",
+      "last_submitted_ts": "2026-08-30T19:46:00.995284+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "LAS@SEA"
@@ -408,9 +417,9 @@
         {
           "name_last_first": "Cannon, Emma",
           "name": "Emma Cannon",
-          "status": "Questionable",
-          "reason": "Injury/Illness - Rightknee; RKnee",
-          "reason_category": "injury"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
         },
         {
           "name_last_first": "Mwenentanda, Ndjakalenga",
@@ -422,6 +431,13 @@
         {
           "name_last_first": "Nye, Aaliyah",
           "name": "Aaliyah Nye",
+          "status": "Out",
+          "reason": "Not With Team",
+          "reason_category": "offcourt"
+        },
+        {
+          "name_last_first": "Sellers, Shyanne",
+          "name": "Shyanne Sellers",
           "status": "Out",
           "reason": "Not With Team",
           "reason_category": "offcourt"
@@ -470,7 +486,7 @@
     {
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
-      "last_submitted_ts": "2026-08-30T19:31:00.083800+00:00",
+      "last_submitted_ts": "2026-08-30T19:46:00.995284+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "MIN@ATL"
@@ -535,7 +551,7 @@
     {
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
-      "last_submitted_ts": "2026-08-30T19:31:00.083800+00:00",
+      "last_submitted_ts": "2026-08-30T19:46:00.995284+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "GSV@PDX"
@@ -592,7 +608,7 @@
     {
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
-      "last_submitted_ts": "2026-08-30T19:31:00.083800+00:00",
+      "last_submitted_ts": "2026-08-30T19:46:00.995284+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "LAS@SEA"
@@ -627,6 +643,25 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-08-30T19:46:00.995284+00:00",
+      "type": "status_change",
+      "team_abbr": "LAS",
+      "player": "Emma Cannon",
+      "from_status": "Questionable",
+      "to_status": "Available",
+      "reason": "-",
+      "reason_category": "other"
+    },
+    {
+      "ts": "2026-08-30T19:46:00.995284+00:00",
+      "type": "added",
+      "team_abbr": "LAS",
+      "player": "Shyanne Sellers",
+      "status": "Out",
+      "reason": "Not With Team",
+      "reason_category": "offcourt"
+    },
     {
       "ts": "2026-08-30T19:16:00.653462+00:00",
       "type": "status_change",
@@ -2833,24 +2868,6 @@
       "to_status": "Out",
       "reason": "Injury/Illness - Left Ankle;-",
       "reason_category": "injury"
-    },
-    {
-      "ts": "2026-08-20T19:45:24.962680+00:00",
-      "type": "status_change",
-      "team_abbr": "CON",
-      "player": "Brittney Griner",
-      "from_status": "Questionable",
-      "to_status": "Out",
-      "reason": "Injury/Illness - Left Knee;-",
-      "reason_category": "injury"
-    },
-    {
-      "ts": "2026-08-20T01:15:21.129975+00:00",
-      "type": "cleared",
-      "team_abbr": "GSV",
-      "player": "Janelle Salaun",
-      "previous_status": "Available",
-      "previous_reason": "Injury/Illness - Right Knee; Soreness"
     }
   ]
 }
