@@ -1,5 +1,5 @@
 {
-  "report_ts": "08/30/26 06:15 PM",
+  "report_ts": "08/30/26 06:30 PM",
   "page_count": 1,
   "raw_line_count": 13,
   "teams": [
@@ -117,7 +117,7 @@
         {
           "name_last_first": "Samuelson, Karlie",
           "name": "Karlie Samuelson",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Left Knee; Contusion",
           "reason_category": "injury"
         }
@@ -165,7 +165,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-30_06_15PM.pdf",
-  "fetched_slot": "2026-08-30T18:15:00-04:00",
-  "polled_at_utc": "2026-08-30T22:15:58.896613+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-30_06_30PM.pdf",
+  "fetched_slot": "2026-08-30T18:30:00-04:00",
+  "polled_at_utc": "2026-08-30T22:31:00.314734+00:00"
 }

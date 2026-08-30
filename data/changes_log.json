@@ -3,14 +3,6 @@
     "ts": "2026-05-30T20:00:51.037310+00:00",
     "type": "cleared",
     "team_abbr": "PDX",
-    "player": "SarahAshlee Barker",
-    "previous_status": "Available",
-    "previous_reason": "Injury/Illness - Right Foot; Injury"
-  },
-  {
-    "ts": "2026-05-30T20:00:51.037310+00:00",
-    "type": "cleared",
-    "team_abbr": "PDX",
     "player": "Jordan Harrison",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
@@ -17965,5 +17957,15 @@
     "to_status": "Available",
     "reason": "-",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-08-30T22:31:00.314734+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Karlie Samuelson",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Knee; Contusion",
+    "reason_category": "injury"
   }
 ]
