@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/30/26 01:30 PM",
+  "report_ts": "08/30/26 01:45 PM",
   "page_count": 1,
-  "raw_line_count": 11,
+  "raw_line_count": 12,
   "teams": [
     {
       "team_full": "Minnesota Lynx",
@@ -11,6 +11,13 @@
       "matchup": "MIN@ATL",
       "submitted": true,
       "players": [
+        {
+          "name_last_first": "Buenavida, Elena",
+          "name": "Elena Buenavida",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
         {
           "name_last_first": "Williams, Courtney",
           "name": "Courtney Williams",
@@ -151,7 +158,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-30_01_30PM.pdf",
-  "fetched_slot": "2026-08-30T13:30:00-04:00",
-  "polled_at_utc": "2026-08-30T17:31:04.129966+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-30_01_45PM.pdf",
+  "fetched_slot": "2026-08-30T13:45:00-04:00",
+  "polled_at_utc": "2026-08-30T17:45:58.909865+00:00"
 }

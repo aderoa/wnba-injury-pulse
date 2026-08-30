@@ -3,14 +3,6 @@
     "ts": "2026-05-30T17:00:49.489933+00:00",
     "type": "cleared",
     "team_abbr": "LAS",
-    "player": "Sania Feagin",
-    "previous_status": "Out",
-    "previous_reason": "Injury/Illness - Left Leg; LLeg"
-  },
-  {
-    "ts": "2026-05-30T17:00:49.489933+00:00",
-    "type": "cleared",
-    "team_abbr": "LAS",
     "player": "Kate Martin",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
@@ -17960,5 +17952,14 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Left Ankle;-",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-08-30T17:45:58.909865+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Elena Buenavida",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
