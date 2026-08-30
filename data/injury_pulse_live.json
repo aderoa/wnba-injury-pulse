@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-08-30T13:16:02.154358+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-30_09_15AM.pdf",
-  "report_ts": "08/30/26 09:15 AM",
+  "polled_at_utc": "2026-08-30T13:30:58.359257+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-30_09_30AM.pdf",
+  "report_ts": "08/30/26 09:30 AM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -11,7 +11,7 @@
       "status": "Out",
       "reason": "Not With Team",
       "reason_category": "offcourt",
-      "last_updated": "2026-08-30T13:16:02.154358+00:00"
+      "last_updated": "2026-08-30T13:30:58.359257+00:00"
     },
     {
       "name": "Aneesah Morrow",
@@ -38,7 +38,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-08-30T13:16:02.154358+00:00"
+      "last_updated": "2026-08-30T13:30:58.359257+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -47,7 +47,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee;-",
       "reason_category": "injury",
-      "last_updated": "2026-08-30T13:16:02.154358+00:00"
+      "last_updated": "2026-08-30T13:30:58.359257+00:00"
     },
     {
       "name": "Brittney Sykes",
@@ -92,7 +92,7 @@
       "status": "Out",
       "reason": "Personal Reasons",
       "reason_category": "offcourt",
-      "last_updated": "2026-08-30T13:16:02.154358+00:00"
+      "last_updated": "2026-08-30T13:30:58.359257+00:00"
     },
     {
       "name": "Marina TorontoTempo Mabrey",
@@ -119,7 +119,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Shoulder; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-08-30T13:16:02.154358+00:00"
+      "last_updated": "2026-08-30T13:30:58.359257+00:00"
     },
     {
       "name": "Ndjakalenga Mwenentanda",
@@ -128,7 +128,7 @@
       "status": "Out",
       "reason": "Not With Team",
       "reason_category": "offcourt",
-      "last_updated": "2026-08-30T13:16:02.154358+00:00"
+      "last_updated": "2026-08-30T13:30:58.359257+00:00"
     },
     {
       "name": "Sania Feagin",
@@ -137,7 +137,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-08-30T13:16:02.154358+00:00"
+      "last_updated": "2026-08-30T13:30:58.359257+00:00"
     },
     {
       "name": "Satou Sabally",
@@ -173,7 +173,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Rightknee; RKnee",
       "reason_category": "injury",
-      "last_updated": "2026-08-30T13:16:02.154358+00:00"
+      "last_updated": "2026-08-30T13:30:58.359257+00:00"
     },
     {
       "name": "Karlie Samuelson",
@@ -182,7 +182,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Left Knee; Contusion",
       "reason_category": "injury",
-      "last_updated": "2026-08-30T13:16:02.154358+00:00"
+      "last_updated": "2026-08-30T13:30:58.359257+00:00"
     },
     {
       "name": "Olivia Nelson-Ododa",
@@ -191,7 +191,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Right Knee;-",
       "reason_category": "injury",
-      "last_updated": "2026-08-30T13:16:02.154358+00:00"
+      "last_updated": "2026-08-30T13:30:58.359257+00:00"
     },
     {
       "name": "Courtney Williams",
@@ -200,7 +200,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Right Foot; Right Foot",
       "reason_category": "injury",
-      "last_updated": "2026-08-30T13:16:02.154358+00:00"
+      "last_updated": "2026-08-30T13:30:58.359257+00:00"
     },
     {
       "name": "A'ja Wilson",
@@ -261,7 +261,7 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-08-30T13:16:02.154358+00:00",
+      "last_submitted_ts": "2026-08-30T13:30:58.359257+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "MIN@ATL"
@@ -311,7 +311,7 @@
     {
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
-      "last_submitted_ts": "2026-08-30T13:16:02.154358+00:00",
+      "last_submitted_ts": "2026-08-30T13:30:58.359257+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "CON@DAL"
@@ -336,7 +336,7 @@
     {
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
-      "last_submitted_ts": "2026-08-30T13:16:02.154358+00:00",
+      "last_submitted_ts": "2026-08-30T13:30:58.359257+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "CON@DAL"
@@ -390,7 +390,7 @@
     {
       "team_abbr": "LAS",
       "team_full": "Los Angeles Sparks",
-      "last_submitted_ts": "2026-08-30T13:16:02.154358+00:00",
+      "last_submitted_ts": "2026-08-30T13:30:58.359257+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "LAS@SEA"
@@ -461,7 +461,7 @@
     {
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
-      "last_submitted_ts": "2026-08-30T13:16:02.154358+00:00",
+      "last_submitted_ts": "2026-08-30T13:30:58.359257+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "MIN@ATL"
@@ -519,7 +519,7 @@
     {
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
-      "last_submitted_ts": "2026-08-30T13:16:02.154358+00:00",
+      "last_submitted_ts": "2026-08-30T13:30:58.359257+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "GSV@PDX"
@@ -576,7 +576,7 @@
     {
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
-      "last_submitted_ts": "2026-08-30T13:16:02.154358+00:00",
+      "last_submitted_ts": "2026-08-30T13:30:58.359257+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "LAS@SEA"
