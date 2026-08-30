@@ -1,15 +1,5 @@
 [
   {
-    "ts": "2026-05-30T13:45:49.333015+00:00",
-    "type": "reason_change",
-    "team_abbr": "SEA",
-    "player": "Temi Fagbenle",
-    "status": "Out",
-    "from_reason": "Injury/Illness - Right Hand; Injury",
-    "to_reason": "Injury/Illness - Right Shoulder; Injury",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-05-30T15:00:50.677008+00:00",
     "type": "status_change",
     "team_abbr": "SEA",
@@ -17960,5 +17950,15 @@
     "player": "Flau'jae Johnson",
     "previous_status": "Available",
     "previous_reason": "-"
+  },
+  {
+    "ts": "2026-08-30T00:15:59.003912+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "Marta Suarez",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
   }
 ]

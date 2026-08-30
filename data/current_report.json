@@ -1,7 +1,7 @@
 {
-  "report_ts": "08/29/26 08:00 PM",
+  "report_ts": "08/29/26 08:15 PM",
   "page_count": 2,
-  "raw_line_count": 26,
+  "raw_line_count": 25,
   "teams": [
     {
       "team_full": "Chicago Sky",
@@ -107,9 +107,9 @@
         {
           "name_last_first": "Suarez, Marta",
           "name": "Marta Suarez",
-          "status": "Questionable",
-          "reason": "Injury/Illness--; Concussion Protocol",
-          "reason_category": "injury"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
         }
       ]
     },
@@ -196,15 +196,6 @@
       ]
     },
     {
-      "team_full": "Golden State Valkyries",
-      "team_abbr": "GSV",
-      "game_date": "08/30/2026",
-      "game_time": "07:00(ET)",
-      "matchup": "GSV@PDX",
-      "submitted": false,
-      "players": []
-    },
-    {
       "team_full": "Portland Fire",
       "team_abbr": "PDX",
       "game_date": "08/30/2026",
@@ -270,7 +261,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-29_08_00PM.pdf",
-  "fetched_slot": "2026-08-29T20:00:00-04:00",
-  "polled_at_utc": "2026-08-30T00:01:00.374073+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-29_08_15PM.pdf",
+  "fetched_slot": "2026-08-29T20:15:00-04:00",
+  "polled_at_utc": "2026-08-30T00:15:59.003912+00:00"
 }
