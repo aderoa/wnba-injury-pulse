@@ -1,7 +1,7 @@
 {
-  "report_ts": "09/16/26 04:00 PM",
+  "report_ts": "09/16/26 04:15 PM",
   "page_count": 1,
-  "raw_line_count": 10,
+  "raw_line_count": 9,
   "teams": [
     {
       "team_full": "Connecticut Sun",
@@ -18,15 +18,6 @@
       "game_date": "09/17/2026",
       "game_time": "07:30(ET)",
       "matchup": "CON@ATL",
-      "submitted": false,
-      "players": []
-    },
-    {
-      "team_full": "Los Angeles Sparks",
-      "team_abbr": "LAS",
-      "game_date": "09/17/2026",
-      "game_time": "08:00(ET)",
-      "matchup": "LAS@DAL",
       "submitted": false,
       "players": []
     },
@@ -94,7 +85,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-16_04_00PM.pdf",
-  "fetched_slot": "2026-09-16T16:00:00-04:00",
-  "polled_at_utc": "2026-09-16T20:00:53.981873+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-16_04_15PM.pdf",
+  "fetched_slot": "2026-09-16T16:15:00-04:00",
+  "polled_at_utc": "2026-09-16T20:16:08.919855+00:00"
 }
