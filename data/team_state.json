@@ -18,7 +18,8 @@
         "reason": "Personal Reasons",
         "reason_category": "offcourt"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-09-16T04:00:53.578170+00:00"
   },
   "IND": {
     "team_full": "Indiana Fever",
@@ -74,7 +75,8 @@
         "reason": "-",
         "reason_category": "other"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-09-16T04:00:53.578170+00:00"
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
@@ -116,7 +118,8 @@
         "reason": "Injury/Illness - N/a; back",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-09-16T04:00:53.578170+00:00"
   },
   "ATL": {
     "team_full": "Atlanta Dream",
@@ -137,7 +140,8 @@
         "reason": "Injury/Illness - Left Leg; N/A",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-09-16T04:00:53.578170+00:00"
   },
   "MIN": {
     "team_full": "Minnesota Lynx",
@@ -200,7 +204,8 @@
         "reason": "Injury/Illness - Right Knee; Right Knee",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-09-16T04:00:53.578170+00:00"
   },
   "PDX": {
     "team_full": "Portland Fire",
@@ -228,7 +233,8 @@
         "reason": "Injury/Illness - Left Knee; Contusion",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-09-16T04:00:53.578170+00:00"
   },
   "SEA": {
     "team_full": "Seattle Storm",
@@ -249,7 +255,8 @@
         "reason": "Injury/Illness - Left Shoulder; Injury",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-09-16T04:00:53.578170+00:00"
   },
   "CON": {
     "team_full": "Connecticut Sun",
@@ -284,7 +291,8 @@
         "reason": "Injury/Illness - Right Knee;-",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-09-16T04:00:53.578170+00:00"
   },
   "NYL": {
     "team_full": "New York Liberty",
@@ -349,7 +357,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-08-28T19:00:24.131421+00:00"
+    "last_seen_pending_ts": "2026-09-16T04:00:53.578170+00:00"
   },
   "GSV": {
     "team_full": "Golden State Valkyries",
@@ -413,6 +421,7 @@
         "reason": "Not With Team",
         "reason_category": "offcourt"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-09-16T04:00:53.578170+00:00"
   }
 }
