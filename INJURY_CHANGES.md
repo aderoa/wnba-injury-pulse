@@ -4,6 +4,15 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-09-16 20:45 UTC
+
+- **Kennedy Burke** (CON) newly listed as **Out** — Injury/Illness - Right Shoulder;-
+- **Leila Lacan** (CON) newly listed as **Questionable** — Rest--
+- **Diamond Miller** (CON) newly listed as **Questionable** — Injury/Illness - Right Thumb;-
+- **Rayah Marshall** (CON) cleared (was Out)
+- **Olivia Nelson-Ododa** (CON) cleared (was Out)
+- **Brittney Griner** (CON): **Out** → **Questionable** — Injury/Illness - Left Knee;-
+
 ## 2026-08-30 23:46 UTC
 
 - **Rayah Marshall** (CON) newly listed as **Out** — Coach's Decision

@@ -1,62 +1,5 @@
 [
   {
-    "ts": "2026-05-30T20:00:51.037310+00:00",
-    "type": "status_change",
-    "team_abbr": "PDX",
-    "player": "Bridget Carleton",
-    "from_status": "Out",
-    "to_status": "Questionable",
-    "reason": "Injury/Illness - Lower Back; Soreness",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-30T20:00:51.037310+00:00",
-    "type": "status_change",
-    "team_abbr": "PDX",
-    "player": "Teja Oblak",
-    "from_status": "Available",
-    "to_status": "Questionable",
-    "reason": "Injury/Illness - Right Quad; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-30T20:45:49.724185+00:00",
-    "type": "added",
-    "team_abbr": "LAS",
-    "player": "Laura Ziegler",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-30T21:15:48.939931+00:00",
-    "type": "added",
-    "team_abbr": "CON",
-    "player": "Ashlon Jackson",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-30T22:15:49.510211+00:00",
-    "type": "status_change",
-    "team_abbr": "IND",
-    "player": "Caitlin Clark",
-    "from_status": "Probable",
-    "to_status": "Available",
-    "reason": "-",
-    "reason_category": "other"
-  },
-  {
-    "ts": "2026-05-30T23:15:49.594969+00:00",
-    "type": "added",
-    "team_abbr": "PDX",
-    "player": "Jordan Harrison",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
     "ts": "2026-05-30T23:15:49.594969+00:00",
     "type": "added",
     "team_abbr": "PDX",
@@ -17968,5 +17911,58 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-09-16T20:45:55.508686+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Kennedy Burke",
+    "status": "Out",
+    "reason": "Injury/Illness - Right Shoulder;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-16T20:45:55.508686+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Leila Lacan",
+    "status": "Questionable",
+    "reason": "Rest--",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-09-16T20:45:55.508686+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Diamond Miller",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Right Thumb;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-16T20:45:55.508686+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Rayah Marshall",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-09-16T20:45:55.508686+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Olivia Nelson-Ododa",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Right Knee;-"
+  },
+  {
+    "ts": "2026-09-16T20:45:55.508686+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Brittney Griner",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Knee;-",
+    "reason_category": "injury"
   }
 ]

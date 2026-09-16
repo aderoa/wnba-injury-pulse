@@ -19,7 +19,7 @@
         "reason_category": "offcourt"
       }
     ],
-    "last_seen_pending_ts": "2026-09-16T20:30:53.994829+00:00"
+    "last_seen_pending_ts": "2026-09-16T20:45:55.508686+00:00"
   },
   "IND": {
     "team_full": "Indiana Fever",
@@ -76,7 +76,7 @@
         "reason_category": "other"
       }
     ],
-    "last_seen_pending_ts": "2026-09-16T20:30:53.994829+00:00"
+    "last_seen_pending_ts": "2026-09-16T20:45:55.508686+00:00"
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
@@ -119,7 +119,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-09-16T20:30:53.994829+00:00"
+    "last_seen_pending_ts": "2026-09-16T20:45:55.508686+00:00"
   },
   "ATL": {
     "team_full": "Atlanta Dream",
@@ -141,7 +141,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-09-16T20:30:53.994829+00:00"
+    "last_seen_pending_ts": "2026-09-16T20:45:55.508686+00:00"
   },
   "MIN": {
     "team_full": "Minnesota Lynx",
@@ -205,7 +205,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-09-16T20:30:53.994829+00:00"
+    "last_seen_pending_ts": "2026-09-16T20:45:55.508686+00:00"
   },
   "PDX": {
     "team_full": "Portland Fire",
@@ -234,7 +234,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-09-16T20:30:53.994829+00:00"
+    "last_seen_pending_ts": "2026-09-16T20:45:55.508686+00:00"
   },
   "SEA": {
     "team_full": "Seattle Storm",
@@ -256,43 +256,49 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-09-16T20:30:53.994829+00:00"
+    "last_seen_pending_ts": "2026-09-16T20:45:55.508686+00:00"
   },
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-08-31T04:01:02.285667+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-30_11_45PM.pdf",
+    "last_submitted_ts": "2026-09-16T20:45:55.508686+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-16_04_45PM.pdf",
     "game_dates": [
-      "08/30/2026"
+      "09/17/2026"
     ],
     "matchups": [
-      "CON@DAL"
+      "CON@ATL"
     ],
     "players": [
       {
+        "name_last_first": "Burke, Kennedy",
+        "name": "Kennedy Burke",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Shoulder;-",
+        "reason_category": "injury"
+      },
+      {
         "name_last_first": "Griner, Brittney",
         "name": "Brittney Griner",
-        "status": "Out",
+        "status": "Questionable",
         "reason": "Injury/Illness - Left Knee;-",
         "reason_category": "injury"
       },
       {
-        "name_last_first": "Marshall, Rayah",
-        "name": "Rayah Marshall",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
+        "name_last_first": "Lacan, Leila",
+        "name": "Leila Lacan",
+        "status": "Questionable",
+        "reason": "Rest--",
+        "reason_category": "other"
       },
       {
-        "name_last_first": "Nelson-Ododa, Olivia",
-        "name": "Olivia Nelson-Ododa",
-        "status": "Out",
-        "reason": "Injury/Illness - Right Knee;-",
+        "name_last_first": "Miller, Diamond",
+        "name": "Diamond Miller",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Right Thumb;-",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-09-16T20:30:53.994829+00:00"
+    ]
   },
   "NYL": {
     "team_full": "New York Liberty",
@@ -357,7 +363,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-09-16T20:30:53.994829+00:00"
+    "last_seen_pending_ts": "2026-09-16T20:45:55.508686+00:00"
   },
   "GSV": {
     "team_full": "Golden State Valkyries",
