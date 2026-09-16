@@ -1,5 +1,5 @@
 {
-  "report_ts": "09/16/26 04:45 PM",
+  "report_ts": "09/16/26 05:00 PM",
   "page_count": 1,
   "raw_line_count": 12,
   "teams": [
@@ -47,8 +47,16 @@
       "game_date": "09/17/2026",
       "game_time": "07:30(ET)",
       "matchup": "CON@ATL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Jones, Brionna",
+          "name": "Brionna Jones",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Leg; N/A",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Dallas Wings",
@@ -114,7 +122,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-16_04_45PM.pdf",
-  "fetched_slot": "2026-09-16T16:45:00-04:00",
-  "polled_at_utc": "2026-09-16T20:45:55.508686+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-16_05_00PM.pdf",
+  "fetched_slot": "2026-09-16T17:00:00-04:00",
+  "polled_at_utc": "2026-09-16T21:00:56.328306+00:00"
 }
