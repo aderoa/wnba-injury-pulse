@@ -1,34 +1,5 @@
 [
   {
-    "ts": "2026-05-30T23:15:49.594969+00:00",
-    "type": "status_change",
-    "team_abbr": "PDX",
-    "player": "Bridget Carleton",
-    "from_status": "Questionable",
-    "to_status": "Available",
-    "reason": "Injury/Illness - Lower Back; Soreness",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-30T23:30:49.475778+00:00",
-    "type": "status_change",
-    "team_abbr": "CON",
-    "player": "Brittney Griner",
-    "from_status": "Available",
-    "to_status": "Out",
-    "reason": "Injury/Illness - Right Eye; Bruise",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-30T23:30:49.475778+00:00",
-    "type": "added",
-    "team_abbr": "IND",
-    "player": "Bree Hall",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
     "ts": "2026-05-30T23:30:49.475778+00:00",
     "type": "added",
     "team_abbr": "IND",
@@ -17961,5 +17932,32 @@
     "player": "Shakira Austin",
     "previous_status": "Available",
     "previous_reason": "Injury/Illness - Right Knee; Soreness"
+  },
+  {
+    "ts": "2026-09-16T21:45:52.159492+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Alanna Smith",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Leg; lowerleftleg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-16T21:45:52.159492+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Kitija Laksa",
+    "previous_status": "Out",
+    "previous_reason": "Personal Reasons"
+  },
+  {
+    "ts": "2026-09-16T21:45:52.159492+00:00",
+    "type": "status_change",
+    "team_abbr": "CHI",
+    "player": "Natasha Cloud",
+    "from_status": "Available",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Knee; Left Knee",
+    "reason_category": "injury"
   }
 ]

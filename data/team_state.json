@@ -2,24 +2,23 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-08-31T04:01:02.285667+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-30_11_45PM.pdf",
+    "last_submitted_ts": "2026-09-16T21:45:52.159492+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-16_05_45PM.pdf",
     "game_dates": [
-      "08/30/2026"
+      "09/17/2026"
     ],
     "matchups": [
-      "CON@DAL"
+      "LAS@DAL"
     ],
     "players": [
       {
-        "name_last_first": "Laksa, Kitija",
-        "name": "Kitija Laksa",
+        "name_last_first": "Smith, Alanna",
+        "name": "Alanna Smith",
         "status": "Out",
-        "reason": "Personal Reasons",
-        "reason_category": "offcourt"
+        "reason": "Injury/Illness - Left Leg; lowerleftleg",
+        "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-09-16T21:30:58.107680+00:00"
+    ]
   },
   "IND": {
     "team_full": "Indiana Fever",
@@ -76,7 +75,7 @@
         "reason_category": "other"
       }
     ],
-    "last_seen_pending_ts": "2026-09-16T21:30:58.107680+00:00"
+    "last_seen_pending_ts": "2026-09-16T21:45:52.159492+00:00"
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
@@ -119,13 +118,13 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-09-16T21:30:58.107680+00:00"
+    "last_seen_pending_ts": "2026-09-16T21:45:52.159492+00:00"
   },
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-09-16T21:30:58.107680+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-16_05_30PM.pdf",
+    "last_submitted_ts": "2026-09-16T21:45:52.159492+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-16_05_45PM.pdf",
     "game_dates": [
       "09/17/2026"
     ],
@@ -173,13 +172,13 @@
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-08-30T03:45:59.542572+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-29_11_45PM.pdf",
+    "last_submitted_ts": "2026-09-16T21:45:52.159492+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-16_05_45PM.pdf",
     "game_dates": [
-      "08/29/2026"
+      "09/17/2026"
     ],
     "matchups": [
-      "CHI@NYL"
+      "WAS@CHI"
     ],
     "players": [
       {
@@ -192,8 +191,8 @@
       {
         "name_last_first": "Cloud, Natasha",
         "name": "Natasha Cloud",
-        "status": "Available",
-        "reason": "Injury/Illness - Right Knee; Right Knee",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Left Knee; Left Knee",
         "reason_category": "injury"
       },
       {
@@ -203,8 +202,7 @@
         "reason": "Injury/Illness - Right Knee; Right Knee",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-09-16T21:30:58.107680+00:00"
+    ]
   },
   "PDX": {
     "team_full": "Portland Fire",
@@ -233,7 +231,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-09-16T21:30:58.107680+00:00"
+    "last_seen_pending_ts": "2026-09-16T21:45:52.159492+00:00"
   },
   "SEA": {
     "team_full": "Seattle Storm",
@@ -255,13 +253,13 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-09-16T21:30:58.107680+00:00"
+    "last_seen_pending_ts": "2026-09-16T21:45:52.159492+00:00"
   },
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-09-16T21:30:58.107680+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-16_05_30PM.pdf",
+    "last_submitted_ts": "2026-09-16T21:45:52.159492+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-16_05_45PM.pdf",
     "game_dates": [
       "09/17/2026"
     ],
@@ -345,8 +343,8 @@
   "WAS": {
     "team_full": "Washington Mystics",
     "submitted": true,
-    "last_submitted_ts": "2026-09-16T21:30:58.107680+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-16_05_30PM.pdf",
+    "last_submitted_ts": "2026-09-16T21:45:52.159492+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-16_05_45PM.pdf",
     "game_dates": [
       "09/17/2026"
     ],
