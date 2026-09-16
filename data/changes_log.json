@@ -1,52 +1,5 @@
 [
   {
-    "ts": "2026-05-30T23:30:49.475778+00:00",
-    "type": "added",
-    "team_abbr": "IND",
-    "player": "Justine Pissott",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-05-30T23:45:48.947176+00:00",
-    "type": "status_change",
-    "team_abbr": "PDX",
-    "player": "Serah Williams",
-    "from_status": "Questionable",
-    "to_status": "Available",
-    "reason": "Injury/Illness - Left Ankle; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-31T00:15:50.193987+00:00",
-    "type": "added",
-    "team_abbr": "LVA",
-    "player": "Jewell Loyd",
-    "status": "Questionable",
-    "reason": "Injury/Illness - Left Leg; leftleg",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-31T18:45:57.890576+00:00",
-    "type": "status_change",
-    "team_abbr": "LVA",
-    "player": "Jewell Loyd",
-    "from_status": "Questionable",
-    "to_status": "Out",
-    "reason": "Injury/Illness - Left Leg; leftleg",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-31T19:01:00.137368+00:00",
-    "type": "added",
-    "team_abbr": "GSV",
-    "player": "Ashten Prechtel",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
     "ts": "2026-05-31T22:01:03.333936+00:00",
     "type": "cleared",
     "team_abbr": "SEA",
@@ -17959,5 +17912,49 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Left Knee; Left Knee",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-16T23:45:55.072848+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Bridget Carleton",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Ankle; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-16T23:45:55.072848+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Megan DiLeo",
+    "status": "Out",
+    "reason": "Injury/Illness - Right Finger; Dislocation",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-16T23:45:55.072848+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Carla Leite",
+    "status": "Out",
+    "reason": "Rest",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-09-16T23:45:55.072848+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Teja Oblak",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Knee; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-16T23:45:55.072848+00:00",
+    "type": "cleared",
+    "team_abbr": "PDX",
+    "player": "Karlie Samuelson",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Left Knee; Contusion"
   }
 ]

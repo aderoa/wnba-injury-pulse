@@ -4,6 +4,14 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-09-16 23:45 UTC
+
+- **Bridget Carleton** (PDX) newly listed as **Out** — Injury/Illness - Left Ankle; Injury
+- **Megan DiLeo** (PDX) newly listed as **Out** — Injury/Illness - Right Finger; Dislocation
+- **Carla Leite** (PDX) newly listed as **Out** — Rest
+- **Teja Oblak** (PDX) newly listed as **Out** — Injury/Illness - Left Knee; Injury
+- **Karlie Samuelson** (PDX) cleared (was Available)
+
 ## 2026-09-16 21:45 UTC
 
 - **Alanna Smith** (DAL) newly listed as **Out** — Injury/Illness - Left Leg; lowerleftleg
