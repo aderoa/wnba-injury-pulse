@@ -4,6 +4,13 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-09-17 23:30 UTC
+
+- **Georgia Amoore** (WAS): **Questionable** → **Available** — Injury/Illness - Right Knee; Soreness
+- **Morgan Maly** (CHI) newly listed as **Out** — Coach's Decision
+- **Kate Martin** (CHI) newly listed as **Out** — Coach's Decision
+- **Natasha Cloud** (CHI): **Questionable** → **Available** — Injury/Illness - Left Knee; Left Knee
+
 ## 2026-09-17 22:45 UTC
 
 - **Rayah Marshall** (CON) newly listed as **Out** — Coach's Decision

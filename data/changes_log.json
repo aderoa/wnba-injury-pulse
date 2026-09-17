@@ -1,40 +1,5 @@
 [
   {
-    "ts": "2026-06-01T21:01:09.039268+00:00",
-    "type": "cleared",
-    "team_abbr": "ATL",
-    "player": "Amy Okonkwo",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-06-01T23:01:03.855492+00:00",
-    "type": "added",
-    "team_abbr": "DAL",
-    "player": "Dulcy FankamMendjiadeu",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-06-01T23:01:03.855492+00:00",
-    "type": "added",
-    "team_abbr": "DAL",
-    "player": "Costanza Verona",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-06-02T00:01:03.472784+00:00",
-    "type": "added",
-    "team_abbr": "LVA",
-    "player": "Chennedy Carter",
-    "status": "Questionable",
-    "reason": "Injury/Illness - Left Leg; leftleg",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-06-02T00:01:03.472784+00:00",
     "type": "status_change",
     "team_abbr": "LVA",
@@ -17969,5 +17934,43 @@
     "from_reason": "Not With Team",
     "to_reason": "Coach's Decision - Coach\u2019sdecision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-09-17T23:30:52.362483+00:00",
+    "type": "status_change",
+    "team_abbr": "WAS",
+    "player": "Georgia Amoore",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Knee; Soreness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-17T23:30:52.362483+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Morgan Maly",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-09-17T23:30:52.362483+00:00",
+    "type": "added",
+    "team_abbr": "CHI",
+    "player": "Kate Martin",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-09-17T23:30:52.362483+00:00",
+    "type": "status_change",
+    "team_abbr": "CHI",
+    "player": "Natasha Cloud",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Knee; Left Knee",
+    "reason_category": "injury"
   }
 ]
