@@ -1,57 +1,5 @@
 [
   {
-    "ts": "2026-06-01T20:31:04.745540+00:00",
-    "type": "added",
-    "team_abbr": "WAS",
-    "player": "Sonia Citron",
-    "status": "Out",
-    "reason": "Injury/Illness - Leftfoot; Sprain",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-01T20:31:04.745540+00:00",
-    "type": "added",
-    "team_abbr": "WAS",
-    "player": "Alex Wilson",
-    "status": "Questionable",
-    "reason": "Injury/Illness - Right Leg; Hamstring",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-01T20:31:04.745540+00:00",
-    "type": "cleared",
-    "team_abbr": "WAS",
-    "player": "Darianna Littlepage-Buggs",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-06-01T20:31:04.745540+00:00",
-    "type": "cleared",
-    "team_abbr": "CON",
-    "player": "Brittney Griner",
-    "previous_status": "Out",
-    "previous_reason": "Injury/Illness - Right Eye; Bruise"
-  },
-  {
-    "ts": "2026-06-01T20:31:04.745540+00:00",
-    "type": "cleared",
-    "team_abbr": "CON",
-    "player": "Ashlon Jackson",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-06-01T20:31:04.745540+00:00",
-    "type": "reason_change",
-    "team_abbr": "CON",
-    "player": "Aaliyah Edwards",
-    "status": "Out",
-    "from_reason": "Injury/Illness - Right Head; Concussion Protocol",
-    "to_reason": "Concussion Protocol",
-    "reason_category": "procedural"
-  },
-  {
     "ts": "2026-06-01T21:01:09.039268+00:00",
     "type": "cleared",
     "team_abbr": "ATL",
@@ -17967,6 +17915,59 @@
     "player": "Matilde Villa",
     "status": "Out",
     "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-09-17T22:45:54.356070+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Rayah Marshall",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-09-17T22:45:54.356070+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Diamond Miller",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Thumb;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-17T22:45:54.356070+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Emma Cannon",
+    "previous_status": "Available",
+    "previous_reason": "-"
+  },
+  {
+    "ts": "2026-09-17T22:45:54.356070+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Aaliyah Nye",
+    "previous_status": "Out",
+    "previous_reason": "Not With Team"
+  },
+  {
+    "ts": "2026-09-17T22:45:54.356070+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Shyanne Sellers",
+    "previous_status": "Out",
+    "previous_reason": "Not With Team"
+  },
+  {
+    "ts": "2026-09-17T22:45:54.356070+00:00",
+    "type": "reason_change",
+    "team_abbr": "LAS",
+    "player": "Ndjakalenga Mwenentanda",
+    "status": "Out",
+    "from_reason": "Not With Team",
+    "to_reason": "Coach's Decision - Coach\u2019sdecision",
     "reason_category": "rest_coach"
   }
 ]
