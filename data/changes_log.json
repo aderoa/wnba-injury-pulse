@@ -1,16 +1,6 @@
 [
   {
     "ts": "2026-06-01T20:31:04.745540+00:00",
-    "type": "status_change",
-    "team_abbr": "DAL",
-    "player": "Alysha Clark",
-    "from_status": "Probable",
-    "to_status": "Available",
-    "reason": "Injury/Illness - Leftarm; arm",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-01T20:31:04.745540+00:00",
     "type": "added",
     "team_abbr": "WAS",
     "player": "Sonia Citron",
@@ -17969,5 +17959,14 @@
     "player": "Courtney Williams",
     "previous_status": "Available",
     "previous_reason": "Injury/Illness - Right Foot; Right Foot"
+  },
+  {
+    "ts": "2026-09-17T22:30:52.569486+00:00",
+    "type": "added",
+    "team_abbr": "ATL",
+    "player": "Matilde Villa",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]

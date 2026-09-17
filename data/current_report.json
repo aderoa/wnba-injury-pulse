@@ -1,7 +1,7 @@
 {
-  "report_ts": "09/17/26 06:15 PM",
+  "report_ts": "09/17/26 06:30 PM",
   "page_count": 2,
-  "raw_line_count": 32,
+  "raw_line_count": 33,
   "teams": [
     {
       "team_full": "Connecticut Sun",
@@ -55,6 +55,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Leg; N/A",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Villa, Matilde",
+          "name": "Matilde Villa",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -318,7 +325,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-17_06_15PM.pdf",
-  "fetched_slot": "2026-09-17T18:15:00-04:00",
-  "polled_at_utc": "2026-09-17T22:15:57.794212+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-17_06_30PM.pdf",
+  "fetched_slot": "2026-09-17T18:30:00-04:00",
+  "polled_at_utc": "2026-09-17T22:30:52.569486+00:00"
 }
