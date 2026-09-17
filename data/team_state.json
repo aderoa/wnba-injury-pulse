@@ -2,8 +2,8 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-09-16T23:45:55.072848+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-16_07_45PM.pdf",
+    "last_submitted_ts": "2026-09-17T00:01:30.318826+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-16_08_00PM.pdf",
     "game_dates": [
       "09/17/2026"
     ],
@@ -44,20 +44,20 @@
   "PHX": {
     "team_full": "Phoenix Mercury",
     "submitted": true,
-    "last_submitted_ts": "2026-08-30T03:45:59.542572+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-29_11_45PM.pdf",
+    "last_submitted_ts": "2026-09-17T00:01:30.318826+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-16_08_00PM.pdf",
     "game_dates": [
-      "08/29/2026"
+      "09/17/2026"
     ],
     "matchups": [
-      "TOR@PHX"
+      "PHX@PDX"
     ],
     "players": [
       {
         "name_last_first": "Copper, Kahleah",
         "name": "Kahleah Copper",
-        "status": "Out",
-        "reason": "Injury/Illness - Left Ankle;-",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Right Groin;-",
         "reason_category": "injury"
       },
       {
@@ -66,16 +66,8 @@
         "status": "Out",
         "reason": "Injury/Illness - Left Lower Leg;-",
         "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Suarez, Marta",
-        "name": "Marta Suarez",
-        "status": "Available",
-        "reason": "-",
-        "reason_category": "other"
       }
-    ],
-    "last_seen_pending_ts": "2026-09-16T23:45:55.072848+00:00"
+    ]
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
@@ -123,8 +115,8 @@
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-09-16T23:45:55.072848+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-16_07_45PM.pdf",
+    "last_submitted_ts": "2026-09-17T00:01:30.318826+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-16_08_00PM.pdf",
     "game_dates": [
       "09/17/2026"
     ],
@@ -172,8 +164,8 @@
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-09-16T23:45:55.072848+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-16_07_45PM.pdf",
+    "last_submitted_ts": "2026-09-17T00:01:30.318826+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-16_08_00PM.pdf",
     "game_dates": [
       "09/17/2026"
     ],
@@ -207,8 +199,8 @@
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-09-16T23:45:55.072848+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-16_07_45PM.pdf",
+    "last_submitted_ts": "2026-09-17T00:01:30.318826+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-16_08_00PM.pdf",
     "game_dates": [
       "09/17/2026"
     ],
@@ -256,30 +248,50 @@
   "SEA": {
     "team_full": "Seattle Storm",
     "submitted": true,
-    "last_submitted_ts": "2026-08-31T04:01:02.285667+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-08-30_11_45PM.pdf",
+    "last_submitted_ts": "2026-09-17T00:01:30.318826+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-16_08_00PM.pdf",
     "game_dates": [
-      "08/30/2026"
+      "09/17/2026"
     ],
     "matchups": [
-      "LAS@SEA"
+      "LVA@SEA"
     ],
     "players": [
       {
-        "name_last_first": "Hiedeman, Natisha",
-        "name": "Natisha Hiedeman",
+        "name_last_first": "Horston, Jordan",
+        "name": "Jordan Horston",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Right Shoulder; Injury",
+        "reason_category": "injury"
+      },
+      {
+        "name_last_first": "Magbegor, Ezi",
+        "name": "Ezi Magbegor",
         "status": "Out",
-        "reason": "Injury/Illness - Left Shoulder; Injury",
+        "reason": "Injury/Illness - Right Knee; Injury",
+        "reason_category": "injury"
+      },
+      {
+        "name_last_first": "Melbourne, Jade",
+        "name": "Jade Melbourne",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Illness; Illness",
+        "reason_category": "injury"
+      },
+      {
+        "name_last_first": "Samuelson, KatieLou",
+        "name": "KatieLou Samuelson",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Knee; Injury",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-09-16T23:45:55.072848+00:00"
+    ]
   },
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-09-16T23:45:55.072848+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-16_07_45PM.pdf",
+    "last_submitted_ts": "2026-09-17T00:01:30.318826+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-16_08_00PM.pdf",
     "game_dates": [
       "09/17/2026"
     ],
@@ -363,8 +375,8 @@
   "WAS": {
     "team_full": "Washington Mystics",
     "submitted": true,
-    "last_submitted_ts": "2026-09-16T23:45:55.072848+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-16_07_45PM.pdf",
+    "last_submitted_ts": "2026-09-17T00:01:30.318826+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-16_08_00PM.pdf",
     "game_dates": [
       "09/17/2026"
     ],

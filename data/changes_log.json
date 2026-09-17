@@ -2,64 +2,6 @@
   {
     "ts": "2026-05-31T22:01:03.333936+00:00",
     "type": "cleared",
-    "team_abbr": "SEA",
-    "player": "Julie TorontoTempo Allemand",
-    "previous_status": "Available",
-    "previous_reason": "Injury/Illness - Left Hip; Injury"
-  },
-  {
-    "ts": "2026-05-31T22:01:03.333936+00:00",
-    "type": "cleared",
-    "team_abbr": "SEA",
-    "player": "Temi Fagbenle",
-    "previous_status": "Out",
-    "previous_reason": "Injury/Illness - Right Shoulder; Injury"
-  },
-  {
-    "ts": "2026-05-31T22:01:03.333936+00:00",
-    "type": "cleared",
-    "team_abbr": "SEA",
-    "player": "Isabelle Harrison",
-    "previous_status": "Out",
-    "previous_reason": "Injury/Illness - Right Hand; Injury"
-  },
-  {
-    "ts": "2026-05-31T22:01:03.333936+00:00",
-    "type": "added",
-    "team_abbr": "DAL",
-    "player": "Alysha Clark",
-    "status": "Probable",
-    "reason": "Injury/Illness - Leftarm; arm",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-31T22:01:03.333936+00:00",
-    "type": "added",
-    "team_abbr": "DAL",
-    "player": "Awak Kuier",
-    "status": "Out",
-    "reason": "Injury/Illness - Rightwrist; wrist",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-05-31T22:01:03.333936+00:00",
-    "type": "cleared",
-    "team_abbr": "DAL",
-    "player": "Paige Bueckers",
-    "previous_status": "Available",
-    "previous_reason": "Injury/Illness - Leftleg; leftleg"
-  },
-  {
-    "ts": "2026-05-31T22:01:03.333936+00:00",
-    "type": "cleared",
-    "team_abbr": "DAL",
-    "player": "Arike Ogunbowale",
-    "previous_status": "Available",
-    "previous_reason": "Injury/Illness - Illness; Illness"
-  },
-  {
-    "ts": "2026-05-31T22:01:03.333936+00:00",
-    "type": "cleared",
     "team_abbr": "DAL",
     "player": "Alanna Smith",
     "previous_status": "Out",
@@ -17956,5 +17898,67 @@
     "player": "Karlie Samuelson",
     "previous_status": "Available",
     "previous_reason": "Injury/Illness - Left Knee; Contusion"
+  },
+  {
+    "ts": "2026-09-17T00:01:30.318826+00:00",
+    "type": "added",
+    "team_abbr": "SEA",
+    "player": "Jordan Horston",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Right Shoulder; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-17T00:01:30.318826+00:00",
+    "type": "added",
+    "team_abbr": "SEA",
+    "player": "Ezi Magbegor",
+    "status": "Out",
+    "reason": "Injury/Illness - Right Knee; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-17T00:01:30.318826+00:00",
+    "type": "added",
+    "team_abbr": "SEA",
+    "player": "Jade Melbourne",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Illness; Illness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-17T00:01:30.318826+00:00",
+    "type": "added",
+    "team_abbr": "SEA",
+    "player": "KatieLou Samuelson",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Knee; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-17T00:01:30.318826+00:00",
+    "type": "cleared",
+    "team_abbr": "SEA",
+    "player": "Natisha Hiedeman",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Shoulder; Injury"
+  },
+  {
+    "ts": "2026-09-17T00:01:30.318826+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Marta Suarez",
+    "previous_status": "Available",
+    "previous_reason": "-"
+  },
+  {
+    "ts": "2026-09-17T00:01:30.318826+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "Kahleah Copper",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Right Groin;-",
+    "reason_category": "injury"
   }
 ]

@@ -1,7 +1,7 @@
 {
-  "report_ts": "09/16/26 07:45 PM",
+  "report_ts": "09/16/26 08:00 PM",
   "page_count": 2,
-  "raw_line_count": 21,
+  "raw_line_count": 24,
   "teams": [
     {
       "team_full": "Connecticut Sun",
@@ -131,22 +131,42 @@
       ]
     },
     {
-      "team_full": "Las Vegas Aces",
-      "team_abbr": "LVA",
-      "game_date": "09/17/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "LVA@SEA",
-      "submitted": false,
-      "players": []
-    },
-    {
       "team_full": "Seattle Storm",
       "team_abbr": "SEA",
       "game_date": "09/17/2026",
       "game_time": "10:00(ET)",
       "matchup": "LVA@SEA",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Horston, Jordan",
+          "name": "Jordan Horston",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Shoulder; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Magbegor, Ezi",
+          "name": "Ezi Magbegor",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Melbourne, Jade",
+          "name": "Jade Melbourne",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Illness; Illness",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Samuelson, KatieLou",
+          "name": "KatieLou Samuelson",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Injury",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Phoenix Mercury",
@@ -154,8 +174,23 @@
       "game_date": "09/17/2026",
       "game_time": "10:00(ET)",
       "matchup": "PHX@PDX",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Copper, Kahleah",
+          "name": "Kahleah Copper",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Groin;-",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Plum, Kelsey",
+          "name": "Kelsey Plum",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Lower Leg;-",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Portland Fire",
@@ -203,7 +238,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-16_07_45PM.pdf",
-  "fetched_slot": "2026-09-16T19:45:00-04:00",
-  "polled_at_utc": "2026-09-16T23:45:55.072848+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-16_08_00PM.pdf",
+  "fetched_slot": "2026-09-16T20:00:00-04:00",
+  "polled_at_utc": "2026-09-17T00:01:30.318826+00:00"
 }
