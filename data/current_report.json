@@ -1,7 +1,7 @@
 {
-  "report_ts": "09/17/26 04:30 PM",
+  "report_ts": "09/17/26 04:45 PM",
   "page_count": 2,
-  "raw_line_count": 30,
+  "raw_line_count": 33,
   "teams": [
     {
       "team_full": "Connecticut Sun",
@@ -243,8 +243,44 @@
       "game_date": "09/18/2026",
       "game_time": "07:30(ET)",
       "matchup": "IND@TOR",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Clark, Caitlin",
+          "name": "Caitlin Clark",
+          "status": "Probable",
+          "reason": "Injury/Illness - Back; Back",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "TorontoTempo Conde, Maria",
+          "name": "Maria TorontoTempo Conde",
+          "status": "Questionable",
+          "reason": "Injury/Illness - N/a; Illness",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Mabrey, Marina",
+          "name": "Marina Mabrey",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Adductor; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Morrow, Aneesah",
+          "name": "Aneesah Morrow",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sykes, Brittney",
+          "name": "Brittney Sykes",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Foot; Injury",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "New York Liberty",
@@ -283,7 +319,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-17_04_30PM.pdf",
-  "fetched_slot": "2026-09-17T16:30:00-04:00",
-  "polled_at_utc": "2026-09-17T20:30:57.254739+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-17_04_45PM.pdf",
+  "fetched_slot": "2026-09-17T16:45:00-04:00",
+  "polled_at_utc": "2026-09-17T20:45:51.909983+00:00"
 }

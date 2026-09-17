@@ -1,45 +1,5 @@
 [
   {
-    "ts": "2026-05-31T22:01:03.333936+00:00",
-    "type": "cleared",
-    "team_abbr": "DAL",
-    "player": "Alanna Smith",
-    "previous_status": "Out",
-    "previous_reason": "Injury/Illness - Illness; illness"
-  },
-  {
-    "ts": "2026-05-31T22:01:03.333936+00:00",
-    "type": "cleared",
-    "team_abbr": "DAL",
-    "player": "Costanza Verona",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-05-31T23:46:02.090194+00:00",
-    "type": "cleared",
-    "team_abbr": "MIN",
-    "player": "Eliska Hamzova",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-06-01T00:01:10.806014+00:00",
-    "type": "cleared",
-    "team_abbr": "PHX",
-    "player": "DeWanna Bonner",
-    "previous_status": "Available",
-    "previous_reason": "Injury/Illness--; Illness"
-  },
-  {
-    "ts": "2026-06-01T00:01:10.806014+00:00",
-    "type": "cleared",
-    "team_abbr": "PHX",
-    "player": "Shay Ciezki",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision - Developmental"
-  },
-  {
     "ts": "2026-06-01T00:01:10.806014+00:00",
     "type": "cleared",
     "team_abbr": "PHX",
@@ -17959,6 +17919,52 @@
     "from_status": "Out",
     "to_status": "Questionable",
     "reason": "Injury/Illness - Right Groin;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-17T20:45:51.909983+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Maria TorontoTempo Conde",
+    "status": "Questionable",
+    "reason": "Injury/Illness - N/a; Illness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-17T20:45:51.909983+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Marina Mabrey",
+    "status": "Out",
+    "reason": "Injury/Illness - Right Adductor; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-17T20:45:51.909983+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Aneesah Morrow",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Knee; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-17T20:45:51.909983+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Brittney Sykes",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Foot; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-17T20:45:51.909983+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Available",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Back; Back",
     "reason_category": "injury"
   }
 ]

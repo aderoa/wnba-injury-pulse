@@ -4,6 +4,14 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-09-17 20:45 UTC
+
+- **Maria TorontoTempo Conde** (IND) newly listed as **Questionable** — Injury/Illness - N/a; Illness
+- **Marina Mabrey** (IND) newly listed as **Out** — Injury/Illness - Right Adductor; Injury
+- **Aneesah Morrow** (IND) newly listed as **Out** — Injury/Illness - Left Knee; Injury
+- **Brittney Sykes** (IND) newly listed as **Out** — Injury/Illness - Left Foot; Injury
+- **Caitlin Clark** (IND): **Available** → **Probable** — Injury/Illness - Back; Back
+
 ## 2026-09-17 00:01 UTC
 
 - **Jordan Horston** (SEA) newly listed as **Questionable** — Injury/Illness - Right Shoulder; Injury
