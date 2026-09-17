@@ -1,23 +1,5 @@
 [
   {
-    "ts": "2026-06-01T00:01:10.806014+00:00",
-    "type": "cleared",
-    "team_abbr": "PHX",
-    "player": "Marta Suarez",
-    "previous_status": "Out",
-    "previous_reason": "Contract Coach's Decision - Developmental"
-  },
-  {
-    "ts": "2026-06-01T00:01:10.806014+00:00",
-    "type": "reason_change",
-    "team_abbr": "PHX",
-    "player": "Sami Whitcomb",
-    "status": "Out",
-    "from_reason": "Contract Injury/Illness - Left Knee;",
-    "to_reason": "Injury/Illness - Left Knee; Arthroscopy",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-06-01T20:01:04.242505+00:00",
     "type": "cleared",
     "team_abbr": "CHI",
@@ -17965,6 +17947,26 @@
     "from_status": "Available",
     "to_status": "Probable",
     "reason": "Injury/Illness - Back; Back",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-17T21:30:53.339553+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Leila Lacan",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Rest--",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-09-17T21:30:53.339553+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Brittney Griner",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Knee;-",
     "reason_category": "injury"
   }
 ]

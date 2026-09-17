@@ -1,5 +1,5 @@
 {
-  "report_ts": "09/17/26 05:15 PM",
+  "report_ts": "09/17/26 05:30 PM",
   "page_count": 2,
   "raw_line_count": 33,
   "teams": [
@@ -21,14 +21,14 @@
         {
           "name_last_first": "Griner, Brittney",
           "name": "Brittney Griner",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Left Knee;-",
           "reason_category": "injury"
         },
         {
           "name_last_first": "Lacan, Leila",
           "name": "Leila Lacan",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Rest--",
           "reason_category": "other"
         },
@@ -319,7 +319,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-17_05_15PM.pdf",
-  "fetched_slot": "2026-09-17T17:15:00-04:00",
-  "polled_at_utc": "2026-09-17T21:15:53.979910+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-17_05_30PM.pdf",
+  "fetched_slot": "2026-09-17T17:30:00-04:00",
+  "polled_at_utc": "2026-09-17T21:30:53.339553+00:00"
 }
