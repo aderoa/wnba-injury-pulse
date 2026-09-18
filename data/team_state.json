@@ -25,13 +25,14 @@
         "reason": "Injury/Illness - Left Leg; lowerleftleg",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-09-18T04:01:08.706750+00:00"
   },
   "IND": {
     "team_full": "Indiana Fever",
     "submitted": true,
-    "last_submitted_ts": "2026-09-18T03:46:04.803353+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-17_11_45PM.pdf",
+    "last_submitted_ts": "2026-09-18T04:01:08.706750+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-18_12_00AM.pdf",
     "game_dates": [
       "09/18/2026"
     ],
@@ -102,7 +103,8 @@
         "reason": "Injury/Illness - Left Lower Leg;-",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-09-18T04:01:08.706750+00:00"
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
@@ -173,13 +175,14 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-09-18T04:01:08.706750+00:00"
   },
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-09-18T03:46:04.803353+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-17_11_45PM.pdf",
+    "last_submitted_ts": "2026-09-18T04:01:08.706750+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-18_12_00AM.pdf",
     "game_dates": [
       "09/18/2026"
     ],
@@ -243,7 +246,8 @@
         "reason": "Coach's Decision",
         "reason_category": "rest_coach"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-09-18T04:01:08.706750+00:00"
   },
   "PDX": {
     "team_full": "Portland Fire",
@@ -294,7 +298,8 @@
         "reason": "Injury/Illness - Left Knee; Injury",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-09-18T04:01:08.706750+00:00"
   },
   "SEA": {
     "team_full": "Seattle Storm",
@@ -343,7 +348,8 @@
         "reason": "Injury/Illness - Left Knee; Injury",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-09-18T04:01:08.706750+00:00"
   },
   "CON": {
     "team_full": "Connecticut Sun",
@@ -469,13 +475,15 @@
   "GSV": {
     "team_full": "Golden State Valkyries",
     "submitted": true,
-    "last_submitted_ts": "2026-09-18T03:46:04.803353+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-17_11_45PM.pdf",
+    "last_submitted_ts": "2026-09-18T04:01:08.706750+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-18_12_00AM.pdf",
     "game_dates": [
-      "09/18/2026"
+      "09/18/2026",
+      "09/19/2026"
     ],
     "matchups": [
-      "PDX@GSV"
+      "PDX@GSV",
+      "SEA@GSV"
     ],
     "players": [
       {
