@@ -4,6 +4,12 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-09-18 22:00 UTC
+
+- **Kahleah Copper** (PHX): **Out** → **Questionable** — Injury/Illness - Right Groin;-
+- **Alanna Smith** (DAL, Out): reason updated (Injury/Illness - Left Leg; lowerleftleg → Injury/Illness - Left Leg; leftlowerleg)
+- **Odyssey Sims** (DAL): **Out** → **Questionable** — Injury/Illness - Right Knee; rightknee
+
 ## 2026-09-18 21:15 UTC
 
 - **Azura Stevens** (CHI) newly listed as **Out** — Injury/Illness - Right Knee; Right Knee

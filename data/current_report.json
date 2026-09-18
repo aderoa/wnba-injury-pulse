@@ -1,7 +1,7 @@
 {
-  "report_ts": "09/18/26 05:45 PM",
+  "report_ts": "09/18/26 06:00 PM",
   "page_count": 2,
-  "raw_line_count": 21,
+  "raw_line_count": 23,
   "teams": [
     {
       "team_full": "Indiana Fever",
@@ -133,8 +133,23 @@
       "game_date": "09/19/2026",
       "game_time": "01:00(ET)",
       "matchup": "PHX@DAL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Copper, Kahleah",
+          "name": "Kahleah Copper",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Groin;-",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Plum, Kelsey",
+          "name": "Kelsey Plum",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Lower Leg;-",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Dallas Wings",
@@ -142,8 +157,23 @@
       "game_date": "09/19/2026",
       "game_time": "01:00(ET)",
       "matchup": "PHX@DAL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Sims, Odyssey",
+          "name": "Odyssey Sims",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Knee; rightknee",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Smith, Alanna",
+          "name": "Alanna Smith",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Leg; leftlowerleg",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Chicago Sky",
@@ -219,7 +249,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-18_05_45PM.pdf",
-  "fetched_slot": "2026-09-18T17:45:00-04:00",
-  "polled_at_utc": "2026-09-18T21:45:53.878779+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-18_06_00PM.pdf",
+  "fetched_slot": "2026-09-18T18:00:00-04:00",
+  "polled_at_utc": "2026-09-18T22:00:54.863772+00:00"
 }

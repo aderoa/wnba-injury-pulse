@@ -1,32 +1,5 @@
 [
   {
-    "ts": "2026-06-02T22:15:47.117755+00:00",
-    "type": "added",
-    "team_abbr": "ATL",
-    "player": "Amy Okonkwo",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-06-02T22:30:47.410770+00:00",
-    "type": "added",
-    "team_abbr": "CHI",
-    "player": "Aicha Coulibaly",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-06-02T22:30:47.410770+00:00",
-    "type": "added",
-    "team_abbr": "CHI",
-    "player": "Maddy Westbeld",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
     "ts": "2026-06-02T22:45:44.060357+00:00",
     "type": "added",
     "team_abbr": "WAS",
@@ -17970,6 +17943,36 @@
     "from_status": "Available",
     "to_status": "Questionable",
     "reason": "Injury/Illness - Left Knee; Left Knee",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-18T22:00:54.863772+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "Kahleah Copper",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Right Groin;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-18T22:00:54.863772+00:00",
+    "type": "reason_change",
+    "team_abbr": "DAL",
+    "player": "Alanna Smith",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Leg; lowerleftleg",
+    "to_reason": "Injury/Illness - Left Leg; leftlowerleg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-18T22:00:54.863772+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Odyssey Sims",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Right Knee; rightknee",
     "reason_category": "injury"
   }
 ]
