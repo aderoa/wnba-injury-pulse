@@ -1,84 +1,5 @@
 [
   {
-    "ts": "2026-06-02T22:45:44.060357+00:00",
-    "type": "added",
-    "team_abbr": "WAS",
-    "player": "Darianna Littlepage-Buggs",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-06-02T23:15:46.194616+00:00",
-    "type": "status_change",
-    "team_abbr": "LVA",
-    "player": "Chennedy Carter",
-    "from_status": "Questionable",
-    "to_status": "Out",
-    "reason": "Injury/Illness - Left Leg; leftleg",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-02T23:15:46.194616+00:00",
-    "type": "status_change",
-    "team_abbr": "LVA",
-    "player": "Jewell Loyd",
-    "from_status": "Questionable",
-    "to_status": "Out",
-    "reason": "Injury/Illness - Left Leg; leftleg",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-03T00:00:45.055705+00:00",
-    "type": "cleared",
-    "team_abbr": "PHX",
-    "player": "Shay Ciezki",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision - Developmental"
-  },
-  {
-    "ts": "2026-06-03T00:00:45.055705+00:00",
-    "type": "cleared",
-    "team_abbr": "PHX",
-    "player": "Marta Suarez",
-    "previous_status": "Out",
-    "previous_reason": "Player Coach's Decision - Developmental Player"
-  },
-  {
-    "ts": "2026-06-03T01:15:45.478520+00:00",
-    "type": "added",
-    "team_abbr": "LAS",
-    "player": "Kate Martin",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-06-03T01:15:45.478520+00:00",
-    "type": "added",
-    "team_abbr": "LAS",
-    "player": "Laura Ziegler",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-06-03T01:30:43.294790+00:00",
-    "type": "cleared",
-    "team_abbr": "PDX",
-    "player": "Bridget Carleton",
-    "previous_status": "Available",
-    "previous_reason": "Injury/Illness - Lower Back; Soreness"
-  },
-  {
-    "ts": "2026-06-03T01:30:43.294790+00:00",
-    "type": "cleared",
-    "team_abbr": "PDX",
-    "player": "Teja Oblak",
-    "previous_status": "Available",
-    "previous_reason": "Injury/Illness - Right Quad; Injury"
-  },
-  {
     "ts": "2026-06-03T01:30:43.294790+00:00",
     "type": "cleared",
     "team_abbr": "PDX",
@@ -17974,5 +17895,83 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Right Knee; rightknee",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-18T22:16:04.219430+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
+  },
+  {
+    "ts": "2026-09-18T22:16:04.219430+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Elizabeth Balogun",
+    "status": "Out",
+    "reason": "Not With Team",
+    "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-09-18T22:16:04.219430+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Madison Scott",
+    "status": "Out",
+    "reason": "Coach's Decision - Developmental Player",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-09-18T22:16:04.219430+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Satou Sabally",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Head; Not With Team"
+  },
+  {
+    "ts": "2026-09-18T22:16:04.219430+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Marina TorontoTempo Mabrey",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Right Adductor; Not"
+  },
+  {
+    "ts": "2026-09-18T22:16:04.219430+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Aneesah Morrow",
+    "previous_status": "Out",
+    "previous_reason": "With Team Injury/Illness - Left Knee; Not With Team"
+  },
+  {
+    "ts": "2026-09-18T22:16:04.219430+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Brittney Sykes",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Foot; Injury"
+  },
+  {
+    "ts": "2026-09-18T22:16:04.219430+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Elena Buenavida",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-09-18T22:16:04.219430+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Liatu King",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
