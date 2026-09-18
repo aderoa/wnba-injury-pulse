@@ -1,14 +1,5 @@
 [
   {
-    "ts": "2026-06-02T01:16:05.470144+00:00",
-    "type": "added",
-    "team_abbr": "PHX",
-    "player": "Marta Suarez",
-    "status": "Out",
-    "reason": "Player Coach's Decision - Developmental Player",
-    "reason_category": "rest_coach"
-  },
-  {
     "ts": "2026-06-02T20:45:48.956612+00:00",
     "type": "added",
     "team_abbr": "GSV",
@@ -17976,5 +17967,14 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-09-18T02:01:04.778753+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Odyssey Sims",
+    "status": "Out",
+    "reason": "Injury/Illness - Right Knee; n/a",
+    "reason_category": "injury"
   }
 ]
