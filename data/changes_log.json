@@ -1,24 +1,6 @@
 [
   {
     "ts": "2026-06-02T20:45:48.956612+00:00",
-    "type": "cleared",
-    "team_abbr": "NYL",
-    "player": "Anneli Maley",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision - Developmental Player"
-  },
-  {
-    "ts": "2026-06-02T20:45:48.956612+00:00",
-    "type": "reason_change",
-    "team_abbr": "NYL",
-    "player": "Marine Fauthoux",
-    "status": "Out",
-    "from_reason": "Arthroscopy Injury/Illness - Left Knee; Rehabilitation",
-    "to_reason": "Injury/Illness - Left Knee; Rehabilitation",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-02T20:45:48.956612+00:00",
     "type": "status_change",
     "team_abbr": "NYL",
     "player": "Sabrina Ionescu",
@@ -17974,5 +17956,23 @@
     "player": "Carla Leite",
     "previous_status": "Out",
     "previous_reason": "Rest"
+  },
+  {
+    "ts": "2026-09-18T20:45:55.109035+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Maria TorontoTempo Conde",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - N/a; Illness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-18T20:45:55.109035+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Matilde Villa",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]

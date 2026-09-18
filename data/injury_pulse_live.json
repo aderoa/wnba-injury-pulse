@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-09-18T20:31:00.651339+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-18_04_30PM.pdf",
-  "report_ts": "09/18/26 04:30 PM",
+  "polled_at_utc": "2026-09-18T20:45:55.109035+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-18_04_45PM.pdf",
+  "report_ts": "09/18/26 04:45 PM",
   "all_players": [
     {
       "name": "Alanna Smith",
@@ -20,7 +20,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Foot; Right Foot",
       "reason_category": "injury",
-      "last_updated": "2026-09-18T20:31:00.651339+00:00"
+      "last_updated": "2026-09-18T20:45:55.109035+00:00"
     },
     {
       "name": "Aneesah Morrow",
@@ -29,7 +29,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-09-18T20:31:00.651339+00:00"
+      "last_updated": "2026-09-18T20:45:55.109035+00:00"
     },
     {
       "name": "Aneesah Morrow",
@@ -47,7 +47,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Ankle; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-09-18T20:31:00.651339+00:00"
+      "last_updated": "2026-09-18T20:45:55.109035+00:00"
     },
     {
       "name": "Brionna Jones",
@@ -56,7 +56,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-09-18T03:46:04.803353+00:00"
+      "last_updated": "2026-09-18T20:45:55.109035+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -74,7 +74,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Foot; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-09-18T20:31:00.651339+00:00"
+      "last_updated": "2026-09-18T20:45:55.109035+00:00"
     },
     {
       "name": "Brittney Sykes",
@@ -119,7 +119,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Na; Reconditioning",
       "reason_category": "injury",
-      "last_updated": "2026-09-18T20:31:00.651339+00:00"
+      "last_updated": "2026-09-18T20:45:55.109035+00:00"
     },
     {
       "name": "Jade Melbourne",
@@ -137,7 +137,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Na; Reconditioning",
       "reason_category": "injury",
-      "last_updated": "2026-09-18T20:31:00.651339+00:00"
+      "last_updated": "2026-09-18T20:45:55.109035+00:00"
     },
     {
       "name": "Jordan Horston",
@@ -203,13 +203,22 @@
       "last_updated": "2026-09-18T03:46:04.803353+00:00"
     },
     {
+      "name": "Maria TorontoTempo Conde",
+      "team_abbr": "IND",
+      "team_full": "Indiana Fever",
+      "status": "Out",
+      "reason": "Injury/Illness - N/a; Illness",
+      "reason_category": "injury",
+      "last_updated": "2026-09-18T20:45:55.109035+00:00"
+    },
+    {
       "name": "Marina Mabrey",
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
       "status": "Out",
       "reason": "Injury/Illness - Right Adductor; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-09-18T20:31:00.651339+00:00"
+      "last_updated": "2026-09-18T20:45:55.109035+00:00"
     },
     {
       "name": "Marina TorontoTempo Mabrey",
@@ -219,15 +228,6 @@
       "reason": "Injury/Illness - Right Adductor; Not",
       "reason_category": "injury",
       "last_updated": "2026-08-30T03:45:59.542572+00:00"
-    },
-    {
-      "name": "Matilde Villa",
-      "team_abbr": "ATL",
-      "team_full": "Atlanta Dream",
-      "status": "Out",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach",
-      "last_updated": "2026-09-18T03:46:04.803353+00:00"
     },
     {
       "name": "Morgan Maly",
@@ -281,7 +281,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-09-18T20:31:00.651339+00:00"
+      "last_updated": "2026-09-18T20:45:55.109035+00:00"
     },
     {
       "name": "Satou Sabally",
@@ -335,7 +335,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-09-18T20:31:00.651339+00:00"
+      "last_updated": "2026-09-18T20:45:55.109035+00:00"
     },
     {
       "name": "Cecilia Zandalasini",
@@ -344,16 +344,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Na; Reconditioning",
       "reason_category": "injury",
-      "last_updated": "2026-09-18T20:31:00.651339+00:00"
-    },
-    {
-      "name": "Maria TorontoTempo Conde",
-      "team_abbr": "IND",
-      "team_full": "Indiana Fever",
-      "status": "Questionable",
-      "reason": "Injury/Illness - N/a; Illness",
-      "reason_category": "injury",
-      "last_updated": "2026-09-18T20:31:00.651339+00:00"
+      "last_updated": "2026-09-18T20:45:55.109035+00:00"
     },
     {
       "name": "Caitlin Clark",
@@ -362,7 +353,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Back; Back",
       "reason_category": "injury",
-      "last_updated": "2026-09-18T20:31:00.651339+00:00"
+      "last_updated": "2026-09-18T20:45:55.109035+00:00"
     },
     {
       "name": "A'ja Wilson",
@@ -405,10 +396,10 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-09-18T03:46:04.803353+00:00",
-      "last_seen_pending_ts": "2026-09-18T20:31:00.651339+00:00",
+      "last_submitted_ts": "2026-09-18T20:45:55.109035+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "CON@ATL"
+        "CHI@ATL"
       ],
       "players": [
         {
@@ -417,13 +408,6 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Leg; N/A",
           "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Villa, Matilde",
-          "name": "Matilde Villa",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
         }
       ]
     },
@@ -431,7 +415,7 @@
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
       "last_submitted_ts": "2026-09-18T03:46:04.803353+00:00",
-      "last_seen_pending_ts": "2026-09-18T20:31:00.651339+00:00",
+      "last_seen_pending_ts": "2026-09-18T20:45:55.109035+00:00",
       "matchups": [
         "WAS@CHI"
       ],
@@ -523,7 +507,7 @@
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
       "last_submitted_ts": "2026-09-18T03:46:04.803353+00:00",
-      "last_seen_pending_ts": "2026-09-18T20:31:00.651339+00:00",
+      "last_seen_pending_ts": "2026-09-18T20:45:55.109035+00:00",
       "matchups": [
         "LAS@DAL"
       ],
@@ -547,7 +531,7 @@
     {
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
-      "last_submitted_ts": "2026-09-18T20:31:00.651339+00:00",
+      "last_submitted_ts": "2026-09-18T20:45:55.109035+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "PDX@GSV",
@@ -580,7 +564,7 @@
     {
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
-      "last_submitted_ts": "2026-09-18T20:31:00.651339+00:00",
+      "last_submitted_ts": "2026-09-18T20:45:55.109035+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "IND@TOR"
@@ -596,7 +580,7 @@
         {
           "name_last_first": "TorontoTempo Conde, Maria",
           "name": "Maria TorontoTempo Conde",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - N/a; Illness",
           "reason_category": "injury"
         },
@@ -683,7 +667,7 @@
     {
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
-      "last_submitted_ts": "2026-09-18T20:31:00.651339+00:00",
+      "last_submitted_ts": "2026-09-18T20:45:55.109035+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "NYL@MIN"
@@ -741,7 +725,7 @@
     {
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
-      "last_submitted_ts": "2026-09-18T20:31:00.651339+00:00",
+      "last_submitted_ts": "2026-09-18T20:45:55.109035+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "PDX@GSV"
@@ -774,7 +758,7 @@
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
       "last_submitted_ts": "2026-09-18T03:46:04.803353+00:00",
-      "last_seen_pending_ts": "2026-09-18T20:31:00.651339+00:00",
+      "last_seen_pending_ts": "2026-09-18T20:45:55.109035+00:00",
       "matchups": [
         "PHX@PDX"
       ],
@@ -799,7 +783,7 @@
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
       "last_submitted_ts": "2026-09-18T03:46:04.803353+00:00",
-      "last_seen_pending_ts": "2026-09-18T20:31:00.651339+00:00",
+      "last_seen_pending_ts": "2026-09-18T20:45:55.109035+00:00",
       "matchups": [
         "LVA@SEA"
       ],
@@ -868,6 +852,24 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-09-18T20:45:55.109035+00:00",
+      "type": "cleared",
+      "team_abbr": "ATL",
+      "player": "Matilde Villa",
+      "previous_status": "Out",
+      "previous_reason": "Coach's Decision"
+    },
+    {
+      "ts": "2026-09-18T20:45:55.109035+00:00",
+      "type": "status_change",
+      "team_abbr": "IND",
+      "player": "Maria TorontoTempo Conde",
+      "from_status": "Questionable",
+      "to_status": "Out",
+      "reason": "Injury/Illness - N/a; Illness",
+      "reason_category": "injury"
+    },
     {
       "ts": "2026-09-18T20:01:00.086504+00:00",
       "type": "cleared",
@@ -3079,24 +3081,6 @@
       "to_status": "Available",
       "reason": "Injury/Illness - Left Foot; L.Foot",
       "reason_category": "injury"
-    },
-    {
-      "ts": "2026-08-22T22:30:59.200284+00:00",
-      "type": "added",
-      "team_abbr": "NYL",
-      "player": "Anneli Maley",
-      "status": "Out",
-      "reason": "Coach's Decision - Developmental Player",
-      "reason_category": "rest_coach"
-    },
-    {
-      "ts": "2026-08-22T22:30:59.200284+00:00",
-      "type": "added",
-      "team_abbr": "NYL",
-      "player": "Elizabeth Balogun",
-      "status": "Out",
-      "reason": "Coach's Decision - Developmental Player",
-      "reason_category": "rest_coach"
     }
   ]
 }
