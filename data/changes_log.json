@@ -2,15 +2,6 @@
   {
     "ts": "2026-06-02T01:16:05.470144+00:00",
     "type": "added",
-    "team_abbr": "MIN",
-    "player": "Liatu King",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-06-02T01:16:05.470144+00:00",
-    "type": "added",
     "team_abbr": "PHX",
     "player": "Shay Ciezki",
     "status": "Out",
@@ -17975,5 +17966,15 @@
     "player": "Ashten Prechtel",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-09-18T00:15:52.540177+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "Kahleah Copper",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Groin;-",
+    "reason_category": "injury"
   }
 ]
