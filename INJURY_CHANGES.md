@@ -4,6 +4,13 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-09-18 21:15 UTC
+
+- **Azura Stevens** (CHI) newly listed as **Out** — Injury/Illness - Right Knee; Right Knee
+- **Morgan Maly** (CHI) cleared (was Out)
+- **Kate Martin** (CHI) cleared (was Out)
+- **Natasha Cloud** (CHI): **Available** → **Questionable** — Injury/Illness - Left Knee; Left Knee
+
 ## 2026-09-18 20:45 UTC
 
 - **Maria TorontoTempo Conde** (IND): **Questionable** → **Out** — Injury/Illness - N/a; Illness
