@@ -26,13 +26,13 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-09-18T19:59:21.059109+00:00"
+    "last_seen_pending_ts": "2026-09-18T20:01:00.086504+00:00"
   },
   "IND": {
     "team_full": "Indiana Fever",
     "submitted": true,
-    "last_submitted_ts": "2026-09-18T19:59:21.059109+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-18_03_45PM.pdf",
+    "last_submitted_ts": "2026-09-18T20:01:00.086504+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-18_04_00PM.pdf",
     "game_dates": [
       "09/18/2026"
     ],
@@ -104,7 +104,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-09-18T19:59:21.059109+00:00"
+    "last_seen_pending_ts": "2026-09-18T20:01:00.086504+00:00"
   },
   "LVA": {
     "team_full": "Las Vegas Aces",
@@ -176,13 +176,13 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-09-18T19:59:21.059109+00:00"
+    "last_seen_pending_ts": "2026-09-18T20:01:00.086504+00:00"
   },
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-09-18T19:59:21.059109+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-18_03_45PM.pdf",
+    "last_submitted_ts": "2026-09-18T20:01:00.086504+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-18_04_00PM.pdf",
     "game_dates": [
       "09/18/2026"
     ],
@@ -247,19 +247,17 @@
         "reason_category": "rest_coach"
       }
     ],
-    "last_seen_pending_ts": "2026-09-18T19:59:21.059109+00:00"
+    "last_seen_pending_ts": "2026-09-18T20:01:00.086504+00:00"
   },
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-09-18T03:46:04.803353+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-17_11_45PM.pdf",
+    "last_submitted_ts": "2026-09-18T20:01:00.086504+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-18_04_00PM.pdf",
     "game_dates": [
-      "09/17/2026",
       "09/18/2026"
     ],
     "matchups": [
-      "PHX@PDX",
       "PDX@GSV"
     ],
     "players": [
@@ -271,25 +269,11 @@
         "reason_category": "injury"
       },
       {
-        "name_last_first": "DiLeo, Megan",
-        "name": "Megan DiLeo",
-        "status": "Out",
-        "reason": "Injury/Illness - Right Finger; Dislocation",
-        "reason_category": "injury"
-      },
-      {
         "name_last_first": "Feagin, Sania",
         "name": "Sania Feagin",
         "status": "Out",
         "reason": "Injury/Illness - Left Knee; Injury",
         "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Leite, Carla",
-        "name": "Carla Leite",
-        "status": "Out",
-        "reason": "Rest",
-        "reason_category": "other"
       },
       {
         "name_last_first": "Oblak, Teja",
@@ -298,8 +282,7 @@
         "reason": "Injury/Illness - Left Knee; Injury",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-09-18T19:59:21.059109+00:00"
+    ]
   },
   "SEA": {
     "team_full": "Seattle Storm",
@@ -349,7 +332,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-09-18T19:59:21.059109+00:00"
+    "last_seen_pending_ts": "2026-09-18T20:01:00.086504+00:00"
   },
   "CON": {
     "team_full": "Connecticut Sun",
@@ -475,8 +458,8 @@
   "GSV": {
     "team_full": "Golden State Valkyries",
     "submitted": true,
-    "last_submitted_ts": "2026-09-18T19:59:21.059109+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-18_03_45PM.pdf",
+    "last_submitted_ts": "2026-09-18T20:01:00.086504+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-18_04_00PM.pdf",
     "game_dates": [
       "09/18/2026",
       "09/19/2026"

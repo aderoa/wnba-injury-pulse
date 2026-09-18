@@ -1,7 +1,7 @@
 {
-  "report_ts": "09/18/26 03:45 PM",
-  "page_count": 1,
-  "raw_line_count": 16,
+  "report_ts": "09/18/26 04:00 PM",
+  "page_count": 2,
+  "raw_line_count": 18,
   "teams": [
     {
       "team_full": "Indiana Fever",
@@ -71,8 +71,30 @@
       "game_date": "09/18/2026",
       "game_time": "10:00(ET)",
       "matchup": "PDX@GSV",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Carleton, Bridget",
+          "name": "Bridget Carleton",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Feagin, Sania",
+          "name": "Sania Feagin",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Oblak, Teja",
+          "name": "Teja Oblak",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Injury",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Golden State Valkyries",
@@ -160,7 +182,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-18_03_45PM.pdf",
-  "fetched_slot": "2026-09-18T15:45:00-04:00",
-  "polled_at_utc": "2026-09-18T19:59:21.059109+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-18_04_00PM.pdf",
+  "fetched_slot": "2026-09-18T16:00:00-04:00",
+  "polled_at_utc": "2026-09-18T20:01:00.086504+00:00"
 }
