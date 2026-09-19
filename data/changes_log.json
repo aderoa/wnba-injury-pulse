@@ -1,15 +1,6 @@
 [
   {
     "ts": "2026-06-04T22:00:37.547786+00:00",
-    "type": "added",
-    "team_abbr": "IND",
-    "player": "Justine Pissott",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-06-04T22:00:37.547786+00:00",
     "type": "status_change",
     "team_abbr": "IND",
     "player": "Damiris Dantas",
@@ -17975,5 +17966,14 @@
     "to_status": "Probable",
     "reason": "Injury/Illness - Back; Back",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-19T22:00:54.718030+00:00",
+    "type": "added",
+    "team_abbr": "ATL",
+    "player": "Matilde Villa",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
