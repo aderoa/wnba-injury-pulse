@@ -1,5 +1,5 @@
 {
-  "report_ts": "09/19/26 11:45 AM",
+  "report_ts": "09/19/26 12:00 PM",
   "page_count": 2,
   "raw_line_count": 24,
   "teams": [
@@ -38,7 +38,7 @@
         {
           "name_last_first": "Sims, Odyssey",
           "name": "Odyssey Sims",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Right Knee; rightknee",
           "reason_category": "injury"
         },
@@ -235,7 +235,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-19_11_45AM.pdf",
-  "fetched_slot": "2026-09-19T11:45:00-04:00",
-  "polled_at_utc": "2026-09-19T15:45:52.696960+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-19_12_00PM.pdf",
+  "fetched_slot": "2026-09-19T12:00:00-04:00",
+  "polled_at_utc": "2026-09-19T16:00:58.411042+00:00"
 }
