@@ -3,16 +3,6 @@
     "ts": "2026-06-04T22:00:37.547786+00:00",
     "type": "status_change",
     "team_abbr": "IND",
-    "player": "Damiris Dantas",
-    "from_status": "Probable",
-    "to_status": "Available",
-    "reason": "-",
-    "reason_category": "other"
-  },
-  {
-    "ts": "2026-06-04T22:00:37.547786+00:00",
-    "type": "status_change",
-    "team_abbr": "IND",
     "player": "Caitlin Clark",
     "from_status": "Probable",
     "to_status": "Available",
@@ -17975,5 +17965,15 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-09-19T22:15:51.268867+00:00",
+    "type": "status_change",
+    "team_abbr": "CHI",
+    "player": "Natasha Cloud",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Knee; Left Knee",
+    "reason_category": "injury"
   }
 ]
