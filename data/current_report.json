@@ -1,7 +1,7 @@
 {
-  "report_ts": "09/19/26 04:00 PM",
+  "report_ts": "09/19/26 04:15 PM",
   "page_count": 2,
-  "raw_line_count": 26,
+  "raw_line_count": 25,
   "teams": [
     {
       "team_full": "Phoenix Mercury",
@@ -203,15 +203,6 @@
       "players": []
     },
     {
-      "team_full": "Washington Mystics",
-      "team_abbr": "WAS",
-      "game_date": "09/20/2026",
-      "game_time": "04:00(ET)",
-      "matchup": "WAS@IND",
-      "submitted": false,
-      "players": []
-    },
-    {
       "team_full": "Indiana Fever",
       "team_abbr": "IND",
       "game_date": "09/20/2026",
@@ -257,7 +248,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-19_04_00PM.pdf",
-  "fetched_slot": "2026-09-19T16:00:00-04:00",
-  "polled_at_utc": "2026-09-19T20:00:54.700216+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-19_04_15PM.pdf",
+  "fetched_slot": "2026-09-19T16:15:00-04:00",
+  "polled_at_utc": "2026-09-19T20:15:55.075886+00:00"
 }
