@@ -2,38 +2,6 @@
   {
     "ts": "2026-06-05T00:00:37.829136+00:00",
     "type": "cleared",
-    "team_abbr": "DAL",
-    "player": "Alysha Clark",
-    "previous_status": "Available",
-    "previous_reason": "Injury/Illness - Leftarm; arm"
-  },
-  {
-    "ts": "2026-06-05T00:00:37.829136+00:00",
-    "type": "cleared",
-    "team_abbr": "DAL",
-    "player": "Dulcy FankamMendjiadeu",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-06-05T00:00:37.829136+00:00",
-    "type": "cleared",
-    "team_abbr": "DAL",
-    "player": "Costanza Verona",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-06-05T00:00:37.829136+00:00",
-    "type": "cleared",
-    "team_abbr": "LAS",
-    "player": "Kate Martin",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-06-05T00:00:37.829136+00:00",
-    "type": "cleared",
     "team_abbr": "LAS",
     "player": "Laura Ziegler",
     "previous_status": "Out",
@@ -17976,5 +17944,40 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Left Ankle; Injury",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-19T23:45:54.797065+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Cameron Brink",
+    "status": "Doubtful",
+    "reason": "Injury/Illness - Right Ankle; RAnkle",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-19T23:45:54.797065+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Dearica Hamby",
+    "status": "Doubtful",
+    "reason": "Injury/Illness - Leftknee; LKnee",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-19T23:45:54.797065+00:00",
+    "type": "added",
+    "team_abbr": "LAS",
+    "player": "Aaliyah Nye",
+    "status": "Doubtful",
+    "reason": "Injury/Illness - Left Ankle; LAnkle",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-19T23:45:54.797065+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Ndjakalenga Mwenentanda",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Coach\u2019sdecision"
   }
 ]
