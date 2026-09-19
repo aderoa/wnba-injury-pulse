@@ -1,31 +1,6 @@
 [
   {
     "ts": "2026-06-03T01:30:43.294790+00:00",
-    "type": "cleared",
-    "team_abbr": "PDX",
-    "player": "Karlie Samuelson",
-    "previous_status": "Out",
-    "previous_reason": "Injury/Illness - Right Foot; Injury Management"
-  },
-  {
-    "ts": "2026-06-03T01:30:43.294790+00:00",
-    "type": "cleared",
-    "team_abbr": "PDX",
-    "player": "Serah Williams",
-    "previous_status": "Available",
-    "previous_reason": "Injury/Illness - Left Ankle; Injury"
-  },
-  {
-    "ts": "2026-06-03T01:30:43.294790+00:00",
-    "type": "added",
-    "team_abbr": "GSV",
-    "player": "Ashten Prechtel",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-06-03T01:30:43.294790+00:00",
     "type": "added",
     "team_abbr": "GSV",
     "player": "Miela Sowah",
@@ -17973,5 +17948,30 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-09-19T00:00:56.094743+00:00",
+    "type": "added",
+    "team_abbr": "SEA",
+    "player": "Zia Cooke",
+    "status": "Out",
+    "reason": "Injury/Illness - Right Knee; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-19T00:00:56.094743+00:00",
+    "type": "cleared",
+    "team_abbr": "SEA",
+    "player": "Taina Mair",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-09-19T00:00:56.094743+00:00",
+    "type": "cleared",
+    "team_abbr": "SEA",
+    "player": "Jade Melbourne",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Illness; Illness"
   }
 ]
