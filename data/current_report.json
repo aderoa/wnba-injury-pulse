@@ -1,7 +1,7 @@
 {
-  "report_ts": "09/19/26 04:45 PM",
+  "report_ts": "09/19/26 05:00 PM",
   "page_count": 2,
-  "raw_line_count": 30,
+  "raw_line_count": 29,
   "teams": [
     {
       "team_full": "Phoenix Mercury",
@@ -224,12 +224,12 @@
       ]
     },
     {
-      "team_full": "New York Liberty",
-      "team_abbr": "NYL",
+      "team_full": "Connecticut Sun",
+      "team_abbr": "CON",
       "game_date": "09/20/2026",
       "game_time": "03:00(ET)",
       "matchup": "NYL@TOR",
-      "submitted": false,
+      "submitted": true,
       "players": [
         {
           "name_last_first": "TorontoTempo Conde, Maria",
@@ -267,8 +267,16 @@
       "game_date": "09/20/2026",
       "game_time": "04:00(ET)",
       "matchup": "WAS@IND",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Clark, Caitlin",
+          "name": "Caitlin Clark",
+          "status": "Probable",
+          "reason": "Injury/Illness - Back; Back",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Portland Fire",
@@ -307,7 +315,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-19_04_45PM.pdf",
-  "fetched_slot": "2026-09-19T16:45:00-04:00",
-  "polled_at_utc": "2026-09-19T20:45:53.083770+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-19_05_00PM.pdf",
+  "fetched_slot": "2026-09-19T17:00:00-04:00",
+  "polled_at_utc": "2026-09-19T21:00:51.989742+00:00"
 }
