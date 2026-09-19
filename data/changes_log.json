@@ -1,24 +1,5 @@
 [
   {
-    "ts": "2026-06-04T22:00:37.547786+00:00",
-    "type": "status_change",
-    "team_abbr": "IND",
-    "player": "Caitlin Clark",
-    "from_status": "Probable",
-    "to_status": "Available",
-    "reason": "-",
-    "reason_category": "other"
-  },
-  {
-    "ts": "2026-06-05T00:00:37.829136+00:00",
-    "type": "added",
-    "team_abbr": "DAL",
-    "player": "Li Yueru",
-    "status": "Questionable",
-    "reason": "Injury/Illness - Leftankle; ankle",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-06-05T00:00:37.829136+00:00",
     "type": "cleared",
     "team_abbr": "DAL",
@@ -17974,6 +17955,26 @@
     "from_status": "Questionable",
     "to_status": "Out",
     "reason": "Injury/Illness - Left Knee; Left Knee",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-19T23:30:52.460127+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Jordan Harrison",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Right Ankle; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-19T23:30:52.460127+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Bridget Carleton",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Ankle; Injury",
     "reason_category": "injury"
   }
 ]
