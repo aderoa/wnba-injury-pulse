@@ -1,7 +1,7 @@
 {
-  "report_ts": "09/19/26 04:15 PM",
+  "report_ts": "09/19/26 04:30 PM",
   "page_count": 2,
-  "raw_line_count": 25,
+  "raw_line_count": 28,
   "teams": [
     {
       "team_full": "Phoenix Mercury",
@@ -200,7 +200,36 @@
       "game_time": "03:00(ET)",
       "matchup": "NYL@TOR",
       "submitted": false,
-      "players": []
+      "players": [
+        {
+          "name_last_first": "TorontoTempo Conde, Maria",
+          "name": "Maria TorontoTempo Conde",
+          "status": "Questionable",
+          "reason": "Injury/Illness - N/a; Illness",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Mabrey, Marina",
+          "name": "Marina Mabrey",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Adductor; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Morrow, Aneesah",
+          "name": "Aneesah Morrow",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sykes, Brittney",
+          "name": "Brittney Sykes",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Foot; Injury",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Indiana Fever",
@@ -248,7 +277,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-19_04_15PM.pdf",
-  "fetched_slot": "2026-09-19T16:15:00-04:00",
-  "polled_at_utc": "2026-09-19T20:15:55.075886+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-19_04_30PM.pdf",
+  "fetched_slot": "2026-09-19T16:30:00-04:00",
+  "polled_at_utc": "2026-09-19T20:30:51.940787+00:00"
 }
