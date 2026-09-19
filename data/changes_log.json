@@ -1,15 +1,6 @@
 [
   {
     "ts": "2026-06-03T21:00:50.847503+00:00",
-    "type": "added",
-    "team_abbr": "IND",
-    "player": "Damiris Dantas",
-    "status": "Probable",
-    "reason": "Personal Reasons",
-    "reason_category": "offcourt"
-  },
-  {
-    "ts": "2026-06-03T21:00:50.847503+00:00",
     "type": "cleared",
     "team_abbr": "IND",
     "player": "Bree Hall",
@@ -17974,6 +17965,16 @@
     "from_status": "Questionable",
     "to_status": "Available",
     "reason": "Injury/Illness - Right Knee; rightknee",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-19T20:00:54.700216+00:00",
+    "type": "status_change",
+    "team_abbr": "GSV",
+    "player": "Cecilia Zandalasini",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Na; Illness",
     "reason_category": "injury"
   }
 ]

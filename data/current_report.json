@@ -1,7 +1,7 @@
 {
-  "report_ts": "09/19/26 03:45 PM",
+  "report_ts": "09/19/26 04:00 PM",
   "page_count": 2,
-  "raw_line_count": 24,
+  "raw_line_count": 26,
   "teams": [
     {
       "team_full": "Phoenix Mercury",
@@ -150,8 +150,30 @@
       "game_date": "09/19/2026",
       "game_time": "09:00(ET)",
       "matchup": "SEA@GSV",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Salaun, Janelle",
+          "name": "Janelle Salaun",
+          "status": "Out",
+          "reason": "Injury/Illness - Na; Reconditioning",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Williams, Gabby",
+          "name": "Gabby Williams",
+          "status": "Out",
+          "reason": "Injury/Illness - Na; Reconditioning",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Zandalasini, Cecilia",
+          "name": "Cecilia Zandalasini",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Na; Illness",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Minnesota Lynx",
@@ -235,7 +257,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-19_03_45PM.pdf",
-  "fetched_slot": "2026-09-19T15:45:00-04:00",
-  "polled_at_utc": "2026-09-19T19:45:51.393007+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-19_04_00PM.pdf",
+  "fetched_slot": "2026-09-19T16:00:00-04:00",
+  "polled_at_utc": "2026-09-19T20:00:54.700216+00:00"
 }
