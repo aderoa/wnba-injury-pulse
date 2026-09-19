@@ -1,15 +1,6 @@
 [
   {
     "ts": "2026-06-03T01:30:43.294790+00:00",
-    "type": "added",
-    "team_abbr": "GSV",
-    "player": "Miela Sowah",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-06-03T01:30:43.294790+00:00",
     "type": "status_change",
     "team_abbr": "GSV",
     "player": "Veronica Burton",
@@ -17973,5 +17964,15 @@
     "player": "Jade Melbourne",
     "previous_status": "Out",
     "previous_reason": "Injury/Illness - Illness; Illness"
+  },
+  {
+    "ts": "2026-09-19T01:30:55.049666+00:00",
+    "type": "status_change",
+    "team_abbr": "GSV",
+    "player": "Cecilia Zandalasini",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Na; Reconditioning",
+    "reason_category": "injury"
   }
 ]
