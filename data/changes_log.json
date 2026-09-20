@@ -3,15 +3,6 @@
     "ts": "2026-06-05T00:00:37.829136+00:00",
     "type": "added",
     "team_abbr": "PHX",
-    "player": "Kahleah Copper",
-    "status": "Doubtful",
-    "reason": "Injury/Illness - Left Hip;-",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-05T00:00:37.829136+00:00",
-    "type": "added",
-    "team_abbr": "PHX",
     "player": "Alyssa Thomas",
     "status": "Questionable",
     "reason": "Injury/Illness - Left Calf;-",
@@ -17981,5 +17972,14 @@
     "to_status": "Probable",
     "reason": "Injury/Illness - N/a; Illness",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-20T15:45:31.557725+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Elena Buenavida",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
