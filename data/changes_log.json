@@ -1,16 +1,6 @@
 [
   {
     "ts": "2026-06-05T00:00:37.829136+00:00",
-    "type": "status_change",
-    "team_abbr": "LAS",
-    "player": "Kelsey Plum",
-    "from_status": "Out",
-    "to_status": "Probable",
-    "reason": "Injury/Illness - Right Ankle; RAnkle",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-05T00:00:37.829136+00:00",
     "type": "added",
     "team_abbr": "PHX",
     "player": "Kahleah Copper",
@@ -17980,6 +17970,16 @@
     "from_status": "Questionable",
     "to_status": "Out",
     "reason": "Injury/Illness - Na; Illness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-20T13:45:34.279565+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Maria TorontoTempo Conde",
+    "from_status": "Questionable",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - N/a; Illness",
     "reason_category": "injury"
   }
 ]
