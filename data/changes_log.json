@@ -2,14 +2,6 @@
   {
     "ts": "2026-06-05T22:00:25.828125+00:00",
     "type": "cleared",
-    "team_abbr": "SEA",
-    "player": "Dominique Malonga",
-    "previous_status": "Out",
-    "previous_reason": "Concussion Protocol"
-  },
-  {
-    "ts": "2026-06-05T22:00:25.828125+00:00",
-    "type": "cleared",
     "team_abbr": "MIN",
     "player": "Eliska Hamzova",
     "previous_status": "Out",
@@ -17982,5 +17974,13 @@
     "to_status": "Available",
     "reason": "-",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-09-20T20:45:31.770248+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Matilde Villa",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
   }
 ]
