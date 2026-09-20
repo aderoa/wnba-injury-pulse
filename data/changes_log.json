@@ -1,14 +1,6 @@
 [
   {
     "ts": "2026-06-05T00:00:37.829136+00:00",
-    "type": "cleared",
-    "team_abbr": "PHX",
-    "player": "Marta Suarez",
-    "previous_status": "Out",
-    "previous_reason": "Player Coach's Decision - Developmental"
-  },
-  {
-    "ts": "2026-06-05T00:00:37.829136+00:00",
     "type": "reason_change",
     "team_abbr": "PHX",
     "player": "Sami Whitcomb",
@@ -17982,6 +17974,16 @@
     "from_status": "Questionable",
     "to_status": "Out",
     "reason": "Injury/Illness - Left Knee;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-20T17:00:32.502693+00:00",
+    "type": "status_change",
+    "team_abbr": "CON",
+    "player": "Maria TorontoTempo Conde",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - N/a; Illness",
     "reason_category": "injury"
   }
 ]
