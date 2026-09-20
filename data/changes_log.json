@@ -1,14 +1,6 @@
 [
   {
     "ts": "2026-06-05T00:00:37.829136+00:00",
-    "type": "cleared",
-    "team_abbr": "LAS",
-    "player": "Laura Ziegler",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-06-05T00:00:37.829136+00:00",
     "type": "status_change",
     "team_abbr": "LAS",
     "player": "Kelsey Plum",
@@ -17979,5 +17971,15 @@
     "player": "Ndjakalenga Mwenentanda",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision - Coach\u2019sdecision"
+  },
+  {
+    "ts": "2026-09-20T00:30:54.514674+00:00",
+    "type": "status_change",
+    "team_abbr": "GSV",
+    "player": "Cecilia Zandalasini",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Na; Illness",
+    "reason_category": "injury"
   }
 ]

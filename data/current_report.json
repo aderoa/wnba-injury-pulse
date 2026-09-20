@@ -1,5 +1,5 @@
 {
-  "report_ts": "09/19/26 08:15 PM",
+  "report_ts": "09/19/26 08:30 PM",
   "page_count": 2,
   "raw_line_count": 34,
   "teams": [
@@ -176,7 +176,7 @@
         {
           "name_last_first": "Zandalasini, Cecilia",
           "name": "Cecilia Zandalasini",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Na; Illness",
           "reason_category": "injury"
         }
@@ -364,7 +364,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-19_08_15PM.pdf",
-  "fetched_slot": "2026-09-19T20:15:00-04:00",
-  "polled_at_utc": "2026-09-20T00:15:55.302739+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-19_08_30PM.pdf",
+  "fetched_slot": "2026-09-19T20:30:00-04:00",
+  "polled_at_utc": "2026-09-20T00:30:54.514674+00:00"
 }
