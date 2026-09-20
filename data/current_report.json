@@ -1,7 +1,7 @@
 {
-  "report_ts": "09/20/26 05:45 PM",
+  "report_ts": "09/20/26 06:00 PM",
   "page_count": 2,
-  "raw_line_count": 30,
+  "raw_line_count": 31,
   "teams": [
     {
       "team_full": "Minnesota Lynx",
@@ -183,6 +183,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Knee; Injury",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Winterburn, Holly",
+          "name": "Holly Winterburn",
+          "status": "Out",
+          "reason": "Injury/Illness - Lower Back; Spasm",
+          "reason_category": "injury"
         }
       ]
     },
@@ -197,21 +204,21 @@
         {
           "name_last_first": "Brink, Cameron",
           "name": "Cameron Brink",
-          "status": "Doubtful",
+          "status": "Out",
           "reason": "Injury/Illness - Right Ankle; RAnkle",
           "reason_category": "injury"
         },
         {
           "name_last_first": "Hamby, Dearica",
           "name": "Dearica Hamby",
-          "status": "Doubtful",
+          "status": "Out",
           "reason": "Injury/Illness - Leftknee; LKnee",
           "reason_category": "injury"
         },
         {
           "name_last_first": "Nye, Aaliyah",
           "name": "Aaliyah Nye",
-          "status": "Doubtful",
+          "status": "Out",
           "reason": "Injury/Illness - Left Ankle; LAnkle",
           "reason_category": "injury"
         }
@@ -300,7 +307,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-20_05_45PM.pdf",
-  "fetched_slot": "2026-09-20T17:45:00-04:00",
-  "polled_at_utc": "2026-09-20T21:45:51.032416+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-20_06_00PM.pdf",
+  "fetched_slot": "2026-09-20T18:00:00-04:00",
+  "polled_at_utc": "2026-09-20T22:00:36.475679+00:00"
 }

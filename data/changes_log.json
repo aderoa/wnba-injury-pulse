@@ -1,40 +1,5 @@
 [
   {
-    "ts": "2026-06-05T22:00:25.828125+00:00",
-    "type": "cleared",
-    "team_abbr": "MIN",
-    "player": "Eliska Hamzova",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-06-05T22:00:25.828125+00:00",
-    "type": "cleared",
-    "team_abbr": "MIN",
-    "player": "Liatu King",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-06-05T22:00:25.828125+00:00",
-    "type": "reason_change",
-    "team_abbr": "MIN",
-    "player": "Dorka Juhasz",
-    "status": "Out",
-    "from_reason": "Injury/Illness - Right Foot; Right Foot",
-    "to_reason": "Injury/Illness - Right Foot; Rightfoot",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-05T22:30:23.809710+00:00",
-    "type": "added",
-    "team_abbr": "CHI",
-    "player": "Aicha Coulibaly",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
     "ts": "2026-06-05T22:30:23.809710+00:00",
     "type": "added",
     "team_abbr": "CHI",
@@ -17982,5 +17947,44 @@
     "player": "Matilde Villa",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-09-20T22:00:36.475679+00:00",
+    "type": "added",
+    "team_abbr": "PDX",
+    "player": "Holly Winterburn",
+    "status": "Out",
+    "reason": "Injury/Illness - Lower Back; Spasm",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-20T22:00:36.475679+00:00",
+    "type": "status_change",
+    "team_abbr": "LAS",
+    "player": "Cameron Brink",
+    "from_status": "Doubtful",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Ankle; RAnkle",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-20T22:00:36.475679+00:00",
+    "type": "status_change",
+    "team_abbr": "LAS",
+    "player": "Aaliyah Nye",
+    "from_status": "Doubtful",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Ankle; LAnkle",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-20T22:00:36.475679+00:00",
+    "type": "status_change",
+    "team_abbr": "LAS",
+    "player": "Dearica Hamby",
+    "from_status": "Doubtful",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Leftknee; LKnee",
+    "reason_category": "injury"
   }
 ]
