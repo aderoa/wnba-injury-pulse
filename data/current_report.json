@@ -1,7 +1,7 @@
 {
-  "report_ts": "09/20/26 02:15 PM",
+  "report_ts": "09/20/26 02:30 PM",
   "page_count": 2,
-  "raw_line_count": 29,
+  "raw_line_count": 30,
   "teams": [
     {
       "team_full": "Minnesota Lynx",
@@ -73,13 +73,20 @@
       ]
     },
     {
-      "team_full": "Connecticut Sun",
-      "team_abbr": "CON",
+      "team_full": "New York Liberty",
+      "team_abbr": "NYL",
       "game_date": "09/20/2026",
       "game_time": "03:00(ET)",
       "matchup": "NYL@TOR",
       "submitted": true,
       "players": [
+        {
+          "name_last_first": "Balogun, Elizabeth",
+          "name": "Elizabeth Balogun",
+          "status": "Out",
+          "reason": "Not With Team",
+          "reason_category": "offcourt"
+        },
         {
           "name_last_first": "TorontoTempo Borkowska, Kamila",
           "name": "Kamila TorontoTempo Borkowska",
@@ -285,7 +292,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-20_02_15PM.pdf",
-  "fetched_slot": "2026-09-20T14:15:00-04:00",
-  "polled_at_utc": "2026-09-20T18:15:32.138067+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-20_02_30PM.pdf",
+  "fetched_slot": "2026-09-20T14:30:00-04:00",
+  "polled_at_utc": "2026-09-20T18:30:32.061993+00:00"
 }
