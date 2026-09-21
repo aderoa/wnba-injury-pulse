@@ -2,26 +2,6 @@
   {
     "ts": "2026-06-06T00:30:25.388681+00:00",
     "type": "status_change",
-    "team_abbr": "LAS",
-    "player": "Kelsey Plum",
-    "from_status": "Probable",
-    "to_status": "Available",
-    "reason": "Injury/Illness - Right Ankle; RAnkle",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-06T00:30:25.388681+00:00",
-    "type": "status_change",
-    "team_abbr": "PHX",
-    "player": "Kahleah Copper",
-    "from_status": "Doubtful",
-    "to_status": "Out",
-    "reason": "Injury/Illness - Left Hip;-",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-06T00:30:25.388681+00:00",
-    "type": "status_change",
     "team_abbr": "PHX",
     "player": "Alyssa Thomas",
     "from_status": "Questionable",
@@ -17984,5 +17964,24 @@
     "to_status": "Probable",
     "reason": "Injury/Illness - Right Groin;-",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-21T00:15:32.327897+00:00",
+    "type": "added",
+    "team_abbr": "SEA",
+    "player": "Taina Mair",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-09-21T00:15:32.327897+00:00",
+    "type": "status_change",
+    "team_abbr": "SEA",
+    "player": "Jade Melbourne",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
   }
 ]
