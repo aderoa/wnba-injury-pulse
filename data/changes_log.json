@@ -1,34 +1,5 @@
 [
   {
-    "ts": "2026-06-06T21:15:23.036492+00:00",
-    "type": "added",
-    "team_abbr": "WAS",
-    "player": "Darianna Littlepage-Buggs",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-06-06T21:15:23.036492+00:00",
-    "type": "status_change",
-    "team_abbr": "WAS",
-    "player": "Sonia Citron",
-    "from_status": "Questionable",
-    "to_status": "Available",
-    "reason": "Injury/Illness - Left Foot; Sprain",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-06T21:15:23.036492+00:00",
-    "type": "status_change",
-    "team_abbr": "WAS",
-    "player": "Lauren Betts",
-    "from_status": "Questionable",
-    "to_status": "Available",
-    "reason": "-",
-    "reason_category": "other"
-  },
-  {
     "ts": "2026-06-06T21:30:24.651931+00:00",
     "type": "added",
     "team_abbr": "WAS",
@@ -17972,5 +17943,35 @@
     "status": "Out",
     "reason": "Coach's Decision",
     "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-09-21T23:45:32.842260+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Bridget Carleton",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Ankle; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-21T23:45:32.842260+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Holly Winterburn",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Lumbar Spine; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-21T23:45:32.842260+00:00",
+    "type": "status_change",
+    "team_abbr": "PDX",
+    "player": "Jordan Harrison",
+    "from_status": "Available",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Right Ankle; Injury",
+    "reason_category": "injury"
   }
 ]
