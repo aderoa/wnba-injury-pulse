@@ -4,6 +4,13 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-09-21 21:45 UTC
+
+- **Temi TorontoTempo Fagbenle** (IND) newly listed as **Questionable** — Personal Reasons
+- **Marina Mabrey** (IND) newly listed as **Out** — Injury/Illness - Right Adductor; Injury
+- **Aneesah Morrow** (IND) newly listed as **Out** — Injury/Illness - Left Knee; Injury
+- **Brittney Sykes** (IND) newly listed as **Out** — Injury/Illness - Left Foot; Injury
+
 ## 2026-09-21 21:00 UTC
 
 - **Rayah Marshall** (CON) cleared (was Out)

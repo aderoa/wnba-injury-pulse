@@ -1,41 +1,6 @@
 [
   {
     "ts": "2026-06-06T21:00:26.815680+00:00",
-    "type": "added",
-    "team_abbr": "CHI",
-    "player": "Temi TorontoTempo Fagbenle",
-    "status": "Out",
-    "reason": "Injury/Illness - Right Shoulder; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-06T21:00:26.815680+00:00",
-    "type": "added",
-    "team_abbr": "CHI",
-    "player": "Isabelle Harrison",
-    "status": "Questionable",
-    "reason": "Injury/Illness - Right Hand; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-06T21:00:26.815680+00:00",
-    "type": "added",
-    "team_abbr": "CHI",
-    "player": "Kiki Rice",
-    "status": "Out",
-    "reason": "Injury/Illness - Left Ankle; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-06T21:00:26.815680+00:00",
-    "type": "cleared",
-    "team_abbr": "CHI",
-    "player": "Aicha Coulibaly",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-06-06T21:00:26.815680+00:00",
     "type": "cleared",
     "team_abbr": "CHI",
     "player": "Maddy Westbeld",
@@ -17970,6 +17935,42 @@
     "from_status": "Available",
     "to_status": "Probable",
     "reason": "Injury/Illness - Back; Back",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-21T21:45:31.714049+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Temi TorontoTempo Fagbenle",
+    "status": "Questionable",
+    "reason": "Personal Reasons",
+    "reason_category": "offcourt"
+  },
+  {
+    "ts": "2026-09-21T21:45:31.714049+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Marina Mabrey",
+    "status": "Out",
+    "reason": "Injury/Illness - Right Adductor; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-21T21:45:31.714049+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Aneesah Morrow",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Knee; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-21T21:45:31.714049+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Brittney Sykes",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Foot; Injury",
     "reason_category": "injury"
   }
 ]
