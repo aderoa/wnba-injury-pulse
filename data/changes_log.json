@@ -1,61 +1,5 @@
 [
   {
-    "ts": "2026-06-06T00:30:25.388681+00:00",
-    "type": "status_change",
-    "team_abbr": "PHX",
-    "player": "Alyssa Thomas",
-    "from_status": "Questionable",
-    "to_status": "Out",
-    "reason": "Injury/Illness - Left Calf;-",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-06T00:45:21.583540+00:00",
-    "type": "added",
-    "team_abbr": "DAL",
-    "player": "Costanza Verona",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-06-06T01:15:24.934486+00:00",
-    "type": "added",
-    "team_abbr": "LAS",
-    "player": "Laura Ziegler",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-06-06T15:45:20.313291+00:00",
-    "type": "added",
-    "team_abbr": "MIN",
-    "player": "Eliska Hamzova",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-06-06T15:45:20.313291+00:00",
-    "type": "added",
-    "team_abbr": "MIN",
-    "player": "Liatu King",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-06-06T15:45:20.313291+00:00",
-    "type": "status_change",
-    "team_abbr": "LVA",
-    "player": "Jewell Loyd",
-    "from_status": "Questionable",
-    "to_status": "Probable",
-    "reason": "Injury/Illness - Left Leg; Leftleg",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-06-06T16:00:25.588223+00:00",
     "type": "status_change",
     "team_abbr": "NYL",
@@ -17983,5 +17927,53 @@
     "to_status": "Available",
     "reason": "-",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-09-21T17:00:35.322144+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Kamila TorontoTempo Borkowska",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-09-21T17:00:35.322144+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Maria Conde",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - N/a; Illness"
+  },
+  {
+    "ts": "2026-09-21T17:00:35.322144+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Maria Gakdeng",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-09-21T17:00:35.322144+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Marina Mabrey",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Right Adductor; Injury"
+  },
+  {
+    "ts": "2026-09-21T17:00:35.322144+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Aneesah Morrow",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Knee; Injury"
+  },
+  {
+    "ts": "2026-09-21T17:00:35.322144+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Brittney Sykes",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Foot; Injury"
   }
 ]

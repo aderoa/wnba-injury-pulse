@@ -2,8 +2,8 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-09-21T16:45:31.837195+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-21_12_45PM.pdf",
+    "last_submitted_ts": "2026-09-21T17:00:35.322144+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-21_01_00PM.pdf",
     "game_dates": [
       "09/21/2026"
     ],
@@ -40,13 +40,13 @@
         "reason_category": "other"
       }
     ],
-    "last_seen_pending_ts": "2026-09-21T16:45:31.837195+00:00"
+    "last_seen_pending_ts": "2026-09-21T17:00:35.322144+00:00"
   },
   "PHX": {
     "team_full": "Phoenix Mercury",
     "submitted": true,
-    "last_submitted_ts": "2026-09-21T16:45:31.837195+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-21_12_45PM.pdf",
+    "last_submitted_ts": "2026-09-21T17:00:35.322144+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-21_01_00PM.pdf",
     "game_dates": [
       "09/21/2026"
     ],
@@ -118,13 +118,13 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-09-21T16:45:31.837195+00:00"
+    "last_seen_pending_ts": "2026-09-21T17:00:35.322144+00:00"
   },
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-09-21T16:45:31.837195+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-21_12_45PM.pdf",
+    "last_submitted_ts": "2026-09-21T17:00:35.322144+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-21_01_00PM.pdf",
     "game_dates": [
       "09/21/2026"
     ],
@@ -168,7 +168,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-09-21T16:45:31.837195+00:00"
+    "last_seen_pending_ts": "2026-09-21T17:00:35.322144+00:00"
   },
   "CHI": {
     "team_full": "Chicago Sky",
@@ -211,7 +211,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-09-21T16:45:31.837195+00:00"
+    "last_seen_pending_ts": "2026-09-21T17:00:35.322144+00:00"
   },
   "PDX": {
     "team_full": "Portland Fire",
@@ -261,7 +261,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-09-21T16:45:31.837195+00:00"
+    "last_seen_pending_ts": "2026-09-21T17:00:35.322144+00:00"
   },
   "SEA": {
     "team_full": "Seattle Storm",
@@ -360,19 +360,17 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-09-21T16:45:31.837195+00:00"
+    "last_seen_pending_ts": "2026-09-21T17:00:35.322144+00:00"
   },
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-09-21T03:45:32.317173+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-20_11_45PM.pdf",
+    "last_submitted_ts": "2026-09-21T17:00:35.322144+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-21_01_00PM.pdf",
     "game_dates": [
-      "09/20/2026",
       "09/21/2026"
     ],
     "matchups": [
-      "NYL@TOR",
       "ATL@NYL"
     ],
     "players": [
@@ -382,51 +380,8 @@
         "status": "Out",
         "reason": "Not With Team",
         "reason_category": "offcourt"
-      },
-      {
-        "name_last_first": "TorontoTempo Borkowska, Kamila",
-        "name": "Kamila TorontoTempo Borkowska",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
-      },
-      {
-        "name_last_first": "Conde, Maria",
-        "name": "Maria Conde",
-        "status": "Available",
-        "reason": "Injury/Illness - N/a; Illness",
-        "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Gakdeng, Maria",
-        "name": "Maria Gakdeng",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
-      },
-      {
-        "name_last_first": "Mabrey, Marina",
-        "name": "Marina Mabrey",
-        "status": "Out",
-        "reason": "Injury/Illness - Right Adductor; Injury",
-        "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Morrow, Aneesah",
-        "name": "Aneesah Morrow",
-        "status": "Out",
-        "reason": "Injury/Illness - Left Knee; Injury",
-        "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Sykes, Brittney",
-        "name": "Brittney Sykes",
-        "status": "Out",
-        "reason": "Injury/Illness - Left Foot; Injury",
-        "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-09-21T16:45:31.837195+00:00"
+    ]
   },
   "WAS": {
     "team_full": "Washington Mystics",
@@ -455,7 +410,7 @@
         "reason_category": "offcourt"
       }
     ],
-    "last_seen_pending_ts": "2026-09-21T16:45:31.837195+00:00"
+    "last_seen_pending_ts": "2026-09-21T17:00:35.322144+00:00"
   },
   "GSV": {
     "team_full": "Golden State Valkyries",
@@ -491,7 +446,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-09-21T16:45:31.837195+00:00"
+    "last_seen_pending_ts": "2026-09-21T17:00:35.322144+00:00"
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",
@@ -527,6 +482,6 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-09-21T16:45:31.837195+00:00"
+    "last_seen_pending_ts": "2026-09-21T17:00:35.322144+00:00"
   }
 }
