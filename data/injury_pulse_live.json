@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-09-21T09:00:34.363488+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-21_05_00AM.pdf",
-  "report_ts": "09/21/26 05:00 AM",
+  "polled_at_utc": "2026-09-21T09:15:32.009326+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-21_05_15AM.pdf",
+  "report_ts": "09/21/26 05:15 AM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -20,7 +20,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; lowerleftleg",
       "reason_category": "injury",
-      "last_updated": "2026-09-21T09:00:34.363488+00:00"
+      "last_updated": "2026-09-21T09:15:32.009326+00:00"
     },
     {
       "name": "AnastasiiaOlairi Kosu",
@@ -65,7 +65,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-09-21T09:00:34.363488+00:00"
+      "last_updated": "2026-09-21T09:15:32.009326+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -200,7 +200,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Lower Leg;-",
       "reason_category": "injury",
-      "last_updated": "2026-09-21T09:00:34.363488+00:00"
+      "last_updated": "2026-09-21T09:15:32.009326+00:00"
     },
     {
       "name": "Kennedy Burke",
@@ -344,7 +344,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Right Groin;-",
       "reason_category": "injury",
-      "last_updated": "2026-09-21T09:00:34.363488+00:00"
+      "last_updated": "2026-09-21T09:15:32.009326+00:00"
     },
     {
       "name": "Kara Dunn",
@@ -353,7 +353,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Right Knee;-",
       "reason_category": "injury",
-      "last_updated": "2026-09-21T09:00:34.363488+00:00"
+      "last_updated": "2026-09-21T09:15:32.009326+00:00"
     },
     {
       "name": "A'ja Wilson",
@@ -423,7 +423,7 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-09-21T09:00:34.363488+00:00",
+      "last_submitted_ts": "2026-09-21T09:15:32.009326+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "ATL@NYL"
@@ -442,7 +442,7 @@
       "team_abbr": "CHI",
       "team_full": "Chicago Sky",
       "last_submitted_ts": "2026-09-20T03:45:52.082459+00:00",
-      "last_seen_pending_ts": "2026-09-21T09:00:34.363488+00:00",
+      "last_seen_pending_ts": "2026-09-21T09:15:32.009326+00:00",
       "matchups": [
         "CHI@ATL"
       ],
@@ -481,7 +481,7 @@
       "team_abbr": "CON",
       "team_full": "Connecticut Sun",
       "last_submitted_ts": "2026-09-21T03:45:32.317173+00:00",
-      "last_seen_pending_ts": "2026-09-21T09:00:34.363488+00:00",
+      "last_seen_pending_ts": "2026-09-21T09:15:32.009326+00:00",
       "matchups": [
         "MIN@CON"
       ],
@@ -526,7 +526,7 @@
     {
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
-      "last_submitted_ts": "2026-09-21T09:00:34.363488+00:00",
+      "last_submitted_ts": "2026-09-21T09:15:32.009326+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "DAL@PHX"
@@ -545,7 +545,7 @@
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
       "last_submitted_ts": "2026-09-20T03:45:52.082459+00:00",
-      "last_seen_pending_ts": "2026-09-21T09:00:34.363488+00:00",
+      "last_seen_pending_ts": "2026-09-21T09:15:32.009326+00:00",
       "matchups": [
         "SEA@GSV"
       ],
@@ -577,7 +577,7 @@
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
       "last_submitted_ts": "2026-09-21T03:45:32.317173+00:00",
-      "last_seen_pending_ts": "2026-09-21T09:00:34.363488+00:00",
+      "last_seen_pending_ts": "2026-09-21T09:15:32.009326+00:00",
       "matchups": [
         "WAS@IND"
       ],
@@ -595,7 +595,7 @@
       "team_abbr": "LAS",
       "team_full": "Los Angeles Sparks",
       "last_submitted_ts": "2026-09-21T03:45:32.317173+00:00",
-      "last_seen_pending_ts": "2026-09-21T09:00:34.363488+00:00",
+      "last_seen_pending_ts": "2026-09-21T09:15:32.009326+00:00",
       "matchups": [
         "PDX@LAS"
       ],
@@ -627,7 +627,7 @@
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
       "last_submitted_ts": "2026-08-29T03:45:13.675942+00:00",
-      "last_seen_pending_ts": "2026-09-21T09:00:34.363488+00:00",
+      "last_seen_pending_ts": "2026-09-21T09:15:32.009326+00:00",
       "matchups": [
         "TOR@LVA"
       ],
@@ -666,7 +666,7 @@
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
       "last_submitted_ts": "2026-09-21T03:45:32.317173+00:00",
-      "last_seen_pending_ts": "2026-09-21T09:00:34.363488+00:00",
+      "last_seen_pending_ts": "2026-09-21T09:15:32.009326+00:00",
       "matchups": [
         "MIN@CON"
       ],
@@ -691,7 +691,7 @@
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
       "last_submitted_ts": "2026-09-21T03:45:32.317173+00:00",
-      "last_seen_pending_ts": "2026-09-21T09:00:34.363488+00:00",
+      "last_seen_pending_ts": "2026-09-21T09:15:32.009326+00:00",
       "matchups": [
         "NYL@TOR",
         "ATL@NYL"
@@ -752,7 +752,7 @@
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
       "last_submitted_ts": "2026-09-21T03:45:32.317173+00:00",
-      "last_seen_pending_ts": "2026-09-21T09:00:34.363488+00:00",
+      "last_seen_pending_ts": "2026-09-21T09:15:32.009326+00:00",
       "matchups": [
         "PDX@LAS"
       ],
@@ -797,7 +797,7 @@
     {
       "team_abbr": "PHX",
       "team_full": "Phoenix Mercury",
-      "last_submitted_ts": "2026-09-21T09:00:34.363488+00:00",
+      "last_submitted_ts": "2026-09-21T09:15:32.009326+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "DAL@PHX"
@@ -876,7 +876,7 @@
       "team_abbr": "WAS",
       "team_full": "Washington Mystics",
       "last_submitted_ts": "2026-09-18T03:46:04.803353+00:00",
-      "last_seen_pending_ts": "2026-09-21T09:00:34.363488+00:00",
+      "last_seen_pending_ts": "2026-09-21T09:15:32.009326+00:00",
       "matchups": [
         "WAS@CHI"
       ],
