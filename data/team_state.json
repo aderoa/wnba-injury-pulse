@@ -2,8 +2,8 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-09-21T03:45:32.317173+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-20_11_45PM.pdf",
+    "last_submitted_ts": "2026-09-21T04:00:37.200687+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-21_12_00AM.pdf",
     "game_dates": [
       "09/21/2026"
     ],
@@ -39,13 +39,14 @@
         "reason": "-",
         "reason_category": "other"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-09-21T04:00:37.200687+00:00"
   },
   "PHX": {
     "team_full": "Phoenix Mercury",
     "submitted": true,
-    "last_submitted_ts": "2026-09-21T03:45:32.317173+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-20_11_45PM.pdf",
+    "last_submitted_ts": "2026-09-21T04:00:37.200687+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-21_12_00AM.pdf",
     "game_dates": [
       "09/21/2026"
     ],
@@ -117,13 +118,13 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-09-20T00:00:52.101522+00:00"
+    "last_seen_pending_ts": "2026-09-21T04:00:37.200687+00:00"
   },
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-09-21T03:45:32.317173+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-20_11_45PM.pdf",
+    "last_submitted_ts": "2026-09-21T04:00:37.200687+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-21_12_00AM.pdf",
     "game_dates": [
       "09/21/2026"
     ],
@@ -166,7 +167,8 @@
         "reason": "Injury/Illness - Right Foot; R.Foot",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-09-21T04:00:37.200687+00:00"
   },
   "CHI": {
     "team_full": "Chicago Sky",
@@ -208,7 +210,8 @@
         "reason": "Injury/Illness - Right Knee; Right Knee",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-09-21T04:00:37.200687+00:00"
   },
   "PDX": {
     "team_full": "Portland Fire",
@@ -257,7 +260,8 @@
         "reason": "Injury/Illness - Lower Back; Spasm",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-09-21T04:00:37.200687+00:00"
   },
   "SEA": {
     "team_full": "Seattle Storm",
@@ -355,7 +359,8 @@
         "reason": "Injury/Illness - Left Ankle;-",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-09-21T04:00:37.200687+00:00"
   },
   "NYL": {
     "team_full": "New York Liberty",
@@ -420,7 +425,8 @@
         "reason": "Injury/Illness - Left Foot; Injury",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-09-21T04:00:37.200687+00:00"
   },
   "WAS": {
     "team_full": "Washington Mystics",
@@ -449,7 +455,7 @@
         "reason_category": "offcourt"
       }
     ],
-    "last_seen_pending_ts": "2026-09-19T20:00:54.700216+00:00"
+    "last_seen_pending_ts": "2026-09-21T04:00:37.200687+00:00"
   },
   "GSV": {
     "team_full": "Golden State Valkyries",
@@ -484,7 +490,8 @@
         "reason": "Injury/Illness - Na; Illness",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-09-21T04:00:37.200687+00:00"
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",
@@ -519,6 +526,7 @@
         "reason": "Injury/Illness - Left Ankle; LAnkle",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-09-21T04:00:37.200687+00:00"
   }
 }
