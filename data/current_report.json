@@ -1,7 +1,7 @@
 {
-  "report_ts": "09/21/26 04:00 PM",
+  "report_ts": "09/21/26 04:15 PM",
   "page_count": 1,
-  "raw_line_count": 16,
+  "raw_line_count": 15,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -95,15 +95,6 @@
       "players": []
     },
     {
-      "team_full": "Washington Mystics",
-      "team_abbr": "WAS",
-      "game_date": "09/22/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "CON@WAS",
-      "submitted": false,
-      "players": []
-    },
-    {
       "team_full": "Minnesota Lynx",
       "team_abbr": "MIN",
       "game_date": "09/22/2026",
@@ -176,7 +167,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-21_04_00PM.pdf",
-  "fetched_slot": "2026-09-21T16:00:00-04:00",
-  "polled_at_utc": "2026-09-21T20:00:46.497887+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-21_04_15PM.pdf",
+  "fetched_slot": "2026-09-21T16:15:00-04:00",
+  "polled_at_utc": "2026-09-21T20:15:31.931961+00:00"
 }
