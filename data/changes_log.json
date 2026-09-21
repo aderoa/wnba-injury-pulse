@@ -1,54 +1,5 @@
 [
   {
-    "ts": "2026-06-06T16:00:25.588223+00:00",
-    "type": "status_change",
-    "team_abbr": "NYL",
-    "player": "Sabrina Ionescu",
-    "from_status": "Questionable",
-    "to_status": "Out",
-    "reason": "Injury/Illness - Back; Soreness",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-06T16:15:21.405138+00:00",
-    "type": "status_change",
-    "team_abbr": "SEA",
-    "player": "Taina Mair",
-    "from_status": "Out",
-    "to_status": "Available",
-    "reason": "-",
-    "reason_category": "other"
-  },
-  {
-    "ts": "2026-06-06T16:15:21.405138+00:00",
-    "type": "status_change",
-    "team_abbr": "SEA",
-    "player": "Taylor Thierry",
-    "from_status": "Out",
-    "to_status": "Available",
-    "reason": "-",
-    "reason_category": "other"
-  },
-  {
-    "ts": "2026-06-06T18:30:22.245345+00:00",
-    "type": "status_change",
-    "team_abbr": "LVA",
-    "player": "Jewell Loyd",
-    "from_status": "Probable",
-    "to_status": "Available",
-    "reason": "Injury/Illness - Left Leg; Leftleg",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-06T20:45:20.828878+00:00",
-    "type": "added",
-    "team_abbr": "ATL",
-    "player": "Amy Okonkwo",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
     "ts": "2026-06-06T21:00:26.815680+00:00",
     "type": "added",
     "team_abbr": "CHI",
@@ -17975,5 +17926,50 @@
     "player": "Brittney Sykes",
     "previous_status": "Out",
     "previous_reason": "Injury/Illness - Left Foot; Injury"
+  },
+  {
+    "ts": "2026-09-21T21:00:38.755225+00:00",
+    "type": "cleared",
+    "team_abbr": "CON",
+    "player": "Rayah Marshall",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-09-21T21:00:38.755225+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Olivia Miles",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Left Calf; Leftcalf",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-21T21:00:38.755225+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Elena Buenavida",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-09-21T21:00:38.755225+00:00",
+    "type": "reason_change",
+    "team_abbr": "MIN",
+    "player": "AnastasiiaOlairi Kosu",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Right Foot; R.Foot",
+    "to_reason": "Injury/Illness - Right Foot; Rightfoot",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-21T21:00:38.755225+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Available",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Back; Back",
+    "reason_category": "injury"
   }
 ]

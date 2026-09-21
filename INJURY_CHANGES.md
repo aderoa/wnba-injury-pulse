@@ -4,6 +4,14 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-09-21 21:00 UTC
+
+- **Rayah Marshall** (CON) cleared (was Out)
+- **Olivia Miles** (MIN) newly listed as **Questionable** — Injury/Illness - Left Calf; Leftcalf
+- **Elena Buenavida** (MIN) cleared (was Out)
+- **AnastasiiaOlairi Kosu** (MIN, Out): reason updated (Injury/Illness - Right Foot; R.Foot → Injury/Illness - Right Foot; Rightfoot)
+- **Caitlin Clark** (IND): **Available** → **Probable** — Injury/Illness - Back; Back
+
 ## 2026-09-21 17:00 UTC
 
 - **Kamila TorontoTempo Borkowska** (NYL) cleared (was Out)
