@@ -1,25 +1,5 @@
 [
   {
-    "ts": "2026-06-06T00:15:25.924615+00:00",
-    "type": "status_change",
-    "team_abbr": "LVA",
-    "player": "Jewell Loyd",
-    "from_status": "Out",
-    "to_status": "Questionable",
-    "reason": "Injury/Illness - Left Leg; Leftleg",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-06T00:30:25.388681+00:00",
-    "type": "status_change",
-    "team_abbr": "DAL",
-    "player": "Li Yueru",
-    "from_status": "Doubtful",
-    "to_status": "Out",
-    "reason": "Injury/Illness - Leftankle; ankle",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-06-06T00:30:25.388681+00:00",
     "type": "status_change",
     "team_abbr": "LAS",
@@ -17984,6 +17964,25 @@
     "status": "Out",
     "from_reason": "Injury/Illness - Left Leg; leftlowerleg",
     "to_reason": "Injury/Illness - Left Leg; lowerleftleg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-21T00:00:33.256972+00:00",
+    "type": "added",
+    "team_abbr": "PHX",
+    "player": "Kara Dunn",
+    "status": "Probable",
+    "reason": "Injury/Illness - Right Knee;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-21T00:00:33.256972+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "Kahleah Copper",
+    "from_status": "Out",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Right Groin;-",
     "reason_category": "injury"
   }
 ]

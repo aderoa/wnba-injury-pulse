@@ -1,7 +1,7 @@
 {
-  "report_ts": "09/20/26 07:45 PM",
+  "report_ts": "09/20/26 08:00 PM",
   "page_count": 2,
-  "raw_line_count": 31,
+  "raw_line_count": 33,
   "teams": [
     {
       "team_full": "Minnesota Lynx",
@@ -311,11 +311,33 @@
       "game_date": "09/21/2026",
       "game_time": "10:00(ET)",
       "matchup": "DAL@PHX",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Copper, Kahleah",
+          "name": "Kahleah Copper",
+          "status": "Probable",
+          "reason": "Injury/Illness - Right Groin;-",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Dunn, Kara",
+          "name": "Kara Dunn",
+          "status": "Probable",
+          "reason": "Injury/Illness - Right Knee;-",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Plum, Kelsey",
+          "name": "Kelsey Plum",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Lower Leg;-",
+          "reason_category": "injury"
+        }
+      ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-20_07_45PM.pdf",
-  "fetched_slot": "2026-09-20T19:45:00-04:00",
-  "polled_at_utc": "2026-09-20T23:45:34.468930+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-20_08_00PM.pdf",
+  "fetched_slot": "2026-09-20T20:00:00-04:00",
+  "polled_at_utc": "2026-09-21T00:00:33.256972+00:00"
 }
