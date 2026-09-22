@@ -1,5 +1,5 @@
 {
-  "report_ts": "09/21/26 08:30 PM",
+  "report_ts": "09/21/26 08:45 PM",
   "page_count": 2,
   "raw_line_count": 32,
   "teams": [
@@ -79,7 +79,7 @@
         {
           "name_last_first": "Dunn, Kara",
           "name": "Kara Dunn",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness - Right Knee;-",
           "reason_category": "injury"
         },
@@ -338,7 +338,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-21_08_30PM.pdf",
-  "fetched_slot": "2026-09-21T20:30:00-04:00",
-  "polled_at_utc": "2026-09-22T00:30:34.407837+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-21_08_45PM.pdf",
+  "fetched_slot": "2026-09-21T20:45:00-04:00",
+  "polled_at_utc": "2026-09-22T00:45:38.816493+00:00"
 }
