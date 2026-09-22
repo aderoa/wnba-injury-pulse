@@ -1,5 +1,5 @@
 {
-  "report_ts": "09/21/26 09:15 PM",
+  "report_ts": "09/21/26 09:30 PM",
   "page_count": 2,
   "raw_line_count": 33,
   "teams": [
@@ -72,7 +72,7 @@
         {
           "name_last_first": "Copper, Kahleah",
           "name": "Kahleah Copper",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness - Right Groin;-",
           "reason_category": "injury"
         },
@@ -345,7 +345,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-21_09_15PM.pdf",
-  "fetched_slot": "2026-09-21T21:15:00-04:00",
-  "polled_at_utc": "2026-09-22T01:15:33.433116+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-21_09_30PM.pdf",
+  "fetched_slot": "2026-09-21T21:30:00-04:00",
+  "polled_at_utc": "2026-09-22T01:30:32.014104+00:00"
 }

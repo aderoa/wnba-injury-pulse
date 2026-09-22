@@ -3,15 +3,6 @@
     "ts": "2026-06-06T23:30:22.650757+00:00",
     "type": "added",
     "team_abbr": "IND",
-    "player": "Bree Hall",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-06-06T23:30:22.650757+00:00",
-    "type": "added",
-    "team_abbr": "IND",
     "player": "Justine Pissott",
     "status": "Out",
     "reason": "Coach's Decision",
@@ -17972,6 +17963,16 @@
     "player": "Monique AkoaMakani",
     "status": "Probable",
     "reason": "Injury/Illness - Leftthigh; Lthigh",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-22T01:30:32.014104+00:00",
+    "type": "status_change",
+    "team_abbr": "PHX",
+    "player": "Kahleah Copper",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Groin;-",
     "reason_category": "injury"
   }
 ]
