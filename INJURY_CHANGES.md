@@ -4,6 +4,11 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-09-22 00:00 UTC
+
+- **Ariel Atkins** (LAS) newly listed as **Probable** — Injury/Illness - Illness; Illness
+- **Dearica Hamby** (LAS, Out): reason updated (Injury/Illness - Leftknee; LKnee → Injury/Illness - Left Knee; LKnee)
+
 ## 2026-09-21 23:45 UTC
 
 - **Bridget Carleton** (PDX): **Out** → **Questionable** — Injury/Illness - Left Ankle; Injury

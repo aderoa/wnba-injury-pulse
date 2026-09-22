@@ -1,7 +1,7 @@
 {
-  "report_ts": "09/21/26 07:45 PM",
+  "report_ts": "09/21/26 08:00 PM",
   "page_count": 2,
-  "raw_line_count": 31,
+  "raw_line_count": 32,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -255,15 +255,6 @@
       ]
     },
     {
-      "team_full": "Golden State Valkyries",
-      "team_abbr": "GSV",
-      "game_date": "09/22/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "GSV@PDX",
-      "submitted": false,
-      "players": []
-    },
-    {
       "team_full": "Portland Fire",
       "team_abbr": "PDX",
       "game_date": "09/22/2026",
@@ -314,20 +305,40 @@
       "game_date": "09/22/2026",
       "game_time": "10:00(ET)",
       "matchup": "LAS@LVA",
-      "submitted": false,
-      "players": []
-    },
-    {
-      "team_full": "Las Vegas Aces",
-      "team_abbr": "LVA",
-      "game_date": "09/22/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "LAS@LVA",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Atkins, Ariel",
+          "name": "Ariel Atkins",
+          "status": "Probable",
+          "reason": "Injury/Illness - Illness; Illness",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Brink, Cameron",
+          "name": "Cameron Brink",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Ankle; RAnkle",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Hamby, Dearica",
+          "name": "Dearica Hamby",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; LKnee",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Nye, Aaliyah",
+          "name": "Aaliyah Nye",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle; LAnkle",
+          "reason_category": "injury"
+        }
+      ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-21_07_45PM.pdf",
-  "fetched_slot": "2026-09-21T19:45:00-04:00",
-  "polled_at_utc": "2026-09-21T23:45:32.842260+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-21_08_00PM.pdf",
+  "fetched_slot": "2026-09-21T20:00:00-04:00",
+  "polled_at_utc": "2026-09-22T00:00:34.586144+00:00"
 }
