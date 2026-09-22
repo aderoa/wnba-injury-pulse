@@ -1,7 +1,7 @@
 {
-  "report_ts": "09/21/26 08:45 PM",
+  "report_ts": "09/21/26 09:00 PM",
   "page_count": 2,
-  "raw_line_count": 32,
+  "raw_line_count": 33,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -308,6 +308,13 @@
       "submitted": true,
       "players": [
         {
+          "name_last_first": "AkoaMakani, Monique",
+          "name": "Monique AkoaMakani",
+          "status": "Probable",
+          "reason": "Injury/Illness - Leftthigh; Lthigh",
+          "reason_category": "injury"
+        },
+        {
           "name_last_first": "Atkins, Ariel",
           "name": "Ariel Atkins",
           "status": "Probable",
@@ -338,7 +345,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-21_08_45PM.pdf",
-  "fetched_slot": "2026-09-21T20:45:00-04:00",
-  "polled_at_utc": "2026-09-22T00:45:38.816493+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-21_09_00PM.pdf",
+  "fetched_slot": "2026-09-21T21:00:00-04:00",
+  "polled_at_utc": "2026-09-22T01:00:31.350756+00:00"
 }
