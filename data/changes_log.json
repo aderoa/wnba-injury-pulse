@@ -1,14 +1,5 @@
 [
   {
-    "ts": "2026-06-06T23:30:22.650757+00:00",
-    "type": "added",
-    "team_abbr": "IND",
-    "player": "Justine Pissott",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
     "ts": "2026-06-06T23:45:22.880462+00:00",
     "type": "added",
     "team_abbr": "PDX",
@@ -17973,6 +17964,15 @@
     "from_status": "Probable",
     "to_status": "Available",
     "reason": "Injury/Illness - Right Groin;-",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-22T03:15:35.493185+00:00",
+    "type": "added",
+    "team_abbr": "DAL",
+    "player": "Alysha Clark",
+    "status": "Out",
+    "reason": "Injury/Illness - face; face",
     "reason_category": "injury"
   }
 ]

@@ -1,7 +1,7 @@
 {
-  "report_ts": "09/21/26 11:00 PM",
+  "report_ts": "09/21/26 11:15 PM",
   "page_count": 2,
-  "raw_line_count": 33,
+  "raw_line_count": 34,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -52,6 +52,13 @@
       "matchup": "DAL@PHX",
       "submitted": true,
       "players": [
+        {
+          "name_last_first": "Clark, Alysha",
+          "name": "Alysha Clark",
+          "status": "Out",
+          "reason": "Injury/Illness - face; face",
+          "reason_category": "injury"
+        },
         {
           "name_last_first": "Smith, Alanna",
           "name": "Alanna Smith",
@@ -345,7 +352,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-21_11_00PM.pdf",
-  "fetched_slot": "2026-09-21T23:00:00-04:00",
-  "polled_at_utc": "2026-09-22T03:00:31.712693+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-21_11_15PM.pdf",
+  "fetched_slot": "2026-09-21T23:15:00-04:00",
+  "polled_at_utc": "2026-09-22T03:15:35.493185+00:00"
 }
