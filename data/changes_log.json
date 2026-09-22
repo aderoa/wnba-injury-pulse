@@ -3,15 +3,6 @@
     "ts": "2026-06-06T23:45:22.880462+00:00",
     "type": "added",
     "team_abbr": "PDX",
-    "player": "SarahAshlee Barker",
-    "status": "Probable",
-    "reason": "Injury/Illness - Right Quad; Contusion",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-06T23:45:22.880462+00:00",
-    "type": "added",
-    "team_abbr": "PDX",
     "player": "Karlie Samuelson",
     "status": "Probable",
     "reason": "Injury/Illness - Right Achilles; Injury",
@@ -17974,5 +17965,15 @@
     "status": "Out",
     "reason": "Injury/Illness - face; face",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-22T17:16:45.030474+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Temi TorontoTempo Fagbenle",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Personal Reasons",
+    "reason_category": "offcourt"
   }
 ]
