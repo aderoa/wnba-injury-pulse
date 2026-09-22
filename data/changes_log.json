@@ -1,41 +1,5 @@
 [
   {
-    "ts": "2026-06-06T23:45:22.880462+00:00",
-    "type": "cleared",
-    "team_abbr": "PDX",
-    "player": "Jordan Harrison",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-06-07T14:30:30.000559+00:00",
-    "type": "status_change",
-    "team_abbr": "CHI",
-    "player": "Isabelle Harrison",
-    "from_status": "Questionable",
-    "to_status": "Available",
-    "reason": "Injury/Illness - Right Hand; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-07T18:00:31.764647+00:00",
-    "type": "added",
-    "team_abbr": "CHI",
-    "player": "Aicha Coulibaly",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-06-07T18:00:31.764647+00:00",
-    "type": "added",
-    "team_abbr": "CHI",
-    "player": "Maddy Westbeld",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
     "ts": "2026-06-07T18:00:31.764647+00:00",
     "type": "status_change",
     "team_abbr": "CHI",
@@ -17974,5 +17938,43 @@
     "player": "Matilde Villa",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-09-22T22:58:01.363957+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Hailey VanLith",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-09-22T22:58:01.363957+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Elena Buenavida",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-09-22T22:58:01.363957+00:00",
+    "type": "status_change",
+    "team_abbr": "MIN",
+    "player": "Olivia Miles",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Calf; Leftcalf",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-22T22:58:01.363957+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "-",
+    "reason_category": "other"
   }
 ]

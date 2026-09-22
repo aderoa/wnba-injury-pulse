@@ -26,13 +26,13 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-09-22T21:31:11.498849+00:00"
+    "last_seen_pending_ts": "2026-09-22T22:58:01.363957+00:00"
   },
   "IND": {
     "team_full": "Indiana Fever",
     "submitted": true,
-    "last_submitted_ts": "2026-09-22T21:31:11.498849+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-22_05_30PM.pdf",
+    "last_submitted_ts": "2026-09-22T22:58:01.363957+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-22_06_45PM.pdf",
     "game_dates": [
       "09/22/2026"
     ],
@@ -44,9 +44,9 @@
       {
         "name_last_first": "Clark, Caitlin",
         "name": "Caitlin Clark",
-        "status": "Probable",
-        "reason": "Injury/Illness - Back; Back",
-        "reason_category": "injury"
+        "status": "Available",
+        "reason": "-",
+        "reason_category": "other"
       },
       {
         "name_last_first": "TorontoTempo Fagbenle, Temi",
@@ -159,8 +159,8 @@
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-09-22T21:31:11.498849+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-22_05_30PM.pdf",
+    "last_submitted_ts": "2026-09-22T22:58:01.363957+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-22_06_45PM.pdf",
     "game_dates": [
       "09/23/2026"
     ],
@@ -180,8 +180,8 @@
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-09-22T21:31:11.498849+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-22_05_30PM.pdf",
+    "last_submitted_ts": "2026-09-22T22:58:01.363957+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-22_06_45PM.pdf",
     "game_dates": [
       "09/22/2026"
     ],
@@ -189,6 +189,13 @@
       "MIN@IND"
     ],
     "players": [
+      {
+        "name_last_first": "Buenavida, Elena",
+        "name": "Elena Buenavida",
+        "status": "Out",
+        "reason": "Coach's Decision",
+        "reason_category": "rest_coach"
+      },
       {
         "name_last_first": "Kosu, AnastasiiaOlairi",
         "name": "AnastasiiaOlairi Kosu",
@@ -199,7 +206,7 @@
       {
         "name_last_first": "Miles, Olivia",
         "name": "Olivia Miles",
-        "status": "Questionable",
+        "status": "Out",
         "reason": "Injury/Illness - Left Calf; Leftcalf",
         "reason_category": "injury"
       }
@@ -208,8 +215,8 @@
   "CHI": {
     "team_full": "Chicago Sky",
     "submitted": true,
-    "last_submitted_ts": "2026-09-22T21:31:11.498849+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-22_05_30PM.pdf",
+    "last_submitted_ts": "2026-09-22T22:58:01.363957+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-22_06_45PM.pdf",
     "game_dates": [
       "09/22/2026"
     ],
@@ -257,8 +264,8 @@
   "PDX": {
     "team_full": "Portland Fire",
     "submitted": true,
-    "last_submitted_ts": "2026-09-22T21:31:11.498849+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-22_05_30PM.pdf",
+    "last_submitted_ts": "2026-09-22T22:58:01.363957+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-22_06_45PM.pdf",
     "game_dates": [
       "09/22/2026"
     ],
@@ -351,13 +358,13 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-09-22T21:31:11.498849+00:00"
+    "last_seen_pending_ts": "2026-09-22T22:58:01.363957+00:00"
   },
   "CON": {
     "team_full": "Connecticut Sun",
     "submitted": true,
-    "last_submitted_ts": "2026-09-22T21:31:11.498849+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-22_05_30PM.pdf",
+    "last_submitted_ts": "2026-09-22T22:58:01.363957+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-22_06_45PM.pdf",
     "game_dates": [
       "09/22/2026"
     ],
@@ -392,14 +399,21 @@
         "status": "Out",
         "reason": "Injury/Illness - Left Ankle;-",
         "reason_category": "injury"
+      },
+      {
+        "name_last_first": "VanLith, Hailey",
+        "name": "Hailey VanLith",
+        "status": "Out",
+        "reason": "Coach's Decision",
+        "reason_category": "rest_coach"
       }
     ]
   },
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-09-22T21:31:11.498849+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-22_05_30PM.pdf",
+    "last_submitted_ts": "2026-09-22T22:58:01.363957+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-22_06_45PM.pdf",
     "game_dates": [
       "09/23/2026"
     ],
@@ -484,8 +498,8 @@
   "LAS": {
     "team_full": "Los Angeles Sparks",
     "submitted": true,
-    "last_submitted_ts": "2026-09-22T21:31:11.498849+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-22_05_30PM.pdf",
+    "last_submitted_ts": "2026-09-22T22:58:01.363957+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-22_06_45PM.pdf",
     "game_dates": [
       "09/22/2026"
     ],

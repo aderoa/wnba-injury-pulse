@@ -1,7 +1,7 @@
 {
-  "report_ts": "09/22/26 05:30 PM",
+  "report_ts": "09/22/26 06:45 PM",
   "page_count": 2,
-  "raw_line_count": 30,
+  "raw_line_count": 32,
   "teams": [
     {
       "team_full": "Connecticut Sun",
@@ -38,6 +38,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Ankle;-",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "VanLith, Hailey",
+          "name": "Hailey VanLith",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -50,6 +57,13 @@
       "submitted": true,
       "players": [
         {
+          "name_last_first": "Buenavida, Elena",
+          "name": "Elena Buenavida",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
           "name_last_first": "Kosu, AnastasiiaOlairi",
           "name": "AnastasiiaOlairi Kosu",
           "status": "Out",
@@ -59,7 +73,7 @@
         {
           "name_last_first": "Miles, Olivia",
           "name": "Olivia Miles",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Left Calf; Leftcalf",
           "reason_category": "injury"
         }
@@ -76,9 +90,9 @@
         {
           "name_last_first": "Clark, Caitlin",
           "name": "Caitlin Clark",
-          "status": "Probable",
-          "reason": "Injury/Illness - Back; Back",
-          "reason_category": "injury"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
         }
       ]
     },
@@ -308,7 +322,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-22_05_30PM.pdf",
-  "fetched_slot": "2026-09-22T17:30:00-04:00",
-  "polled_at_utc": "2026-09-22T21:31:11.498849+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-22_06_45PM.pdf",
+  "fetched_slot": "2026-09-22T18:45:00-04:00",
+  "polled_at_utc": "2026-09-22T22:58:01.363957+00:00"
 }

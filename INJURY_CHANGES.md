@@ -4,6 +4,13 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-09-22 22:58 UTC
+
+- **Hailey VanLith** (CON) newly listed as **Out** — Coach's Decision
+- **Elena Buenavida** (MIN) newly listed as **Out** — Coach's Decision
+- **Olivia Miles** (MIN): **Questionable** → **Out** — Injury/Illness - Left Calf; Leftcalf
+- **Caitlin Clark** (IND): **Probable** → **Available** — -
+
 ## 2026-09-22 21:16 UTC
 
 - **Matilde Villa** (ATL) cleared (was Out)
