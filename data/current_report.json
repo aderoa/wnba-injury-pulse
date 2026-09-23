@@ -1,7 +1,7 @@
 {
-  "report_ts": "09/22/26 06:45 PM",
-  "page_count": 2,
-  "raw_line_count": 32,
+  "report_ts": "09/22/26 09:15 PM",
+  "page_count": 3,
+  "raw_line_count": 39,
   "teams": [
     {
       "team_full": "Connecticut Sun",
@@ -105,11 +105,25 @@
       "submitted": true,
       "players": [
         {
-          "name_last_first": "TorontoTempo Fagbenle, Temi",
-          "name": "Temi TorontoTempo Fagbenle",
+          "name_last_first": "TorontoTempo Borkowska, Kamila",
+          "name": "Kamila TorontoTempo Borkowska",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
+        },
+        {
+          "name_last_first": "Fagbenle, Temi",
+          "name": "Temi Fagbenle",
           "status": "Out",
           "reason": "Personal Reasons",
           "reason_category": "offcourt"
+        },
+        {
+          "name_last_first": "Gakdeng, Maria",
+          "name": "Maria Gakdeng",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         },
         {
           "name_last_first": "Mabrey, Marina",
@@ -159,7 +173,7 @@
         {
           "name_last_first": "Coulibaly, Aicha",
           "name": "Aicha Coulibaly",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Right Knee; Right Knee",
           "reason_category": "injury"
         },
@@ -190,7 +204,7 @@
         {
           "name_last_first": "Carleton, Bridget",
           "name": "Bridget Carleton",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Left Ankle; Injury",
           "reason_category": "injury"
         },
@@ -204,7 +218,7 @@
         {
           "name_last_first": "Harrison, Jordan",
           "name": "Jordan Harrison",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness - Right Ankle; Injury",
           "reason_category": "injury"
         },
@@ -216,9 +230,16 @@
           "reason_category": "injury"
         },
         {
+          "name_last_first": "Puoch, Nyadiew",
+          "name": "Nyadiew Puoch",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Injury",
+          "reason_category": "injury"
+        },
+        {
           "name_last_first": "Winterburn, Holly",
           "name": "Holly Winterburn",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Lumbar Spine; Injury",
           "reason_category": "injury"
         }
@@ -235,16 +256,16 @@
         {
           "name_last_first": "AkoaMakani, Monique",
           "name": "Monique AkoaMakani",
-          "status": "Probable",
-          "reason": "Injury/Illness - Leftthigh; Lthigh",
-          "reason_category": "injury"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
         },
         {
           "name_last_first": "Atkins, Ariel",
           "name": "Ariel Atkins",
-          "status": "Probable",
-          "reason": "Injury/Illness - Illness; Illness",
-          "reason_category": "injury"
+          "status": "Available",
+          "reason": "-",
+          "reason_category": "other"
         },
         {
           "name_last_first": "Brink, Cameron",
@@ -266,6 +287,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Left Ankle; LAnkle",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sellers, Shyanne",
+          "name": "Shyanne Sellers",
+          "status": "Out",
+          "reason": "Coach's Decision - Coach\u2019sdecision",
+          "reason_category": "rest_coach"
         }
       ]
     },
@@ -309,8 +337,23 @@
       "game_date": "09/23/2026",
       "game_time": "10:00(ET)",
       "matchup": "DAL@SEA",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Clark, Alysha",
+          "name": "Alysha Clark",
+          "status": "Out",
+          "reason": "Injury/Illness - Face; face",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Smith, Alanna",
+          "name": "Alanna Smith",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Leg; lowerleftleg",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Seattle Storm",
@@ -318,11 +361,33 @@
       "game_date": "09/23/2026",
       "game_time": "10:00(ET)",
       "matchup": "DAL@SEA",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Cooke, Zia",
+          "name": "Zia Cooke",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Magbegor, Ezi",
+          "name": "Ezi Magbegor",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Samuelson, KatieLou",
+          "name": "KatieLou Samuelson",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Injury",
+          "reason_category": "injury"
+        }
+      ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-22_06_45PM.pdf",
-  "fetched_slot": "2026-09-22T18:45:00-04:00",
-  "polled_at_utc": "2026-09-22T22:58:01.363957+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-22_09_15PM.pdf",
+  "fetched_slot": "2026-09-22T21:15:00-04:00",
+  "polled_at_utc": "2026-09-23T01:16:11.327880+00:00"
 }

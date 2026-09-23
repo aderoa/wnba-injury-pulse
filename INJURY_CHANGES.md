@@ -4,6 +4,24 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-09-23 01:16 UTC
+
+- **Kamila TorontoTempo Borkowska** (IND) newly listed as **Out** — Coach's Decision
+- **Temi Fagbenle** (IND) newly listed as **Out** — Personal Reasons
+- **Maria Gakdeng** (IND) newly listed as **Out** — Coach's Decision
+- **Temi TorontoTempo Fagbenle** (IND) cleared (was Out)
+- **Aicha Coulibaly** (CHI): **Questionable** → **Out** — Injury/Illness - Right Knee; Right Knee
+- **Nyadiew Puoch** (PDX) newly listed as **Out** — Injury/Illness - Left Knee; Injury
+- **Jordan Harrison** (PDX): **Probable** → **Available** — Injury/Illness - Right Ankle; Injury
+- **Holly Winterburn** (PDX): **Questionable** → **Out** — Injury/Illness - Lumbar Spine; Injury
+- **Bridget Carleton** (PDX): **Questionable** → **Available** — Injury/Illness - Left Ankle; Injury
+- **Shyanne Sellers** (LAS) newly listed as **Out** — Coach's Decision - Coach’sdecision
+- **Monique AkoaMakani** (LAS): **Probable** → **Available** — -
+- **Ariel Atkins** (LAS): **Probable** → **Available** — -
+- **Alysha Clark** (DAL, Out): reason updated (Injury/Illness - face; face → Injury/Illness - Face; face)
+- **Taina Mair** (SEA) cleared (was Out)
+- **Jade Melbourne** (SEA) cleared (was Available)
+
 ## 2026-09-22 22:58 UTC
 
 - **Hailey VanLith** (CON) newly listed as **Out** — Coach's Decision
