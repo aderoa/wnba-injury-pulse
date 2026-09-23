@@ -4,6 +4,11 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-09-23 23:03 UTC
+
+- **Matilde Villa** (ATL) newly listed as **Out** — Coach's Decision
+- **Breanna Stewart** (NYL): **Questionable** → **Out** — Injury/Illness - Left Knee; Soreness
+
 ## 2026-09-23 21:15 UTC
 
 - **Kamila TorontoTempo Borkowska** (IND) cleared (was Out)
