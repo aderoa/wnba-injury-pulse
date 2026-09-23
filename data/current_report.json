@@ -1,7 +1,7 @@
 {
-  "report_ts": "09/23/26 04:30 PM",
-  "page_count": 1,
-  "raw_line_count": 17,
+  "report_ts": "09/23/26 04:45 PM",
+  "page_count": 2,
+  "raw_line_count": 24,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -105,8 +105,44 @@
       "game_date": "09/24/2026",
       "game_time": "07:00(ET)",
       "matchup": "TOR@CON",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "TorontoTempo Conde, Maria",
+          "name": "Maria TorontoTempo Conde",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Back; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Fagbenle, Temi",
+          "name": "Temi Fagbenle",
+          "status": "Out",
+          "reason": "Personal Reasons",
+          "reason_category": "offcourt"
+        },
+        {
+          "name_last_first": "Mabrey, Marina",
+          "name": "Marina Mabrey",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Adductor; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Morrow, Aneesah",
+          "name": "Aneesah Morrow",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Sykes, Brittney",
+          "name": "Brittney Sykes",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Foot; Injury",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Connecticut Sun",
@@ -114,8 +150,37 @@
       "game_date": "09/24/2026",
       "game_time": "07:00(ET)",
       "matchup": "TOR@CON",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Burke, Kennedy",
+          "name": "Kennedy Burke",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Shoulder;-",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Griner, Brittney",
+          "name": "Brittney Griner",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Knee;-",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Nelson-Ododa, Olivia",
+          "name": "Olivia Nelson-Ododa",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee;-",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Rivers, Saniya",
+          "name": "Saniya Rivers",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Ankle;-",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Chicago Sky",
@@ -181,7 +246,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-23_04_30PM.pdf",
-  "fetched_slot": "2026-09-23T16:30:00-04:00",
-  "polled_at_utc": "2026-09-23T20:30:52.920297+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-23_04_45PM.pdf",
+  "fetched_slot": "2026-09-23T16:45:00-04:00",
+  "polled_at_utc": "2026-09-23T20:45:57.606800+00:00"
 }
