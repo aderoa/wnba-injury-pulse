@@ -1,7 +1,7 @@
 {
-  "report_ts": "09/23/26 04:00 PM",
-  "page_count": 2,
-  "raw_line_count": 18,
+  "report_ts": "09/23/26 04:15 PM",
+  "page_count": 1,
+  "raw_line_count": 17,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -127,15 +127,6 @@
       "players": []
     },
     {
-      "team_full": "Washington Mystics",
-      "team_abbr": "WAS",
-      "game_date": "09/24/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "CHI@WAS",
-      "submitted": false,
-      "players": []
-    },
-    {
       "team_full": "Indiana Fever",
       "team_abbr": "IND",
       "game_date": "09/24/2026",
@@ -190,7 +181,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-23_04_00PM.pdf",
-  "fetched_slot": "2026-09-23T16:00:00-04:00",
-  "polled_at_utc": "2026-09-23T20:00:59.956759+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-23_04_15PM.pdf",
+  "fetched_slot": "2026-09-23T16:15:00-04:00",
+  "polled_at_utc": "2026-09-23T20:15:53.082041+00:00"
 }
