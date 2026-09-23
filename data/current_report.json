@@ -1,7 +1,7 @@
 {
-  "report_ts": "09/23/26 01:00 PM",
-  "page_count": 1,
-  "raw_line_count": 17,
+  "report_ts": "09/23/26 01:15 PM",
+  "page_count": 2,
+  "raw_line_count": 18,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -34,6 +34,13 @@
           "status": "Out",
           "reason": "Not With Team",
           "reason_category": "offcourt"
+        },
+        {
+          "name_last_first": "Stewart, Breanna",
+          "name": "Breanna Stewart",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Knee; Soreness",
+          "reason_category": "injury"
         }
       ]
     },
@@ -183,7 +190,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-23_01_00PM.pdf",
-  "fetched_slot": "2026-09-23T13:00:00-04:00",
-  "polled_at_utc": "2026-09-23T17:02:57.449395+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-23_01_15PM.pdf",
+  "fetched_slot": "2026-09-23T13:15:00-04:00",
+  "polled_at_utc": "2026-09-23T17:16:03.610156+00:00"
 }
