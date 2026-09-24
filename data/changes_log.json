@@ -3,16 +3,6 @@
     "ts": "2026-06-08T22:30:29.126369+00:00",
     "type": "status_change",
     "team_abbr": "IND",
-    "player": "Caitlin Clark",
-    "from_status": "Probable",
-    "to_status": "Available",
-    "reason": "-",
-    "reason_category": "other"
-  },
-  {
-    "ts": "2026-06-08T22:30:29.126369+00:00",
-    "type": "status_change",
-    "team_abbr": "IND",
     "player": "Aliyah Boston",
     "from_status": "Questionable",
     "to_status": "Available",
@@ -17972,5 +17962,14 @@
     "player": "Kara Dunn",
     "previous_status": "Available",
     "previous_reason": "Injury/Illness - Right Knee;-"
+  },
+  {
+    "ts": "2026-09-24T02:16:12.213597+00:00",
+    "type": "added",
+    "team_abbr": "NYL",
+    "player": "Jonquel Jones",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Ankle; L.Ankle",
+    "reason_category": "injury"
   }
 ]
