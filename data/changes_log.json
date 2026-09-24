@@ -3,14 +3,6 @@
     "ts": "2026-06-08T23:15:29.180699+00:00",
     "type": "cleared",
     "team_abbr": "WAS",
-    "player": "Shakira Austin",
-    "previous_status": "Available",
-    "previous_reason": "-"
-  },
-  {
-    "ts": "2026-06-08T23:15:29.180699+00:00",
-    "type": "cleared",
-    "team_abbr": "WAS",
     "player": "Lauren Betts",
     "previous_status": "Available",
     "previous_reason": "-"
@@ -17968,5 +17960,14 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Right Knee; R.Knee",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-24T22:45:21.640597+00:00",
+    "type": "added",
+    "team_abbr": "MIN",
+    "player": "Elena Buenavida",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
   }
 ]
