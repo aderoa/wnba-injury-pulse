@@ -1,86 +1,5 @@
 [
   {
-    "ts": "2026-06-08T22:00:28.595769+00:00",
-    "type": "added",
-    "team_abbr": "DAL",
-    "player": "Odyssey Sims",
-    "status": "Out",
-    "reason": "Injury/Illness - Left Ankle; n/a",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-08T22:00:28.595769+00:00",
-    "type": "cleared",
-    "team_abbr": "DAL",
-    "player": "Costanza Verona",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-06-08T22:00:28.595769+00:00",
-    "type": "status_change",
-    "team_abbr": "DAL",
-    "player": "Li Yueru",
-    "from_status": "Out",
-    "to_status": "Probable",
-    "reason": "Injury/Illness - Left Ankle; n/a",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-08T22:00:28.595769+00:00",
-    "type": "reason_change",
-    "team_abbr": "DAL",
-    "player": "Awak Kuier",
-    "status": "Out",
-    "from_reason": "Injury/Illness - Rightwrist; wrist",
-    "to_reason": "Injury/Illness - Right Wrist; n/a",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-08T22:00:28.595769+00:00",
-    "type": "cleared",
-    "team_abbr": "MIN",
-    "player": "Eliska Hamzova",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-06-08T22:00:28.595769+00:00",
-    "type": "cleared",
-    "team_abbr": "MIN",
-    "player": "Liatu King",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-06-08T22:00:28.595769+00:00",
-    "type": "reason_change",
-    "team_abbr": "MIN",
-    "player": "Dorka Juhasz",
-    "status": "Out",
-    "from_reason": "Injury/Illness - Right Foot; Rightfoot",
-    "to_reason": "Injury/Illness - Right Foot; Right Foot",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-08T22:30:29.126369+00:00",
-    "type": "added",
-    "team_abbr": "IND",
-    "player": "Bree Hall",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-06-08T22:30:29.126369+00:00",
-    "type": "added",
-    "team_abbr": "IND",
-    "player": "Justine Pissott",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
     "ts": "2026-06-08T22:30:29.126369+00:00",
     "type": "status_change",
     "team_abbr": "IND",
@@ -17974,5 +17893,84 @@
     "to_status": "Out",
     "reason": "Injury/Illness - Left Knee; Soreness",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-24T01:16:08.328606+00:00",
+    "type": "added",
+    "team_abbr": "SEA",
+    "player": "Taina Mair",
+    "status": "Out",
+    "reason": "Coach's Decision",
+    "reason_category": "rest_coach"
+  },
+  {
+    "ts": "2026-09-24T01:16:08.328606+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Monique AkoaMakani",
+    "previous_status": "Available",
+    "previous_reason": "-"
+  },
+  {
+    "ts": "2026-09-24T01:16:08.328606+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Ariel Atkins",
+    "previous_status": "Available",
+    "previous_reason": "-"
+  },
+  {
+    "ts": "2026-09-24T01:16:08.328606+00:00",
+    "type": "cleared",
+    "team_abbr": "LAS",
+    "player": "Shyanne Sellers",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Coach\u2019sdecision"
+  },
+  {
+    "ts": "2026-09-24T01:16:08.328606+00:00",
+    "type": "reason_change",
+    "team_abbr": "LAS",
+    "player": "Cameron Brink",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Right Ankle; RAnkle",
+    "to_reason": "Injury/Illness - Rightankle; Rankle",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-24T01:16:08.328606+00:00",
+    "type": "status_change",
+    "team_abbr": "LAS",
+    "player": "Dearica Hamby",
+    "from_status": "Out",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Leftknee; Lknee",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-24T01:16:08.328606+00:00",
+    "type": "reason_change",
+    "team_abbr": "LAS",
+    "player": "Aaliyah Nye",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Ankle; LAnkle",
+    "to_reason": "Injury/Illness - Leftankle; Lankle",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-24T01:16:08.328606+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Kahleah Copper",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Right Groin;-"
+  },
+  {
+    "ts": "2026-09-24T01:16:08.328606+00:00",
+    "type": "cleared",
+    "team_abbr": "PHX",
+    "player": "Kara Dunn",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Right Knee;-"
   }
 ]

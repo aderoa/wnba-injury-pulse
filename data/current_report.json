@@ -1,7 +1,7 @@
 {
-  "report_ts": "09/23/26 07:00 PM",
+  "report_ts": "09/23/26 09:15 PM",
   "page_count": 2,
-  "raw_line_count": 30,
+  "raw_line_count": 31,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -96,6 +96,13 @@
           "status": "Out",
           "reason": "Injury/Illness - Right Knee; Injury",
           "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Mair, Taina",
+          "name": "Taina Mair",
+          "status": "Out",
+          "reason": "Coach's Decision",
+          "reason_category": "rest_coach"
         },
         {
           "name_last_first": "Samuelson, KatieLou",
@@ -276,31 +283,35 @@
       ]
     },
     {
-      "team_full": "Golden State Valkyries",
-      "team_abbr": "GSV",
-      "game_date": "09/24/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "GSV@LAS",
-      "submitted": false,
-      "players": []
-    },
-    {
       "team_full": "Los Angeles Sparks",
       "team_abbr": "LAS",
       "game_date": "09/24/2026",
       "game_time": "10:00(ET)",
       "matchup": "GSV@LAS",
-      "submitted": false,
-      "players": []
-    },
-    {
-      "team_full": "Las Vegas Aces",
-      "team_abbr": "LVA",
-      "game_date": "09/24/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "LVA@PHX",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Brink, Cameron",
+          "name": "Cameron Brink",
+          "status": "Out",
+          "reason": "Injury/Illness - Rightankle; Rankle",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Hamby, Dearica",
+          "name": "Dearica Hamby",
+          "status": "Probable",
+          "reason": "Injury/Illness - Leftknee; Lknee",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Nye, Aaliyah",
+          "name": "Aaliyah Nye",
+          "status": "Out",
+          "reason": "Injury/Illness - Leftankle; Lankle",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Phoenix Mercury",
@@ -308,11 +319,19 @@
       "game_date": "09/24/2026",
       "game_time": "10:00(ET)",
       "matchup": "LVA@PHX",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Plum, Kelsey",
+          "name": "Kelsey Plum",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Lower Leg;-",
+          "reason_category": "injury"
+        }
+      ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-23_07_00PM.pdf",
-  "fetched_slot": "2026-09-23T19:00:00-04:00",
-  "polled_at_utc": "2026-09-23T23:03:47.306160+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-23_09_15PM.pdf",
+  "fetched_slot": "2026-09-23T21:15:00-04:00",
+  "polled_at_utc": "2026-09-24T01:16:08.328606+00:00"
 }

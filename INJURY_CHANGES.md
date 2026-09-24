@@ -4,6 +4,18 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-09-24 01:16 UTC
+
+- **Taina Mair** (SEA) newly listed as **Out** — Coach's Decision
+- **Monique AkoaMakani** (LAS) cleared (was Available)
+- **Ariel Atkins** (LAS) cleared (was Available)
+- **Shyanne Sellers** (LAS) cleared (was Out)
+- **Cameron Brink** (LAS, Out): reason updated (Injury/Illness - Right Ankle; RAnkle → Injury/Illness - Rightankle; Rankle)
+- **Dearica Hamby** (LAS): **Out** → **Probable** — Injury/Illness - Leftknee; Lknee
+- **Aaliyah Nye** (LAS, Out): reason updated (Injury/Illness - Left Ankle; LAnkle → Injury/Illness - Leftankle; Lankle)
+- **Kahleah Copper** (PHX) cleared (was Available)
+- **Kara Dunn** (PHX) cleared (was Available)
+
 ## 2026-09-23 23:03 UTC
 
 - **Matilde Villa** (ATL) newly listed as **Out** — Coach's Decision
