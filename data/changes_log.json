@@ -1,42 +1,5 @@
 [
   {
-    "ts": "2026-06-08T22:30:29.126369+00:00",
-    "type": "status_change",
-    "team_abbr": "IND",
-    "player": "Aliyah Boston",
-    "from_status": "Questionable",
-    "to_status": "Available",
-    "reason": "-",
-    "reason_category": "other"
-  },
-  {
-    "ts": "2026-06-08T22:30:29.126369+00:00",
-    "type": "added",
-    "team_abbr": "CON",
-    "player": "Ashlon Jackson",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-06-08T22:30:29.126369+00:00",
-    "type": "added",
-    "team_abbr": "CON",
-    "player": "Hailey VanLith",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-06-08T22:45:30.647217+00:00",
-    "type": "added",
-    "team_abbr": "NYL",
-    "player": "Jonquel Jones",
-    "status": "Out",
-    "reason": "Injury/Illness - Ilness; Illness",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-06-08T23:15:29.180699+00:00",
     "type": "cleared",
     "team_abbr": "WAS",
@@ -17970,6 +17933,40 @@
     "player": "Jonquel Jones",
     "status": "Out",
     "reason": "Injury/Illness - Left Ankle; L.Ankle",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-24T19:31:07.481038+00:00",
+    "type": "cleared",
+    "team_abbr": "LVA",
+    "player": "Ta'Niya Latson",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision - Notactivating"
+  },
+  {
+    "ts": "2026-09-24T19:31:07.481038+00:00",
+    "type": "cleared",
+    "team_abbr": "LVA",
+    "player": "NaLyssa Smith",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Leg; leftleg"
+  },
+  {
+    "ts": "2026-09-24T19:31:07.481038+00:00",
+    "type": "cleared",
+    "team_abbr": "LVA",
+    "player": "A'ja Wilson",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - N/a; back"
+  },
+  {
+    "ts": "2026-09-24T19:31:07.481038+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Dana Evans",
+    "from_status": "Available",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Right Knee; R.Knee",
     "reason_category": "injury"
   }
 ]

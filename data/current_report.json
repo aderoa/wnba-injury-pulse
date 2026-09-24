@@ -1,7 +1,7 @@
 {
-  "report_ts": "09/24/26 03:15 PM",
+  "report_ts": "09/24/26 03:30 PM",
   "page_count": 2,
-  "raw_line_count": 21,
+  "raw_line_count": 22,
   "teams": [
     {
       "team_full": "Connecticut Sun",
@@ -159,6 +159,23 @@
       ]
     },
     {
+      "team_full": "Las Vegas Aces",
+      "team_abbr": "LVA",
+      "game_date": "09/24/2026",
+      "game_time": "10:00(ET)",
+      "matchup": "LVA@PHX",
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Evans, Dana",
+          "name": "Dana Evans",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; R.Knee",
+          "reason_category": "injury"
+        }
+      ]
+    },
+    {
       "team_full": "Phoenix Mercury",
       "team_abbr": "PHX",
       "game_date": "09/24/2026",
@@ -176,7 +193,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-24_03_15PM.pdf",
-  "fetched_slot": "2026-09-24T15:15:00-04:00",
-  "polled_at_utc": "2026-09-24T19:16:05.671559+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-24_03_30PM.pdf",
+  "fetched_slot": "2026-09-24T15:30:00-04:00",
+  "polled_at_utc": "2026-09-24T19:31:07.481038+00:00"
 }
