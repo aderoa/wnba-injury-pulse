@@ -4,6 +4,12 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-09-25 01:00 UTC
+
+- **Ndjakalenga Mwenentanda** (LAS) newly listed as **Out** — Coach's Decision - Coach’sdecision
+- **Shyanne Sellers** (LAS) newly listed as **Out** — Coach's Decision - Coach’sdecision
+- **Dearica Hamby** (LAS): **Probable** → **Available** — -
+
 ## 2026-09-25 00:15 UTC
 
 - **Rayah Marshall** (CON) newly listed as **Out** — Injury/Illness - Right Knee;-
