@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-06-08T23:15:29.180699+00:00",
-    "type": "cleared",
-    "team_abbr": "WAS",
-    "player": "Sonia Citron",
-    "previous_status": "Available",
-    "previous_reason": "-"
-  },
-  {
     "ts": "2026-06-09T00:00:30.039081+00:00",
     "type": "status_change",
     "team_abbr": "PHX",
@@ -17971,5 +17963,14 @@
     "to_status": "Available",
     "reason": "-",
     "reason_category": "other"
+  },
+  {
+    "ts": "2026-09-25T00:15:20.576580+00:00",
+    "type": "added",
+    "team_abbr": "CON",
+    "player": "Rayah Marshall",
+    "status": "Out",
+    "reason": "Injury/Illness - Right Knee;-",
+    "reason_category": "injury"
   }
 ]
