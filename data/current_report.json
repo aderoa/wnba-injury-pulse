@@ -1,5 +1,5 @@
 {
-  "report_ts": "09/26/26 07:15 PM",
+  "report_ts": "09/26/26 07:30 PM",
   "page_count": 1,
   "raw_line_count": 7,
   "teams": [
@@ -78,8 +78,16 @@
       "game_date": "09/27/2026",
       "game_time": "09:00(ET)",
       "matchup": "DAL@GSV",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Smith, Alanna",
+          "name": "Alanna Smith",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Leg; lowerleftleg",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Golden State Valkyries",
@@ -91,7 +99,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-26_07_15PM.pdf",
-  "fetched_slot": "2026-09-26T19:15:00-04:00",
-  "polled_at_utc": "2026-09-26T23:25:53.137528+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-26_07_30PM.pdf",
+  "fetched_slot": "2026-09-26T19:30:00-04:00",
+  "polled_at_utc": "2026-09-26T23:31:08.064106+00:00"
 }

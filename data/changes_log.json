@@ -3,15 +3,6 @@
     "ts": "2026-06-09T22:00:33.767143+00:00",
     "type": "added",
     "team_abbr": "CHI",
-    "player": "Aicha Coulibaly",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-06-09T22:00:33.767143+00:00",
-    "type": "added",
-    "team_abbr": "CHI",
     "player": "Maddy Westbeld",
     "status": "Out",
     "reason": "Coach's Decision",
@@ -17967,5 +17958,13 @@
     "to_status": "Questionable",
     "reason": "Injury/Illness - Left Ankle; L.Ankle",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-26T23:31:08.064106+00:00",
+    "type": "cleared",
+    "team_abbr": "DAL",
+    "player": "Alysha Clark",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Face; face"
   }
 ]
