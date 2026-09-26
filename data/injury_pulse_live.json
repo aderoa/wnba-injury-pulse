@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-09-26T20:31:12.506908+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-26_04_30PM.pdf",
-  "report_ts": "09/26/26 04:30 PM",
+  "polled_at_utc": "2026-09-26T20:46:07.908335+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-26_04_45PM.pdf",
+  "report_ts": "09/26/26 04:45 PM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -83,7 +83,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-09-26T20:31:12.506908+00:00"
+      "last_updated": "2026-09-26T20:46:07.908335+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -432,7 +432,7 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-09-26T20:31:12.506908+00:00",
+      "last_submitted_ts": "2026-09-26T20:46:07.908335+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "WAS@ATL"
@@ -543,7 +543,7 @@
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
       "last_submitted_ts": "2026-09-24T02:16:12.213597+00:00",
-      "last_seen_pending_ts": "2026-09-26T20:31:12.506908+00:00",
+      "last_seen_pending_ts": "2026-09-26T20:46:07.908335+00:00",
       "matchups": [
         "DAL@SEA"
       ],
@@ -568,7 +568,7 @@
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
       "last_submitted_ts": "2026-09-20T03:45:52.082459+00:00",
-      "last_seen_pending_ts": "2026-09-26T20:31:12.506908+00:00",
+      "last_seen_pending_ts": "2026-09-26T20:46:07.908335+00:00",
       "matchups": [
         "SEA@GSV"
       ],
@@ -600,7 +600,7 @@
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
       "last_submitted_ts": "2026-09-25T04:00:28.486156+00:00",
-      "last_seen_pending_ts": "2026-09-26T20:31:12.506908+00:00",
+      "last_seen_pending_ts": "2026-09-26T20:46:07.908335+00:00",
       "matchups": [
         "IND@MIN"
       ],
@@ -664,7 +664,7 @@
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
       "last_submitted_ts": "2026-09-25T04:00:28.486156+00:00",
-      "last_seen_pending_ts": "2026-09-26T20:31:12.506908+00:00",
+      "last_seen_pending_ts": "2026-09-26T20:46:07.908335+00:00",
       "matchups": [
         "LVA@PHX"
       ],
@@ -682,7 +682,7 @@
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
       "last_submitted_ts": "2026-09-25T04:00:28.486156+00:00",
-      "last_seen_pending_ts": "2026-09-26T20:31:12.506908+00:00",
+      "last_seen_pending_ts": "2026-09-26T20:46:07.908335+00:00",
       "matchups": [
         "IND@MIN"
       ],
@@ -714,7 +714,7 @@
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
       "last_submitted_ts": "2026-09-24T02:16:12.213597+00:00",
-      "last_seen_pending_ts": "2026-09-26T20:31:12.506908+00:00",
+      "last_seen_pending_ts": "2026-09-26T20:46:07.908335+00:00",
       "matchups": [
         "ATL@NYL"
       ],
