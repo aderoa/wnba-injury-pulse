@@ -26,7 +26,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-09-26T21:16:06.909019+00:00"
+    "last_seen_pending_ts": "2026-09-26T21:31:10.996828+00:00"
   },
   "IND": {
     "team_full": "Indiana Fever",
@@ -48,7 +48,7 @@
         "reason_category": "other"
       }
     ],
-    "last_seen_pending_ts": "2026-09-26T21:16:06.909019+00:00"
+    "last_seen_pending_ts": "2026-09-26T21:31:10.996828+00:00"
   },
   "PHX": {
     "team_full": "Phoenix Mercury",
@@ -91,13 +91,13 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-09-26T21:16:06.909019+00:00"
+    "last_seen_pending_ts": "2026-09-26T21:31:10.996828+00:00"
   },
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-09-26T21:16:06.909019+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-26_05_15PM.pdf",
+    "last_submitted_ts": "2026-09-26T21:31:10.996828+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-26_05_30PM.pdf",
     "game_dates": [
       "09/27/2026"
     ],
@@ -117,38 +117,23 @@
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-09-25T04:00:28.486156+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-24_11_45PM.pdf",
+    "last_submitted_ts": "2026-09-26T21:31:10.996828+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-26_05_30PM.pdf",
     "game_dates": [
-      "09/24/2026"
+      "09/27/2026"
     ],
     "matchups": [
-      "IND@MIN"
+      "NYL@MIN"
     ],
     "players": [
-      {
-        "name_last_first": "Buenavida, Elena",
-        "name": "Elena Buenavida",
-        "status": "Out",
-        "reason": "Coach's Decision",
-        "reason_category": "rest_coach"
-      },
       {
         "name_last_first": "Kosu, AnastasiiaOlairi",
         "name": "AnastasiiaOlairi Kosu",
         "status": "Out",
         "reason": "Injury/Illness - Right Foot; Rightfoot",
         "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Miles, Olivia",
-        "name": "Olivia Miles",
-        "status": "Out",
-        "reason": "Injury/Illness - Left Calf; Leftcalf",
-        "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-09-26T21:16:06.909019+00:00"
+    ]
   },
   "CHI": {
     "team_full": "Chicago Sky",
@@ -417,7 +402,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-09-26T21:16:06.909019+00:00"
+    "last_seen_pending_ts": "2026-09-26T21:31:10.996828+00:00"
   },
   "WAS": {
     "team_full": "Washington Mystics",
@@ -482,7 +467,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-09-26T21:16:06.909019+00:00"
+    "last_seen_pending_ts": "2026-09-26T21:31:10.996828+00:00"
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",

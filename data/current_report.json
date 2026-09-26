@@ -1,5 +1,5 @@
 {
-  "report_ts": "09/26/26 05:15 PM",
+  "report_ts": "09/26/26 05:30 PM",
   "page_count": 1,
   "raw_line_count": 7,
   "teams": [
@@ -18,8 +18,16 @@
       "game_date": "09/27/2026",
       "game_time": "02:00(ET)",
       "matchup": "NYL@MIN",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Kosu, AnastasiiaOlairi",
+          "name": "AnastasiiaOlairi Kosu",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Foot; Rightfoot",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Indiana Fever",
@@ -75,7 +83,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-26_05_15PM.pdf",
-  "fetched_slot": "2026-09-26T17:15:00-04:00",
-  "polled_at_utc": "2026-09-26T21:16:06.909019+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-26_05_30PM.pdf",
+  "fetched_slot": "2026-09-26T17:30:00-04:00",
+  "polled_at_utc": "2026-09-26T21:31:10.996828+00:00"
 }

@@ -1,25 +1,5 @@
 [
   {
-    "ts": "2026-06-09T20:15:39.095090+00:00",
-    "type": "reason_change",
-    "team_abbr": "CON",
-    "player": "Hailey VanLith",
-    "status": "Out",
-    "from_reason": "Coach's Decision",
-    "to_reason": "Injury/Illness - Left Ankle; Contusion",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-09T20:15:39.095090+00:00",
-    "type": "status_change",
-    "team_abbr": "CON",
-    "player": "Brittney Griner",
-    "from_status": "Out",
-    "to_status": "Questionable",
-    "reason": "Injury/Illness - Left Rib; Strain",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-06-09T21:00:32.514994+00:00",
     "type": "added",
     "team_abbr": "CON",
@@ -17972,5 +17952,21 @@
     "player": "Matilde Villa",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-09-26T21:31:10.996828+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Elena Buenavida",
+    "previous_status": "Out",
+    "previous_reason": "Coach's Decision"
+  },
+  {
+    "ts": "2026-09-26T21:31:10.996828+00:00",
+    "type": "cleared",
+    "team_abbr": "MIN",
+    "player": "Olivia Miles",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Calf; Leftcalf"
   }
 ]
