@@ -1,227 +1,82 @@
 {
-  "report_ts": "09/24/26 11:45 PM",
-  "page_count": 2,
-  "raw_line_count": 28,
+  "report_ts": "09/26/26 12:15 AM",
+  "page_count": 1,
+  "raw_line_count": 8,
   "teams": [
     {
-      "team_full": "Connecticut Sun",
-      "team_abbr": "CON",
-      "game_date": "09/24/2026",
-      "game_time": "07:00(ET)",
-      "matchup": "TOR@CON",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Burke, Kennedy",
-          "name": "Kennedy Burke",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Shoulder;-",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Griner, Brittney",
-          "name": "Brittney Griner",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Knee;-",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Marshall, Rayah",
-          "name": "Rayah Marshall",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee;-",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Nelson-Ododa, Olivia",
-          "name": "Olivia Nelson-Ododa",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee;-",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Rivers, Saniya",
-          "name": "Saniya Rivers",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Ankle;-",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Chicago Sky",
-      "team_abbr": "CHI",
-      "game_date": "09/24/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "CHI@WAS",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Carrington, DiJonai",
-          "name": "DiJonai Carrington",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Foot; Left Foot",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Cloud, Natasha",
-          "name": "Natasha Cloud",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Knee; Left Knee",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Coulibaly, Aicha",
-          "name": "Aicha Coulibaly",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee; Right Knee",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Diggins, Skylar",
-          "name": "Skylar Diggins",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee; Right Knee",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Stevens, Azura",
-          "name": "Azura Stevens",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee; Right Knee",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Indiana Fever",
-      "team_abbr": "IND",
-      "game_date": "09/24/2026",
-      "game_time": "08:00(ET)",
-      "matchup": "IND@MIN",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Clark, Caitlin",
-          "name": "Caitlin Clark",
-          "status": "Available",
-          "reason": "-",
-          "reason_category": "other"
-        }
-      ]
+      "team_full": "New York Liberty",
+      "team_abbr": "NYL",
+      "game_date": "09/27/2026",
+      "game_time": "02:00(ET)",
+      "matchup": "NYL@MIN",
+      "submitted": false,
+      "players": []
     },
     {
       "team_full": "Minnesota Lynx",
       "team_abbr": "MIN",
-      "game_date": "09/24/2026",
-      "game_time": "08:00(ET)",
-      "matchup": "IND@MIN",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Buenavida, Elena",
-          "name": "Elena Buenavida",
-          "status": "Out",
-          "reason": "Coach's Decision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Kosu, AnastasiiaOlairi",
-          "name": "AnastasiiaOlairi Kosu",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Foot; Rightfoot",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Miles, Olivia",
-          "name": "Olivia Miles",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Calf; Leftcalf",
-          "reason_category": "injury"
-        }
-      ]
+      "game_date": "09/27/2026",
+      "game_time": "02:00(ET)",
+      "matchup": "NYL@MIN",
+      "submitted": false,
+      "players": []
     },
     {
-      "team_full": "Los Angeles Sparks",
-      "team_abbr": "LAS",
-      "game_date": "09/24/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "GSV@LAS",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Brink, Cameron",
-          "name": "Cameron Brink",
-          "status": "Out",
-          "reason": "Injury/Illness - Rightankle; Rankle",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Hamby, Dearica",
-          "name": "Dearica Hamby",
-          "status": "Available",
-          "reason": "-",
-          "reason_category": "other"
-        },
-        {
-          "name_last_first": "Mwenentanda, Ndjakalenga",
-          "name": "Ndjakalenga Mwenentanda",
-          "status": "Out",
-          "reason": "Coach's Decision - Coach\u2019sdecision",
-          "reason_category": "rest_coach"
-        },
-        {
-          "name_last_first": "Nye, Aaliyah",
-          "name": "Aaliyah Nye",
-          "status": "Out",
-          "reason": "Injury/Illness - Leftankle; Lankle",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Sellers, Shyanne",
-          "name": "Shyanne Sellers",
-          "status": "Out",
-          "reason": "Coach's Decision - Coach\u2019sdecision",
-          "reason_category": "rest_coach"
-        }
-      ]
+      "team_full": "Indiana Fever",
+      "team_abbr": "IND",
+      "game_date": "09/27/2026",
+      "game_time": "04:00(ET)",
+      "matchup": "IND@LVA",
+      "submitted": false,
+      "players": []
     },
     {
       "team_full": "Las Vegas Aces",
       "team_abbr": "LVA",
-      "game_date": "09/24/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "LVA@PHX",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Evans, Dana",
-          "name": "Dana Evans",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee; R.Knee",
-          "reason_category": "injury"
-        }
-      ]
+      "game_date": "09/27/2026",
+      "game_time": "04:00(ET)",
+      "matchup": "IND@LVA",
+      "submitted": false,
+      "players": []
     },
     {
-      "team_full": "Phoenix Mercury",
-      "team_abbr": "PHX",
-      "game_date": "09/24/2026",
-      "game_time": "10:00(ET)",
-      "matchup": "LVA@PHX",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Plum, Kelsey",
-          "name": "Kelsey Plum",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Lower Leg;-",
-          "reason_category": "injury"
-        }
-      ]
+      "team_full": "Washington Mystics",
+      "team_abbr": "WAS",
+      "game_date": "09/27/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "WAS@ATL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Atlanta Dream",
+      "team_abbr": "ATL",
+      "game_date": "09/27/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "WAS@ATL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Dallas Wings",
+      "team_abbr": "DAL",
+      "game_date": "09/27/2026",
+      "game_time": "09:00(ET)",
+      "matchup": "DAL@GSV",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Golden State Valkyries",
+      "team_abbr": "GSV",
+      "game_date": "09/27/2026",
+      "game_time": "09:00(ET)",
+      "matchup": "DAL@GSV",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-24_11_45PM.pdf",
-  "fetched_slot": "2026-09-24T23:45:00-04:00",
-  "polled_at_utc": "2026-09-25T04:00:28.486156+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-26_12_15AM.pdf",
+  "fetched_slot": "2026-09-26T00:15:00-04:00",
+  "polled_at_utc": "2026-09-26T04:16:08.969412+00:00"
 }
