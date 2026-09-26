@@ -1,7 +1,7 @@
 {
-  "report_ts": "09/26/26 03:45 PM",
+  "report_ts": "09/26/26 04:15 PM",
   "page_count": 1,
-  "raw_line_count": 8,
+  "raw_line_count": 7,
   "teams": [
     {
       "team_full": "New York Liberty",
@@ -40,22 +40,21 @@
       "players": []
     },
     {
-      "team_full": "Washington Mystics",
-      "team_abbr": "WAS",
-      "game_date": "09/27/2026",
-      "game_time": "07:00(ET)",
-      "matchup": "WAS@ATL",
-      "submitted": false,
-      "players": []
-    },
-    {
       "team_full": "Atlanta Dream",
       "team_abbr": "ATL",
       "game_date": "09/27/2026",
       "game_time": "07:00(ET)",
       "matchup": "WAS@ATL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Jones, Brionna",
+          "name": "Brionna Jones",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Leg; N/A",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Dallas Wings",
@@ -76,7 +75,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-26_03_45PM.pdf",
-  "fetched_slot": "2026-09-26T15:45:00-04:00",
-  "polled_at_utc": "2026-09-26T19:46:05.289508+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-26_04_15PM.pdf",
+  "fetched_slot": "2026-09-26T16:15:00-04:00",
+  "polled_at_utc": "2026-09-26T20:16:06.320229+00:00"
 }
