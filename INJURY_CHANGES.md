@@ -4,6 +4,12 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-09-26 22:16 UTC
+
+- **Elizabeth Balogun** (NYL) cleared (was Out)
+- **Breanna Stewart** (NYL) cleared (was Out)
+- **Jonquel Jones** (NYL): **Out** → **Questionable** — Injury/Illness - Left Ankle; L.Ankle
+
 ## 2026-09-26 21:31 UTC
 
 - **Elena Buenavida** (MIN) cleared (was Out)

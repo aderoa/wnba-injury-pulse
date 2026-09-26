@@ -1,32 +1,5 @@
 [
   {
-    "ts": "2026-06-09T21:00:32.514994+00:00",
-    "type": "added",
-    "team_abbr": "CON",
-    "player": "Temi TorontoTempo Fagbenle",
-    "status": "Out",
-    "reason": "Injury/Illness - Right Shoulder; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-09T21:00:32.514994+00:00",
-    "type": "added",
-    "team_abbr": "CON",
-    "player": "Kiki Rice",
-    "status": "Out",
-    "reason": "Injury/Illness - Left Ankle; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-09T22:00:33.767143+00:00",
-    "type": "added",
-    "team_abbr": "ATL",
-    "player": "Amy Okonkwo",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
     "ts": "2026-06-09T22:00:33.767143+00:00",
     "type": "added",
     "team_abbr": "CHI",
@@ -17968,5 +17941,31 @@
     "player": "Olivia Miles",
     "previous_status": "Out",
     "previous_reason": "Injury/Illness - Left Calf; Leftcalf"
+  },
+  {
+    "ts": "2026-09-26T22:16:05.410916+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Elizabeth Balogun",
+    "previous_status": "Out",
+    "previous_reason": "Not With Team"
+  },
+  {
+    "ts": "2026-09-26T22:16:05.410916+00:00",
+    "type": "cleared",
+    "team_abbr": "NYL",
+    "player": "Breanna Stewart",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Knee; Soreness"
+  },
+  {
+    "ts": "2026-09-26T22:16:05.410916+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Jonquel Jones",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Ankle; L.Ankle",
+    "reason_category": "injury"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "report_ts": "09/26/26 05:45 PM",
+  "report_ts": "09/26/26 06:15 PM",
   "page_count": 1,
   "raw_line_count": 7,
   "teams": [
@@ -9,8 +9,16 @@
       "game_date": "09/27/2026",
       "game_time": "02:00(ET)",
       "matchup": "NYL@MIN",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Jones, Jonquel",
+          "name": "Jonquel Jones",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Ankle; L.Ankle",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Minnesota Lynx",
@@ -83,7 +91,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-26_05_45PM.pdf",
-  "fetched_slot": "2026-09-26T17:45:00-04:00",
-  "polled_at_utc": "2026-09-26T21:48:15.963087+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-26_06_15PM.pdf",
+  "fetched_slot": "2026-09-26T18:15:00-04:00",
+  "polled_at_utc": "2026-09-26T22:16:05.410916+00:00"
 }
