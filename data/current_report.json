@@ -1,5 +1,5 @@
 {
-  "report_ts": "09/27/26 12:45 PM",
+  "report_ts": "09/27/26 01:15 PM",
   "page_count": 1,
   "raw_line_count": 8,
   "teams": [
@@ -14,7 +14,7 @@
         {
           "name_last_first": "Jones, Jonquel",
           "name": "Jonquel Jones",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Left Ankle; L.Ankle",
           "reason_category": "injury"
         }
@@ -120,7 +120,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-27_12_45PM.pdf",
-  "fetched_slot": "2026-09-27T12:45:00-04:00",
-  "polled_at_utc": "2026-09-27T16:46:06.553081+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-27_01_15PM.pdf",
+  "fetched_slot": "2026-09-27T13:15:00-04:00",
+  "polled_at_utc": "2026-09-27T17:16:08.708966+00:00"
 }

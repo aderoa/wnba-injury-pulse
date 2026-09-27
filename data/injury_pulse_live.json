@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-09-27T16:46:06.553081+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-27_12_45PM.pdf",
-  "report_ts": "09/27/26 12:45 PM",
+  "polled_at_utc": "2026-09-27T17:16:08.708966+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-27_01_15PM.pdf",
+  "report_ts": "09/27/26 01:15 PM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -29,7 +29,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; lowerleftleg",
       "reason_category": "injury",
-      "last_updated": "2026-09-27T16:46:06.553081+00:00"
+      "last_updated": "2026-09-27T17:16:08.708966+00:00"
     },
     {
       "name": "AnastasiiaOlairi Kosu",
@@ -38,7 +38,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Foot; Rightfoot",
       "reason_category": "injury",
-      "last_updated": "2026-09-27T16:46:06.553081+00:00"
+      "last_updated": "2026-09-27T17:16:08.708966+00:00"
     },
     {
       "name": "Aneesah Morrow",
@@ -65,7 +65,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-09-27T16:46:06.553081+00:00"
+      "last_updated": "2026-09-27T17:16:08.708966+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -110,7 +110,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; R.Knee",
       "reason_category": "injury",
-      "last_updated": "2026-09-27T16:46:06.553081+00:00"
+      "last_updated": "2026-09-27T17:16:08.708966+00:00"
     },
     {
       "name": "DiJonai Carrington",
@@ -317,7 +317,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; Lower",
       "reason_category": "injury",
-      "last_updated": "2026-09-27T16:46:06.553081+00:00"
+      "last_updated": "2026-09-27T17:16:08.708966+00:00"
     },
     {
       "name": "Zia Cooke",
@@ -335,16 +335,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Right Leg; Lower",
       "reason_category": "injury",
-      "last_updated": "2026-09-27T16:46:06.553081+00:00"
-    },
-    {
-      "name": "Jonquel Jones",
-      "team_abbr": "NYL",
-      "team_full": "New York Liberty",
-      "status": "Questionable",
-      "reason": "Injury/Illness - Left Ankle; L.Ankle",
-      "reason_category": "injury",
-      "last_updated": "2026-09-27T16:46:06.553081+00:00"
+      "last_updated": "2026-09-27T17:16:08.708966+00:00"
     },
     {
       "name": "Maria TorontoTempo Conde",
@@ -362,7 +353,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Back; Back",
       "reason_category": "injury",
-      "last_updated": "2026-09-27T16:46:06.553081+00:00"
+      "last_updated": "2026-09-27T17:16:08.708966+00:00"
     },
     {
       "name": "Bridget Carleton",
@@ -392,6 +383,15 @@
       "last_updated": "2026-09-18T03:46:04.803353+00:00"
     },
     {
+      "name": "Jonquel Jones",
+      "team_abbr": "NYL",
+      "team_full": "New York Liberty",
+      "status": "Available",
+      "reason": "Injury/Illness - Left Ankle; L.Ankle",
+      "reason_category": "injury",
+      "last_updated": "2026-09-27T17:16:08.708966+00:00"
+    },
+    {
       "name": "Jordan Harrison",
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
@@ -405,7 +405,7 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-09-27T16:46:06.553081+00:00",
+      "last_submitted_ts": "2026-09-27T17:16:08.708966+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "WAS@ATL"
@@ -515,7 +515,7 @@
     {
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
-      "last_submitted_ts": "2026-09-27T16:46:06.553081+00:00",
+      "last_submitted_ts": "2026-09-27T17:16:08.708966+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "DAL@GSV"
@@ -565,7 +565,7 @@
     {
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
-      "last_submitted_ts": "2026-09-27T16:46:06.553081+00:00",
+      "last_submitted_ts": "2026-09-27T17:16:08.708966+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "IND@LVA"
@@ -643,7 +643,7 @@
     {
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
-      "last_submitted_ts": "2026-09-27T16:46:06.553081+00:00",
+      "last_submitted_ts": "2026-09-27T17:16:08.708966+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "IND@LVA"
@@ -661,7 +661,7 @@
     {
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
-      "last_submitted_ts": "2026-09-27T16:46:06.553081+00:00",
+      "last_submitted_ts": "2026-09-27T17:16:08.708966+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "NYL@MIN"
@@ -679,7 +679,7 @@
     {
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
-      "last_submitted_ts": "2026-09-27T16:46:06.553081+00:00",
+      "last_submitted_ts": "2026-09-27T17:16:08.708966+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "NYL@MIN"
@@ -688,7 +688,7 @@
         {
           "name_last_first": "Jones, Jonquel",
           "name": "Jonquel Jones",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Left Ankle; L.Ankle",
           "reason_category": "injury"
         }
@@ -867,6 +867,16 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-09-27T17:16:08.708966+00:00",
+      "type": "status_change",
+      "team_abbr": "NYL",
+      "player": "Jonquel Jones",
+      "from_status": "Questionable",
+      "to_status": "Available",
+      "reason": "Injury/Illness - Left Ankle; L.Ankle",
+      "reason_category": "injury"
+    },
     {
       "ts": "2026-09-27T00:16:05.478402+00:00",
       "type": "status_change",
@@ -3103,16 +3113,6 @@
       "to_status": "Out",
       "reason": "Injury/Illness - Left Ankle;-",
       "reason_category": "injury"
-    },
-    {
-      "ts": "2026-08-30T00:15:59.003912+00:00",
-      "type": "status_change",
-      "team_abbr": "PHX",
-      "player": "Marta Suarez",
-      "from_status": "Questionable",
-      "to_status": "Available",
-      "reason": "-",
-      "reason_category": "other"
     }
   ]
 }
