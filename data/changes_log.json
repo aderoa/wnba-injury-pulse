@@ -1,25 +1,5 @@
 [
   {
-    "ts": "2026-06-09T23:15:27.423385+00:00",
-    "type": "status_change",
-    "team_abbr": "PHX",
-    "player": "Kahleah Copper",
-    "from_status": "Questionable",
-    "to_status": "Available",
-    "reason": "Injury/Illness - Left Hip;-",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-09T23:15:27.423385+00:00",
-    "type": "status_change",
-    "team_abbr": "PHX",
-    "player": "Alyssa Thomas",
-    "from_status": "Probable",
-    "to_status": "Available",
-    "reason": "Injury/Illness - Left Calf;-",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-06-10T00:00:27.705154+00:00",
     "type": "cleared",
     "team_abbr": "SEA",
@@ -17966,6 +17946,26 @@
     "from_status": "Questionable",
     "to_status": "Available",
     "reason": "Injury/Illness - Left Ankle; L.Ankle",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-27T19:46:10.048262+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Back; Back",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-27T19:46:10.048262+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Aliyah Boston",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Leg; Lower",
     "reason_category": "injury"
   }
 ]

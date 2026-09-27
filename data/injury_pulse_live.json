@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-09-27T18:31:11.182023+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-27_02_30PM.pdf",
-  "report_ts": "09/27/26 02:30 PM",
+  "polled_at_utc": "2026-09-27T19:46:10.048262+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-27_03_45PM.pdf",
+  "report_ts": "09/27/26 03:45 PM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -29,7 +29,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; lowerleftleg",
       "reason_category": "injury",
-      "last_updated": "2026-09-27T18:31:11.182023+00:00"
+      "last_updated": "2026-09-27T19:46:10.048262+00:00"
     },
     {
       "name": "AnastasiiaOlairi Kosu",
@@ -38,7 +38,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Foot; Rightfoot",
       "reason_category": "injury",
-      "last_updated": "2026-09-27T18:31:11.182023+00:00"
+      "last_updated": "2026-09-27T19:46:10.048262+00:00"
     },
     {
       "name": "Aneesah Morrow",
@@ -65,7 +65,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-09-27T18:31:11.182023+00:00"
+      "last_updated": "2026-09-27T19:46:10.048262+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -110,7 +110,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; R.Knee",
       "reason_category": "injury",
-      "last_updated": "2026-09-27T18:31:11.182023+00:00"
+      "last_updated": "2026-09-27T19:46:10.048262+00:00"
     },
     {
       "name": "DiJonai Carrington",
@@ -317,7 +317,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; Lower",
       "reason_category": "injury",
-      "last_updated": "2026-09-27T18:31:11.182023+00:00"
+      "last_updated": "2026-09-27T19:46:10.048262+00:00"
     },
     {
       "name": "Zia Cooke",
@@ -329,15 +329,6 @@
       "last_updated": "2026-09-24T02:16:12.213597+00:00"
     },
     {
-      "name": "Aliyah Boston",
-      "team_abbr": "IND",
-      "team_full": "Indiana Fever",
-      "status": "Questionable",
-      "reason": "Injury/Illness - Right Leg; Lower",
-      "reason_category": "injury",
-      "last_updated": "2026-09-27T18:31:11.182023+00:00"
-    },
-    {
       "name": "Maria TorontoTempo Conde",
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
@@ -347,13 +338,13 @@
       "last_updated": "2026-09-24T02:16:12.213597+00:00"
     },
     {
-      "name": "Caitlin Clark",
+      "name": "Aliyah Boston",
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
-      "status": "Probable",
-      "reason": "Injury/Illness - Back; Back",
+      "status": "Available",
+      "reason": "Injury/Illness - Right Leg; Lower",
       "reason_category": "injury",
-      "last_updated": "2026-09-27T18:31:11.182023+00:00"
+      "last_updated": "2026-09-27T19:46:10.048262+00:00"
     },
     {
       "name": "Bridget Carleton",
@@ -363,6 +354,15 @@
       "reason": "Injury/Illness - Left Ankle; Injury",
       "reason_category": "injury",
       "last_updated": "2026-09-23T01:46:12.008209+00:00"
+    },
+    {
+      "name": "Caitlin Clark",
+      "team_abbr": "IND",
+      "team_full": "Indiana Fever",
+      "status": "Available",
+      "reason": "Injury/Illness - Back; Back",
+      "reason_category": "injury",
+      "last_updated": "2026-09-27T19:46:10.048262+00:00"
     },
     {
       "name": "Dearica Hamby",
@@ -389,7 +389,7 @@
       "status": "Available",
       "reason": "Injury/Illness - Left Ankle; L.Ankle",
       "reason_category": "injury",
-      "last_updated": "2026-09-27T18:31:11.182023+00:00"
+      "last_updated": "2026-09-27T19:46:10.048262+00:00"
     },
     {
       "name": "Jordan Harrison",
@@ -405,7 +405,7 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-09-27T18:31:11.182023+00:00",
+      "last_submitted_ts": "2026-09-27T19:46:10.048262+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "WAS@ATL"
@@ -515,7 +515,7 @@
     {
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
-      "last_submitted_ts": "2026-09-27T18:31:11.182023+00:00",
+      "last_submitted_ts": "2026-09-27T19:46:10.048262+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "DAL@GSV"
@@ -565,7 +565,7 @@
     {
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
-      "last_submitted_ts": "2026-09-27T18:31:11.182023+00:00",
+      "last_submitted_ts": "2026-09-27T19:46:10.048262+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "IND@LVA"
@@ -574,14 +574,14 @@
         {
           "name_last_first": "Boston, Aliyah",
           "name": "Aliyah Boston",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Right Leg; Lower",
           "reason_category": "injury"
         },
         {
           "name_last_first": "Clark, Caitlin",
           "name": "Caitlin Clark",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness - Back; Back",
           "reason_category": "injury"
         },
@@ -643,7 +643,7 @@
     {
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
-      "last_submitted_ts": "2026-09-27T18:31:11.182023+00:00",
+      "last_submitted_ts": "2026-09-27T19:46:10.048262+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "IND@LVA"
@@ -661,7 +661,7 @@
     {
       "team_abbr": "MIN",
       "team_full": "Minnesota Lynx",
-      "last_submitted_ts": "2026-09-27T18:31:11.182023+00:00",
+      "last_submitted_ts": "2026-09-27T19:46:10.048262+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "NYL@MIN"
@@ -679,7 +679,7 @@
     {
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
-      "last_submitted_ts": "2026-09-27T18:31:11.182023+00:00",
+      "last_submitted_ts": "2026-09-27T19:46:10.048262+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "NYL@MIN"
@@ -867,6 +867,26 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-09-27T19:46:10.048262+00:00",
+      "type": "status_change",
+      "team_abbr": "IND",
+      "player": "Aliyah Boston",
+      "from_status": "Questionable",
+      "to_status": "Available",
+      "reason": "Injury/Illness - Right Leg; Lower",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-09-27T19:46:10.048262+00:00",
+      "type": "status_change",
+      "team_abbr": "IND",
+      "player": "Caitlin Clark",
+      "from_status": "Probable",
+      "to_status": "Available",
+      "reason": "Injury/Illness - Back; Back",
+      "reason_category": "injury"
+    },
     {
       "ts": "2026-09-27T17:16:08.708966+00:00",
       "type": "status_change",
@@ -3093,25 +3113,6 @@
       "from_status": "Probable",
       "to_status": "Available",
       "reason": "Injury/Illness - Right Foot; Right Foot",
-      "reason_category": "injury"
-    },
-    {
-      "ts": "2026-08-30T17:45:58.909865+00:00",
-      "type": "added",
-      "team_abbr": "MIN",
-      "player": "Elena Buenavida",
-      "status": "Out",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach"
-    },
-    {
-      "ts": "2026-08-30T01:31:02.793681+00:00",
-      "type": "status_change",
-      "team_abbr": "PHX",
-      "player": "Kahleah Copper",
-      "from_status": "Probable",
-      "to_status": "Out",
-      "reason": "Injury/Illness - Left Ankle;-",
       "reason_category": "injury"
     }
   ]
