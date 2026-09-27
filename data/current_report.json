@@ -1,7 +1,7 @@
 {
-  "report_ts": "09/26/26 07:45 PM",
+  "report_ts": "09/26/26 08:15 PM",
   "page_count": 1,
-  "raw_line_count": 7,
+  "raw_line_count": 8,
   "teams": [
     {
       "team_full": "New York Liberty",
@@ -43,8 +43,30 @@
       "game_date": "09/27/2026",
       "game_time": "04:00(ET)",
       "matchup": "IND@LVA",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Boston, Aliyah",
+          "name": "Aliyah Boston",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Leg; Lower",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Clark, Caitlin",
+          "name": "Caitlin Clark",
+          "status": "Probable",
+          "reason": "Injury/Illness - Back; Back",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Harris, Tyasha",
+          "name": "Tyasha Harris",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Leg; Lower",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Las Vegas Aces",
@@ -52,8 +74,16 @@
       "game_date": "09/27/2026",
       "game_time": "04:00(ET)",
       "matchup": "IND@LVA",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Evans, Dana",
+          "name": "Dana Evans",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; R.Knee",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Atlanta Dream",
@@ -88,18 +118,9 @@
           "reason_category": "injury"
         }
       ]
-    },
-    {
-      "team_full": "Golden State Valkyries",
-      "team_abbr": "GSV",
-      "game_date": "09/27/2026",
-      "game_time": "09:00(ET)",
-      "matchup": "DAL@GSV",
-      "submitted": false,
-      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-26_07_45PM.pdf",
-  "fetched_slot": "2026-09-26T19:45:00-04:00",
-  "polled_at_utc": "2026-09-26T23:46:05.458644+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-26_08_15PM.pdf",
+  "fetched_slot": "2026-09-26T20:15:00-04:00",
+  "polled_at_utc": "2026-09-27T00:16:05.478402+00:00"
 }

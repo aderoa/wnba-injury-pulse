@@ -1,33 +1,5 @@
 [
   {
-    "ts": "2026-06-09T22:00:33.767143+00:00",
-    "type": "added",
-    "team_abbr": "CHI",
-    "player": "Maddy Westbeld",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-06-09T22:30:26.991330+00:00",
-    "type": "status_change",
-    "team_abbr": "DAL",
-    "player": "Li Yueru",
-    "from_status": "Probable",
-    "to_status": "Available",
-    "reason": "Injury/Illness - Left Ankle; n/a",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-09T23:00:28.376519+00:00",
-    "type": "added",
-    "team_abbr": "MIN",
-    "player": "Eliska Hamzova",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
     "ts": "2026-06-09T23:00:28.376519+00:00",
     "type": "added",
     "team_abbr": "MIN",
@@ -17966,5 +17938,33 @@
     "player": "Alysha Clark",
     "previous_status": "Out",
     "previous_reason": "Injury/Illness - Face; face"
+  },
+  {
+    "ts": "2026-09-27T00:16:05.478402+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Aliyah Boston",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Right Leg; Lower",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-27T00:16:05.478402+00:00",
+    "type": "added",
+    "team_abbr": "IND",
+    "player": "Tyasha Harris",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Leg; Lower",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-27T00:16:05.478402+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Available",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Back; Back",
+    "reason_category": "injury"
   }
 ]
