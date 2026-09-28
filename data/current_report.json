@@ -1,5 +1,5 @@
 {
-  "report_ts": "09/28/26 04:15 PM",
+  "report_ts": "09/28/26 04:30 PM",
   "page_count": 1,
   "raw_line_count": 3,
   "teams": [
@@ -27,11 +27,19 @@
       "game_date": "09/29/2026",
       "game_time": "08:30(ET)",
       "matchup": "MIN@NYL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Kosu, AnastasiiaOlairi",
+          "name": "AnastasiiaOlairi Kosu",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Foot; Rightfoot",
+          "reason_category": "injury"
+        }
+      ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-28_04_15PM.pdf",
-  "fetched_slot": "2026-09-28T16:15:00-04:00",
-  "polled_at_utc": "2026-09-28T20:15:33.281768+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-28_04_30PM.pdf",
+  "fetched_slot": "2026-09-28T16:30:00-04:00",
+  "polled_at_utc": "2026-09-28T20:30:33.108176+00:00"
 }
