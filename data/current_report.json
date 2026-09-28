@@ -1,7 +1,7 @@
 {
-  "report_ts": "09/28/26 04:45 PM",
+  "report_ts": "09/28/26 05:00 PM",
   "page_count": 1,
-  "raw_line_count": 3,
+  "raw_line_count": 5,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -9,8 +9,16 @@
       "game_date": "09/29/2026",
       "game_time": "06:30(ET)",
       "matchup": "LVA@IND",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Evans, Dana",
+          "name": "Dana Evans",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; R.Knee",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Indiana Fever",
@@ -18,8 +26,30 @@
       "game_date": "09/29/2026",
       "game_time": "06:30(ET)",
       "matchup": "LVA@IND",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Boston, Aliyah",
+          "name": "Aliyah Boston",
+          "status": "Probable",
+          "reason": "Injury/Illness - Right Leg; Lower",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Clark, Caitlin",
+          "name": "Caitlin Clark",
+          "status": "Probable",
+          "reason": "Injury/Illness - Back; Back",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Harris, Tyasha",
+          "name": "Tyasha Harris",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Leg; Lower",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Minnesota Lynx",
@@ -39,7 +69,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-28_04_45PM.pdf",
-  "fetched_slot": "2026-09-28T16:45:00-04:00",
-  "polled_at_utc": "2026-09-28T20:45:36.763217+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-28_05_00PM.pdf",
+  "fetched_slot": "2026-09-28T17:00:00-04:00",
+  "polled_at_utc": "2026-09-28T21:00:35.284963+00:00"
 }

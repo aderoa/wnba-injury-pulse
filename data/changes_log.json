@@ -1,21 +1,5 @@
 [
   {
-    "ts": "2026-06-10T00:00:27.705154+00:00",
-    "type": "cleared",
-    "team_abbr": "SEA",
-    "player": "Lexie Brown",
-    "previous_status": "Out",
-    "previous_reason": "Not With Team"
-  },
-  {
-    "ts": "2026-06-10T00:00:27.705154+00:00",
-    "type": "cleared",
-    "team_abbr": "SEA",
-    "player": "Taylor Thierry",
-    "previous_status": "Available",
-    "previous_reason": "-"
-  },
-  {
     "ts": "2026-06-10T01:15:28.831699+00:00",
     "type": "added",
     "team_abbr": "PHX",
@@ -17966,6 +17950,26 @@
     "from_status": "Questionable",
     "to_status": "Available",
     "reason": "Injury/Illness - Right Leg; Lower",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-28T21:00:35.284963+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Aliyah Boston",
+    "from_status": "Available",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Right Leg; Lower",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-28T21:00:35.284963+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Available",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Back; Back",
     "reason_category": "injury"
   }
 ]

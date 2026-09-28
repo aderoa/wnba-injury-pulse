@@ -23,26 +23,26 @@
   "IND": {
     "team_full": "Indiana Fever",
     "submitted": true,
-    "last_submitted_ts": "2026-09-28T03:45:35.767629+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-27_11_45PM.pdf",
+    "last_submitted_ts": "2026-09-28T21:00:35.284963+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-28_05_00PM.pdf",
     "game_dates": [
-      "09/27/2026"
+      "09/29/2026"
     ],
     "matchups": [
-      "IND@LVA"
+      "LVA@IND"
     ],
     "players": [
       {
         "name_last_first": "Boston, Aliyah",
         "name": "Aliyah Boston",
-        "status": "Available",
+        "status": "Probable",
         "reason": "Injury/Illness - Right Leg; Lower",
         "reason_category": "injury"
       },
       {
         "name_last_first": "Clark, Caitlin",
         "name": "Caitlin Clark",
-        "status": "Available",
+        "status": "Probable",
         "reason": "Injury/Illness - Back; Back",
         "reason_category": "injury"
       },
@@ -53,8 +53,7 @@
         "reason": "Injury/Illness - Left Leg; Lower",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-09-28T20:45:36.763217+00:00"
+    ]
   },
   "PHX": {
     "team_full": "Phoenix Mercury",
@@ -80,13 +79,13 @@
   "LVA": {
     "team_full": "Las Vegas Aces",
     "submitted": true,
-    "last_submitted_ts": "2026-09-28T03:45:35.767629+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-27_11_45PM.pdf",
+    "last_submitted_ts": "2026-09-28T21:00:35.284963+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-28_05_00PM.pdf",
     "game_dates": [
-      "09/27/2026"
+      "09/29/2026"
     ],
     "matchups": [
-      "IND@LVA"
+      "LVA@IND"
     ],
     "players": [
       {
@@ -96,8 +95,7 @@
         "reason": "Injury/Illness - Right Knee; R.Knee",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-09-28T20:45:36.763217+00:00"
+    ]
   },
   "ATL": {
     "team_full": "Atlanta Dream",
@@ -123,8 +121,8 @@
   "MIN": {
     "team_full": "Minnesota Lynx",
     "submitted": true,
-    "last_submitted_ts": "2026-09-28T20:45:36.763217+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-28_04_45PM.pdf",
+    "last_submitted_ts": "2026-09-28T21:00:35.284963+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-28_05_00PM.pdf",
     "game_dates": [
       "09/29/2026"
     ],
