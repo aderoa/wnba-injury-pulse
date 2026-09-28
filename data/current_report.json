@@ -1,126 +1,46 @@
 {
-  "report_ts": "09/27/26 11:45 PM",
+  "report_ts": "09/28/26 12:00 AM",
   "page_count": 1,
-  "raw_line_count": 8,
+  "raw_line_count": 4,
   "teams": [
     {
-      "team_full": "New York Liberty",
-      "team_abbr": "NYL",
-      "game_date": "09/27/2026",
-      "game_time": "02:00(ET)",
-      "matchup": "NYL@MIN",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Jones, Jonquel",
-          "name": "Jonquel Jones",
-          "status": "Available",
-          "reason": "Injury/Illness - Left Ankle; L.Ankle",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Minnesota Lynx",
-      "team_abbr": "MIN",
-      "game_date": "09/27/2026",
-      "game_time": "02:00(ET)",
-      "matchup": "NYL@MIN",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Kosu, AnastasiiaOlairi",
-          "name": "AnastasiiaOlairi Kosu",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Foot; Rightfoot",
-          "reason_category": "injury"
-        }
-      ]
+      "team_full": "Las Vegas Aces",
+      "team_abbr": "LVA",
+      "game_date": "09/29/2026",
+      "game_time": "06:30(ET)",
+      "matchup": "LVA@IND",
+      "submitted": false,
+      "players": []
     },
     {
       "team_full": "Indiana Fever",
       "team_abbr": "IND",
-      "game_date": "09/27/2026",
-      "game_time": "04:00(ET)",
-      "matchup": "IND@LVA",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Boston, Aliyah",
-          "name": "Aliyah Boston",
-          "status": "Available",
-          "reason": "Injury/Illness - Right Leg; Lower",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Clark, Caitlin",
-          "name": "Caitlin Clark",
-          "status": "Available",
-          "reason": "Injury/Illness - Back; Back",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Harris, Tyasha",
-          "name": "Tyasha Harris",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Leg; Lower",
-          "reason_category": "injury"
-        }
-      ]
+      "game_date": "09/29/2026",
+      "game_time": "06:30(ET)",
+      "matchup": "LVA@IND",
+      "submitted": false,
+      "players": []
     },
     {
-      "team_full": "Las Vegas Aces",
-      "team_abbr": "LVA",
-      "game_date": "09/27/2026",
-      "game_time": "04:00(ET)",
-      "matchup": "IND@LVA",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Evans, Dana",
-          "name": "Dana Evans",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee; R.Knee",
-          "reason_category": "injury"
-        }
-      ]
+      "team_full": "Minnesota Lynx",
+      "team_abbr": "MIN",
+      "game_date": "09/29/2026",
+      "game_time": "08:30(ET)",
+      "matchup": "MIN@NYL",
+      "submitted": false,
+      "players": []
     },
     {
-      "team_full": "Atlanta Dream",
-      "team_abbr": "ATL",
-      "game_date": "09/27/2026",
-      "game_time": "07:00(ET)",
-      "matchup": "WAS@ATL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Jones, Brionna",
-          "name": "Brionna Jones",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Leg; N/A",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Dallas Wings",
-      "team_abbr": "DAL",
-      "game_date": "09/27/2026",
-      "game_time": "09:00(ET)",
-      "matchup": "DAL@GSV",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Smith, Alanna",
-          "name": "Alanna Smith",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Leg; lowerleftleg",
-          "reason_category": "injury"
-        }
-      ]
+      "team_full": "New York Liberty",
+      "team_abbr": "NYL",
+      "game_date": "09/29/2026",
+      "game_time": "08:30(ET)",
+      "matchup": "MIN@NYL",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-27_11_45PM.pdf",
-  "fetched_slot": "2026-09-27T23:45:00-04:00",
-  "polled_at_utc": "2026-09-28T03:45:35.767629+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-28_12_00AM.pdf",
+  "fetched_slot": "2026-09-28T00:00:00-04:00",
+  "polled_at_utc": "2026-09-28T04:00:37.233726+00:00"
 }
