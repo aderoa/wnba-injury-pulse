@@ -1,7 +1,7 @@
 {
-  "report_ts": "09/28/26 11:45 PM",
+  "report_ts": "09/29/26 12:00 AM",
   "page_count": 1,
-  "raw_line_count": 5,
+  "raw_line_count": 9,
   "teams": [
     {
       "team_full": "Las Vegas Aces",
@@ -67,9 +67,45 @@
           "reason_category": "injury"
         }
       ]
+    },
+    {
+      "team_full": "Atlanta Dream",
+      "team_abbr": "ATL",
+      "game_date": "09/30/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "ATL@WAS",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Washington Mystics",
+      "team_abbr": "WAS",
+      "game_date": "09/30/2026",
+      "game_time": "07:00(ET)",
+      "matchup": "ATL@WAS",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Golden State Valkyries",
+      "team_abbr": "GSV",
+      "game_date": "09/30/2026",
+      "game_time": "09:00(ET)",
+      "matchup": "GSV@DAL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Dallas Wings",
+      "team_abbr": "DAL",
+      "game_date": "09/30/2026",
+      "game_time": "09:00(ET)",
+      "matchup": "GSV@DAL",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-28_11_45PM.pdf",
-  "fetched_slot": "2026-09-28T23:45:00-04:00",
-  "polled_at_utc": "2026-09-29T03:45:35.386684+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-29_12_00AM.pdf",
+  "fetched_slot": "2026-09-29T00:00:00-04:00",
+  "polled_at_utc": "2026-09-29T04:00:34.823043+00:00"
 }
