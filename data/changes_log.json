@@ -1,24 +1,6 @@
 [
   {
     "ts": "2026-06-10T01:15:28.831699+00:00",
-    "type": "added",
-    "team_abbr": "PHX",
-    "player": "Marta Suarez",
-    "status": "Out",
-    "reason": "Coach's Decision - Developmental Player",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-06-10T01:15:28.831699+00:00",
-    "type": "added",
-    "team_abbr": "PHX",
-    "player": "Kiana Williams",
-    "status": "Out",
-    "reason": "Arthroscopy Coach's Decision - Developmental Player",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-06-10T01:15:28.831699+00:00",
     "type": "reason_change",
     "team_abbr": "PHX",
     "player": "Sami Whitcomb",
@@ -17970,6 +17952,26 @@
     "from_status": "Available",
     "to_status": "Probable",
     "reason": "Injury/Illness - Back; Back",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-29T21:45:43.557868+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Back; Back",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-09-29T21:45:43.557868+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Aliyah Boston",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Leg; Lower",
     "reason_category": "injury"
   }
 ]
