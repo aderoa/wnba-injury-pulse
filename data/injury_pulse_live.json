@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-09-30T10:45:40.629647+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-30_06_45AM.pdf",
-  "report_ts": "09/30/26 06:45 AM",
+  "polled_at_utc": "2026-09-30T11:00:42.610445+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-30_07_00AM.pdf",
+  "report_ts": "09/30/26 07:00 AM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -29,7 +29,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; lowerleftleg",
       "reason_category": "injury",
-      "last_updated": "2026-09-30T10:45:40.629647+00:00"
+      "last_updated": "2026-09-30T11:00:42.610445+00:00"
     },
     {
       "name": "AnastasiiaOlairi Kosu",
@@ -65,7 +65,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-09-30T10:45:40.629647+00:00"
+      "last_updated": "2026-09-30T11:00:42.610445+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -405,7 +405,7 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-09-30T10:45:40.629647+00:00",
+      "last_submitted_ts": "2026-09-30T11:00:42.610445+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "ATL@WAS"
@@ -515,7 +515,7 @@
     {
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
-      "last_submitted_ts": "2026-09-30T10:45:40.629647+00:00",
+      "last_submitted_ts": "2026-09-30T11:00:42.610445+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "GSV@DAL"
@@ -566,7 +566,7 @@
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
       "last_submitted_ts": "2026-09-30T03:46:16.473623+00:00",
-      "last_seen_pending_ts": "2026-09-30T10:45:40.629647+00:00",
+      "last_seen_pending_ts": "2026-09-30T11:00:42.610445+00:00",
       "matchups": [
         "LVA@IND"
       ],
@@ -644,7 +644,7 @@
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
       "last_submitted_ts": "2026-09-30T03:46:16.473623+00:00",
-      "last_seen_pending_ts": "2026-09-30T10:45:40.629647+00:00",
+      "last_seen_pending_ts": "2026-09-30T11:00:42.610445+00:00",
       "matchups": [
         "LVA@IND"
       ],
