@@ -1,73 +1,8 @@
 {
-  "report_ts": "09/29/26 11:45 PM",
+  "report_ts": "09/30/26 12:00 AM",
   "page_count": 1,
-  "raw_line_count": 7,
+  "raw_line_count": 4,
   "teams": [
-    {
-      "team_full": "Las Vegas Aces",
-      "team_abbr": "LVA",
-      "game_date": "09/29/2026",
-      "game_time": "06:30(ET)",
-      "matchup": "LVA@IND",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Evans, Dana",
-          "name": "Dana Evans",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee; R.Knee",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Indiana Fever",
-      "team_abbr": "IND",
-      "game_date": "09/29/2026",
-      "game_time": "06:30(ET)",
-      "matchup": "LVA@IND",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Boston, Aliyah",
-          "name": "Aliyah Boston",
-          "status": "Available",
-          "reason": "Injury/Illness - Right Leg; Lower",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Clark, Caitlin",
-          "name": "Caitlin Clark",
-          "status": "Available",
-          "reason": "Injury/Illness - Back; Back",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Harris, Tyasha",
-          "name": "Tyasha Harris",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Leg; Lower",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Minnesota Lynx",
-      "team_abbr": "MIN",
-      "game_date": "09/29/2026",
-      "game_time": "08:30(ET)",
-      "matchup": "MIN@NYL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Kosu, AnastasiiaOlairi",
-          "name": "AnastasiiaOlairi Kosu",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Foot; Rightfoot",
-          "reason_category": "injury"
-        }
-      ]
-    },
     {
       "team_full": "Atlanta Dream",
       "team_abbr": "ATL",
@@ -101,9 +36,27 @@
           "reason_category": "injury"
         }
       ]
+    },
+    {
+      "team_full": "Indiana Fever",
+      "team_abbr": "IND",
+      "game_date": "10/01/2026",
+      "game_time": "09:00(ET)",
+      "matchup": "IND@LVA",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Las Vegas Aces",
+      "team_abbr": "LVA",
+      "game_date": "10/01/2026",
+      "game_time": "09:00(ET)",
+      "matchup": "IND@LVA",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-29_11_45PM.pdf",
-  "fetched_slot": "2026-09-29T23:45:00-04:00",
-  "polled_at_utc": "2026-09-30T03:46:16.473623+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-30_12_00AM.pdf",
+  "fetched_slot": "2026-09-30T00:00:00-04:00",
+  "polled_at_utc": "2026-09-30T04:00:41.217384+00:00"
 }

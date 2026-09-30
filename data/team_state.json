@@ -2,8 +2,8 @@
   "DAL": {
     "team_full": "Dallas Wings",
     "submitted": true,
-    "last_submitted_ts": "2026-09-30T03:46:16.473623+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-29_11_45PM.pdf",
+    "last_submitted_ts": "2026-09-30T04:00:41.217384+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-30_12_00AM.pdf",
     "game_dates": [
       "09/30/2026"
     ],
@@ -53,7 +53,8 @@
         "reason": "Injury/Illness - Left Leg; Lower",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-09-30T04:00:41.217384+00:00"
   },
   "PHX": {
     "team_full": "Phoenix Mercury",
@@ -95,13 +96,14 @@
         "reason": "Injury/Illness - Right Knee; R.Knee",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-09-30T04:00:41.217384+00:00"
   },
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-09-30T03:46:16.473623+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-29_11_45PM.pdf",
+    "last_submitted_ts": "2026-09-30T04:00:41.217384+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-30_12_00AM.pdf",
     "game_dates": [
       "09/30/2026"
     ],
