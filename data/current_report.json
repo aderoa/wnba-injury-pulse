@@ -1,7 +1,7 @@
 {
-  "report_ts": "10/01/26 07:30 PM",
+  "report_ts": "10/01/26 07:45 PM",
   "page_count": 1,
-  "raw_line_count": 7,
+  "raw_line_count": 8,
   "teams": [
     {
       "team_full": "Indiana Fever",
@@ -64,8 +64,23 @@
       "game_date": "10/02/2026",
       "game_time": "09:00(ET)",
       "matchup": "DAL@GSV",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Kuier, Awak",
+          "name": "Awak Kuier",
+          "status": "Probable",
+          "reason": "Injury/Illness - Right Wrist; rightwrist",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Smith, Alanna",
+          "name": "Alanna Smith",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Leg; lowerleftleg",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Golden State Valkyries",
@@ -77,7 +92,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-01_07_30PM.pdf",
-  "fetched_slot": "2026-10-01T19:30:00-04:00",
-  "polled_at_utc": "2026-10-01T23:31:10.679381+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-01_07_45PM.pdf",
+  "fetched_slot": "2026-10-01T19:45:00-04:00",
+  "polled_at_utc": "2026-10-01T23:46:07.933859+00:00"
 }

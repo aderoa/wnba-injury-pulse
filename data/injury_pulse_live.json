@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-10-01T23:31:10.679381+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-01_07_30PM.pdf",
-  "report_ts": "10/01/26 07:30 PM",
+  "polled_at_utc": "2026-10-01T23:46:07.933859+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-01_07_45PM.pdf",
+  "report_ts": "10/01/26 07:45 PM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -29,7 +29,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; lowerleftleg",
       "reason_category": "injury",
-      "last_updated": "2026-10-01T03:45:23.775638+00:00"
+      "last_updated": "2026-10-01T23:46:07.933859+00:00"
     },
     {
       "name": "AnastasiiaOlairi Kosu",
@@ -110,7 +110,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; R.Knee",
       "reason_category": "injury",
-      "last_updated": "2026-10-01T23:31:10.679381+00:00"
+      "last_updated": "2026-10-01T23:46:07.933859+00:00"
     },
     {
       "name": "DiJonai Carrington",
@@ -317,7 +317,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; Lower",
       "reason_category": "injury",
-      "last_updated": "2026-10-01T23:31:10.679381+00:00"
+      "last_updated": "2026-10-01T23:46:07.933859+00:00"
     },
     {
       "name": "Zia Cooke",
@@ -344,7 +344,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Left Leg; L.Leg",
       "reason_category": "injury",
-      "last_updated": "2026-10-01T23:31:10.679381+00:00"
+      "last_updated": "2026-10-01T23:46:07.933859+00:00"
     },
     {
       "name": "Aliyah Boston",
@@ -353,7 +353,16 @@
       "status": "Probable",
       "reason": "Injury/Illness - Right Leg; Lower",
       "reason_category": "injury",
-      "last_updated": "2026-10-01T23:31:10.679381+00:00"
+      "last_updated": "2026-10-01T23:46:07.933859+00:00"
+    },
+    {
+      "name": "Awak Kuier",
+      "team_abbr": "DAL",
+      "team_full": "Dallas Wings",
+      "status": "Probable",
+      "reason": "Injury/Illness - Right Wrist; rightwrist",
+      "reason_category": "injury",
+      "last_updated": "2026-10-01T23:46:07.933859+00:00"
     },
     {
       "name": "Caitlin Clark",
@@ -362,7 +371,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Back; Back",
       "reason_category": "injury",
-      "last_updated": "2026-10-01T23:31:10.679381+00:00"
+      "last_updated": "2026-10-01T23:46:07.933859+00:00"
     },
     {
       "name": "Bridget Carleton",
@@ -524,12 +533,19 @@
     {
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
-      "last_submitted_ts": "2026-10-01T03:45:23.775638+00:00",
-      "last_seen_pending_ts": "2026-10-01T23:31:10.679381+00:00",
+      "last_submitted_ts": "2026-10-01T23:46:07.933859+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "GSV@DAL"
+        "DAL@GSV"
       ],
       "players": [
+        {
+          "name_last_first": "Kuier, Awak",
+          "name": "Awak Kuier",
+          "status": "Probable",
+          "reason": "Injury/Illness - Right Wrist; rightwrist",
+          "reason_category": "injury"
+        },
         {
           "name_last_first": "Smith, Alanna",
           "name": "Alanna Smith",
@@ -543,7 +559,7 @@
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
       "last_submitted_ts": "2026-09-20T03:45:52.082459+00:00",
-      "last_seen_pending_ts": "2026-10-01T23:31:10.679381+00:00",
+      "last_seen_pending_ts": "2026-10-01T23:46:07.933859+00:00",
       "matchups": [
         "SEA@GSV"
       ],
@@ -574,7 +590,7 @@
     {
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
-      "last_submitted_ts": "2026-10-01T23:31:10.679381+00:00",
+      "last_submitted_ts": "2026-10-01T23:46:07.933859+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "IND@LVA"
@@ -652,7 +668,7 @@
     {
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
-      "last_submitted_ts": "2026-10-01T23:31:10.679381+00:00",
+      "last_submitted_ts": "2026-10-01T23:46:07.933859+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "IND@LVA"
@@ -883,6 +899,15 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-10-01T23:46:07.933859+00:00",
+      "type": "added",
+      "team_abbr": "DAL",
+      "player": "Awak Kuier",
+      "status": "Probable",
+      "reason": "Injury/Illness - Right Wrist; rightwrist",
+      "reason_category": "injury"
+    },
     {
       "ts": "2026-10-01T18:31:10.042179+00:00",
       "type": "added",
@@ -3123,15 +3148,6 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Right Thumb;-",
       "reason_category": "injury"
-    },
-    {
-      "ts": "2026-09-16T20:45:55.508686+00:00",
-      "type": "added",
-      "team_abbr": "CON",
-      "player": "Leila Lacan",
-      "status": "Questionable",
-      "reason": "Rest--",
-      "reason_category": "other"
     }
   ]
 }
