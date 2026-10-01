@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-10-01T12:15:58.011326+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-01_08_15AM.pdf",
-  "report_ts": "10/01/26 08:15 AM",
+  "polled_at_utc": "2026-10-01T12:31:26.405357+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-01_08_30AM.pdf",
+  "report_ts": "10/01/26 08:30 AM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -110,7 +110,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; R.Knee",
       "reason_category": "injury",
-      "last_updated": "2026-10-01T12:15:58.011326+00:00"
+      "last_updated": "2026-10-01T12:31:26.405357+00:00"
     },
     {
       "name": "DiJonai Carrington",
@@ -317,7 +317,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; Lower",
       "reason_category": "injury",
-      "last_updated": "2026-10-01T12:15:58.011326+00:00"
+      "last_updated": "2026-10-01T12:31:26.405357+00:00"
     },
     {
       "name": "Zia Cooke",
@@ -344,7 +344,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Right Leg; Lower",
       "reason_category": "injury",
-      "last_updated": "2026-10-01T12:15:58.011326+00:00"
+      "last_updated": "2026-10-01T12:31:26.405357+00:00"
     },
     {
       "name": "Caitlin Clark",
@@ -353,7 +353,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Back; Back",
       "reason_category": "injury",
-      "last_updated": "2026-10-01T12:15:58.011326+00:00"
+      "last_updated": "2026-10-01T12:31:26.405357+00:00"
     },
     {
       "name": "Bridget Carleton",
@@ -516,7 +516,7 @@
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
       "last_submitted_ts": "2026-10-01T03:45:23.775638+00:00",
-      "last_seen_pending_ts": "2026-10-01T12:15:58.011326+00:00",
+      "last_seen_pending_ts": "2026-10-01T12:31:26.405357+00:00",
       "matchups": [
         "GSV@DAL"
       ],
@@ -534,7 +534,7 @@
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
       "last_submitted_ts": "2026-09-20T03:45:52.082459+00:00",
-      "last_seen_pending_ts": "2026-10-01T12:15:58.011326+00:00",
+      "last_seen_pending_ts": "2026-10-01T12:31:26.405357+00:00",
       "matchups": [
         "SEA@GSV"
       ],
@@ -565,7 +565,7 @@
     {
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
-      "last_submitted_ts": "2026-10-01T12:15:58.011326+00:00",
+      "last_submitted_ts": "2026-10-01T12:31:26.405357+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "IND@LVA"
@@ -643,7 +643,7 @@
     {
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
-      "last_submitted_ts": "2026-10-01T12:15:58.011326+00:00",
+      "last_submitted_ts": "2026-10-01T12:31:26.405357+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "IND@LVA"
