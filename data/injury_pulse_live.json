@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-09-30T23:45:13.730895+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-30_07_45PM.pdf",
-  "report_ts": "09/30/26 07:45 PM",
+  "polled_at_utc": "2026-10-01T00:00:13.034715+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-09-30_08_00PM.pdf",
+  "report_ts": "09/30/26 08:00 PM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -29,7 +29,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; lowerleftleg",
       "reason_category": "injury",
-      "last_updated": "2026-09-30T23:45:13.730895+00:00"
+      "last_updated": "2026-10-01T00:00:13.034715+00:00"
     },
     {
       "name": "AnastasiiaOlairi Kosu",
@@ -65,7 +65,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-09-30T23:45:13.730895+00:00"
+      "last_updated": "2026-10-01T00:00:13.034715+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -110,7 +110,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; R.Knee",
       "reason_category": "injury",
-      "last_updated": "2026-09-30T03:46:16.473623+00:00"
+      "last_updated": "2026-10-01T00:00:13.034715+00:00"
     },
     {
       "name": "DiJonai Carrington",
@@ -317,7 +317,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; Lower",
       "reason_category": "injury",
-      "last_updated": "2026-09-30T03:46:16.473623+00:00"
+      "last_updated": "2026-10-01T00:00:13.034715+00:00"
     },
     {
       "name": "Zia Cooke",
@@ -341,10 +341,19 @@
       "name": "Aliyah Boston",
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
-      "status": "Available",
+      "status": "Probable",
       "reason": "Injury/Illness - Right Leg; Lower",
       "reason_category": "injury",
-      "last_updated": "2026-09-30T03:46:16.473623+00:00"
+      "last_updated": "2026-10-01T00:00:13.034715+00:00"
+    },
+    {
+      "name": "Caitlin Clark",
+      "team_abbr": "IND",
+      "team_full": "Indiana Fever",
+      "status": "Probable",
+      "reason": "Injury/Illness - Back; Back",
+      "reason_category": "injury",
+      "last_updated": "2026-10-01T00:00:13.034715+00:00"
     },
     {
       "name": "Bridget Carleton",
@@ -354,15 +363,6 @@
       "reason": "Injury/Illness - Left Ankle; Injury",
       "reason_category": "injury",
       "last_updated": "2026-09-23T01:46:12.008209+00:00"
-    },
-    {
-      "name": "Caitlin Clark",
-      "team_abbr": "IND",
-      "team_full": "Indiana Fever",
-      "status": "Available",
-      "reason": "Injury/Illness - Back; Back",
-      "reason_category": "injury",
-      "last_updated": "2026-09-30T03:46:16.473623+00:00"
     },
     {
       "name": "Dearica Hamby",
@@ -405,7 +405,7 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-09-30T23:45:13.730895+00:00",
+      "last_submitted_ts": "2026-10-01T00:00:13.034715+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "ATL@WAS"
@@ -515,7 +515,7 @@
     {
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
-      "last_submitted_ts": "2026-09-30T23:45:13.730895+00:00",
+      "last_submitted_ts": "2026-10-01T00:00:13.034715+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "GSV@DAL"
@@ -565,23 +565,23 @@
     {
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
-      "last_submitted_ts": "2026-09-30T03:46:16.473623+00:00",
-      "last_seen_pending_ts": "2026-09-30T23:45:13.730895+00:00",
+      "last_submitted_ts": "2026-10-01T00:00:13.034715+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "LVA@IND"
+        "IND@LVA"
       ],
       "players": [
         {
           "name_last_first": "Boston, Aliyah",
           "name": "Aliyah Boston",
-          "status": "Available",
+          "status": "Probable",
           "reason": "Injury/Illness - Right Leg; Lower",
           "reason_category": "injury"
         },
         {
           "name_last_first": "Clark, Caitlin",
           "name": "Caitlin Clark",
-          "status": "Available",
+          "status": "Probable",
           "reason": "Injury/Illness - Back; Back",
           "reason_category": "injury"
         },
@@ -643,10 +643,10 @@
     {
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
-      "last_submitted_ts": "2026-09-30T03:46:16.473623+00:00",
-      "last_seen_pending_ts": "2026-09-30T23:45:13.730895+00:00",
+      "last_submitted_ts": "2026-10-01T00:00:13.034715+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "LVA@IND"
+        "IND@LVA"
       ],
       "players": [
         {
@@ -867,6 +867,26 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-10-01T00:00:13.034715+00:00",
+      "type": "status_change",
+      "team_abbr": "IND",
+      "player": "Caitlin Clark",
+      "from_status": "Available",
+      "to_status": "Probable",
+      "reason": "Injury/Illness - Back; Back",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-10-01T00:00:13.034715+00:00",
+      "type": "status_change",
+      "team_abbr": "IND",
+      "player": "Aliyah Boston",
+      "from_status": "Available",
+      "to_status": "Probable",
+      "reason": "Injury/Illness - Right Leg; Lower",
+      "reason_category": "injury"
+    },
     {
       "ts": "2026-09-29T21:45:43.557868+00:00",
       "type": "status_change",
@@ -3095,25 +3115,6 @@
       "player": "Kennedy Burke",
       "status": "Out",
       "reason": "Injury/Illness - Right Shoulder;-",
-      "reason_category": "injury"
-    },
-    {
-      "ts": "2026-08-30T23:46:00.470674+00:00",
-      "type": "added",
-      "team_abbr": "CON",
-      "player": "Rayah Marshall",
-      "status": "Out",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach"
-    },
-    {
-      "ts": "2026-08-30T22:31:00.314734+00:00",
-      "type": "status_change",
-      "team_abbr": "PDX",
-      "player": "Karlie Samuelson",
-      "from_status": "Questionable",
-      "to_status": "Available",
-      "reason": "Injury/Illness - Left Knee; Contusion",
       "reason_category": "injury"
     }
   ]
