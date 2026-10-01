@@ -1,5 +1,5 @@
 {
-  "report_ts": "10/01/26 12:00 AM",
+  "report_ts": "10/01/26 12:15 AM",
   "page_count": 1,
   "raw_line_count": 6,
   "teams": [
@@ -55,7 +55,7 @@
       "team_full": "Dallas Wings",
       "team_abbr": "DAL",
       "game_date": "10/02/2026",
-      "game_time": "12:00(ET)",
+      "game_time": "09:00(ET)",
       "matchup": "DAL@GSV",
       "submitted": false,
       "players": []
@@ -64,13 +64,13 @@
       "team_full": "Golden State Valkyries",
       "team_abbr": "GSV",
       "game_date": "10/02/2026",
-      "game_time": "12:00(ET)",
+      "game_time": "09:00(ET)",
       "matchup": "DAL@GSV",
       "submitted": false,
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-01_12_00AM.pdf",
-  "fetched_slot": "2026-10-01T00:00:00-04:00",
-  "polled_at_utc": "2026-10-01T04:00:13.865032+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-01_12_15AM.pdf",
+  "fetched_slot": "2026-10-01T00:15:00-04:00",
+  "polled_at_utc": "2026-10-01T04:15:15.006363+00:00"
 }
