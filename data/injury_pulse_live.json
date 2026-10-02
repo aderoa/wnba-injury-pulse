@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-10-02T00:16:12.313101+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-01_08_15PM.pdf",
-  "report_ts": "10/01/26 08:15 PM",
+  "polled_at_utc": "2026-10-02T00:46:12.032027+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-01_08_45PM.pdf",
+  "report_ts": "10/01/26 08:45 PM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -29,7 +29,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; lowerleftleg",
       "reason_category": "injury",
-      "last_updated": "2026-10-02T00:16:12.313101+00:00"
+      "last_updated": "2026-10-02T00:46:12.032027+00:00"
     },
     {
       "name": "AnastasiiaOlairi Kosu",
@@ -110,7 +110,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; R.Knee",
       "reason_category": "injury",
-      "last_updated": "2026-10-02T00:16:12.313101+00:00"
+      "last_updated": "2026-10-02T00:46:12.032027+00:00"
     },
     {
       "name": "DiJonai Carrington",
@@ -284,6 +284,15 @@
       "last_updated": "2026-09-18T03:46:04.803353+00:00"
     },
     {
+      "name": "Stephanie Talbot",
+      "team_abbr": "LVA",
+      "team_full": "Las Vegas Aces",
+      "status": "Out",
+      "reason": "Injury/Illness - Left Leg; L.Leg",
+      "reason_category": "injury",
+      "last_updated": "2026-10-02T00:46:12.032027+00:00"
+    },
+    {
       "name": "Taina Mair",
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
@@ -317,7 +326,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; Lower",
       "reason_category": "injury",
-      "last_updated": "2026-10-02T00:16:12.313101+00:00"
+      "last_updated": "2026-10-02T00:46:12.032027+00:00"
     },
     {
       "name": "Zia Cooke",
@@ -338,22 +347,13 @@
       "last_updated": "2026-09-24T02:16:12.213597+00:00"
     },
     {
-      "name": "Stephanie Talbot",
-      "team_abbr": "LVA",
-      "team_full": "Las Vegas Aces",
-      "status": "Questionable",
-      "reason": "Injury/Illness - Left Leg; L.Leg",
-      "reason_category": "injury",
-      "last_updated": "2026-10-02T00:16:12.313101+00:00"
-    },
-    {
       "name": "Awak Kuier",
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
       "status": "Probable",
       "reason": "Injury/Illness - Right Wrist; rightwrist",
       "reason_category": "injury",
-      "last_updated": "2026-10-02T00:16:12.313101+00:00"
+      "last_updated": "2026-10-02T00:46:12.032027+00:00"
     },
     {
       "name": "Aliyah Boston",
@@ -362,7 +362,7 @@
       "status": "Available",
       "reason": "Injury/Illness - Right Leg; Lower",
       "reason_category": "injury",
-      "last_updated": "2026-10-02T00:16:12.313101+00:00"
+      "last_updated": "2026-10-02T00:46:12.032027+00:00"
     },
     {
       "name": "Bridget Carleton",
@@ -380,7 +380,7 @@
       "status": "Available",
       "reason": "Injury/Illness - Back; Back",
       "reason_category": "injury",
-      "last_updated": "2026-10-02T00:16:12.313101+00:00"
+      "last_updated": "2026-10-02T00:46:12.032027+00:00"
     },
     {
       "name": "Dearica Hamby",
@@ -533,7 +533,7 @@
     {
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
-      "last_submitted_ts": "2026-10-02T00:16:12.313101+00:00",
+      "last_submitted_ts": "2026-10-02T00:46:12.032027+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "DAL@GSV"
@@ -590,7 +590,7 @@
     {
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
-      "last_submitted_ts": "2026-10-02T00:16:12.313101+00:00",
+      "last_submitted_ts": "2026-10-02T00:46:12.032027+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "IND@LVA"
@@ -668,7 +668,7 @@
     {
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
-      "last_submitted_ts": "2026-10-02T00:16:12.313101+00:00",
+      "last_submitted_ts": "2026-10-02T00:46:12.032027+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "IND@LVA"
@@ -684,7 +684,7 @@
         {
           "name_last_first": "Talbot, Stephanie",
           "name": "Stephanie Talbot",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Left Leg; L.Leg",
           "reason_category": "injury"
         }
@@ -899,6 +899,16 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-10-02T00:46:12.032027+00:00",
+      "type": "status_change",
+      "team_abbr": "LVA",
+      "player": "Stephanie Talbot",
+      "from_status": "Questionable",
+      "to_status": "Out",
+      "reason": "Injury/Illness - Left Leg; L.Leg",
+      "reason_category": "injury"
+    },
     {
       "ts": "2026-10-02T00:16:12.313101+00:00",
       "type": "status_change",
@@ -3143,14 +3153,6 @@
       "to_status": "Questionable",
       "reason": "Injury/Illness - Left Knee;-",
       "reason_category": "injury"
-    },
-    {
-      "ts": "2026-09-16T20:45:55.508686+00:00",
-      "type": "cleared",
-      "team_abbr": "CON",
-      "player": "Olivia Nelson-Ododa",
-      "previous_status": "Out",
-      "previous_reason": "Injury/Illness - Right Knee;-"
     }
   ]
 }

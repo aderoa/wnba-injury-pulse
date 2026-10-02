@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-06-10T21:00:48.705146+00:00",
-    "type": "cleared",
-    "team_abbr": "NYL",
-    "player": "Anneli Maley",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision - Developmental Player"
-  },
-  {
     "ts": "2026-06-10T21:30:45.076320+00:00",
     "type": "added",
     "team_abbr": "IND",
@@ -17978,6 +17970,16 @@
     "from_status": "Probable",
     "to_status": "Available",
     "reason": "Injury/Illness - Right Leg; Lower",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-10-02T00:46:12.032027+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Stephanie Talbot",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Leg; L.Leg",
     "reason_category": "injury"
   }
 ]
