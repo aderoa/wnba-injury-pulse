@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-10-02T13:46:01.011993+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-02_09_45AM.pdf",
-  "report_ts": "10/02/26 09:45 AM",
+  "polled_at_utc": "2026-10-02T14:16:06.444453+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-02_10_15AM.pdf",
+  "report_ts": "10/02/26 10:15 AM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -29,7 +29,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; lowerleftleg",
       "reason_category": "injury",
-      "last_updated": "2026-10-02T13:46:01.011993+00:00"
+      "last_updated": "2026-10-02T14:16:06.444453+00:00"
     },
     {
       "name": "AnastasiiaOlairi Kosu",
@@ -353,7 +353,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Right Wrist; rightwrist",
       "reason_category": "injury",
-      "last_updated": "2026-10-02T13:46:01.011993+00:00"
+      "last_updated": "2026-10-02T14:16:06.444453+00:00"
     },
     {
       "name": "Aliyah Boston",
@@ -533,7 +533,7 @@
     {
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
-      "last_submitted_ts": "2026-10-02T13:46:01.011993+00:00",
+      "last_submitted_ts": "2026-10-02T14:16:06.444453+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "DAL@GSV"
