@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-10-02T02:16:08.329940+00:00",
+  "polled_at_utc": "2026-10-02T02:29:26.372198+00:00",
   "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-01_10_15PM.pdf",
   "report_ts": "10/01/26 10:15 PM",
   "all_players": [
@@ -29,7 +29,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; lowerleftleg",
       "reason_category": "injury",
-      "last_updated": "2026-10-02T02:16:08.329940+00:00"
+      "last_updated": "2026-10-02T02:29:26.372198+00:00"
     },
     {
       "name": "AnastasiiaOlairi Kosu",
@@ -110,7 +110,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Right Knee; R.Knee",
       "reason_category": "injury",
-      "last_updated": "2026-10-02T02:16:08.329940+00:00"
+      "last_updated": "2026-10-02T02:29:26.372198+00:00"
     },
     {
       "name": "DiJonai Carrington",
@@ -290,7 +290,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; L.Leg",
       "reason_category": "injury",
-      "last_updated": "2026-10-02T02:16:08.329940+00:00"
+      "last_updated": "2026-10-02T02:29:26.372198+00:00"
     },
     {
       "name": "Taina Mair",
@@ -326,7 +326,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; Lower",
       "reason_category": "injury",
-      "last_updated": "2026-10-02T02:16:08.329940+00:00"
+      "last_updated": "2026-10-02T02:29:26.372198+00:00"
     },
     {
       "name": "Zia Cooke",
@@ -353,7 +353,7 @@
       "status": "Probable",
       "reason": "Injury/Illness - Right Wrist; rightwrist",
       "reason_category": "injury",
-      "last_updated": "2026-10-02T02:16:08.329940+00:00"
+      "last_updated": "2026-10-02T02:29:26.372198+00:00"
     },
     {
       "name": "Aliyah Boston",
@@ -362,7 +362,7 @@
       "status": "Available",
       "reason": "Injury/Illness - Right Leg; Lower",
       "reason_category": "injury",
-      "last_updated": "2026-10-02T02:16:08.329940+00:00"
+      "last_updated": "2026-10-02T02:29:26.372198+00:00"
     },
     {
       "name": "Bridget Carleton",
@@ -380,7 +380,7 @@
       "status": "Available",
       "reason": "Injury/Illness - Back; Back",
       "reason_category": "injury",
-      "last_updated": "2026-10-02T02:16:08.329940+00:00"
+      "last_updated": "2026-10-02T02:29:26.372198+00:00"
     },
     {
       "name": "Dearica Hamby",
@@ -533,7 +533,7 @@
     {
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
-      "last_submitted_ts": "2026-10-02T02:16:08.329940+00:00",
+      "last_submitted_ts": "2026-10-02T02:29:26.372198+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "DAL@GSV"
@@ -590,7 +590,7 @@
     {
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
-      "last_submitted_ts": "2026-10-02T02:16:08.329940+00:00",
+      "last_submitted_ts": "2026-10-02T02:29:26.372198+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "IND@LVA"
@@ -668,7 +668,7 @@
     {
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
-      "last_submitted_ts": "2026-10-02T02:16:08.329940+00:00",
+      "last_submitted_ts": "2026-10-02T02:29:26.372198+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "IND@LVA"
