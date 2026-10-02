@@ -2,22 +2,6 @@
   {
     "ts": "2026-06-10T21:00:48.705146+00:00",
     "type": "cleared",
-    "team_abbr": "CHI",
-    "player": "Maddy Westbeld",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision"
-  },
-  {
-    "ts": "2026-06-10T21:00:48.705146+00:00",
-    "type": "cleared",
-    "team_abbr": "NYL",
-    "player": "Jonquel Jones",
-    "previous_status": "Out",
-    "previous_reason": "Injury/Illness - Ilness; Illness"
-  },
-  {
-    "ts": "2026-06-10T21:00:48.705146+00:00",
-    "type": "cleared",
     "team_abbr": "NYL",
     "player": "Anneli Maley",
     "previous_status": "Out",
@@ -17974,6 +17958,26 @@
     "player": "Awak Kuier",
     "status": "Probable",
     "reason": "Injury/Illness - Right Wrist; rightwrist",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-10-02T00:16:12.313101+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Caitlin Clark",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Back; Back",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-10-02T00:16:12.313101+00:00",
+    "type": "status_change",
+    "team_abbr": "IND",
+    "player": "Aliyah Boston",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Leg; Lower",
     "reason_category": "injury"
   }
 ]
