@@ -1,63 +1,8 @@
 {
-  "report_ts": "10/01/26 10:45 PM",
+  "report_ts": "10/02/26 12:15 AM",
   "page_count": 1,
-  "raw_line_count": 7,
+  "raw_line_count": 2,
   "teams": [
-    {
-      "team_full": "Indiana Fever",
-      "team_abbr": "IND",
-      "game_date": "10/01/2026",
-      "game_time": "09:00(ET)",
-      "matchup": "IND@LVA",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Boston, Aliyah",
-          "name": "Aliyah Boston",
-          "status": "Available",
-          "reason": "Injury/Illness - Right Leg; Lower",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Clark, Caitlin",
-          "name": "Caitlin Clark",
-          "status": "Available",
-          "reason": "Injury/Illness - Back; Back",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Harris, Tyasha",
-          "name": "Tyasha Harris",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Leg; Lower",
-          "reason_category": "injury"
-        }
-      ]
-    },
-    {
-      "team_full": "Las Vegas Aces",
-      "team_abbr": "LVA",
-      "game_date": "10/01/2026",
-      "game_time": "09:00(ET)",
-      "matchup": "IND@LVA",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Evans, Dana",
-          "name": "Dana Evans",
-          "status": "Out",
-          "reason": "Injury/Illness - Right Knee; R.Knee",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Talbot, Stephanie",
-          "name": "Stephanie Talbot",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Leg; L.Leg",
-          "reason_category": "injury"
-        }
-      ]
-    },
     {
       "team_full": "Dallas Wings",
       "team_abbr": "DAL",
@@ -83,7 +28,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-01_10_45PM.pdf",
-  "fetched_slot": "2026-10-01T22:45:00-04:00",
-  "polled_at_utc": "2026-10-02T02:46:02.554165+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-02_12_15AM.pdf",
+  "fetched_slot": "2026-10-02T00:15:00-04:00",
+  "polled_at_utc": "2026-10-02T04:16:02.219678+00:00"
 }
