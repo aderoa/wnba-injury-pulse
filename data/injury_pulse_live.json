@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-10-03T20:30:39.672792+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-03_04_30PM.pdf",
-  "report_ts": "10/03/26 04:30 PM",
+  "polled_at_utc": "2026-10-03T20:45:38.435854+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-03_04_45PM.pdf",
+  "report_ts": "10/03/26 04:45 PM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -63,9 +63,9 @@
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
       "status": "Out",
-      "reason": "Injury/Illness - Left Leg; N/A",
+      "reason": "Injury/Illness - Left Knee; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-10-01T03:45:23.775638+00:00"
+      "last_updated": "2026-10-03T20:45:38.435854+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -423,17 +423,17 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-10-01T03:45:23.775638+00:00",
-      "last_seen_pending_ts": "2026-10-03T20:30:39.672792+00:00",
+      "last_submitted_ts": "2026-10-03T20:45:38.435854+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "ATL@WAS"
+        "NYL@ATL"
       ],
       "players": [
         {
           "name_last_first": "Jones, Brionna",
           "name": "Brionna Jones",
           "status": "Out",
-          "reason": "Injury/Illness - Left Leg; N/A",
+          "reason": "Injury/Illness - Left Knee; N/A",
           "reason_category": "injury"
         }
       ]
@@ -559,7 +559,7 @@
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
       "last_submitted_ts": "2026-09-20T03:45:52.082459+00:00",
-      "last_seen_pending_ts": "2026-10-03T20:30:39.672792+00:00",
+      "last_seen_pending_ts": "2026-10-03T20:45:38.435854+00:00",
       "matchups": [
         "SEA@GSV"
       ],
@@ -669,7 +669,7 @@
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
       "last_submitted_ts": "2026-10-02T02:46:02.554165+00:00",
-      "last_seen_pending_ts": "2026-10-03T20:30:39.672792+00:00",
+      "last_seen_pending_ts": "2026-10-03T20:45:38.435854+00:00",
       "matchups": [
         "IND@LVA"
       ],
@@ -712,7 +712,7 @@
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
       "last_submitted_ts": "2026-09-28T03:45:35.767629+00:00",
-      "last_seen_pending_ts": "2026-10-03T20:30:39.672792+00:00",
+      "last_seen_pending_ts": "2026-10-03T20:45:38.435854+00:00",
       "matchups": [
         "NYL@MIN"
       ],
@@ -899,6 +899,16 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-10-03T20:45:38.435854+00:00",
+      "type": "reason_change",
+      "team_abbr": "ATL",
+      "player": "Brionna Jones",
+      "status": "Out",
+      "from_reason": "Injury/Illness - Left Leg; N/A",
+      "to_reason": "Injury/Illness - Left Knee; N/A",
+      "reason_category": "injury"
+    },
     {
       "ts": "2026-10-03T00:15:58.483830+00:00",
       "type": "status_change",
@@ -3144,15 +3154,6 @@
       "status": "Out",
       "reason": "Personal Reasons",
       "reason_category": "offcourt"
-    },
-    {
-      "ts": "2026-09-16T21:15:56.793385+00:00",
-      "type": "added",
-      "team_abbr": "WAS",
-      "player": "Georgia Amoore",
-      "status": "Questionable",
-      "reason": "Injury/Illness - Right Knee; Soreness",
-      "reason_category": "injury"
     }
   ]
 }

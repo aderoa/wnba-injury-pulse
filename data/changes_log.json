@@ -3,14 +3,6 @@
     "ts": "2026-06-10T21:30:45.076320+00:00",
     "type": "cleared",
     "team_abbr": "IND",
-    "player": "Aliyah Boston",
-    "previous_status": "Available",
-    "previous_reason": "-"
-  },
-  {
-    "ts": "2026-06-10T21:30:45.076320+00:00",
-    "type": "cleared",
-    "team_abbr": "IND",
     "player": "Bree Hall",
     "previous_status": "Out",
     "previous_reason": "Coach's Decision"
@@ -17981,6 +17973,16 @@
     "from_status": "Probable",
     "to_status": "Available",
     "reason": "Injury/Illness - Right Wrist; rightwrist",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-10-03T20:45:38.435854+00:00",
+    "type": "reason_change",
+    "team_abbr": "ATL",
+    "player": "Brionna Jones",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Leg; N/A",
+    "to_reason": "Injury/Illness - Left Knee; N/A",
     "reason_category": "injury"
   }
 ]
