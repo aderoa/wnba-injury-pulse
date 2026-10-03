@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-10-03T20:45:38.435854+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-03_04_45PM.pdf",
-  "report_ts": "10/03/26 04:45 PM",
+  "polled_at_utc": "2026-10-03T21:16:04.298721+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-03_05_15PM.pdf",
+  "report_ts": "10/03/26 05:15 PM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -65,7 +65,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-10-03T20:45:38.435854+00:00"
+      "last_updated": "2026-10-03T21:16:04.298721+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -347,6 +347,15 @@
       "last_updated": "2026-09-24T02:16:12.213597+00:00"
     },
     {
+      "name": "Xu Han",
+      "team_abbr": "NYL",
+      "team_full": "New York Liberty",
+      "status": "Questionable",
+      "reason": "Injury/Illness - N/A; Illness",
+      "reason_category": "injury",
+      "last_updated": "2026-10-03T21:16:04.298721+00:00"
+    },
+    {
       "name": "Aliyah Boston",
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
@@ -401,15 +410,6 @@
       "last_updated": "2026-09-18T03:46:04.803353+00:00"
     },
     {
-      "name": "Jonquel Jones",
-      "team_abbr": "NYL",
-      "team_full": "New York Liberty",
-      "status": "Available",
-      "reason": "Injury/Illness - Left Ankle; L.Ankle",
-      "reason_category": "injury",
-      "last_updated": "2026-09-28T03:45:35.767629+00:00"
-    },
-    {
       "name": "Jordan Harrison",
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
@@ -423,7 +423,7 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-10-03T20:45:38.435854+00:00",
+      "last_submitted_ts": "2026-10-03T21:16:04.298721+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "NYL@ATL"
@@ -559,7 +559,7 @@
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
       "last_submitted_ts": "2026-09-20T03:45:52.082459+00:00",
-      "last_seen_pending_ts": "2026-10-03T20:45:38.435854+00:00",
+      "last_seen_pending_ts": "2026-10-03T21:16:04.298721+00:00",
       "matchups": [
         "SEA@GSV"
       ],
@@ -669,7 +669,7 @@
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
       "last_submitted_ts": "2026-10-02T02:46:02.554165+00:00",
-      "last_seen_pending_ts": "2026-10-03T20:45:38.435854+00:00",
+      "last_seen_pending_ts": "2026-10-03T21:16:04.298721+00:00",
       "matchups": [
         "IND@LVA"
       ],
@@ -711,17 +711,17 @@
     {
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
-      "last_submitted_ts": "2026-09-28T03:45:35.767629+00:00",
-      "last_seen_pending_ts": "2026-10-03T20:45:38.435854+00:00",
+      "last_submitted_ts": "2026-10-03T21:16:04.298721+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "NYL@MIN"
+        "NYL@ATL"
       ],
       "players": [
         {
-          "name_last_first": "Jones, Jonquel",
-          "name": "Jonquel Jones",
-          "status": "Available",
-          "reason": "Injury/Illness - Left Ankle; L.Ankle",
+          "name_last_first": "Han, Xu",
+          "name": "Xu Han",
+          "status": "Questionable",
+          "reason": "Injury/Illness - N/A; Illness",
           "reason_category": "injury"
         }
       ]
@@ -899,6 +899,23 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-10-03T21:16:04.298721+00:00",
+      "type": "cleared",
+      "team_abbr": "NYL",
+      "player": "Jonquel Jones",
+      "previous_status": "Available",
+      "previous_reason": "Injury/Illness - Left Ankle; L.Ankle"
+    },
+    {
+      "ts": "2026-10-03T21:16:04.298721+00:00",
+      "type": "added",
+      "team_abbr": "NYL",
+      "player": "Xu Han",
+      "status": "Questionable",
+      "reason": "Injury/Illness - N/A; Illness",
+      "reason_category": "injury"
+    },
     {
       "ts": "2026-10-03T20:45:38.435854+00:00",
       "type": "reason_change",
@@ -3137,23 +3154,6 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; lowerleftleg",
       "reason_category": "injury"
-    },
-    {
-      "ts": "2026-09-16T21:15:56.793385+00:00",
-      "type": "cleared",
-      "team_abbr": "WAS",
-      "player": "Shakira Austin",
-      "previous_status": "Available",
-      "previous_reason": "Injury/Illness - Right Knee; Soreness"
-    },
-    {
-      "ts": "2026-09-16T21:15:56.793385+00:00",
-      "type": "added",
-      "team_abbr": "WAS",
-      "player": "Sonia Citron",
-      "status": "Out",
-      "reason": "Personal Reasons",
-      "reason_category": "offcourt"
     }
   ]
 }
