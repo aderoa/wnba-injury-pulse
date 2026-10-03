@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-10-03T21:16:04.298721+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-03_05_15PM.pdf",
-  "report_ts": "10/03/26 05:15 PM",
+  "polled_at_utc": "2026-10-03T21:39:50.564440+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-03_05_30PM.pdf",
+  "report_ts": "10/03/26 05:30 PM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -65,7 +65,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Knee; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-10-03T21:16:04.298721+00:00"
+      "last_updated": "2026-10-03T21:39:50.564440+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -353,7 +353,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - N/A; Illness",
       "reason_category": "injury",
-      "last_updated": "2026-10-03T21:16:04.298721+00:00"
+      "last_updated": "2026-10-03T21:39:50.564440+00:00"
     },
     {
       "name": "Aliyah Boston",
@@ -423,7 +423,7 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-10-03T21:16:04.298721+00:00",
+      "last_submitted_ts": "2026-10-03T21:39:50.564440+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "NYL@ATL"
@@ -559,7 +559,7 @@
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
       "last_submitted_ts": "2026-09-20T03:45:52.082459+00:00",
-      "last_seen_pending_ts": "2026-10-03T21:16:04.298721+00:00",
+      "last_seen_pending_ts": "2026-10-03T21:39:50.564440+00:00",
       "matchups": [
         "SEA@GSV"
       ],
@@ -669,7 +669,7 @@
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
       "last_submitted_ts": "2026-10-02T02:46:02.554165+00:00",
-      "last_seen_pending_ts": "2026-10-03T21:16:04.298721+00:00",
+      "last_seen_pending_ts": "2026-10-03T21:39:50.564440+00:00",
       "matchups": [
         "IND@LVA"
       ],
@@ -711,7 +711,7 @@
     {
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
-      "last_submitted_ts": "2026-10-03T21:16:04.298721+00:00",
+      "last_submitted_ts": "2026-10-03T21:39:50.564440+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "NYL@ATL"
