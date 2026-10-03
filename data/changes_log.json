@@ -1,15 +1,6 @@
 [
   {
     "ts": "2026-06-10T21:30:45.076320+00:00",
-    "type": "added",
-    "team_abbr": "IND",
-    "player": "Sophie Cunningham",
-    "status": "Questionable",
-    "reason": "Injury/Illness - Right Elbow; Elbow",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-10T21:30:45.076320+00:00",
     "type": "cleared",
     "team_abbr": "IND",
     "player": "Aliyah Boston",
@@ -17980,6 +17971,16 @@
     "from_status": "Questionable",
     "to_status": "Out",
     "reason": "Injury/Illness - Left Leg; L.Leg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-10-03T00:15:58.483830+00:00",
+    "type": "status_change",
+    "team_abbr": "DAL",
+    "player": "Awak Kuier",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Wrist; rightwrist",
     "reason_category": "injury"
   }
 ]

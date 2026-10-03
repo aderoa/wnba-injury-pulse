@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-10-02T23:47:57.621473+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-02_07_45PM.pdf",
-  "report_ts": "10/02/26 07:45 PM",
+  "polled_at_utc": "2026-10-03T00:15:58.483830+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-02_08_15PM.pdf",
+  "report_ts": "10/02/26 08:15 PM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -29,7 +29,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; lowerleftleg",
       "reason_category": "injury",
-      "last_updated": "2026-10-02T23:47:57.621473+00:00"
+      "last_updated": "2026-10-03T00:15:58.483830+00:00"
     },
     {
       "name": "AnastasiiaOlairi Kosu",
@@ -347,15 +347,6 @@
       "last_updated": "2026-09-24T02:16:12.213597+00:00"
     },
     {
-      "name": "Awak Kuier",
-      "team_abbr": "DAL",
-      "team_full": "Dallas Wings",
-      "status": "Probable",
-      "reason": "Injury/Illness - Right Wrist; rightwrist",
-      "reason_category": "injury",
-      "last_updated": "2026-10-02T23:47:57.621473+00:00"
-    },
-    {
       "name": "Aliyah Boston",
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
@@ -363,6 +354,15 @@
       "reason": "Injury/Illness - Right Leg; Lower",
       "reason_category": "injury",
       "last_updated": "2026-10-02T02:46:02.554165+00:00"
+    },
+    {
+      "name": "Awak Kuier",
+      "team_abbr": "DAL",
+      "team_full": "Dallas Wings",
+      "status": "Available",
+      "reason": "Injury/Illness - Right Wrist; rightwrist",
+      "reason_category": "injury",
+      "last_updated": "2026-10-03T00:15:58.483830+00:00"
     },
     {
       "name": "Bridget Carleton",
@@ -533,7 +533,7 @@
     {
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
-      "last_submitted_ts": "2026-10-02T23:47:57.621473+00:00",
+      "last_submitted_ts": "2026-10-03T00:15:58.483830+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "DAL@GSV"
@@ -542,7 +542,7 @@
         {
           "name_last_first": "Kuier, Awak",
           "name": "Awak Kuier",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness - Right Wrist; rightwrist",
           "reason_category": "injury"
         },
@@ -899,6 +899,16 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-10-03T00:15:58.483830+00:00",
+      "type": "status_change",
+      "team_abbr": "DAL",
+      "player": "Awak Kuier",
+      "from_status": "Probable",
+      "to_status": "Available",
+      "reason": "Injury/Illness - Right Wrist; rightwrist",
+      "reason_category": "injury"
+    },
     {
       "ts": "2026-10-02T00:46:12.032027+00:00",
       "type": "status_change",
@@ -3142,16 +3152,6 @@
       "player": "Georgia Amoore",
       "status": "Questionable",
       "reason": "Injury/Illness - Right Knee; Soreness",
-      "reason_category": "injury"
-    },
-    {
-      "ts": "2026-09-16T20:45:55.508686+00:00",
-      "type": "status_change",
-      "team_abbr": "CON",
-      "player": "Brittney Griner",
-      "from_status": "Out",
-      "to_status": "Questionable",
-      "reason": "Injury/Illness - Left Knee;-",
       "reason_category": "injury"
     }
   ]

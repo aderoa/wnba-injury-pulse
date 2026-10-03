@@ -1,5 +1,5 @@
 {
-  "report_ts": "10/02/26 07:45 PM",
+  "report_ts": "10/02/26 08:15 PM",
   "page_count": 1,
   "raw_line_count": 2,
   "teams": [
@@ -14,7 +14,7 @@
         {
           "name_last_first": "Kuier, Awak",
           "name": "Awak Kuier",
-          "status": "Probable",
+          "status": "Available",
           "reason": "Injury/Illness - Right Wrist; rightwrist",
           "reason_category": "injury"
         },
@@ -28,7 +28,7 @@
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-02_07_45PM.pdf",
-  "fetched_slot": "2026-10-02T19:45:00-04:00",
-  "polled_at_utc": "2026-10-02T23:47:57.621473+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-02_08_15PM.pdf",
+  "fetched_slot": "2026-10-02T20:15:00-04:00",
+  "polled_at_utc": "2026-10-03T00:15:58.483830+00:00"
 }
