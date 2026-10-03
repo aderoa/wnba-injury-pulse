@@ -1,34 +1,46 @@
 {
-  "report_ts": "10/02/26 11:45 PM",
+  "report_ts": "10/03/26 12:15 AM",
   "page_count": 1,
-  "raw_line_count": 2,
+  "raw_line_count": 4,
   "teams": [
     {
-      "team_full": "Dallas Wings",
-      "team_abbr": "DAL",
-      "game_date": "10/02/2026",
-      "game_time": "09:00(ET)",
-      "matchup": "DAL@GSV",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Kuier, Awak",
-          "name": "Awak Kuier",
-          "status": "Available",
-          "reason": "Injury/Illness - Right Wrist; rightwrist",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Smith, Alanna",
-          "name": "Alanna Smith",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Leg; lowerleftleg",
-          "reason_category": "injury"
-        }
-      ]
+      "team_full": "New York Liberty",
+      "team_abbr": "NYL",
+      "game_date": "10/04/2026",
+      "game_time": "02:00(ET)",
+      "matchup": "NYL@ATL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Atlanta Dream",
+      "team_abbr": "ATL",
+      "game_date": "10/04/2026",
+      "game_time": "02:00(ET)",
+      "matchup": "NYL@ATL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Las Vegas Aces",
+      "team_abbr": "LVA",
+      "game_date": "10/04/2026",
+      "game_time": "04:00(ET)",
+      "matchup": "LVA@GSV",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Golden State Valkyries",
+      "team_abbr": "GSV",
+      "game_date": "10/04/2026",
+      "game_time": "04:00(ET)",
+      "matchup": "LVA@GSV",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-02_11_45PM.pdf",
-  "fetched_slot": "2026-10-02T23:45:00-04:00",
-  "polled_at_utc": "2026-10-03T03:46:02.294670+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-03_12_15AM.pdf",
+  "fetched_slot": "2026-10-03T00:15:00-04:00",
+  "polled_at_utc": "2026-10-03T04:16:02.881410+00:00"
 }

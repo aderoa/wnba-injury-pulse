@@ -109,7 +109,8 @@
         "reason": "Injury/Illness - Left Leg; L.Leg",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-10-03T04:16:02.881410+00:00"
   },
   "ATL": {
     "team_full": "Atlanta Dream",
@@ -130,7 +131,8 @@
         "reason": "Injury/Illness - Left Leg; N/A",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-10-03T04:16:02.881410+00:00"
   },
   "MIN": {
     "team_full": "Minnesota Lynx",
@@ -406,7 +408,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-09-28T20:00:36.705149+00:00"
+    "last_seen_pending_ts": "2026-10-03T04:16:02.881410+00:00"
   },
   "WAS": {
     "team_full": "Washington Mystics",
@@ -471,7 +473,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-10-01T23:46:07.933859+00:00"
+    "last_seen_pending_ts": "2026-10-03T04:16:02.881410+00:00"
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",
