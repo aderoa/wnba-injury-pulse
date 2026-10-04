@@ -3,14 +3,6 @@
     "ts": "2026-06-10T22:00:42.839593+00:00",
     "type": "cleared",
     "team_abbr": "PHX",
-    "player": "Alyssa Thomas",
-    "previous_status": "Available",
-    "previous_reason": "Injury/Illness - Left Calf;-"
-  },
-  {
-    "ts": "2026-06-10T22:00:42.839593+00:00",
-    "type": "cleared",
-    "team_abbr": "PHX",
     "player": "Kiana Williams",
     "previous_status": "Out",
     "previous_reason": "Arthroscopy Coach's Decision - Developmental Player"
@@ -17988,6 +17980,16 @@
     "from_status": "Questionable",
     "to_status": "Available",
     "reason": "Injury/Illness - N/A; Illness",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-10-04T17:45:33.785532+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Stephanie Talbot",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Leg; Leg",
     "reason_category": "injury"
   }
 ]

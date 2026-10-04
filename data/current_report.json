@@ -1,5 +1,5 @@
 {
-  "report_ts": "10/04/26 01:30 PM",
+  "report_ts": "10/04/26 01:45 PM",
   "page_count": 1,
   "raw_line_count": 4,
   "teams": [
@@ -55,14 +55,14 @@
         {
           "name_last_first": "Talbot, Stephanie",
           "name": "Stephanie Talbot",
-          "status": "Questionable",
+          "status": "Out",
           "reason": "Injury/Illness - Left Leg; Leg",
           "reason_category": "injury"
         }
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-04_01_30PM.pdf",
-  "fetched_slot": "2026-10-04T13:30:00-04:00",
-  "polled_at_utc": "2026-10-04T17:30:31.073339+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-04_01_45PM.pdf",
+  "fetched_slot": "2026-10-04T13:45:00-04:00",
+  "polled_at_utc": "2026-10-04T17:45:33.785532+00:00"
 }
