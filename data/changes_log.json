@@ -1,23 +1,5 @@
 [
   {
-    "ts": "2026-06-10T21:30:45.076320+00:00",
-    "type": "status_change",
-    "team_abbr": "IND",
-    "player": "Caitlin Clark",
-    "from_status": "Available",
-    "to_status": "Probable",
-    "reason": "Injury/Illness - back; Back",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-10T22:00:42.839593+00:00",
-    "type": "cleared",
-    "team_abbr": "PHX",
-    "player": "Kahleah Copper",
-    "previous_status": "Available",
-    "previous_reason": "Injury/Illness - Left Hip;-"
-  },
-  {
     "ts": "2026-06-10T22:00:42.839593+00:00",
     "type": "cleared",
     "team_abbr": "PHX",
@@ -17985,5 +17967,25 @@
     "player": "Jonquel Jones",
     "previous_status": "Available",
     "previous_reason": "Injury/Illness - Left Ankle; L.Ankle"
+  },
+  {
+    "ts": "2026-10-04T00:16:00.399122+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Stephanie Talbot",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Leg; Leg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-10-04T00:16:00.399122+00:00",
+    "type": "reason_change",
+    "team_abbr": "LVA",
+    "player": "Dana Evans",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Right Knee; R.Knee",
+    "to_reason": "Injury/Illness - Right Knee; Knee",
+    "reason_category": "injury"
   }
 ]

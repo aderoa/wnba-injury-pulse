@@ -1,7 +1,7 @@
 {
-  "report_ts": "10/03/26 08:00 PM",
+  "report_ts": "10/03/26 08:15 PM",
   "page_count": 1,
-  "raw_line_count": 3,
+  "raw_line_count": 4,
   "teams": [
     {
       "team_full": "New York Liberty",
@@ -43,11 +43,26 @@
       "game_date": "10/04/2026",
       "game_time": "04:00(ET)",
       "matchup": "LVA@GSV",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Evans, Dana",
+          "name": "Dana Evans",
+          "status": "Out",
+          "reason": "Injury/Illness - Right Knee; Knee",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Talbot, Stephanie",
+          "name": "Stephanie Talbot",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Leg; Leg",
+          "reason_category": "injury"
+        }
+      ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-03_08_00PM.pdf",
-  "fetched_slot": "2026-10-03T20:00:00-04:00",
-  "polled_at_utc": "2026-10-04T00:05:27.617827+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-03_08_15PM.pdf",
+  "fetched_slot": "2026-10-03T20:15:00-04:00",
+  "polled_at_utc": "2026-10-04T00:16:00.399122+00:00"
 }

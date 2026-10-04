@@ -86,37 +86,36 @@
   "LVA": {
     "team_full": "Las Vegas Aces",
     "submitted": true,
-    "last_submitted_ts": "2026-10-02T02:46:02.554165+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-01_10_45PM.pdf",
+    "last_submitted_ts": "2026-10-04T00:16:00.399122+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-03_08_15PM.pdf",
     "game_dates": [
-      "10/01/2026"
+      "10/04/2026"
     ],
     "matchups": [
-      "IND@LVA"
+      "LVA@GSV"
     ],
     "players": [
       {
         "name_last_first": "Evans, Dana",
         "name": "Dana Evans",
         "status": "Out",
-        "reason": "Injury/Illness - Right Knee; R.Knee",
+        "reason": "Injury/Illness - Right Knee; Knee",
         "reason_category": "injury"
       },
       {
         "name_last_first": "Talbot, Stephanie",
         "name": "Stephanie Talbot",
-        "status": "Out",
-        "reason": "Injury/Illness - Left Leg; L.Leg",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Left Leg; Leg",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-10-04T00:05:27.617827+00:00"
+    ]
   },
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-10-04T00:05:27.617827+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-03_08_00PM.pdf",
+    "last_submitted_ts": "2026-10-04T00:16:00.399122+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-03_08_15PM.pdf",
     "game_dates": [
       "10/04/2026"
     ],
@@ -390,8 +389,8 @@
   "NYL": {
     "team_full": "New York Liberty",
     "submitted": true,
-    "last_submitted_ts": "2026-10-04T00:05:27.617827+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-03_08_00PM.pdf",
+    "last_submitted_ts": "2026-10-04T00:16:00.399122+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-03_08_15PM.pdf",
     "game_dates": [
       "10/04/2026"
     ],
