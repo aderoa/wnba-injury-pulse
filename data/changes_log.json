@@ -3,14 +3,6 @@
     "ts": "2026-06-10T22:00:42.839593+00:00",
     "type": "cleared",
     "team_abbr": "PHX",
-    "player": "Marta Suarez",
-    "previous_status": "Out",
-    "previous_reason": "Coach's Decision - Developmental Player"
-  },
-  {
-    "ts": "2026-06-10T22:00:42.839593+00:00",
-    "type": "cleared",
-    "team_abbr": "PHX",
     "player": "Alyssa Thomas",
     "previous_status": "Available",
     "previous_reason": "Injury/Illness - Left Calf;-"
@@ -17986,6 +17978,16 @@
     "status": "Out",
     "from_reason": "Injury/Illness - Right Knee; R.Knee",
     "to_reason": "Injury/Illness - Right Knee; Knee",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-10-04T17:30:31.073339+00:00",
+    "type": "status_change",
+    "team_abbr": "NYL",
+    "player": "Xu Han",
+    "from_status": "Questionable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - N/A; Illness",
     "reason_category": "injury"
   }
 ]
