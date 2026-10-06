@@ -1,23 +1,5 @@
 [
   {
-    "ts": "2026-06-10T22:00:42.839593+00:00",
-    "type": "cleared",
-    "team_abbr": "DAL",
-    "player": "Li Yueru",
-    "previous_status": "Available",
-    "previous_reason": "Injury/Illness - Left Ankle; n/a"
-  },
-  {
-    "ts": "2026-06-10T22:00:42.839593+00:00",
-    "type": "status_change",
-    "team_abbr": "DAL",
-    "player": "Awak Kuier",
-    "from_status": "Out",
-    "to_status": "Probable",
-    "reason": "Injury/Illness - Right Wrist; n/a",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-06-11T00:00:45.821143+00:00",
     "type": "added",
     "team_abbr": "PDX",
@@ -17990,6 +17972,25 @@
     "from_status": "Out",
     "to_status": "Doubtful",
     "reason": "Injury/Illness - Rightknee; injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-10-06T20:45:35.550405+00:00",
+    "type": "added",
+    "team_abbr": "ATL",
+    "player": "Allisha Gray",
+    "status": "Out",
+    "reason": "Injury/Illness - Left Hand; N/A",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-10-06T20:45:35.550405+00:00",
+    "type": "reason_change",
+    "team_abbr": "ATL",
+    "player": "Brionna Jones",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Knee; N/A",
+    "to_reason": "Injury/Illness - Left Leg; N/A",
     "reason_category": "injury"
   }
 ]

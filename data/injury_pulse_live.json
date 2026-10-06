@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-10-06T20:30:36.899825+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-06_04_30PM.pdf",
-  "report_ts": "10/06/26 04:30 PM",
+  "polled_at_utc": "2026-10-06T20:45:35.550405+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-06_04_45PM.pdf",
+  "report_ts": "10/06/26 04:45 PM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -30,6 +30,15 @@
       "reason": "Injury/Illness - Left Leg; lowerleftleg",
       "reason_category": "injury",
       "last_updated": "2026-10-03T03:46:02.294670+00:00"
+    },
+    {
+      "name": "Allisha Gray",
+      "team_abbr": "ATL",
+      "team_full": "Atlanta Dream",
+      "status": "Out",
+      "reason": "Injury/Illness - Left Hand; N/A",
+      "reason_category": "injury",
+      "last_updated": "2026-10-06T20:45:35.550405+00:00"
     },
     {
       "name": "AnastasiiaOlairi Kosu",
@@ -63,9 +72,9 @@
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
       "status": "Out",
-      "reason": "Injury/Illness - Left Knee; N/A",
+      "reason": "Injury/Illness - Left Leg; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-10-05T04:00:41.902209+00:00"
+      "last_updated": "2026-10-06T20:45:35.550405+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -326,7 +335,7 @@
       "status": "Doubtful",
       "reason": "Injury/Illness - Rightknee; injury",
       "reason_category": "injury",
-      "last_updated": "2026-10-06T20:30:36.899825+00:00"
+      "last_updated": "2026-10-06T20:45:35.550405+00:00"
     },
     {
       "name": "Maria TorontoTempo Conde",
@@ -414,17 +423,24 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-10-05T04:00:41.902209+00:00",
-      "last_seen_pending_ts": "2026-10-06T20:30:36.899825+00:00",
+      "last_submitted_ts": "2026-10-06T20:45:35.550405+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
         "NYL@ATL"
       ],
       "players": [
         {
+          "name_last_first": "Gray, Allisha",
+          "name": "Allisha Gray",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Hand; N/A",
+          "reason_category": "injury"
+        },
+        {
           "name_last_first": "Jones, Brionna",
           "name": "Brionna Jones",
           "status": "Out",
-          "reason": "Injury/Illness - Left Knee; N/A",
+          "reason": "Injury/Illness - Left Leg; N/A",
           "reason_category": "injury"
         }
       ]
@@ -550,7 +566,7 @@
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
       "last_submitted_ts": "2026-09-20T03:45:52.082459+00:00",
-      "last_seen_pending_ts": "2026-10-06T20:30:36.899825+00:00",
+      "last_seen_pending_ts": "2026-10-06T20:45:35.550405+00:00",
       "matchups": [
         "SEA@GSV"
       ],
@@ -659,7 +675,7 @@
     {
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
-      "last_submitted_ts": "2026-10-06T20:30:36.899825+00:00",
+      "last_submitted_ts": "2026-10-06T20:45:35.550405+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "LVA@GSV"
@@ -883,6 +899,25 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-10-06T20:45:35.550405+00:00",
+      "type": "reason_change",
+      "team_abbr": "ATL",
+      "player": "Brionna Jones",
+      "status": "Out",
+      "from_reason": "Injury/Illness - Left Knee; N/A",
+      "to_reason": "Injury/Illness - Left Leg; N/A",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-10-06T20:45:35.550405+00:00",
+      "type": "added",
+      "team_abbr": "ATL",
+      "player": "Allisha Gray",
+      "status": "Out",
+      "reason": "Injury/Illness - Left Hand; N/A",
+      "reason_category": "injury"
+    },
     {
       "ts": "2026-10-06T04:00:45.017543+00:00",
       "type": "status_change",
@@ -3124,23 +3159,6 @@
       "player": "Jordan Horston",
       "status": "Questionable",
       "reason": "Injury/Illness - Right Shoulder; Injury",
-      "reason_category": "injury"
-    },
-    {
-      "ts": "2026-09-16T23:45:55.072848+00:00",
-      "type": "cleared",
-      "team_abbr": "PDX",
-      "player": "Karlie Samuelson",
-      "previous_status": "Available",
-      "previous_reason": "Injury/Illness - Left Knee; Contusion"
-    },
-    {
-      "ts": "2026-09-16T23:45:55.072848+00:00",
-      "type": "added",
-      "team_abbr": "PDX",
-      "player": "Teja Oblak",
-      "status": "Out",
-      "reason": "Injury/Illness - Left Knee; Injury",
       "reason_category": "injury"
     }
   ]
