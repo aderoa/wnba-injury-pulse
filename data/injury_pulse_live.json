@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-10-06T12:16:22.719100+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-06_08_15AM.pdf",
-  "report_ts": "10/06/26 08:15 AM",
+  "polled_at_utc": "2026-10-06T12:30:48.682564+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-06_08_30AM.pdf",
+  "report_ts": "10/06/26 08:30 AM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -326,7 +326,7 @@
       "status": "Doubtful",
       "reason": "Injury/Illness - Rightknee; injury",
       "reason_category": "injury",
-      "last_updated": "2026-10-06T12:16:22.719100+00:00"
+      "last_updated": "2026-10-06T12:30:48.682564+00:00"
     },
     {
       "name": "Maria TorontoTempo Conde",
@@ -415,7 +415,7 @@
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
       "last_submitted_ts": "2026-10-05T04:00:41.902209+00:00",
-      "last_seen_pending_ts": "2026-10-06T12:16:22.719100+00:00",
+      "last_seen_pending_ts": "2026-10-06T12:30:48.682564+00:00",
       "matchups": [
         "NYL@ATL"
       ],
@@ -550,7 +550,7 @@
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
       "last_submitted_ts": "2026-09-20T03:45:52.082459+00:00",
-      "last_seen_pending_ts": "2026-10-06T12:16:22.719100+00:00",
+      "last_seen_pending_ts": "2026-10-06T12:30:48.682564+00:00",
       "matchups": [
         "SEA@GSV"
       ],
@@ -659,7 +659,7 @@
     {
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
-      "last_submitted_ts": "2026-10-06T12:16:22.719100+00:00",
+      "last_submitted_ts": "2026-10-06T12:30:48.682564+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "LVA@GSV"
@@ -696,7 +696,7 @@
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
       "last_submitted_ts": "2026-10-05T04:00:41.902209+00:00",
-      "last_seen_pending_ts": "2026-10-06T12:16:22.719100+00:00",
+      "last_seen_pending_ts": "2026-10-06T12:30:48.682564+00:00",
       "matchups": [
         "NYL@ATL"
       ],
