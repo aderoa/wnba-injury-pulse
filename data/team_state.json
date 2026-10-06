@@ -86,10 +86,10 @@
   "LVA": {
     "team_full": "Las Vegas Aces",
     "submitted": true,
-    "last_submitted_ts": "2026-10-05T04:00:41.902209+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-04_11_45PM.pdf",
+    "last_submitted_ts": "2026-10-06T04:00:45.017543+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-06_12_00AM.pdf",
     "game_dates": [
-      "10/04/2026"
+      "10/07/2026"
     ],
     "matchups": [
       "LVA@GSV"
@@ -98,15 +98,8 @@
       {
         "name_last_first": "Evans, Dana",
         "name": "Dana Evans",
-        "status": "Out",
-        "reason": "Injury/Illness - Right Knee; Knee",
-        "reason_category": "injury"
-      },
-      {
-        "name_last_first": "Talbot, Stephanie",
-        "name": "Stephanie Talbot",
-        "status": "Out",
-        "reason": "Injury/Illness - Left Leg; Leg",
+        "status": "Doubtful",
+        "reason": "Injury/Illness - Rightknee; injury",
         "reason_category": "injury"
       }
     ]
@@ -130,7 +123,8 @@
         "reason": "Injury/Illness - Left Knee; N/A",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-10-06T04:00:45.017543+00:00"
   },
   "MIN": {
     "team_full": "Minnesota Lynx",
@@ -405,7 +399,8 @@
         "reason": "Injury/Illness - N/A; Illness",
         "reason_category": "injury"
       }
-    ]
+    ],
+    "last_seen_pending_ts": "2026-10-06T04:00:45.017543+00:00"
   },
   "WAS": {
     "team_full": "Washington Mystics",
@@ -470,7 +465,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-10-03T23:45:53.165259+00:00"
+    "last_seen_pending_ts": "2026-10-06T04:00:45.017543+00:00"
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",

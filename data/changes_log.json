@@ -2,24 +2,6 @@
   {
     "ts": "2026-06-10T22:00:42.839593+00:00",
     "type": "cleared",
-    "team_abbr": "PHX",
-    "player": "Kiana Williams",
-    "previous_status": "Out",
-    "previous_reason": "Arthroscopy Coach's Decision - Developmental Player"
-  },
-  {
-    "ts": "2026-06-10T22:00:42.839593+00:00",
-    "type": "reason_change",
-    "team_abbr": "PHX",
-    "player": "Sami Whitcomb",
-    "status": "Out",
-    "from_reason": "Injury/Illness - Left Knee;",
-    "to_reason": "Injury/Illness - Left Knee; Arthroscopy",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-10T22:00:42.839593+00:00",
-    "type": "cleared",
     "team_abbr": "DAL",
     "player": "Li Yueru",
     "previous_status": "Available",
@@ -17990,6 +17972,24 @@
     "from_status": "Questionable",
     "to_status": "Out",
     "reason": "Injury/Illness - Left Leg; Leg",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-10-06T04:00:45.017543+00:00",
+    "type": "cleared",
+    "team_abbr": "LVA",
+    "player": "Stephanie Talbot",
+    "previous_status": "Out",
+    "previous_reason": "Injury/Illness - Left Leg; Leg"
+  },
+  {
+    "ts": "2026-10-06T04:00:45.017543+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Dana Evans",
+    "from_status": "Out",
+    "to_status": "Doubtful",
+    "reason": "Injury/Illness - Rightknee; injury",
     "reason_category": "injury"
   }
 ]
