@@ -1,7 +1,7 @@
 {
-  "report_ts": "10/06/26 07:45 PM",
+  "report_ts": "10/06/26 08:00 PM",
   "page_count": 1,
-  "raw_line_count": 4,
+  "raw_line_count": 5,
   "teams": [
     {
       "team_full": "Atlanta Dream",
@@ -38,23 +38,28 @@
         {
           "name_last_first": "Evans, Dana",
           "name": "Dana Evans",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Right Knee; injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Loyd, Jewell",
+          "name": "Jewell Loyd",
           "status": "Doubtful",
-          "reason": "Injury/Illness - Rightknee; injury",
+          "reason": "Injury/Illness - Left Leg; injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Talbot, Stephanie",
+          "name": "Stephanie Talbot",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Leg; injury",
           "reason_category": "injury"
         }
       ]
-    },
-    {
-      "team_full": "Golden State Valkyries",
-      "team_abbr": "GSV",
-      "game_date": "10/07/2026",
-      "game_time": "09:30(ET)",
-      "matchup": "LVA@GSV",
-      "submitted": false,
-      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-06_07_45PM.pdf",
-  "fetched_slot": "2026-10-06T19:45:00-04:00",
-  "polled_at_utc": "2026-10-06T23:45:25.810669+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-06_08_00PM.pdf",
+  "fetched_slot": "2026-10-06T20:00:00-04:00",
+  "polled_at_utc": "2026-10-07T00:00:25.120080+00:00"
 }
