@@ -1,21 +1,5 @@
 [
   {
-    "ts": "2026-06-11T00:00:45.821143+00:00",
-    "type": "cleared",
-    "team_abbr": "PDX",
-    "player": "Karlie Samuelson",
-    "previous_status": "Available",
-    "previous_reason": "Injury/Illness - Right Achilles; Injury"
-  },
-  {
-    "ts": "2026-06-11T00:00:45.821143+00:00",
-    "type": "cleared",
-    "team_abbr": "PDX",
-    "player": "Serah Williams",
-    "previous_status": "Out",
-    "previous_reason": "Injury/Illness - N/A; Illness"
-  },
-  {
     "ts": "2026-06-11T00:15:42.556854+00:00",
     "type": "reason_change",
     "team_abbr": "LVA",
@@ -17994,6 +17978,26 @@
     "from_status": "Doubtful",
     "to_status": "Questionable",
     "reason": "Injury/Illness - Right Knee; injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-10-07T19:45:26.232611+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Dana Evans",
+    "from_status": "Questionable",
+    "to_status": "Probable",
+    "reason": "Injury/Illness - Right Knee; injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-10-07T19:45:26.232611+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Jewell Loyd",
+    "from_status": "Doubtful",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Leg; injury",
     "reason_category": "injury"
   }
 ]

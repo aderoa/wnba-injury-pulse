@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-10-07T19:30:26.740742+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-07_03_30PM.pdf",
-  "report_ts": "10/07/26 03:30 PM",
+  "polled_at_utc": "2026-10-07T19:45:26.232611+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-07_03_45PM.pdf",
+  "report_ts": "10/07/26 03:45 PM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -38,7 +38,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Hand; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-10-07T19:30:26.740742+00:00"
+      "last_updated": "2026-10-07T19:45:26.232611+00:00"
     },
     {
       "name": "AnastasiiaOlairi Kosu",
@@ -74,7 +74,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-10-07T19:30:26.740742+00:00"
+      "last_updated": "2026-10-07T19:45:26.232611+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -156,6 +156,15 @@
       "reason": "Injury/Illness - Na; Reconditioning",
       "reason_category": "injury",
       "last_updated": "2026-09-20T03:45:52.082459+00:00"
+    },
+    {
+      "name": "Jewell Loyd",
+      "team_abbr": "LVA",
+      "team_full": "Las Vegas Aces",
+      "status": "Out",
+      "reason": "Injury/Illness - Left Leg; injury",
+      "reason_category": "injury",
+      "last_updated": "2026-10-07T19:45:26.232611+00:00"
     },
     {
       "name": "KatieLou Samuelson",
@@ -329,24 +338,6 @@
       "last_updated": "2026-09-24T02:16:12.213597+00:00"
     },
     {
-      "name": "Jewell Loyd",
-      "team_abbr": "LVA",
-      "team_full": "Las Vegas Aces",
-      "status": "Doubtful",
-      "reason": "Injury/Illness - Left Leg; injury",
-      "reason_category": "injury",
-      "last_updated": "2026-10-07T19:30:26.740742+00:00"
-    },
-    {
-      "name": "Dana Evans",
-      "team_abbr": "LVA",
-      "team_full": "Las Vegas Aces",
-      "status": "Questionable",
-      "reason": "Injury/Illness - Right Knee; injury",
-      "reason_category": "injury",
-      "last_updated": "2026-10-07T19:30:26.740742+00:00"
-    },
-    {
       "name": "Maria TorontoTempo Conde",
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
@@ -362,7 +353,16 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Left Leg; injury",
       "reason_category": "injury",
-      "last_updated": "2026-10-07T19:30:26.740742+00:00"
+      "last_updated": "2026-10-07T19:45:26.232611+00:00"
+    },
+    {
+      "name": "Dana Evans",
+      "team_abbr": "LVA",
+      "team_full": "Las Vegas Aces",
+      "status": "Probable",
+      "reason": "Injury/Illness - Right Knee; injury",
+      "reason_category": "injury",
+      "last_updated": "2026-10-07T19:45:26.232611+00:00"
     },
     {
       "name": "Aliyah Boston",
@@ -441,7 +441,7 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-10-07T19:30:26.740742+00:00",
+      "last_submitted_ts": "2026-10-07T19:45:26.232611+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "NYL@ATL"
@@ -693,7 +693,7 @@
     {
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
-      "last_submitted_ts": "2026-10-07T19:30:26.740742+00:00",
+      "last_submitted_ts": "2026-10-07T19:45:26.232611+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "LVA@GSV"
@@ -702,14 +702,14 @@
         {
           "name_last_first": "Evans, Dana",
           "name": "Dana Evans",
-          "status": "Questionable",
+          "status": "Probable",
           "reason": "Injury/Illness - Right Knee; injury",
           "reason_category": "injury"
         },
         {
           "name_last_first": "Loyd, Jewell",
           "name": "Jewell Loyd",
-          "status": "Doubtful",
+          "status": "Out",
           "reason": "Injury/Illness - Left Leg; injury",
           "reason_category": "injury"
         },
@@ -931,6 +931,26 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-10-07T19:45:26.232611+00:00",
+      "type": "status_change",
+      "team_abbr": "LVA",
+      "player": "Jewell Loyd",
+      "from_status": "Doubtful",
+      "to_status": "Out",
+      "reason": "Injury/Illness - Left Leg; injury",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-10-07T19:45:26.232611+00:00",
+      "type": "status_change",
+      "team_abbr": "LVA",
+      "player": "Dana Evans",
+      "from_status": "Questionable",
+      "to_status": "Probable",
+      "reason": "Injury/Illness - Right Knee; injury",
+      "reason_category": "injury"
+    },
     {
       "ts": "2026-10-07T00:00:25.120080+00:00",
       "type": "status_change",
@@ -3176,23 +3196,6 @@
       "player": "Marta Suarez",
       "previous_status": "Available",
       "previous_reason": "-"
-    },
-    {
-      "ts": "2026-09-17T00:01:30.318826+00:00",
-      "type": "cleared",
-      "team_abbr": "SEA",
-      "player": "Natisha Hiedeman",
-      "previous_status": "Out",
-      "previous_reason": "Injury/Illness - Left Shoulder; Injury"
-    },
-    {
-      "ts": "2026-09-17T00:01:30.318826+00:00",
-      "type": "added",
-      "team_abbr": "SEA",
-      "player": "KatieLou Samuelson",
-      "status": "Out",
-      "reason": "Injury/Illness - Left Knee; Injury",
-      "reason_category": "injury"
     }
   ]
 }
