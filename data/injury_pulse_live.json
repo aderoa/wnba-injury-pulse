@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-10-07T04:45:25.220981+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-07_12_45AM.pdf",
-  "report_ts": "10/07/26 12:45 AM",
+  "polled_at_utc": "2026-10-07T05:00:24.810986+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-07_01_00AM.pdf",
+  "report_ts": "10/07/26 01:00 AM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -38,7 +38,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Hand; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-10-07T04:45:25.220981+00:00"
+      "last_updated": "2026-10-07T05:00:24.810986+00:00"
     },
     {
       "name": "AnastasiiaOlairi Kosu",
@@ -74,7 +74,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-10-07T04:45:25.220981+00:00"
+      "last_updated": "2026-10-07T05:00:24.810986+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -335,7 +335,7 @@
       "status": "Doubtful",
       "reason": "Injury/Illness - Left Leg; injury",
       "reason_category": "injury",
-      "last_updated": "2026-10-07T04:45:25.220981+00:00"
+      "last_updated": "2026-10-07T05:00:24.810986+00:00"
     },
     {
       "name": "Dana Evans",
@@ -344,7 +344,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Right Knee; injury",
       "reason_category": "injury",
-      "last_updated": "2026-10-07T04:45:25.220981+00:00"
+      "last_updated": "2026-10-07T05:00:24.810986+00:00"
     },
     {
       "name": "Maria TorontoTempo Conde",
@@ -362,7 +362,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Left Leg; injury",
       "reason_category": "injury",
-      "last_updated": "2026-10-07T04:45:25.220981+00:00"
+      "last_updated": "2026-10-07T05:00:24.810986+00:00"
     },
     {
       "name": "Aliyah Boston",
@@ -441,7 +441,7 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-10-07T04:45:25.220981+00:00",
+      "last_submitted_ts": "2026-10-07T05:00:24.810986+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "NYL@ATL"
@@ -693,7 +693,7 @@
     {
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
-      "last_submitted_ts": "2026-10-07T04:45:25.220981+00:00",
+      "last_submitted_ts": "2026-10-07T05:00:24.810986+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "LVA@GSV"
