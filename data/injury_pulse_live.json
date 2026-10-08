@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-10-08T22:15:29.364917+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-08_06_15PM.pdf",
-  "report_ts": "10/08/26 06:15 PM",
+  "polled_at_utc": "2026-10-08T22:30:30.855588+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-08_06_30PM.pdf",
+  "report_ts": "10/08/26 06:30 PM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -65,7 +65,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-10-08T22:15:29.364917+00:00"
+      "last_updated": "2026-10-08T22:30:30.855588+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -335,7 +335,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Left Hand; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-10-08T22:15:29.364917+00:00"
+      "last_updated": "2026-10-08T22:30:30.855588+00:00"
     },
     {
       "name": "Maria TorontoTempo Conde",
@@ -441,7 +441,7 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-10-08T22:15:29.364917+00:00",
+      "last_submitted_ts": "2026-10-08T22:30:30.855588+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "ATL@NYL"
@@ -584,7 +584,7 @@
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
       "last_submitted_ts": "2026-09-20T03:45:52.082459+00:00",
-      "last_seen_pending_ts": "2026-10-08T22:15:29.364917+00:00",
+      "last_seen_pending_ts": "2026-10-08T22:30:30.855588+00:00",
       "matchups": [
         "SEA@GSV"
       ],
@@ -694,7 +694,7 @@
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
       "last_submitted_ts": "2026-10-08T03:45:24.526472+00:00",
-      "last_seen_pending_ts": "2026-10-08T22:15:29.364917+00:00",
+      "last_seen_pending_ts": "2026-10-08T22:30:30.855588+00:00",
       "matchups": [
         "LVA@GSV"
       ],
