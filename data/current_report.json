@@ -1,65 +1,46 @@
 {
-  "report_ts": "10/07/26 11:45 PM",
+  "report_ts": "10/08/26 12:00 AM",
   "page_count": 1,
-  "raw_line_count": 5,
+  "raw_line_count": 4,
   "teams": [
     {
       "team_full": "Atlanta Dream",
       "team_abbr": "ATL",
-      "game_date": "10/07/2026",
+      "game_date": "10/09/2026",
       "game_time": "07:30(ET)",
-      "matchup": "NYL@ATL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Gray, Allisha",
-          "name": "Allisha Gray",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Hand; N/A",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Jones, Brionna",
-          "name": "Brionna Jones",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Leg; N/A",
-          "reason_category": "injury"
-        }
-      ]
+      "matchup": "ATL@NYL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "New York Liberty",
+      "team_abbr": "NYL",
+      "game_date": "10/09/2026",
+      "game_time": "07:30(ET)",
+      "matchup": "ATL@NYL",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Golden State Valkyries",
+      "team_abbr": "GSV",
+      "game_date": "10/09/2026",
+      "game_time": "09:30(ET)",
+      "matchup": "GSV@LVA",
+      "submitted": false,
+      "players": []
     },
     {
       "team_full": "Las Vegas Aces",
       "team_abbr": "LVA",
-      "game_date": "10/07/2026",
+      "game_date": "10/09/2026",
       "game_time": "09:30(ET)",
-      "matchup": "LVA@GSV",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Evans, Dana",
-          "name": "Dana Evans",
-          "status": "Available",
-          "reason": "Injury/Illness - Right Knee; injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Loyd, Jewell",
-          "name": "Jewell Loyd",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Leg; injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Talbot, Stephanie",
-          "name": "Stephanie Talbot",
-          "status": "Available",
-          "reason": "Injury/Illness - Left Leg; injury",
-          "reason_category": "injury"
-        }
-      ]
+      "matchup": "GSV@LVA",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-07_11_45PM.pdf",
-  "fetched_slot": "2026-10-07T23:45:00-04:00",
-  "polled_at_utc": "2026-10-08T03:45:24.526472+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-08_12_00AM.pdf",
+  "fetched_slot": "2026-10-08T00:00:00-04:00",
+  "polled_at_utc": "2026-10-08T04:00:24.539661+00:00"
 }
