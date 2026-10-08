@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-10-08T12:15:21.570707+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-08_08_15AM.pdf",
-  "report_ts": "10/08/26 08:15 AM",
+  "polled_at_utc": "2026-10-08T12:30:24.055397+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-08_08_30AM.pdf",
+  "report_ts": "10/08/26 08:30 AM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -442,7 +442,7 @@
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
       "last_submitted_ts": "2026-10-08T03:45:24.526472+00:00",
-      "last_seen_pending_ts": "2026-10-08T12:15:21.570707+00:00",
+      "last_seen_pending_ts": "2026-10-08T12:30:24.055397+00:00",
       "matchups": [
         "NYL@ATL"
       ],
@@ -584,7 +584,7 @@
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
       "last_submitted_ts": "2026-09-20T03:45:52.082459+00:00",
-      "last_seen_pending_ts": "2026-10-08T12:15:21.570707+00:00",
+      "last_seen_pending_ts": "2026-10-08T12:30:24.055397+00:00",
       "matchups": [
         "SEA@GSV"
       ],
@@ -694,7 +694,7 @@
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
       "last_submitted_ts": "2026-10-08T03:45:24.526472+00:00",
-      "last_seen_pending_ts": "2026-10-08T12:15:21.570707+00:00",
+      "last_seen_pending_ts": "2026-10-08T12:30:24.055397+00:00",
       "matchups": [
         "LVA@GSV"
       ],
@@ -744,7 +744,7 @@
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
       "last_submitted_ts": "2026-10-05T04:00:41.902209+00:00",
-      "last_seen_pending_ts": "2026-10-08T12:15:21.570707+00:00",
+      "last_seen_pending_ts": "2026-10-08T12:30:24.055397+00:00",
       "matchups": [
         "NYL@ATL"
       ],
