@@ -1,24 +1,5 @@
 [
   {
-    "ts": "2026-06-11T00:15:42.556854+00:00",
-    "type": "status_change",
-    "team_abbr": "LVA",
-    "player": "Chennedy Carter",
-    "from_status": "Out",
-    "to_status": "Questionable",
-    "reason": "Injury/Illness - Left Leg; leftleg",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-11T01:15:44.338444+00:00",
-    "type": "added",
-    "team_abbr": "LAS",
-    "player": "Kate Martin",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
     "ts": "2026-06-11T01:15:44.338444+00:00",
     "type": "status_change",
     "team_abbr": "LAS",
@@ -17998,6 +17979,26 @@
     "from_status": "Questionable",
     "to_status": "Probable",
     "reason": "Injury/Illness - Left Leg; injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-10-08T01:00:26.258339+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Stephanie Talbot",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Left Leg; injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-10-08T01:00:26.258339+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Dana Evans",
+    "from_status": "Probable",
+    "to_status": "Available",
+    "reason": "Injury/Illness - Right Knee; injury",
     "reason_category": "injury"
   }
 ]
