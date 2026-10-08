@@ -1,15 +1,5 @@
 [
   {
-    "ts": "2026-06-11T01:15:44.338444+00:00",
-    "type": "status_change",
-    "team_abbr": "LAS",
-    "player": "Laura Ziegler",
-    "from_status": "Available",
-    "to_status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
     "ts": "2026-06-11T16:31:11.013755+00:00",
     "type": "status_change",
     "team_abbr": "DAL",
@@ -17999,6 +17989,16 @@
     "from_status": "Probable",
     "to_status": "Available",
     "reason": "Injury/Illness - Right Knee; injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-10-08T21:00:28.206008+00:00",
+    "type": "status_change",
+    "team_abbr": "ATL",
+    "player": "Allisha Gray",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Hand; N/A",
     "reason_category": "injury"
   }
 ]

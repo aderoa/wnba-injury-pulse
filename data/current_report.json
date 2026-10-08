@@ -1,5 +1,5 @@
 {
-  "report_ts": "10/08/26 04:45 PM",
+  "report_ts": "10/08/26 05:00 PM",
   "page_count": 1,
   "raw_line_count": 4,
   "teams": [
@@ -9,17 +9,23 @@
       "game_date": "10/09/2026",
       "game_time": "07:30(ET)",
       "matchup": "ATL@NYL",
-      "submitted": false,
-      "players": []
-    },
-    {
-      "team_full": "New York Liberty",
-      "team_abbr": "NYL",
-      "game_date": "10/09/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "ATL@NYL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Gray, Allisha",
+          "name": "Allisha Gray",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Hand; N/A",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Jones, Brionna",
+          "name": "Brionna Jones",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Leg; N/A",
+          "reason_category": "injury"
+        }
+      ]
     },
     {
       "team_full": "Golden State Valkyries",
@@ -40,7 +46,7 @@
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-08_04_45PM.pdf",
-  "fetched_slot": "2026-10-08T16:45:00-04:00",
-  "polled_at_utc": "2026-10-08T20:45:31.424384+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-08_05_00PM.pdf",
+  "fetched_slot": "2026-10-08T17:00:00-04:00",
+  "polled_at_utc": "2026-10-08T21:00:28.206008+00:00"
 }

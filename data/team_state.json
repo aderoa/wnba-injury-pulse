@@ -117,24 +117,24 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-10-08T20:45:31.424384+00:00"
+    "last_seen_pending_ts": "2026-10-08T21:00:28.206008+00:00"
   },
   "ATL": {
     "team_full": "Atlanta Dream",
     "submitted": true,
-    "last_submitted_ts": "2026-10-08T03:45:24.526472+00:00",
-    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-07_11_45PM.pdf",
+    "last_submitted_ts": "2026-10-08T21:00:28.206008+00:00",
+    "last_submitted_report_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-08_05_00PM.pdf",
     "game_dates": [
-      "10/07/2026"
+      "10/09/2026"
     ],
     "matchups": [
-      "NYL@ATL"
+      "ATL@NYL"
     ],
     "players": [
       {
         "name_last_first": "Gray, Allisha",
         "name": "Allisha Gray",
-        "status": "Out",
+        "status": "Questionable",
         "reason": "Injury/Illness - Left Hand; N/A",
         "reason_category": "injury"
       },
@@ -145,8 +145,7 @@
         "reason": "Injury/Illness - Left Leg; N/A",
         "reason_category": "injury"
       }
-    ],
-    "last_seen_pending_ts": "2026-10-08T20:45:31.424384+00:00"
+    ]
   },
   "MIN": {
     "team_full": "Minnesota Lynx",
@@ -487,7 +486,7 @@
         "reason_category": "injury"
       }
     ],
-    "last_seen_pending_ts": "2026-10-08T20:45:31.424384+00:00"
+    "last_seen_pending_ts": "2026-10-08T21:00:28.206008+00:00"
   },
   "LAS": {
     "team_full": "Los Angeles Sparks",
