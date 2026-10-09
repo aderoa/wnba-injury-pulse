@@ -4,6 +4,12 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-10-09 00:00 UTC
+
+- **Dana Evans** (LVA) cleared (was Available)
+- **Jewell Loyd** (LVA): **Out** → **Questionable** — Injury/Illness - Left Leg; Injury
+- **Stephanie Talbot** (LVA): **Available** → **Questionable** — Injury/Illness - Left Leg; Injury
+
 ## 2026-10-08 21:00 UTC
 
 - **Allisha Gray** (ATL): **Out** → **Questionable** — Injury/Illness - Left Hand; N/A

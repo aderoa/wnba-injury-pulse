@@ -1,5 +1,5 @@
 {
-  "report_ts": "10/08/26 07:45 PM",
+  "report_ts": "10/08/26 08:00 PM",
   "page_count": 1,
   "raw_line_count": 4,
   "teams": [
@@ -28,25 +28,31 @@
       ]
     },
     {
-      "team_full": "Golden State Valkyries",
-      "team_abbr": "GSV",
-      "game_date": "10/09/2026",
-      "game_time": "09:30(ET)",
-      "matchup": "GSV@LVA",
-      "submitted": false,
-      "players": []
-    },
-    {
       "team_full": "Las Vegas Aces",
       "team_abbr": "LVA",
       "game_date": "10/09/2026",
       "game_time": "09:30(ET)",
       "matchup": "GSV@LVA",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Loyd, Jewell",
+          "name": "Jewell Loyd",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Leg; Injury",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Talbot, Stephanie",
+          "name": "Stephanie Talbot",
+          "status": "Questionable",
+          "reason": "Injury/Illness - Left Leg; Injury",
+          "reason_category": "injury"
+        }
+      ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-08_07_45PM.pdf",
-  "fetched_slot": "2026-10-08T19:45:00-04:00",
-  "polled_at_utc": "2026-10-08T23:58:46.759518+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-08_08_00PM.pdf",
+  "fetched_slot": "2026-10-08T20:00:00-04:00",
+  "polled_at_utc": "2026-10-09T00:00:12.038600+00:00"
 }

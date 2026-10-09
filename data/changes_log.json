@@ -1,35 +1,5 @@
 [
   {
-    "ts": "2026-06-11T16:31:11.013755+00:00",
-    "type": "status_change",
-    "team_abbr": "DAL",
-    "player": "Awak Kuier",
-    "from_status": "Probable",
-    "to_status": "Available",
-    "reason": "Injury/Illness - Right Wrist; n/a",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-11T20:46:00.184194+00:00",
-    "type": "status_change",
-    "team_abbr": "IND",
-    "player": "Caitlin Clark",
-    "from_status": "Probable",
-    "to_status": "Available",
-    "reason": "-",
-    "reason_category": "other"
-  },
-  {
-    "ts": "2026-06-11T20:46:00.184194+00:00",
-    "type": "status_change",
-    "team_abbr": "IND",
-    "player": "Sophie Cunningham",
-    "from_status": "Questionable",
-    "to_status": "Out",
-    "reason": "Injury/Illness - Right Elbow; Elbow",
-    "reason_category": "injury"
-  },
-  {
     "ts": "2026-06-11T21:01:15.922837+00:00",
     "type": "added",
     "team_abbr": "PDX",
@@ -17999,6 +17969,34 @@
     "from_status": "Out",
     "to_status": "Questionable",
     "reason": "Injury/Illness - Left Hand; N/A",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-10-09T00:00:12.038600+00:00",
+    "type": "cleared",
+    "team_abbr": "LVA",
+    "player": "Dana Evans",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Right Knee; injury"
+  },
+  {
+    "ts": "2026-10-09T00:00:12.038600+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Jewell Loyd",
+    "from_status": "Out",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Leg; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-10-09T00:00:12.038600+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Stephanie Talbot",
+    "from_status": "Available",
+    "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Leg; Injury",
     "reason_category": "injury"
   }
 ]
