@@ -3,15 +3,6 @@
     "ts": "2026-06-11T21:01:15.922837+00:00",
     "type": "added",
     "team_abbr": "PDX",
-    "player": "Kiki Rice",
-    "status": "Out",
-    "reason": "Injury/Illness - Left Ankle; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-11T21:01:15.922837+00:00",
-    "type": "added",
-    "team_abbr": "PDX",
     "player": "Nyara Sabally",
     "status": "Questionable",
     "reason": "Injury/Illness - Right Hamstring; Injury",
@@ -17998,6 +17989,16 @@
     "from_status": "Questionable",
     "to_status": "Probable",
     "reason": "Injury/Illness - Left Leg; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-10-09T22:15:17.738449+00:00",
+    "type": "status_change",
+    "team_abbr": "ATL",
+    "player": "Allisha Gray",
+    "from_status": "Questionable",
+    "to_status": "Out",
+    "reason": "Injury/Illness - Left Hand; N/A",
     "reason_category": "injury"
   }
 ]
