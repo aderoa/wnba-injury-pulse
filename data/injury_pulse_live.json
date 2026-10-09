@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-10-09T18:49:33.935418+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-09_02_45PM.pdf",
-  "report_ts": "10/09/26 02:45 PM",
+  "polled_at_utc": "2026-10-09T19:00:25.391832+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-09_03_00PM.pdf",
+  "report_ts": "10/09/26 03:00 PM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -65,7 +65,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-10-09T18:49:33.935418+00:00"
+      "last_updated": "2026-10-09T19:00:25.391832+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -326,7 +326,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Left Hand; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-10-09T18:49:33.935418+00:00"
+      "last_updated": "2026-10-09T19:00:25.391832+00:00"
     },
     {
       "name": "Jewell Loyd",
@@ -335,7 +335,7 @@
       "status": "Questionable",
       "reason": "Injury/Illness - Left Leg; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-10-09T18:49:33.935418+00:00"
+      "last_updated": "2026-10-09T19:00:25.391832+00:00"
     },
     {
       "name": "Maria TorontoTempo Conde",
@@ -350,10 +350,10 @@
       "name": "Stephanie Talbot",
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
-      "status": "Questionable",
+      "status": "Probable",
       "reason": "Injury/Illness - Left Leg; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-10-09T18:49:33.935418+00:00"
+      "last_updated": "2026-10-09T19:00:25.391832+00:00"
     },
     {
       "name": "Aliyah Boston",
@@ -432,7 +432,7 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-10-09T18:49:33.935418+00:00",
+      "last_submitted_ts": "2026-10-09T19:00:25.391832+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "ATL@NYL"
@@ -684,7 +684,7 @@
     {
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
-      "last_submitted_ts": "2026-10-09T18:49:33.935418+00:00",
+      "last_submitted_ts": "2026-10-09T19:00:25.391832+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "GSV@LVA"
@@ -700,7 +700,7 @@
         {
           "name_last_first": "Talbot, Stephanie",
           "name": "Stephanie Talbot",
-          "status": "Questionable",
+          "status": "Probable",
           "reason": "Injury/Illness - Left Leg; Injury",
           "reason_category": "injury"
         }
@@ -915,6 +915,16 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-10-09T19:00:25.391832+00:00",
+      "type": "status_change",
+      "team_abbr": "LVA",
+      "player": "Stephanie Talbot",
+      "from_status": "Questionable",
+      "to_status": "Probable",
+      "reason": "Injury/Illness - Left Leg; Injury",
+      "reason_category": "injury"
+    },
     {
       "ts": "2026-10-09T00:00:12.038600+00:00",
       "type": "status_change",
@@ -3174,16 +3184,6 @@
       "to_status": "Out",
       "reason": "Injury/Illness - Left Knee;-",
       "reason_category": "injury"
-    },
-    {
-      "ts": "2026-09-17T21:30:53.339553+00:00",
-      "type": "status_change",
-      "team_abbr": "CON",
-      "player": "Leila Lacan",
-      "from_status": "Questionable",
-      "to_status": "Out",
-      "reason": "Rest--",
-      "reason_category": "other"
     }
   ]
 }

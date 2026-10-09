@@ -3,15 +3,6 @@
     "ts": "2026-06-11T21:01:15.922837+00:00",
     "type": "added",
     "team_abbr": "PDX",
-    "player": "Temi TorontoTempo Fagbenle",
-    "status": "Probable",
-    "reason": "Injury/Illness - Right Shoulder; Injury",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-11T21:01:15.922837+00:00",
-    "type": "added",
-    "team_abbr": "PDX",
     "player": "Kiki Rice",
     "status": "Out",
     "reason": "Injury/Illness - Left Ankle; Injury",
@@ -17996,6 +17987,16 @@
     "player": "Stephanie Talbot",
     "from_status": "Available",
     "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Leg; Injury",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-10-09T19:00:25.391832+00:00",
+    "type": "status_change",
+    "team_abbr": "LVA",
+    "player": "Stephanie Talbot",
+    "from_status": "Questionable",
+    "to_status": "Probable",
     "reason": "Injury/Illness - Left Leg; Injury",
     "reason_category": "injury"
   }
