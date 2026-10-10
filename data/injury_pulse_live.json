@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-10-10T02:21:19.600192+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-09_10_15PM.pdf",
-  "report_ts": "10/09/26 10:15 PM",
+  "polled_at_utc": "2026-10-10T02:30:17.736913+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-09_10_30PM.pdf",
+  "report_ts": "10/09/26 10:30 PM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -38,7 +38,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Hand; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-10-10T02:21:19.600192+00:00"
+      "last_updated": "2026-10-10T02:30:17.736913+00:00"
     },
     {
       "name": "AnastasiiaOlairi Kosu",
@@ -74,7 +74,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-10-10T02:21:19.600192+00:00"
+      "last_updated": "2026-10-10T02:30:17.736913+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -398,7 +398,7 @@
       "status": "Available",
       "reason": "Injury/Illness - Left Leg; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-10-10T02:21:19.600192+00:00"
+      "last_updated": "2026-10-10T02:30:17.736913+00:00"
     },
     {
       "name": "Jordan Harrison",
@@ -416,7 +416,7 @@
       "status": "Available",
       "reason": "Injury/Illness - Left Leg; Injury",
       "reason_category": "injury",
-      "last_updated": "2026-10-10T02:21:19.600192+00:00"
+      "last_updated": "2026-10-10T02:30:17.736913+00:00"
     },
     {
       "name": "Xu Han",
@@ -432,7 +432,7 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-10-10T02:21:19.600192+00:00",
+      "last_submitted_ts": "2026-10-10T02:30:17.736913+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "ATL@NYL"
@@ -684,7 +684,7 @@
     {
       "team_abbr": "LVA",
       "team_full": "Las Vegas Aces",
-      "last_submitted_ts": "2026-10-10T02:21:19.600192+00:00",
+      "last_submitted_ts": "2026-10-10T02:30:17.736913+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "GSV@LVA"
