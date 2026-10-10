@@ -1,58 +1,28 @@
 {
-  "report_ts": "10/09/26 11:45 PM",
+  "report_ts": "10/10/26 12:00 AM",
   "page_count": 1,
-  "raw_line_count": 4,
+  "raw_line_count": 2,
   "teams": [
     {
-      "team_full": "Atlanta Dream",
-      "team_abbr": "ATL",
-      "game_date": "10/09/2026",
-      "game_time": "07:30(ET)",
-      "matchup": "ATL@NYL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Gray, Allisha",
-          "name": "Allisha Gray",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Hand; N/A",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Jones, Brionna",
-          "name": "Brionna Jones",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Leg; N/A",
-          "reason_category": "injury"
-        }
-      ]
+      "team_full": "Golden State Valkyries",
+      "team_abbr": "GSV",
+      "game_date": "10/11/2026",
+      "game_time": "03:30(ET)",
+      "matchup": "GSV@LVA",
+      "submitted": false,
+      "players": []
     },
     {
       "team_full": "Las Vegas Aces",
       "team_abbr": "LVA",
-      "game_date": "10/09/2026",
-      "game_time": "09:30(ET)",
+      "game_date": "10/11/2026",
+      "game_time": "03:30(ET)",
       "matchup": "GSV@LVA",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Loyd, Jewell",
-          "name": "Jewell Loyd",
-          "status": "Available",
-          "reason": "Injury/Illness - Left Leg; Injury",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Talbot, Stephanie",
-          "name": "Stephanie Talbot",
-          "status": "Available",
-          "reason": "Injury/Illness - Left Leg; Injury",
-          "reason_category": "injury"
-        }
-      ]
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-09_11_45PM.pdf",
-  "fetched_slot": "2026-10-09T23:45:00-04:00",
-  "polled_at_utc": "2026-10-10T03:45:16.197365+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-10_12_00AM.pdf",
+  "fetched_slot": "2026-10-10T00:00:00-04:00",
+  "polled_at_utc": "2026-10-10T04:00:14.948271+00:00"
 }
