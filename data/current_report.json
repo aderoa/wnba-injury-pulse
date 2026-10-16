@@ -1,28 +1,28 @@
 {
-  "report_ts": "10/10/26 12:00 AM",
+  "report_ts": "10/16/26 12:15 AM",
   "page_count": 1,
   "raw_line_count": 2,
   "teams": [
     {
-      "team_full": "Golden State Valkyries",
-      "team_abbr": "GSV",
-      "game_date": "10/11/2026",
+      "team_full": "Atlanta Dream",
+      "team_abbr": "ATL",
+      "game_date": "10/17/2026",
       "game_time": "03:30(ET)",
-      "matchup": "GSV@LVA",
+      "matchup": "ATL@GSV",
       "submitted": false,
       "players": []
     },
     {
-      "team_full": "Las Vegas Aces",
-      "team_abbr": "LVA",
-      "game_date": "10/11/2026",
+      "team_full": "Golden State Valkyries",
+      "team_abbr": "GSV",
+      "game_date": "10/17/2026",
       "game_time": "03:30(ET)",
-      "matchup": "GSV@LVA",
+      "matchup": "ATL@GSV",
       "submitted": false,
       "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-10_12_00AM.pdf",
-  "fetched_slot": "2026-10-10T00:00:00-04:00",
-  "polled_at_utc": "2026-10-10T04:15:18.319186+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-16_12_15AM.pdf",
+  "fetched_slot": "2026-10-16T00:15:00-04:00",
+  "polled_at_utc": "2026-10-16T04:16:17.145256+00:00"
 }
