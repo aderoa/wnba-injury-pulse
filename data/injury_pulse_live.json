@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-10-16T23:56:57.941323+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-16_07_45PM.pdf",
-  "report_ts": "10/16/26 07:45 PM",
+  "polled_at_utc": "2026-10-17T00:01:09.270929+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-16_08_00PM.pdf",
+  "report_ts": "10/16/26 08:00 PM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -30,15 +30,6 @@
       "reason": "Injury/Illness - Left Leg; lowerleftleg",
       "reason_category": "injury",
       "last_updated": "2026-10-03T03:46:02.294670+00:00"
-    },
-    {
-      "name": "Allisha Gray",
-      "team_abbr": "ATL",
-      "team_full": "Atlanta Dream",
-      "status": "Out",
-      "reason": "Injury/Illness - Left Hand; N/A",
-      "reason_category": "injury",
-      "last_updated": "2026-10-10T03:45:16.197365+00:00"
     },
     {
       "name": "AnastasiiaOlairi Kosu",
@@ -74,7 +65,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-10-10T03:45:16.197365+00:00"
+      "last_updated": "2026-10-17T00:01:09.270929+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -329,6 +320,15 @@
       "last_updated": "2026-09-24T02:16:12.213597+00:00"
     },
     {
+      "name": "Allisha Gray",
+      "team_abbr": "ATL",
+      "team_full": "Atlanta Dream",
+      "status": "Questionable",
+      "reason": "Injury/Illness - Left Hand; N/A",
+      "reason_category": "injury",
+      "last_updated": "2026-10-17T00:01:09.270929+00:00"
+    },
+    {
       "name": "Maria TorontoTempo Conde",
       "team_abbr": "SEA",
       "team_full": "Seattle Storm",
@@ -432,16 +432,16 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-10-10T03:45:16.197365+00:00",
-      "last_seen_pending_ts": "2026-10-16T23:56:57.941323+00:00",
+      "last_submitted_ts": "2026-10-17T00:01:09.270929+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "ATL@NYL"
+        "ATL@GSV"
       ],
       "players": [
         {
           "name_last_first": "Gray, Allisha",
           "name": "Allisha Gray",
-          "status": "Out",
+          "status": "Questionable",
           "reason": "Injury/Illness - Left Hand; N/A",
           "reason_category": "injury"
         },
@@ -915,6 +915,16 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-10-17T00:01:09.270929+00:00",
+      "type": "status_change",
+      "team_abbr": "ATL",
+      "player": "Allisha Gray",
+      "from_status": "Out",
+      "to_status": "Questionable",
+      "reason": "Injury/Illness - Left Hand; N/A",
+      "reason_category": "injury"
+    },
     {
       "ts": "2026-10-10T01:00:19.916644+00:00",
       "type": "status_change",
@@ -3179,14 +3189,6 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach"
-    },
-    {
-      "ts": "2026-09-17T22:00:53.797965+00:00",
-      "type": "cleared",
-      "team_abbr": "MIN",
-      "player": "Courtney Williams",
-      "previous_status": "Available",
-      "previous_reason": "Injury/Illness - Right Foot; Right Foot"
     }
   ]
 }
