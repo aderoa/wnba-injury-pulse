@@ -1,14 +1,5 @@
 [
   {
-    "ts": "2026-06-11T21:46:02.168984+00:00",
-    "type": "added",
-    "team_abbr": "IND",
-    "player": "Justine Pissott",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
     "ts": "2026-06-11T22:01:04.596257+00:00",
     "type": "added",
     "team_abbr": "ATL",
@@ -18002,6 +17993,16 @@
     "player": "Allisha Gray",
     "from_status": "Out",
     "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Hand; N/A",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-10-17T19:01:10.087265+00:00",
+    "type": "status_change",
+    "team_abbr": "ATL",
+    "player": "Allisha Gray",
+    "from_status": "Questionable",
+    "to_status": "Available",
     "reason": "Injury/Illness - Left Hand; N/A",
     "reason_category": "injury"
   }
