@@ -1,14 +1,5 @@
 [
   {
-    "ts": "2026-06-11T22:01:04.596257+00:00",
-    "type": "added",
-    "team_abbr": "ATL",
-    "player": "Amy Okonkwo",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
     "ts": "2026-06-11T22:16:02.807908+00:00",
     "type": "added",
     "team_abbr": "NYL",
@@ -18005,5 +17996,13 @@
     "to_status": "Available",
     "reason": "Injury/Illness - Left Hand; N/A",
     "reason_category": "injury"
+  },
+  {
+    "ts": "2026-10-19T00:00:40.177648+00:00",
+    "type": "cleared",
+    "team_abbr": "ATL",
+    "player": "Allisha Gray",
+    "previous_status": "Available",
+    "previous_reason": "Injury/Illness - Left Hand; N/A"
   }
 ]

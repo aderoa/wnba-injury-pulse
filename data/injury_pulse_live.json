@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-10-18T23:45:41.821091+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-18_07_45PM.pdf",
-  "report_ts": "10/18/26 07:45 PM",
+  "polled_at_utc": "2026-10-19T00:00:40.177648+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-18_08_00PM.pdf",
+  "report_ts": "10/18/26 08:00 PM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -65,7 +65,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-10-18T03:46:10.546661+00:00"
+      "last_updated": "2026-10-19T00:00:40.177648+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -338,15 +338,6 @@
       "last_updated": "2026-10-02T02:46:02.554165+00:00"
     },
     {
-      "name": "Allisha Gray",
-      "team_abbr": "ATL",
-      "team_full": "Atlanta Dream",
-      "status": "Available",
-      "reason": "Injury/Illness - Left Hand; N/A",
-      "reason_category": "injury",
-      "last_updated": "2026-10-18T03:46:10.546661+00:00"
-    },
-    {
       "name": "Awak Kuier",
       "team_abbr": "DAL",
       "team_full": "Dallas Wings",
@@ -432,19 +423,12 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-10-18T03:46:10.546661+00:00",
-      "last_seen_pending_ts": "2026-10-18T23:45:41.821091+00:00",
+      "last_submitted_ts": "2026-10-19T00:00:40.177648+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
         "ATL@GSV"
       ],
       "players": [
-        {
-          "name_last_first": "Gray, Allisha",
-          "name": "Allisha Gray",
-          "status": "Available",
-          "reason": "Injury/Illness - Left Hand; N/A",
-          "reason_category": "injury"
-        },
         {
           "name_last_first": "Jones, Brionna",
           "name": "Brionna Jones",
@@ -915,6 +899,14 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-10-19T00:00:40.177648+00:00",
+      "type": "cleared",
+      "team_abbr": "ATL",
+      "player": "Allisha Gray",
+      "previous_status": "Available",
+      "previous_reason": "Injury/Illness - Left Hand; N/A"
+    },
     {
       "ts": "2026-10-17T19:01:10.087265+00:00",
       "type": "status_change",
@@ -3181,15 +3173,6 @@
       "to_status": "Out",
       "reason": "Injury/Illness - Right Thumb;-",
       "reason_category": "injury"
-    },
-    {
-      "ts": "2026-09-17T22:45:54.356070+00:00",
-      "type": "added",
-      "team_abbr": "CON",
-      "player": "Rayah Marshall",
-      "status": "Out",
-      "reason": "Coach's Decision",
-      "reason_category": "rest_coach"
     }
   ]
 }
