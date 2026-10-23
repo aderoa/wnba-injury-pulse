@@ -1,28 +1,27 @@
 {
-  "report_ts": "10/23/26 04:45 PM",
+  "report_ts": "10/23/26 05:00 PM",
   "page_count": 1,
-  "raw_line_count": 2,
+  "raw_line_count": 1,
   "teams": [
-    {
-      "team_full": "Golden State Valkyries",
-      "team_abbr": "GSV",
-      "game_date": "10/24/2026",
-      "game_time": "01:00(ET)",
-      "matchup": "GSV@ATL",
-      "submitted": false,
-      "players": []
-    },
     {
       "team_full": "Atlanta Dream",
       "team_abbr": "ATL",
       "game_date": "10/24/2026",
       "game_time": "01:00(ET)",
       "matchup": "GSV@ATL",
-      "submitted": false,
-      "players": []
+      "submitted": true,
+      "players": [
+        {
+          "name_last_first": "Jones, Brionna",
+          "name": "Brionna Jones",
+          "status": "Out",
+          "reason": "Injury/Illness - Left Leg; N/A",
+          "reason_category": "injury"
+        }
+      ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-23_04_45PM.pdf",
-  "fetched_slot": "2026-10-23T16:45:00-04:00",
-  "polled_at_utc": "2026-10-23T20:45:42.542416+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-23_05_00PM.pdf",
+  "fetched_slot": "2026-10-23T17:00:00-04:00",
+  "polled_at_utc": "2026-10-23T21:00:44.607986+00:00"
 }
