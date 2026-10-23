@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-10-23T22:46:02.652877+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-23_06_45PM.pdf",
-  "report_ts": "10/23/26 06:45 PM",
+  "polled_at_utc": "2026-10-23T23:00:39.808523+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-23_07_00PM.pdf",
+  "report_ts": "10/23/26 07:00 PM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -65,7 +65,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-10-23T22:46:02.652877+00:00"
+      "last_updated": "2026-10-23T23:00:39.808523+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -423,7 +423,7 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-10-23T22:46:02.652877+00:00",
+      "last_submitted_ts": "2026-10-23T23:00:39.808523+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "GSV@ATL"
