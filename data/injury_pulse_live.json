@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-10-25T21:46:12.609080+00:00",
+  "polled_at_utc": "2026-10-25T21:59:56.001198+00:00",
   "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-25_05_45PM.pdf",
   "report_ts": "10/25/26 05:45 PM",
   "all_players": [
@@ -424,7 +424,7 @@
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
       "last_submitted_ts": "2026-10-25T03:45:44.416964+00:00",
-      "last_seen_pending_ts": "2026-10-25T21:46:12.609080+00:00",
+      "last_seen_pending_ts": "2026-10-25T21:59:56.001198+00:00",
       "matchups": [
         "GSV@ATL"
       ],
@@ -559,7 +559,7 @@
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
       "last_submitted_ts": "2026-09-20T03:45:52.082459+00:00",
-      "last_seen_pending_ts": "2026-10-25T21:46:12.609080+00:00",
+      "last_seen_pending_ts": "2026-10-25T21:59:56.001198+00:00",
       "matchups": [
         "SEA@GSV"
       ],
