@@ -1,23 +1,5 @@
 [
   {
-    "ts": "2026-06-11T22:16:02.807908+00:00",
-    "type": "added",
-    "team_abbr": "NYL",
-    "player": "Anneli Maley",
-    "status": "Out",
-    "reason": "Coach's Decision - Developmental Player",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-06-11T22:31:01.793375+00:00",
-    "type": "added",
-    "team_abbr": "CHI",
-    "player": "Maddy Westbeld",
-    "status": "Out",
-    "reason": "Coach's Decision",
-    "reason_category": "rest_coach"
-  },
-  {
     "ts": "2026-06-12T00:01:05.114629+00:00",
     "type": "reason_change",
     "team_abbr": "SEA",
@@ -18004,5 +17986,24 @@
     "player": "Allisha Gray",
     "previous_status": "Available",
     "previous_reason": "Injury/Illness - Left Hand; N/A"
+  },
+  {
+    "ts": "2026-10-28T21:00:24.364595+00:00",
+    "type": "added",
+    "team_abbr": "ATL",
+    "player": "Te-Hina Paopao",
+    "status": "Questionable",
+    "reason": "Injury/Illness - Left Leg; N/A",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-10-28T21:00:24.364595+00:00",
+    "type": "reason_change",
+    "team_abbr": "ATL",
+    "player": "Brionna Jones",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Left Leg; N/A",
+    "to_reason": "Injury/Illness - Leftleg; N/A",
+    "reason_category": "injury"
   }
 ]

@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-10-28T20:45:26.686675+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-28_04_45PM.pdf",
-  "report_ts": "10/28/26 04:45 PM",
+  "polled_at_utc": "2026-10-28T21:00:24.364595+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-28_05_00PM.pdf",
+  "report_ts": "10/28/26 05:00 PM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -63,9 +63,9 @@
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
       "status": "Out",
-      "reason": "Injury/Illness - Left Leg; N/A",
+      "reason": "Injury/Illness - Leftleg; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-10-27T04:00:40.217890+00:00"
+      "last_updated": "2026-10-28T21:00:24.364595+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -329,6 +329,15 @@
       "last_updated": "2026-09-24T02:16:12.213597+00:00"
     },
     {
+      "name": "Te-Hina Paopao",
+      "team_abbr": "ATL",
+      "team_full": "Atlanta Dream",
+      "status": "Questionable",
+      "reason": "Injury/Illness - Left Leg; N/A",
+      "reason_category": "injury",
+      "last_updated": "2026-10-28T21:00:24.364595+00:00"
+    },
+    {
       "name": "Aliyah Boston",
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
@@ -423,16 +432,23 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-10-27T04:00:40.217890+00:00",
-      "last_seen_pending_ts": "2026-10-28T20:45:26.686675+00:00",
+      "last_submitted_ts": "2026-10-28T21:00:24.364595+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "ATL@GSV"
+        "GSV@ATL"
       ],
       "players": [
         {
           "name_last_first": "Jones, Brionna",
           "name": "Brionna Jones",
           "status": "Out",
+          "reason": "Injury/Illness - Leftleg; N/A",
+          "reason_category": "injury"
+        },
+        {
+          "name_last_first": "Paopao, Te-Hina",
+          "name": "Te-Hina Paopao",
+          "status": "Questionable",
           "reason": "Injury/Illness - Left Leg; N/A",
           "reason_category": "injury"
         }
@@ -899,6 +915,25 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-10-28T21:00:24.364595+00:00",
+      "type": "reason_change",
+      "team_abbr": "ATL",
+      "player": "Brionna Jones",
+      "status": "Out",
+      "from_reason": "Injury/Illness - Left Leg; N/A",
+      "to_reason": "Injury/Illness - Leftleg; N/A",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-10-28T21:00:24.364595+00:00",
+      "type": "added",
+      "team_abbr": "ATL",
+      "player": "Te-Hina Paopao",
+      "status": "Questionable",
+      "reason": "Injury/Illness - Left Leg; N/A",
+      "reason_category": "injury"
+    },
     {
       "ts": "2026-10-19T00:00:40.177648+00:00",
       "type": "cleared",
@@ -3155,24 +3190,6 @@
       "player": "Aaliyah Nye",
       "previous_status": "Out",
       "previous_reason": "Not With Team"
-    },
-    {
-      "ts": "2026-09-17T22:45:54.356070+00:00",
-      "type": "cleared",
-      "team_abbr": "LAS",
-      "player": "Emma Cannon",
-      "previous_status": "Available",
-      "previous_reason": "-"
-    },
-    {
-      "ts": "2026-09-17T22:45:54.356070+00:00",
-      "type": "status_change",
-      "team_abbr": "CON",
-      "player": "Diamond Miller",
-      "from_status": "Questionable",
-      "to_status": "Out",
-      "reason": "Injury/Illness - Right Thumb;-",
-      "reason_category": "injury"
     }
   ]
 }
