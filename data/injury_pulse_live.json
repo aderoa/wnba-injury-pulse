@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-10-30T07:45:22.927296+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-30_03_45AM.pdf",
-  "report_ts": "10/30/26 03:45 AM",
+  "polled_at_utc": "2026-10-30T08:00:24.091578+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-30_04_00AM.pdf",
+  "report_ts": "10/30/26 04:00 AM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -433,7 +433,7 @@
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
       "last_submitted_ts": "2026-10-30T03:45:26.006066+00:00",
-      "last_seen_pending_ts": "2026-10-30T07:45:22.927296+00:00",
+      "last_seen_pending_ts": "2026-10-30T08:00:24.091578+00:00",
       "matchups": [
         "GSV@ATL"
       ],
@@ -575,7 +575,7 @@
       "team_abbr": "GSV",
       "team_full": "Golden State Valkyries",
       "last_submitted_ts": "2026-09-20T03:45:52.082459+00:00",
-      "last_seen_pending_ts": "2026-10-30T07:45:22.927296+00:00",
+      "last_seen_pending_ts": "2026-10-30T08:00:24.091578+00:00",
       "matchups": [
         "SEA@GSV"
       ],
