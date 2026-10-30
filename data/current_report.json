@@ -1,34 +1,28 @@
 {
-  "report_ts": "10/29/26 11:45 PM",
+  "report_ts": "10/30/26 12:00 AM",
   "page_count": 1,
   "raw_line_count": 2,
   "teams": [
     {
       "team_full": "Atlanta Dream",
       "team_abbr": "ATL",
-      "game_date": "10/29/2026",
-      "game_time": "12:30(ET)",
-      "matchup": "GSV@ATL",
-      "submitted": true,
-      "players": [
-        {
-          "name_last_first": "Jones, Brionna",
-          "name": "Brionna Jones",
-          "status": "Out",
-          "reason": "Injury/Illness - Leftleg; N/A",
-          "reason_category": "injury"
-        },
-        {
-          "name_last_first": "Paopao, Te-Hina",
-          "name": "Te-Hina Paopao",
-          "status": "Out",
-          "reason": "Injury/Illness - Left Leg; N/A",
-          "reason_category": "injury"
-        }
-      ]
+      "game_date": "10/31/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "ATL@GSV",
+      "submitted": false,
+      "players": []
+    },
+    {
+      "team_full": "Golden State Valkyries",
+      "team_abbr": "GSV",
+      "game_date": "10/31/2026",
+      "game_time": "08:00(ET)",
+      "matchup": "ATL@GSV",
+      "submitted": false,
+      "players": []
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-29_11_45PM.pdf",
-  "fetched_slot": "2026-10-29T23:45:00-04:00",
-  "polled_at_utc": "2026-10-30T03:45:26.006066+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-30_12_00AM.pdf",
+  "fetched_slot": "2026-10-30T00:00:00-04:00",
+  "polled_at_utc": "2026-10-30T04:00:24.814122+00:00"
 }
