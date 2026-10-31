@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-10-31T22:45:24.199084+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-31_06_45PM.pdf",
-  "report_ts": "10/31/26 06:45 PM",
+  "polled_at_utc": "2026-10-31T23:00:22.918233+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-31_07_00PM.pdf",
+  "report_ts": "10/31/26 07:00 PM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -65,7 +65,7 @@
       "status": "Out",
       "reason": "Injury/Illness - Left Leg; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-10-31T22:45:24.199084+00:00"
+      "last_updated": "2026-10-31T23:00:22.918233+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -329,15 +329,6 @@
       "last_updated": "2026-09-24T02:16:12.213597+00:00"
     },
     {
-      "name": "Te-Hina Paopao",
-      "team_abbr": "ATL",
-      "team_full": "Atlanta Dream",
-      "status": "Questionable",
-      "reason": "Injury/Illness - Left Leg; N/A",
-      "reason_category": "injury",
-      "last_updated": "2026-10-31T22:45:24.199084+00:00"
-    },
-    {
       "name": "Aliyah Boston",
       "team_abbr": "IND",
       "team_full": "Indiana Fever",
@@ -419,6 +410,15 @@
       "last_updated": "2026-10-10T03:45:16.197365+00:00"
     },
     {
+      "name": "Te-Hina Paopao",
+      "team_abbr": "ATL",
+      "team_full": "Atlanta Dream",
+      "status": "Available",
+      "reason": "Injury/Illness - Left Leg; N/A",
+      "reason_category": "injury",
+      "last_updated": "2026-10-31T23:00:22.918233+00:00"
+    },
+    {
       "name": "Xu Han",
       "team_abbr": "NYL",
       "team_full": "New York Liberty",
@@ -432,7 +432,7 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-10-31T22:45:24.199084+00:00",
+      "last_submitted_ts": "2026-10-31T23:00:22.918233+00:00",
       "last_seen_pending_ts": null,
       "matchups": [
         "ATL@GSV"
@@ -448,7 +448,7 @@
         {
           "name_last_first": "Paopao, Te-Hina",
           "name": "Te-Hina Paopao",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Left Leg; N/A",
           "reason_category": "injury"
         }
@@ -915,6 +915,16 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-10-31T23:00:22.918233+00:00",
+      "type": "status_change",
+      "team_abbr": "ATL",
+      "player": "Te-Hina Paopao",
+      "from_status": "Questionable",
+      "to_status": "Available",
+      "reason": "Injury/Illness - Left Leg; N/A",
+      "reason_category": "injury"
+    },
     {
       "ts": "2026-10-31T00:00:24.710839+00:00",
       "type": "status_change",
@@ -3184,16 +3194,6 @@
       "status": "Out",
       "reason": "Coach's Decision",
       "reason_category": "rest_coach"
-    },
-    {
-      "ts": "2026-09-17T23:30:52.362483+00:00",
-      "type": "status_change",
-      "team_abbr": "WAS",
-      "player": "Georgia Amoore",
-      "from_status": "Questionable",
-      "to_status": "Available",
-      "reason": "Injury/Illness - Right Knee; Soreness",
-      "reason_category": "injury"
     }
   ]
 }

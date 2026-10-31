@@ -1,5 +1,5 @@
 {
-  "report_ts": "10/31/26 06:45 PM",
+  "report_ts": "10/31/26 07:00 PM",
   "page_count": 1,
   "raw_line_count": 2,
   "teams": [
@@ -21,14 +21,14 @@
         {
           "name_last_first": "Paopao, Te-Hina",
           "name": "Te-Hina Paopao",
-          "status": "Questionable",
+          "status": "Available",
           "reason": "Injury/Illness - Left Leg; N/A",
           "reason_category": "injury"
         }
       ]
     }
   ],
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-31_06_45PM.pdf",
-  "fetched_slot": "2026-10-31T18:45:00-04:00",
-  "polled_at_utc": "2026-10-31T22:45:24.199084+00:00"
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-31_07_00PM.pdf",
+  "fetched_slot": "2026-10-31T19:00:00-04:00",
+  "polled_at_utc": "2026-10-31T23:00:22.918233+00:00"
 }

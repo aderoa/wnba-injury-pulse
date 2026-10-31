@@ -1,16 +1,6 @@
 [
   {
     "ts": "2026-06-12T00:16:02.253724+00:00",
-    "type": "reason_change",
-    "team_abbr": "PHX",
-    "player": "Sami Whitcomb",
-    "status": "Out",
-    "from_reason": "Injury/Illness - Left Knee; Arthroscopy",
-    "to_reason": "Player Injury/Illness - Left Knee;",
-    "reason_category": "injury"
-  },
-  {
-    "ts": "2026-06-12T00:16:02.253724+00:00",
     "type": "status_change",
     "team_abbr": "LVA",
     "player": "Chennedy Carter",
@@ -18005,6 +17995,16 @@
     "player": "Te-Hina Paopao",
     "from_status": "Out",
     "to_status": "Questionable",
+    "reason": "Injury/Illness - Left Leg; N/A",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-10-31T23:00:22.918233+00:00",
+    "type": "status_change",
+    "team_abbr": "ATL",
+    "player": "Te-Hina Paopao",
+    "from_status": "Questionable",
+    "to_status": "Available",
     "reason": "Injury/Illness - Left Leg; N/A",
     "reason_category": "injury"
   }
