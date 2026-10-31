@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "polled_at_utc": "2026-10-30T23:49:01.543600+00:00",
-  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-30_07_45PM.pdf",
-  "report_ts": "10/30/26 07:45 PM",
+  "polled_at_utc": "2026-10-31T00:00:24.710839+00:00",
+  "fetched_url": "https://ak-static.cms.nba.com/referee/wnba_injury/Injury-Report_2026-10-30_08_00PM.pdf",
+  "report_ts": "10/30/26 08:00 PM",
   "all_players": [
     {
       "name": "Aaliyah Nye",
@@ -63,9 +63,9 @@
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
       "status": "Out",
-      "reason": "Injury/Illness - Leftleg; N/A",
+      "reason": "Injury/Illness - Left Leg; N/A",
       "reason_category": "injury",
-      "last_updated": "2026-10-30T03:45:26.006066+00:00"
+      "last_updated": "2026-10-31T00:00:24.710839+00:00"
     },
     {
       "name": "Brittney Griner",
@@ -284,15 +284,6 @@
       "last_updated": "2026-09-24T02:16:12.213597+00:00"
     },
     {
-      "name": "Te-Hina Paopao",
-      "team_abbr": "ATL",
-      "team_full": "Atlanta Dream",
-      "status": "Out",
-      "reason": "Injury/Illness - Left Leg; N/A",
-      "reason_category": "injury",
-      "last_updated": "2026-10-30T03:45:26.006066+00:00"
-    },
-    {
       "name": "Teja Oblak",
       "team_abbr": "PDX",
       "team_full": "Portland Fire",
@@ -336,6 +327,15 @@
       "reason": "Injury/Illness - Back; Injury",
       "reason_category": "injury",
       "last_updated": "2026-09-24T02:16:12.213597+00:00"
+    },
+    {
+      "name": "Te-Hina Paopao",
+      "team_abbr": "ATL",
+      "team_full": "Atlanta Dream",
+      "status": "Questionable",
+      "reason": "Injury/Illness - Left Leg; N/A",
+      "reason_category": "injury",
+      "last_updated": "2026-10-31T00:00:24.710839+00:00"
     },
     {
       "name": "Aliyah Boston",
@@ -432,23 +432,23 @@
     {
       "team_abbr": "ATL",
       "team_full": "Atlanta Dream",
-      "last_submitted_ts": "2026-10-30T03:45:26.006066+00:00",
-      "last_seen_pending_ts": "2026-10-30T23:49:01.543600+00:00",
+      "last_submitted_ts": "2026-10-31T00:00:24.710839+00:00",
+      "last_seen_pending_ts": null,
       "matchups": [
-        "GSV@ATL"
+        "ATL@GSV"
       ],
       "players": [
         {
           "name_last_first": "Jones, Brionna",
           "name": "Brionna Jones",
           "status": "Out",
-          "reason": "Injury/Illness - Leftleg; N/A",
+          "reason": "Injury/Illness - Left Leg; N/A",
           "reason_category": "injury"
         },
         {
           "name_last_first": "Paopao, Te-Hina",
           "name": "Te-Hina Paopao",
-          "status": "Out",
+          "status": "Questionable",
           "reason": "Injury/Illness - Left Leg; N/A",
           "reason_category": "injury"
         }
@@ -915,6 +915,26 @@
     }
   ],
   "recent_changes": [
+    {
+      "ts": "2026-10-31T00:00:24.710839+00:00",
+      "type": "status_change",
+      "team_abbr": "ATL",
+      "player": "Te-Hina Paopao",
+      "from_status": "Out",
+      "to_status": "Questionable",
+      "reason": "Injury/Illness - Left Leg; N/A",
+      "reason_category": "injury"
+    },
+    {
+      "ts": "2026-10-31T00:00:24.710839+00:00",
+      "type": "reason_change",
+      "team_abbr": "ATL",
+      "player": "Brionna Jones",
+      "status": "Out",
+      "from_reason": "Injury/Illness - Leftleg; N/A",
+      "to_reason": "Injury/Illness - Left Leg; N/A",
+      "reason_category": "injury"
+    },
     {
       "ts": "2026-10-29T15:45:27.083977+00:00",
       "type": "status_change",
@@ -3174,24 +3194,6 @@
       "to_status": "Available",
       "reason": "Injury/Illness - Right Knee; Soreness",
       "reason_category": "injury"
-    },
-    {
-      "ts": "2026-09-17T22:45:54.356070+00:00",
-      "type": "reason_change",
-      "team_abbr": "LAS",
-      "player": "Ndjakalenga Mwenentanda",
-      "status": "Out",
-      "from_reason": "Not With Team",
-      "to_reason": "Coach's Decision - Coach\u2019sdecision",
-      "reason_category": "rest_coach"
-    },
-    {
-      "ts": "2026-09-17T22:45:54.356070+00:00",
-      "type": "cleared",
-      "team_abbr": "LAS",
-      "player": "Shyanne Sellers",
-      "previous_status": "Out",
-      "previous_reason": "Not With Team"
     }
   ]
 }

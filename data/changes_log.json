@@ -1,24 +1,6 @@
 [
   {
     "ts": "2026-06-12T00:16:02.253724+00:00",
-    "type": "added",
-    "team_abbr": "PHX",
-    "player": "Marta Suarez",
-    "status": "Out",
-    "reason": "Coach's Decision - Developmental",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-06-12T00:16:02.253724+00:00",
-    "type": "added",
-    "team_abbr": "PHX",
-    "player": "Kiana Williams",
-    "status": "Out",
-    "reason": "Arthroscopy Coach's Decision - Developmental Player",
-    "reason_category": "rest_coach"
-  },
-  {
-    "ts": "2026-06-12T00:16:02.253724+00:00",
     "type": "reason_change",
     "team_abbr": "PHX",
     "player": "Sami Whitcomb",
@@ -18003,6 +17985,26 @@
     "player": "Te-Hina Paopao",
     "from_status": "Questionable",
     "to_status": "Out",
+    "reason": "Injury/Illness - Left Leg; N/A",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-10-31T00:00:24.710839+00:00",
+    "type": "reason_change",
+    "team_abbr": "ATL",
+    "player": "Brionna Jones",
+    "status": "Out",
+    "from_reason": "Injury/Illness - Leftleg; N/A",
+    "to_reason": "Injury/Illness - Left Leg; N/A",
+    "reason_category": "injury"
+  },
+  {
+    "ts": "2026-10-31T00:00:24.710839+00:00",
+    "type": "status_change",
+    "team_abbr": "ATL",
+    "player": "Te-Hina Paopao",
+    "from_status": "Out",
+    "to_status": "Questionable",
     "reason": "Injury/Illness - Left Leg; N/A",
     "reason_category": "injury"
   }

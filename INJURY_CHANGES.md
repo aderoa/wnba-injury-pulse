@@ -4,6 +4,11 @@ Auto-updated by the injury-pulse workflow. Newest entries at the top. Tracks the
 
 Per-team state is preserved when a team is absent from the current report (no game today or tomorrow). A 'cleared' event only fires when the team is submitting an updated report and the player isn't on it.
 
+## 2026-10-31 00:00 UTC
+
+- **Brionna Jones** (ATL, Out): reason updated (Injury/Illness - Leftleg; N/A → Injury/Illness - Left Leg; N/A)
+- **Te-Hina Paopao** (ATL): **Out** → **Questionable** — Injury/Illness - Left Leg; N/A
+
 ## 2026-10-29 15:45 UTC
 
 - **Te-Hina Paopao** (ATL): **Questionable** → **Out** — Injury/Illness - Left Leg; N/A
